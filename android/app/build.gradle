@@ -1,10 +1,11 @@
 buildscript {
     repositories {
-//        mavenCentral()
         jcenter()
+        mavenCentral()
+        google()
     }
     dependencies {
-        classpath 'me.tatarka:gradle-retrolambda:3.6.0'
+        classpath 'me.tatarka:gradle-retrolambda:3.7.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlinVersion}"
     }
 
@@ -16,6 +17,7 @@ apply plugin: 'com.android.application'
 apply plugin: 'me.tatarka.retrolambda'
 apply plugin: 'com.f2prateek.javafmt'
 apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-kapt'
 
 dependencies {
     compile 'com.android.support:multidex:1.0.1'
@@ -39,6 +41,7 @@ dependencies {
     compile "android.arch.lifecycle:runtime:${archComponentsVersion}"
     compile "android.arch.lifecycle:extensions:${archComponentsVersion}"
     kapt  "android.arch.lifecycle:compiler:${archComponentsVersion}"
+    compile "org.team619.rutor:api:1.0"
 
     // ----------------------------------
     //  Rx dependencies
@@ -73,6 +76,11 @@ android {
         versionCode 2
         versionName "1.2"
         multiDexEnabled true
+        javaCompileOptions {
+            annotationProcessorOptions {
+                includeCompileClasspath true
+            }
+        }
     }
     buildTypes {
         release {

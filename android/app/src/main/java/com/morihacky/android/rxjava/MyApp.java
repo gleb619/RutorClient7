@@ -4,6 +4,11 @@ import android.support.multidex.MultiDexApplication;
 import com.morihacky.android.rxjava.volley.MyVolley;
 import com.squareup.leakcanary.LeakCanary;
 import com.squareup.leakcanary.RefWatcher;
+
+import org.team619.rutor.model.Group;
+
+import java.util.ArrayList;
+
 import timber.log.Timber;
 
 public class MyApp extends MultiDexApplication {
@@ -22,6 +27,9 @@ public class MyApp extends MultiDexApplication {
   @Override
   public void onCreate() {
     super.onCreate();
+
+    Group test = new Group("", new ArrayList<>());
+    System.out.println("MyApp.onCreate#test: " + test);
 
     if (LeakCanary.isInAnalyzerProcess(this)) {
       // This process is dedicated to LeakCanary for heap analysis.

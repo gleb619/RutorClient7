@@ -1,34 +1,39 @@
+import HomePage from './pages/home.vue';
+import AboutPage from './pages/about.vue';
+import FormPage from './pages/form.vue';
+import DynamicRoutePage from './pages/dynamic-route.vue';
+import NotFoundPage from './pages/not-found.vue';
+
+import PanelLeftPage from './pages/panel-left.vue';
+import PanelRightPage from './pages/panel-right.vue';
+
 export default [
   {
     path: '/',
-    component: require('./assets/vue/pages/home.vue')
-  },
-  {
-    path: '/about/',
-    component: require('./assets/vue/pages/about.vue')
-  },
-  {
-    path: '/form/',
-    component: require('./assets/vue/pages/form.vue')
-  },
-  {
-    path: '/dynamic-route/blog/:blogId/post/:postId/',
-    component: require('./assets/vue/pages/dynamic-route.vue')
+    component: HomePage,
   },
   {
     path: '/panel-left/',
-    component: require('./assets/vue/pages/panel-left.vue')
+    component: PanelLeftPage,
   },
   {
-    path: '/color-themes/',
-    component: require('./assets/vue/pages/color-themes.vue')
+    path: '/panel-right/',
+    component: PanelRightPage,
   },
   {
-    path: '/chat/',
-    component: require('./assets/vue/pages/chat.vue')
+    path: '/about/',
+    component: AboutPage,
   },
   {
-    path: '/vuex/',
-    component: require('./assets/vue/pages/vuex.vue')
+    path: '/form/',
+    component: FormPage,
   },
-]
+  {
+    path: '/dynamic-route/blog/:blogId/post/:postId/',
+    component: DynamicRoutePage,
+  },
+  {
+    path: '(.*)',
+    component: NotFoundPage,
+  },
+];
