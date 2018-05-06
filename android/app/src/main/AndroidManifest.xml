@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.morihacky.android.rxjava"
+    package="org.team619.rutor"
     >
 
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <application
-        android:name=".MyApp"
+        android:name="org.team619.rutor.MyApp"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
         >
         <activity
-            android:name="com.morihacky.android.rxjava.MainActivity"
+            android:name="org.team619.rutor.MainActivity"
             android:label="@string/app_name"
             >
             <intent-filter>
