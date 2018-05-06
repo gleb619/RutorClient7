@@ -35,8 +35,8 @@ public abstract class RowConverter extends DefaultConverter {
             List<Element> downloadInfoDetails = torrentRow.get(torrentRowIndex++).getElementsByTag(Constants.SPAN);
             if (downloadInfoDetails.size() >= Constants.SIZE_HAS_TOPICS) {
                 int downloadInfoDetailsIndex = 0;
-                row.setSeeds(parseInteger(downloadInfoDetails.get(downloadInfoDetailsIndex++).text()))
-                        .setPeers(parseInteger(downloadInfoDetails.get(downloadInfoDetailsIndex++).text()));
+                row.setSeeds(parseInteger(downloadInfoDetails.get(downloadInfoDetailsIndex++).text()));
+                row.setPeers(parseInteger(downloadInfoDetails.get(downloadInfoDetailsIndex++).text()));
             }
         }
 
@@ -50,12 +50,12 @@ public abstract class RowConverter extends DefaultConverter {
         if (captionDetails.size() >= Constants.SIZE_CAPTION) {
             int captionDetailsIndex = 0;
 
-            row.setDownloadUrl(captionDetails.get(captionDetailsIndex++).attr(Constants.HREF))
-                    .setId(parseId(row.getDownloadUrl()))
-                    .setMagnetUrl(captionDetails.get(captionDetailsIndex++).attr(Constants.HREF))
-                    .setDetailUrl(captionDetails.get(captionDetailsIndex).attr(Constants.HREF))
-                    .setFileName(parseTorrentName(captionDetails.get(captionDetailsIndex).attr(Constants.HREF)))
-                    .setCaption(parseCaption(captionDetails.get(captionDetailsIndex++).text()));
+            row.setDownloadUrl(captionDetails.get(captionDetailsIndex++).attr(Constants.HREF));
+            row.setId(parseId(row.getDownloadUrl()));
+            row.setMagnetUrl(captionDetails.get(captionDetailsIndex++).attr(Constants.HREF));
+            row.setDetailUrl(captionDetails.get(captionDetailsIndex).attr(Constants.HREF));
+            row.setFileName(parseTorrentName(captionDetails.get(captionDetailsIndex).attr(Constants.HREF)));
+            row.setCaption(parseCaption(captionDetails.get(captionDetailsIndex++).text()));
         }
 
         return torrentRowIndex;

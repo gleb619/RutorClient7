@@ -1,4 +1,4 @@
-package org.team619.rutor.model.core;
+package org.team619.rutor.core;
 
 import java.io.Serializable;
 

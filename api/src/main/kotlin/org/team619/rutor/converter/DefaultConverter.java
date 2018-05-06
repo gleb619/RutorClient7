@@ -1,11 +1,9 @@
 package org.team619.rutor.converter;
 
-import org.jsoup.Jsoup;
 import org.team619.rutor.core.Logger;
 import org.team619.rutor.model.Caption;
 
 import java.io.Serializable;
-import java.util.Collection;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -14,61 +12,10 @@ import java.util.regex.Pattern;
  */
 public class DefaultConverter {
 
-    private final String TAG = DefaultConverter.class.getName() + ":";
-
     protected Logger logger;
 
     public DefaultConverter(Logger logger) {
         this.logger = logger;
-    }
-
-    protected String readFromFile(String fileName) {
-        return "";
-    }
-
-    public Boolean escapeHtmlCheck(String input) {
-        return escapeHtmlNonEmpty(input).length() > 0;
-    }
-
-    public String escapeHtmlNonEmpty(String input) {
-        return escapeHtml(input).replaceAll(Patterns.ALL_SPACES, "");
-    }
-
-    public Boolean isNull(Object input) {
-        return input == null;
-    }
-
-    public Boolean isNotNull(Object input) {
-        return input != null;
-    }
-
-    public Boolean isNotNull(String input) {
-        return (input != null && input.replaceAll(Patterns.ALL_SPACES, "").length() > 0);
-    }
-
-    public Boolean isNotNull(Collection<?> input) {
-        return (input != null && input.size() > 0);
-    }
-
-    public Boolean isNotNullAndEquals(Collection<?> input, int size) {
-        return (isNotNull(input) && input.size() == size);
-    }
-
-    public Boolean isNotNullAndNotLess(Collection<?> input, int size) {
-        return (isNotNull(input) && input.size() >= size);
-    }
-
-    public Boolean isNotNullAndNotMore(Collection<?> input, int size) {
-        return (isNotNull(input) && input.size() <= size);
-    }
-
-    public String escapeHtml(String input) {
-        if (input == null) {
-            input = "";
-        }
-        input = Jsoup.parse(input).text();
-
-        return input;
     }
 
     public String parseString(String input) {
@@ -108,21 +55,6 @@ public class DefaultConverter {
         return output;
     }
 
-    public double parseDouble(String input) {
-        double output = 0;
-        if (input == null) {
-            input = "";
-        }
-        input = input.replaceAll(Patterns.ONLY_NUMBERS, "");
-        try {
-            output = Double.parseDouble(input);
-        } catch (NumberFormatException e) {
-            logger.error("ERROR: " + e.getMessage());
-        }
-
-        return output;
-    }
-
     public Caption parseCaption(String input) {
         Caption output;
         if (input == null) {
@@ -142,7 +74,7 @@ public class DefaultConverter {
                 output = new Caption(parseStringClear(input));
             }
         } catch (Exception e) {
-            logger.error("ERROR: ", e);
+            logger.error(e, "ERROR: ");
             output = new Caption(input);
         }
 
@@ -163,7 +95,7 @@ public class DefaultConverter {
                 output = parseStringClear(input);
             }
         } catch (Exception e) {
-            logger.error("ERROR: ", e);
+            logger.error(e, "ERROR: ");
             output = input;
         }
 

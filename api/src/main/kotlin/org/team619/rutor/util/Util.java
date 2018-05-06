@@ -5,12 +5,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class AppUtil {
-
-    private static final String TAG = AppUtil.class.getName() + ":";
+public class Util {
 
     public static <T> List<List<T>> batch(List<T> source, int length) {
-        if (length <= 0) throw new IllegalArgumentException("length = " + length);
         int size = source.size();
         if (size <= 0) return new ArrayList<>();
         int fullChunks = (size - 1) / length;

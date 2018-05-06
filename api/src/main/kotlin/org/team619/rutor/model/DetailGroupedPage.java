@@ -1,6 +1,6 @@
 package org.team619.rutor.model;
 
-import org.team619.rutor.model.core.DefaultEntity;
+import org.team619.rutor.core.DefaultEntity;
 
 import java.util.List;
 

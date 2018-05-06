@@ -3,8 +3,8 @@ package org.team619.rutor.converter;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import org.team619.rutor.core.Logger;
 import org.team619.rutor.core.Converter;
+import org.team619.rutor.core.Logger;
 import org.team619.rutor.model.MainPlainPage;
 import org.team619.rutor.model.Row;
 
@@ -18,8 +18,6 @@ import java.util.stream.Stream;
  * Created by BORIS on 07.08.2016.
  */
 public class MainPagePlainConverter extends RowConverter implements Converter<MainPlainPage, Document> {
-
-    private static final String TAG = MainPagePlainConverter.class.getName() + ":";
 
     public MainPagePlainConverter(Logger logger) {
         super(logger);

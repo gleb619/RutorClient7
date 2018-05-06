@@ -2,14 +2,13 @@ package org.team619.rutor.converter;
 
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import org.team619.rutor.core.Logger;
 import org.team619.rutor.core.Converter;
+import org.team619.rutor.core.Logger;
 import org.team619.rutor.model.Comment;
-import org.team619.rutor.util.AppUtil;
+import org.team619.rutor.util.Util;
 
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 
 /**
@@ -23,7 +22,7 @@ public class CommentConverter extends DefaultConverter implements Converter<List
 
     @Override
     public List<Comment> convert(Elements rawComments) {
-        List<List<Element>> parts = AppUtil.batch(rawComments, 3);
+        List<List<Element>> parts = Util.batch(rawComments, 3);
         List<Comment> comments = parseComments(parts);
 
         return comments;
@@ -43,7 +42,7 @@ public class CommentConverter extends DefaultConverter implements Converter<List
                     String creationDate = tds.get(index++).text();
                     String mark = parseInteger(tds.get(index++).toString()).toString();
                     String commentId = tds.get(index++).getElementsByTag("span").first().attr("id");
-                    String text = body.getElementsByTag("td").html().toString();
+                    String text = body.getElementsByTag("td").html();
 
                     return new Comment(commentId, userName, creationDate, mark, text);
                 })
