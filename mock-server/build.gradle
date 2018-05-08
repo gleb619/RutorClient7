@@ -1,0 +1,25 @@
+apply plugin: 'groovy'
+apply plugin: 'application'
+
+version = '1.0'
+mainClassName='Test'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+	compile 'org.codehaus.groovy:groovy-all:2.4.15'
+    compile 'com.sparkjava:spark-core:2.7.1'
+	
+	testCompile 'junit:junit:4.12'
+}
+
+task uberjar(type: Jar,dependsOn:[':compileJava',':compileGroovy']) {
+    from files(sourceSets.main.output.classesDir)
+    from configurations.runtime.asFileTree.files.collect { zipTree(it) }
+
+    manifest {
+        attributes 'Main-Class': mainClassName
+    }
+}
