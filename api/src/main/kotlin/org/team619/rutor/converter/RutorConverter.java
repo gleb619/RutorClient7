@@ -6,6 +6,7 @@ import org.team619.rutor.core.Converter;
 import org.team619.rutor.core.DefaultEntity;
 import org.team619.rutor.core.Logger;
 
+import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
@@ -36,6 +37,18 @@ public class RutorConverter implements Converter<DefaultEntity, InputStream> {
                     .map(converter -> converter.convert(document))
                     .orElse(null);
         } catch (IOException e) {
+            logger.error(e, "Can't read document");
+        }
+
+        return output;
+    }
+
+    public DefaultEntity convert(String text) {
+        DefaultEntity output = null;
+        byte[] bytes = text.getBytes(StandardCharsets.UTF_8);
+        try(InputStream stream = new ByteArrayInputStream(bytes)) {
+            output = convert(stream);
+        } catch (Exception e) {
             logger.error(e, "Can't read document");
         }
 

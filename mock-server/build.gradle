@@ -5,12 +5,15 @@ version = '1.0'
 mainClassName='Test'
 
 repositories {
+    mavenLocal()
     mavenCentral()
 }
 
 dependencies {
 	compile 'org.codehaus.groovy:groovy-all:2.4.15'
+    compile 'org.codehaus.gpars:gpars:1.2.1'
     compile 'com.sparkjava:spark-core:2.7.1'
+    compile 'org.team619.rutor:api:1.0'
 	
 	testCompile 'junit:junit:4.12'
 }
