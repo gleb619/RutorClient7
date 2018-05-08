@@ -1,11 +1,11 @@
 package org.team619.rutor.model
 
-import org.team619.rutor.core.DefaultEntity
+import org.team619.rutor.core.Page
 
 /**
  * Created by BORIS on 07.08.2016.
  */
-class Caption : DefaultEntity {
+class Caption : Page {
 
     val adaptedName: String
     val name: String

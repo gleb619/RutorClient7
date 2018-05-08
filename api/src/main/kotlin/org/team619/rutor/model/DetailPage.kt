@@ -1,6 +1,6 @@
 package org.team619.rutor.model
 
-import org.team619.rutor.core.DefaultEntity
+import org.team619.rutor.core.Page
 import java.util.*
 
 /**
@@ -14,7 +14,7 @@ data class DetailPage(
         , val body: String = ""
         , val details: String = ""
         , val bounded: List<Row> = ArrayList()
-        , val comments: List<Comment> = ArrayList()) : DefaultEntity {
+        , val comments: List<Comment> = ArrayList()) : Page {
 
     override fun toString(): String {
         return "DetailPage(id='$id', name='$name', fileName='$fileName', link='$link', details='$details', bounded=$bounded, comments=$comments)"

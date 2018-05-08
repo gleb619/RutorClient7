@@ -8,7 +8,7 @@ import org.team619.rutor.core.Logger
 import org.team619.rutor.model.BlankElement
 import org.team619.rutor.model.BlankElements
 import org.team619.rutor.model.DetailPage
-import java.io.Serializable
+import org.team619.rutor.util.Util
 import java.util.*
 
 /**
@@ -73,7 +73,7 @@ class DetailPageConverter(
         val mainContent = htmlBody.select(Selectors.CONTENT).first()
 
         val mainLink = parseElement(htmlBody.select(Selectors.TOPIC_ID).first())
-        val id = Integer.toString(parseId(mainLink.attr("href").toString()))
+        val id = Integer.toString(Util.parseId(mainLink.attr("href").toString()))
         val selfLink = mainLink.attr("href")
         val table = mainContent.select(Selectors.MAIN_TABLE).first()
 
@@ -111,7 +111,8 @@ class DetailPageConverter(
                 , comments = commentsContent)
     }
 
-    interface Selectors : Serializable {
+    interface Selectors {
+
         companion object {
 
             const val HEADER = "#all > h1"
@@ -130,6 +131,7 @@ class DetailPageConverter(
             const val PROTOCOL_HTTP = "http://"
             const val EXTENSION = ".html"
         }
+
     }
 
 }

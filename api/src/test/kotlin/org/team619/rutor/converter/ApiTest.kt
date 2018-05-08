@@ -1,4 +1,4 @@
-package starter.kotlin
+package org.team619.rutor.converter
 
 import org.assertj.core.api.Assertions.assertThat
 import org.assertj.core.api.Assertions.fail
@@ -6,9 +6,10 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.junit.Before
 import org.junit.Test
-import org.team619.rutor.converter.*
 import org.team619.rutor.core.Logger
 import org.team619.rutor.model.DetailPage
+import org.team619.rutor.model.MainGroupedPage
+import org.team619.rutor.model.MainPlainPage
 import org.team619.rutor.model.Row
 import java.nio.file.Files
 import java.nio.file.Paths
@@ -16,11 +17,19 @@ import java.nio.file.Paths
 class ApiTest {
 
     lateinit var logger: Logger
+    lateinit var mainPagePlainConverter: MainPagePlainConverter
+    lateinit var mainPageGroupedConverter: MainPageGroupedConverter
+    lateinit var detailPageConverter: DetailPageConverter
+    lateinit var cardConverter: CardConverter
+    lateinit var commentConverter: CommentConverter
+    lateinit var rutorConverter: RutorConverter
+
     lateinit var docPlain: Document
     lateinit var docGrouped: Document
     lateinit var docDetail: Document
-    lateinit var cardConverter: CardConverter
-    lateinit var commentConverter: CommentConverter
+    lateinit var resultContentPlain: String
+    lateinit var resultContentGrouped: String
+    lateinit var resultContentDetail: String
 
     lateinit var awaitedRow1: Row
     lateinit var awaitedRow2: Row
@@ -31,13 +40,14 @@ class ApiTest {
         val plainPath = ClassLoader.getSystemResource("plain.html").toURI()
         val groupedPath = ClassLoader.getSystemResource("grouped.html").toURI()
         val detailPath = ClassLoader.getSystemResource("detail.html").toURI()
-        val contentPlain = String(Files.readAllBytes(Paths.get(plainPath)))
-        val contentGrouped = String(Files.readAllBytes(Paths.get(groupedPath)))
-        val contentDetail = String(Files.readAllBytes(Paths.get(detailPath)))
 
-        docPlain = Jsoup.parse(contentPlain)
-        docGrouped = Jsoup.parse(contentGrouped)
-        docDetail = Jsoup.parse(contentDetail)
+        resultContentPlain = String(Files.readAllBytes(Paths.get(plainPath)))
+        resultContentGrouped = String(Files.readAllBytes(Paths.get(groupedPath)))
+        resultContentDetail = String(Files.readAllBytes(Paths.get(detailPath)))
+
+        docPlain = Jsoup.parse(resultContentPlain)
+        docGrouped = Jsoup.parse(resultContentGrouped)
+        docDetail = Jsoup.parse(resultContentDetail)
 
         logger = object : Logger {
             override fun error(s: String) {
@@ -57,6 +67,12 @@ class ApiTest {
 
         cardConverter = CardConverter(logger)
         commentConverter = CommentConverter(logger)
+        mainPagePlainConverter = MainPagePlainConverter(logger)
+        mainPageGroupedConverter = MainPageGroupedConverter(logger)
+        detailPageConverter = DetailPageConverter(logger, cardConverter, commentConverter)
+        rutorConverter = RutorConverter(logger, "http://localhost",
+                listOf(mainPagePlainConverter, mainPageGroupedConverter, detailPageConverter))
+
         awaitedRow1 = DataSupplier.awaitedRow1
         awaitedRow2 = DataSupplier.awaitedRow2
         awaitedDetailPage = DataSupplier.awaitedDetailPage
@@ -64,7 +80,6 @@ class ApiTest {
 
     @Test
     fun testMainPlainPage() {
-        val mainPagePlainConverter = MainPagePlainConverter(logger)
         val result = mainPagePlainConverter.convert(docPlain)
         assertThat(result)
                 .isNotNull
@@ -75,7 +90,6 @@ class ApiTest {
 
     @Test
     fun testMainGroupedPage() {
-        val mainPageGroupedConverter = MainPageGroupedConverter(logger)
         val result = mainPageGroupedConverter.convert(docGrouped)
         assertThat(result.groups)
                 .isNotNull
@@ -90,7 +104,6 @@ class ApiTest {
 
     @Test
     fun testDetailPage() {
-        val detailPageConverter = DetailPageConverter(logger, cardConverter, commentConverter)
         val result = detailPageConverter.convert(docDetail)
         assertThat(result)
                 .isNotNull
@@ -98,6 +111,20 @@ class ApiTest {
         assertThat(result.body.substring(0..2550))
                 .isNotBlank()
                 .isEqualTo(awaitedDetailPage.body.substring(0..2550))
+
+    }
+
+    @Test
+    fun testAbstractConverter() {
+        val result = rutorConverter.convert(resultContentPlain)
+        val result2 = rutorConverter.convert(resultContentGrouped)
+
+        assertThat(result)
+                .isNotNull
+                .isInstanceOf(MainPlainPage::class.java)
+        assertThat(result2)
+                .isNotNull
+                .isInstanceOf(MainGroupedPage::class.java)
 
     }
 

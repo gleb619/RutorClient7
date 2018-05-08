@@ -46,31 +46,54 @@ class Server {
 
     private static void onGenerate() {
         println("Load plain and group")
-        def plain = loadExternal("")
-        def grouped = loadExternal("new")
-        def folder = new File("test")
-        def folderGrouped = new File("test/new")
+        def folder = new File("temp")
+        def folderGrouped = new File("temp/new")
         folder.delete()
         folder.mkdir()
         folderGrouped.delete()
         folderGrouped.mkdir()
-        new File("test/index.html").text = plain
-        new File("test/new/index.html").text = grouped
-        println("Generate folders")
+        println("Generated folders in: $folder.absolutePath")
+        def plain = loadExternal("")
+        def grouped = loadExternal("new")
+        new File("temp/index.html").text = plain
+        new File("temp/new/index.html").text = grouped
+        println("Downloaded main page")
 
-        Jsoup.parse(plain).select("#index > table > tbody > tr").drop(1)
+        Jsoup.parse(plain).select("#index > table > tbody > tr")
+                .drop(1)
                 .collectParallel({ element ->
-            [value: element.select("a[href*='/torrent/']").attr("href").split(/\//).drop(1)]
-        })
-                .collectParallel({
-            torrentPath ->
-                println("torrent: ${torrentPath.value[1]}/${torrentPath.value[2]}")
-                def localFolder = new File("${folder.getName()}/${torrentPath.value[0]}/${torrentPath.value[1]}")
-                localFolder.mkdirs()
-                def file = new File("${folder.getName()}/${localFolder.getName()}/${torrentPath.value[2]}")
-                file.text =
-                        loadExternal("${torrentPath.value[0]}/${torrentPath.value[1]}/${torrentPath.value[2]}")
-        })
+                    def link = element.select("a[href*='/torrent/']").attr("href").split(/\//).drop(1)
+                    println("Download page: ${link[2]}")
+                    def body
+                    try {
+                        body = loadExternal("${link[0]}/${link[1]}/${link[2]}")
+                    } catch (Exception e) {
+                        System.err.println("Error ${link[2]} => ${e.getMessage()}")
+                        body = ""
+                    }
+                    def output = [
+                            value: link,
+                            body: body
+                    ]
+                })
+                .findAll({
+                    it.body?.trim()
+                })
+                .collectParallel({ torrent ->
+                    try {
+                        println("Persist to file system: ${torrent.value[1]}/${torrent.value[2]}")
+                        def localFolder = new File("${folder.getName()}/${torrent.value[0]}/${torrent.value[1]}")
+                        def folderExist = localFolder.mkdirs()
+                        if(folderExist) {
+                            def file = new File("${folder.getName()}/${localFolder.getName()}/${torrent.value[2]}")
+                            file.text = torrent.body
+                        } else {
+                            System.err.println("Error $localFolder doesn't exist")
+                        }
+                    } catch (Exception e) {
+                        e.printStackTrace()
+                    }
+                })
     }
 
     private static String loadStatic(String id, String name) {
@@ -88,8 +111,13 @@ class Server {
     }
 
     private static String loadExternal(def url) {
-        new URL("http://rutor.info/$url")
-                .getText(
+        def sites = [
+                "http://new-rutor.org/",
+                "http://rutor.info",
+        ]
+        def path = sites[0] + "/$url"
+        println("\tGo to $path")
+        new URL(path).getText(
                 connectTimeout: 5000,
                 readTimeout: 10000,
                 useCaches: true,

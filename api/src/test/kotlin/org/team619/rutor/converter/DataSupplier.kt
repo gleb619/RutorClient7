@@ -1,4 +1,4 @@
-package starter.kotlin
+package org.team619.rutor.converter
 
 import org.team619.rutor.model.Caption
 import org.team619.rutor.model.Comment
