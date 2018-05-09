@@ -1,0 +1,378 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Battlezone Gold Edition [v1.08] (2017) PC | RePack от Other s</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Battlezone Gold Edition [v1.08] (2017) PC | RePack от Other s</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:872ba5e676149d43e7bad730272dc23b0deb508d&amp;dn=rutor.info_Battlezone+Gold+Edition+%5Bv1.08%5D+%282017%29+PC+%7C+RePack+%D0%BE%D1%82+Other+s&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630598"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630598"><img src="http://s.rutor.info/t/down.png"> Скачать Battlezone_Other_s.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i104.fastpic.ru/big/2018/0509/01/9d9afed16e024a5741ae2ab062cf9c01.jpg" style="float:right;" /><br />
+<br />
+<span style="font-family:georgia;"><b>Дата выхода</b>: 11 мая 2017 (1 мая 2018)<br />
+<b>Жанр</b>:  <a href="/tag/8/Action" target="_blank">Action</a>, <a href="/tag/8/Simulator" target="_blank">Simulator</a>, <a href="/tag/8/3D" target="_blank">3D</a><br />
+<b>Разработчик</b>: Rebellion<br />
+<b>Издатель</b>: Rebellion<br />
+<b>Версия</b>: 1.08<br />
+<b>Тип издания</b>: Repack<br />
+<b>Язык интерфейса</b>: Русский, Английский, Французский, Немецкий и другие<br />
+<b>Язык озвучки</b>: Английский<br />
+<b>Таблетка</b>: Вшита (Voksi)<br />
+<hr /><br />
+<b>Системные требования</b>:<br />
+<b>Операционная система</b>: Windows 7 SP1 (64-бит) и выше<br />
+<b>Процессор</b>: Intel i5-4590<br />
+<b>Оперативная память</b>: 8 Гб<br />
+<b>Видеокарта</b>: NVIDIA GTX 970 / AMD 290<br />
+<b>Место на диске</b>: 4 Гб<br />
+<b>Дополнительно</b>: Поддержка устройств VR<br />
+<hr /><br />
+<b>Описание</b>:<br />
+Запрыгните в кабину Кобры, – самого мощного танка на планете и погрузитесь в захватывающие танковые сражения посреди выжженных неоном футуристических пейзажей во взрывной кампании для 1-4 игроков. Оснастите свой танк широким спектром разрушительного оружия и модификаций, чтобы добраться до колоссального финала. Теперь вы можете покорять поля сражений на ПК, даже если у вас нет VR. Новая версия Battlezone Gold Edition включает саму игру, а также все вышедшие на данный момент дополнения.<br />
+<hr /><br />
+<br />
+<center>______________________________________________</center><br />
+<br />
+<center><a href="http://powerlogo.ru/show-image.php?id=18c2affb3c1c358407e37a179144a3d7" target="_blank"> <img src="http://powerlogo.ru/thumbnails/5c4828ddfc0c52b75e0383ebced807e3.jpg" /></a> <a href="http://powerlogo.ru/show-image.php?id=ca1e15e1aa1feebd7e24f4c9f8c13c16" target="_blank"> <img src="http://powerlogo.ru/thumbnails/f3533b29dbaad3c8d48dd9b8d8d630f8.jpg" /></a> <a href="http://powerlogo.ru/show-image.php?id=a8f58875f79e854b8fcebcd6ef246506" target="_blank"> <img src="http://powerlogo.ru/thumbnails/deefe7c8c99f8246909fd00007d99a50.jpg" /></a> <a href="http://powerlogo.ru/show-image.php?id=5f2a7c0391effba6bb398754bee8ff9e" target="_blank"> <img src="http://powerlogo.ru/thumbnails/d82fd607d897bda9cde161490d979385.jpg" /></a></center><br />
+<br />
+<center>______________________________________________</center><br />
+<br />
+<center><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Особенности игры:</div><div class="hidebody"></div><textarea class="hidearea"><br />
+    ПОЛНАЯ ПОДДЕРЖКА VR – Наденьте вашу VR гарнитуру, чтоб полностью погрузиться в головокружительный мир Battlezone с невероятным ощущением масштаба и захватывающими дух сражениями.<br />
+<br />
+    СОКРУШИТЕЛЬНЫЙ АРСЕНАЛ – Используйте разрушительное оружие и крутое специальное оборудование, от ракет с лазерным наведением и артиллерии до ЭМИ и улучшенных щитов.<br />
+<br />
+    БЕЗГРАНИЧНАЯ ОДИНОЧНАЯ И КООПЕРАТИВНАЯ КАМПАНИЯ – Насладитесь захватывающей кампанией для 1-4 игроков, где различное окружение, враги и миссии смешиваются воедино в процедурно генерируемой кампании. Игра сияет новыми красками при каждом прохождении!<br />
+<br />
+    ПЕРЕДОВЫЕ УЛУЧШЕНИЯ – Откройте еще больше мощных танков, новые виды оружия и специальное оборудование и выбирайте из сотен смертоносных комбинаций!<br />
+<br />
+    СРАЖАЙТЕСЬ СО СТИЛЕМ – Настраивайте внешний облик вашего танка с помощью различных камуфляжей, фигурок и сирен в издании Gold Edition!<br />
+<br />
+    КЛАССИЧЕСКИЙ РЕЖИМ – Узнайте, с чего начиналась игра с помощью Классического режима с оригинальным управлением двумя гусеницами и глобальным рейтингом игроков, с которыми вы соревнуетесь!</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Дополнения:</div><div class="hidebody"></div><textarea class="hidearea"><br />
+    Комплект сирен – Удивите или сплотите ваших напарников в Battlezone одной из 10 настраиваемых сирен, включая такие сирены как: корабль, клоун, спортивный автомобиль, поезд, мотоцикл... и другие!<br />
+    Военный комуфляж/камуфляж повышенной видимости/сафари – Используйте 15 уникальных видов камуфляжа, чтобы настроить внутренний и внешний облик вашей Кобры!<br />
+    Комплект фигурок –Добавьте индивидуальности вашей кабине Кобры с этим комплектом из 8 детальных фигурок, которые были вдохновлены легендарными играми от Rebellion и комиксами, в том числе Судья Дредд и Rogue Trooper!</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Особенности RePack&#039;а:</div><div class="hidebody"></div><textarea class="hidearea"><br />
+    Ничего не вырезано<br />
+    Ничего не перекодировано<br />
+    Поддержка языков интерфейса: Русский, Английский, Французский, Немецкий, Итальянский, Испанский, Португальский, Китайский (Упр./Трад.), Корейский, Японский<br />
+    Смена локализации осуществляется из корневой папки игры посредством редактирования файла steam_api.ini<br />
+<b>    Путь сохранений игры</b>: %Drive%<br />
+    Присутствует файл контрольных сумм<br />
+<b>    Версия игры</b>: 1.08 (от 01.05.18)<br />
+<b>    Время установки</b>: ~3,5 минуты<br />
+    В установщике звучит Kim Waters<br />
+    Релиз от Other s</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты (повтор):</div><div class="hidebody"></div><textarea class="hidearea"><br />
+<a href="http://fastpic.ru/view/105/2018/0509/_6b5973e7843aeb1f7bfd93973f50c941.jpg.html" target="_blank"><img src="http://i105.fastpic.ru/thumb/2018/0509/41/_6b5973e7843aeb1f7bfd93973f50c941.jpeg" /></a> <a href="http://fastpic.ru/view/105/2018/0509/_ae6d6e595dd59145dd218a41d3455812.jpg.html" target="_blank"><img src="http://i105.fastpic.ru/thumb/2018/0509/12/_ae6d6e595dd59145dd218a41d3455812.jpeg" /></a> <a href="http://fastpic.ru/view/105/2018/0509/_aacd175419a96defc2eecc7e6328388e.jpg.html" target="_blank"><img src="http://i105.fastpic.ru/thumb/2018/0509/8e/_aacd175419a96defc2eecc7e6328388e.jpeg" /></a></textarea></div></center></span></td></tr>
+
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/games" target="_blank">Игры </a></td></tr>
+<tr><td class="header">Раздают</td><td>0</td></tr>
+<tr><td class="header">Качают</td><td>0</td></tr>
+<tr><td class="header">Сидер замечен</td><td> (Никогда)</td></tr>
+<tr><td class="header">Добавлен</td><td>09-05-2018 7:27:33  (1 час назад)</td></tr>
+<tr><td class="header">Размер</td><td>3.07&nbsp;GB  (3291865394 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630598);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>07&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630339"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:fe88ff4f15ec3da93d73ed3b260d9bb58ca7bdd2&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630339/battlezone-gold-edition-2017-pc-repack-ot-fitgirl">Battlezone Gold Edition (2017) PC | RePack от FitGirl </a></td> 
+<td align="right">1.36&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;16</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="tum"><td>07&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/630259"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:bd50cd08894fffeac6d737eeaffc538e3bc3639f&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630259/battlezone-gold-edition-2017-pc-repack-ot-qoob">Battlezone Gold Edition (2017) PC | RePack от qoob </a></td> <td align="right">4<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">3.20&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;55</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;8</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/8/0/0/Battlezone Gold Edition" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630598.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (7)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630598">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630598);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630598);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630598">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

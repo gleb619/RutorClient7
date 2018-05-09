@@ -1,0 +1,471 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Сделка с дьяволом / The Covenant (2006) WEB-DL 1080p | D | Open Matte</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Сделка с дьяволом / The Covenant (2006) WEB-DL 1080p | D | Open Matte</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:8cdb01be58744244d1e046ca5b1b3aca412677f8&amp;dn=rutor.info_%D0%A1%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0+%D1%81+%D0%B4%D1%8C%D1%8F%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC+%2F+The+Covenant+%282006%29+WEB-DL+1080p+%7C+D+%7C+Open+Matte&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=578071"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/578071"><img src="http://s.rutor.info/t/down.png"> Скачать The.Covenant.Open.Matte.1080p.mkv.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i5.imageban.ru/out/2017/07/23/7c43a185d6a05f4e4daec01e6aea6cd0.png" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Сделка с дьяволом<br />
+<b>Оригинальное название: </b>The Covenant<br />
+<b>Год выхода: </b>2006<br />
+<b>Жанр: </b> <a href="/tag/1/ужасы" target="_blank">ужасы</a>, <a href="/tag/1/фэнтези" target="_blank">фэнтези</a>, <a href="/tag/1/боевик" target="_blank">боевик</a>, <a href="/tag/1/триллер" target="_blank">триллер</a><br />
+<b>Режиссер: </b>Ренни Харлин<br />
+<b>В ролях: </b>Стивен Стрейт, Лаура Рэмси, Себастьян Стэн, Тейлор Китч, Чейс Кроуфорд, Тоби Хемингуэй, Джессика Лукас, Кайл Шмид, Венди Крюсон, Стивен МакХэтти<br />
+<br />
+<b>О фильме:</b><br />
+Четыре подростка, принадлежащих к древней касте людей, обладающих сверхъестественными способностями, должны остановить зло, которое они сами когда-то выпустили на волю. Но, чтобы успешно справиться со своей миссией, им необходимо научиться доверять друг другу.<br />
+<br />
+ <a href="http://www.imdb.com/title/tt0475944/" target="_blank"><img src="http://s.rutor.info/imdb/pic/0475944.gif" /></a> <a href="http://www.kinopoisk.ru/level/1/film/161007/" target="_blank"><img src="http://www.kinopoisk.ru/rating/161007.gif" /></a><br />
+<br />
+<b>Страна: </b>США<br />
+<b>Студия: </b>Eyetronics, Lakeshore Entertainment, Sandstorm Films, Screen Gems<br />
+<b>Продолжительность: </b>01:37:18<br />
+<b>Перевод: </b>Профессиональный (дублированный) R5<br />
+<br />
+<u>Файл</u><br />
+<b>Качество</b>: WEB-DL 1080p<br />
+<b>Формат</b>: Matroska<br />
+<b>Видео</b>: 1920x1080 at 23.976 fps, MPEG-4 AVC, ~9600 kbps avg<br />
+<b>Аудио#1</b>: Russian: 48 kHz, AC3, 3/2 (L,C,R,l,r) + LFE ch, ~448 kbps avg |Дубляж, R5|<br />
+<b>Аудио#2</b>: English: 48 kHz, EAC3, 3/2 (L,C,R,l,r) + LFE ch, ~640 kbps avg <br />
+<b>Субтитры</b>: Russian, English<br />
+<br />
+***Релиз - spartanec163.<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Знаете ли вы, что...</div><div class="hidebody"></div><textarea class="hidearea"><li>Все пауки, которых насылал Чейз были сделаны с помощью компьютерной графики.<br />
+<li>Съемки внешнего вида Академии Спенсер происходили в Университете Бишопа, в Шербруке, Квебек, отсняты в конце 2005 года.<br />
+<li>Ренни Харлин, известен тем, что демонстрирует в своих фильмах предметы финской культуры. В «Сделке» он вешает на стену Сары известную финскую картину, нарисованную Хьюго Симбергом. Она назвается «Раненый ангел» — на ней изображен ангел и поддерживающие его два мальчика.<br />
+<li>Согласно комментариям на DVD, съемки пляжной вечеринки происходили в декабре. Первоначальное место съемки незадолго до их начала было затоплено и сцены пришлось переснимать на новой локации в последнюю минуту.<br />
+<li>Во время лекции по Стивену Кингу, Рид произносит фразу: ««Ловец снов» — это ништяк!». Книга рассказывает о четырех парнях, обладающих сверхъестественной силой, довольно близко к сюжету фильма.</li></li></li></li></li></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Blu-ray vs Open Matte</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://www.framecompare.com/screenshotcomparison/9BFCNNNU/" target="_blank">http://www.framecompare.com/screenshotcomparison/9BFCNNNU/</a></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">MediaInfo</div><div class="hidebody"></div><textarea class="hidearea">Общее<br />
+Уникальный идентификатор                 : 223399985836420175786415591639797208855 (0xA81145B0DA3BBF64A6E212D822241717)<br />
+Полное имя                               : The.Covenant.2006.Open.Matte.1080p.WEB-DL.Rus.Eng.mkv<br />
+Формат                                   : Matroska<br />
+Версия формата                           : Version 4 / Version 2<br />
+Размер файла                             : 7,44 Гбайт<br />
+Продолжительность                        : 1 ч. 37 м.<br />
+Режим общего битрейта                    : Переменный<br />
+Общий поток                              : 10,9 Мбит/сек<br />
+Название фильма                          : The.Covenant.2006.Open.Matte.1080p.WEB-DL.Rus.Eng-spartanec163<br />
+Дата кодирования                         : UTC 2017-07-23 15:33:32<br />
+Программа кодирования                    : mkvmerge v8.3.0 (&#039;Over the Horizon&#039;) 64bit<br />
+Библиотека кодирования                   : libebml v1.3.1 + libmatroska v1.4.2<br />
+<br />
+Видео<br />
+Идентификатор                            : 1<br />
+Формат                                   : AVC<br />
+Формат/Информация                        : Advanced Video Codec<br />
+Профиль формата                          : High@L4.0<br />
+Параметр CABAC формата                   : Да<br />
+Параметр ReFrames формата                : 4 кадра<br />
+Идентификатор кодека                     : V_MPEG4/ISO/AVC<br />
+Продолжительность                        : 1 ч. 37 м.<br />
+Вид битрейта                             : Переменный<br />
+Битрейт                                  : 9644 Кбит/сек<br />
+Максимальный битрейт                     : 15,0 Мбит/сек<br />
+Ширина                                   : 1920 пикселей<br />
+Высота                                   : 1080 пикселей<br />
+Соотношение сторон                       : 16:9<br />
+Режим частоты кадров                     : Постоянный<br />
+Частота кадров                           : 23,976 кадра/сек<br />
+Цветовое пространство                    : YUV<br />
+Субдискретизация насыщенности            : 4:2:0<br />
+Битовая глубина                          : 8 бит<br />
+Тип развёртки                            : Прогрессивная<br />
+Бит/(Пиксели*Кадры)                      : 0.194<br />
+Размер потока                            : 6,55 Гбайт (88%)<br />
+Заголовок                                : WEB-DL 1080p (Amazon)<br />
+Язык                                     : English<br />
+Default                                  : Да<br />
+Forced                                   : Нет<br />
+Основные цвета                           : BT.709<br />
+Характеристики трансфера                 : BT.709<br />
+Коэффициенты матрицы                     : BT.709<br />
+<br />
+Аудио #1<br />
+Идентификатор                            : 2<br />
+Формат                                   : AC-3<br />
+Формат/Информация                        : Audio Coding 3<br />
+Расширение режима                        : CM (complete main)<br />
+Параметр Endianness формата              : Big<br />
+Идентификатор кодека                     : A_AC3<br />
+Продолжительность                        : 1 ч. 37 м.<br />
+Вид битрейта                             : Постоянный<br />
+Битрейт                                  : 448 Кбит/сек<br />
+Каналы                                   : 6 каналов<br />
+Расположение каналов                     : Front: L C R, Side: L R, LFE<br />
+Частота                                  : 48,0 КГц<br />
+Битовая глубина                          : 16 бит<br />
+Метод сжатия                             : С потерями<br />
+Размер потока                            : 312 Мбайт (4%)<br />
+Заголовок                                : AC3 5.1 448Kbps (Дубляж)<br />
+Язык                                     : Russian<br />
+Default                                  : Да<br />
+Forced                                   : Нет<br />
+<br />
+Аудио #2<br />
+Идентификатор                            : 3<br />
+Формат                                   : E-AC-3<br />
+Формат/Информация                        : Audio Coding 3<br />
+Параметр Endianness формата              : Big<br />
+Идентификатор кодека                     : A_EAC3<br />
+Продолжительность                        : 1 ч. 37 м.<br />
+Вид битрейта                             : Постоянный<br />
+Битрейт                                  : 640 Кбит/сек<br />
+Каналы                                   : 6 каналов<br />
+Расположение каналов                     : Front: L C R, Side: L R, LFE<br />
+Частота                                  : 48,0 КГц<br />
+Метод сжатия                             : С потерями<br />
+Размер потока                            : 445 Мбайт (6%)<br />
+Заголовок                                : E-AC3 5.1 640Kbps (Оригинал, Amazon)<br />
+Язык                                     : English<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Текст #1<br />
+Идентификатор                            : 4<br />
+Формат                                   : UTF-8<br />
+Идентификатор кодека                     : S_TEXT/UTF8<br />
+Идентификатор кодека/Информация          : UTF-8 Plain Text<br />
+Язык                                     : Russian<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Текст #2<br />
+Идентификатор                            : 5<br />
+Формат                                   : UTF-8<br />
+Идентификатор кодека                     : S_TEXT/UTF8<br />
+Идентификатор кодека/Информация          : UTF-8 Plain Text<br />
+Язык                                     : English<br />
+Default                                  : Нет<br />
+Forced                                   : Нет</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><center><a href="http://lostpic.net/image/QAxU" target="_blank"><img src="http://img11.lostpic.net/2017/07/23/fa85c342e51937bf47713ff43803ad04.th.png" /></a> <a href="http://lostpic.net/image/QAxY" target="_blank"><img src="http://img12.lostpic.net/2017/07/23/1ffff4ea5fbeea45f7b98cb95f14bc57.th.png" /></a> <a href="http://lostpic.net/image/QAxq" target="_blank"><img src="http://img10.lostpic.net/2017/07/23/7d309b4d7673157d0ee0908c58946298.th.png" /></a> <a href="http://lostpic.net/image/QAxe" target="_blank"><img src="http://img11.lostpic.net/2017/07/23/1021bd5b2e685af287876d9cde05d63e.th.png" /></a><br />
+</center></textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1081432/0" target="_blank">MrRavage</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>10 из 10 (2 голосов, самая низкая оценка - 10, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/kino" target="_blank">Зарубежные фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>16</td></tr>
+<tr><td class="header">Качают</td><td>0</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 6:19:05 (52 минуты назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 19:04:45  (12 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>7.44&nbsp;GB  (7990496881 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 578071);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>16&nbsp;Дек&nbsp;17</td><td ><a class="downgif" href="http://d.rutor.info/download/602626"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:e292087de92383c0458d422d300265761b011a7f&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/602626/sdelka-s-djavolom_the-covenant-2006-bdrip-1080p-d-p2">Сделка с дьяволом / The Covenant (2006) BDRip 1080p | D, P2 </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">8.06&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="tum"><td>16&nbsp;Дек&nbsp;17</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/602570"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:41a6d713f6597dae3372ee7d6eae17a1fa563154&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/602570/sdelka-s-djavolom_the-covenant-2006-webrip-720p-ot-k.e.n-megapeer-d-open-matte">Сделка с дьяволом / The Covenant (2006) WEBRip 720p от k.e.n &amp; MegaPeer | D | Open Matte </a></td> 
+<td align="right">4.37&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>17&nbsp;Ноя&nbsp;17</td><td ><a class="downgif" href="http://d.rutor.info/download/597768"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:a1a944bf2f11d96297edb8a7b24f3b19c5e770c2&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/597768/sdelka-s-djavolom_the-covenant-2006-web-dlrip-ot-scarabey-open-matte-d">Сделка с дьяволом / The Covenant (2006) WEB-DLRip от Scarabey | Open Matte | D </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.45&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="tum"><td>29&nbsp;Сен&nbsp;16</td><td ><a class="downgif" href="http://d.rutor.info/download/412609"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:1e5404c9902f02a9aacf3e265ec2fc3eb5f0b345&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/412609/sdelka-s-djavolom_the-covenant-2006-hdrip-avc-d">Сделка с дьяволом / The Covenant (2006) HDRip-AVC | D </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">745.84&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>15&nbsp;Мар&nbsp;14</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/342578"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:9fd976170f416ae4899a41c85d651dc372c78e1e&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/342578/sdelka-s-djavolom_the-covenant-2006-bdrip-ot-rulya74">Сделка с дьяволом / The Covenant (2006) BDRip от Rulya74 </a></td> 
+<td align="right">2.08&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="tum"><td>05&nbsp;Ноя&nbsp;13</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/315057"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:39dd12e15765f203b7b12202575903c449b8a707&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/315057/sdelka-s-djavolom_the-covenant-2006-hdrip-ot-scarabey-d">Сделка с дьяволом / The Covenant (2006) HDRip от Scarabey | D </a></td> 
+<td align="right">1.45&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;25</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="gai"><td>05&nbsp;Ноя&nbsp;13</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/315055"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:9d1fe71ed1554c6788870577c2fb8e3d108d8eff&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/315055/sdelka-s-djavolom_the-covenant-2006-hdrip-ot-scarabey-d">Сделка с дьяволом / The Covenant (2006) HDRip от Scarabey | D </a></td> 
+<td align="right">744.78&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/1/0/0/The Covenant (2006)" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/578071.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (1)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=578071">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(578071);">Промодерировать раздачу</span> | <span onclick="confirm_delete(578071);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/578071">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>Tiza</b></td> <td>16-12-2017 17:40:43 (5 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3116349"></span><script type="text/javascript">cOptions(1518511,3116349);</script></td></tr><tr><td class="c_t" colspan=4>Исправьте сравнение версий, пожалуйста.<br />
+<br />
+<span style="color:grey;">// Готово. //</span></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>uaripple</b></td> <td>17-11-2017 21:17:04 (6 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3098590"></span><script type="text/javascript">cOptions(1145595,3098590);</script></td></tr><tr><td class="c_t" colspan=4>Отлично!</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

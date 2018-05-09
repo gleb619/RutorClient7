@@ -1,0 +1,374 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Древние / The Originals [05x01-03 из 13] (2018) WEB-DLRip | Jaskier</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Древние / The Originals [05x01-03 из 13] (2018) WEB-DLRip | Jaskier</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:624540e6546486fd04194776616c5f41a4ae220c&amp;dn=rutor.info_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B5+%2F+The+Originals+%5B05x01-03+%D0%B8%D0%B7+13%5D+%282018%29+WEB-DLRip+%7C+Jaskier&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630487"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630487"><img src="http://s.rutor.info/t/down.png"> Скачать The_Originals._Season_5_WEB-DLRip_l_400p_l_Jask.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><span style="font-family:georgia;"><hr /><hr /><center><font size="6"><span style="color:#964b00;"><b>✘ Древние ✘</b></span></font></center><hr /><hr /><br />
+<br />
+<img src="http://i104.fastpic.ru/big/2018/0420/fc/ffb1fd235a66e3a0ffb9c8bea5ebf7fc.png" style="float:right;" /><br />
+<font size="2"><span style="color:#964b00;"><u><i><b>Информация о фильме:</b></i></u></span><br />
+<span style="color:#4f4f4f;"><b> ✦ Название: </b>Древние <br />
+<b> ✦ Оригинальное название: </b>The Originals<br />
+<b> ✦ Год выхода: </b>2018<br />
+<b> ✦ Жанр: </b>Ужасы, фантастика, боевик, драма, вампиры<br />
+<b> ✦ Режиссер: </b>Крис Грисмер, Джеффри Дж. Хант, Брэд Тёрнер, Джесси Уарн<br />
+<b> ✦ В ролях:</b> Джозеф Морган, Дэниэл Гиллис, Чарльз Майкл Дэвис, Каллард Харрис, Александра Фикен, Даниэль Кэмпбелл, Эка Дарвилл, Клер Холт, Даниэлла Пинеда, Леа Пайпс</span><br />
+<br />
+<span style="color:#964b00;"><b><i><u>Описание фильма:</u></i></b></span><br />
+<span style="color:#4f4f4f;">До того, как появились вампиры, миром правили Первородные. Спустя долгие годы Клаус Майклсон возвращается в родной Новый Орлеан, который он когда-то помог построить. Там он встречает своего старого друга и ученика Марселя. Последний навел в городе свои порядки и установил строгие правила на колдовство ведьм. Все это не касалось Клауса (который особо и не интересовался), пока однажды он не услышал, как бьется сердце его еще не рожденного ребенка. Появление наследника Первородного никак не укладывалось в новые порядки Марселя, поэтому теперь Клаусу предстоит сделать важнейший выбор в своей жизни.</span><br />
+<br />
+ <a href="http://www.imdb.com/title/tt2632424/" target="_blank"><img src="http://s.rutor.info/imdb/pic/2632424.gif" /></a> <a href="http://www.kinopoisk.ru/film/762203/" target="_blank"><img src="http://www.kinopoisk.ru/rating/762203.gif" /></a><a href="http://multi-up.com/1197552" target="_blank"><img src="http://s015.radikal.ru/i330/1503/88/5620449189b1.png" /></a><br />
+<br />
+<span style="color:#4f4f4f;"><b> ✦ Страна: </b> США<br />
+<b> ✦ Продолжительность: </b> ~ 00:42:00 серия<br />
+<b> ✦ Перевод:</b> Профессиональный (многоголосый, закадровый)</span> - <span style="color:#964b00;"><b>Jaskier</span></b><br />
+<br />
+<img src="http://i64.fastpic.ru/big/2014/0628/77/317492d3a6035979760286b61b833a77.gif" /><br />
+<br />
+<br />
+<span style="color:#964b00;"><u><i><b>Информация о файле:</b></i></u></span><br />
+<span style="color:#4f4f4f;"><b>✦ Формат</b>: XviD | Avi<br />
+<b>✦ Качество</b>: WEB-DLRip <br />
+<b>✦ Видео</b>: ~ 1500 kbps, 720x400<br />
+<b>✦ Аудио RU</b>: MP3, 2 ch, 128 kbps<br />
+<b>✦ Аудио EN</b>: MP3, 2 ch, 128 kbps<br />
+<b>✦ Субтитры</b>: отсутствуют<br />
+<b><u>✦ <i>Присутствует аудио-реклама!</i></u></b></span><br />
+<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))"><span style="color:#964b00;">✘ Релиз ✘</span></div><div class="hidebody"></div><textarea class="hidearea"><br />
+Переведено и озвучено студией JASKIER<br />
+</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))"><span style="color:#964b00;">✘ Скриншоты ✘</span></div><div class="hidebody"></div><textarea class="hidearea"><a href="http://lostpic.net/image/cmPB" target="_blank"><img src="http://img12.lostpic.net/2018/04/20/e26743d81d4e646a28466525b7d399c2.th.png" /></a> <a href="http://lostpic.net/image/cmPa" target="_blank"><img src="http://img12.lostpic.net/2018/04/20/ddd59006631ab85e2e4d5f971db12671.th.png" /></a> <a href="http://lostpic.net/image/cmPi" target="_blank"><img src="http://img12.lostpic.net/2018/04/20/a0b3c8f4712a269f69bcf00323c2cdf2.th.png" /></a></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))"><span style="color:#964b00;">✘ Раздача ведется путем добавления новых серий ✘</span></div><div class="hidebody"></div><textarea class="hidearea">Когда раздача ведётся путём добавления новых серий, при каждом добавлении создётся новый торрент. Чтобы начать докачку новой серии, пользователям необходимо сделать следующее:<br />
+(1) остановить скачивание,<br />
+(2) удалить старый торрент у себя из клиента (старые серии удалять не надо),<br />
+(3) скачать новый торрент и запустить его у себя в клиенте вместо старого, при этом указать клиенту путь в старую папку, куда и должно происходить скачивание новых серий.<br />
+Ваш клиент при этом должен произвести хеширование (проверку) старой папки (если не производит сам - помогите ему сделать это), и будет докачивать только те серии, которых у вас ещё нет. Старые серии при этом не удаляются, а продолжают раздаваться!<br />
+Eсли вы уже удалили старые серии, то предотвратить повторную закачку старых серий можно, отжав галочку в соответсвующих местах при запуске нового торрента. По возможности, желательно не удалять старые серии как можно дольше, чтобы релизёр не столько продолжал раздавать старые серии, а смог сконцентрироваться на новых.</textarea></div><br />
+</span></font></td></tr>
+
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/seriali" target="_blank">Сериалы </a></td></tr>
+<tr><td class="header">Раздают</td><td>4</td></tr>
+<tr><td class="header">Качают</td><td>9</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (17 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 22:34:35  (10 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>1.47&nbsp;GB  (1574733824 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630487);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630486"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:ad23c02dbc037171e3a2cd994b775bb6a7558411&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630486/drevnie_the-originals-05x01-03-iz-13-2018-web-dl-720p-jaskier">Древние / The Originals [05x01-03 из 13] (2018) WEB-DL 720p | Jaskier </a></td> 
+<td align="right">2.79&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;5</span></td></tr><tr class="tum"><td>05&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/628733"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:996a73b9ca032f1cd0b2383e10fa62a5a6cc8724&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/628733/drevnie_the-originals-05h01-03-iz-13-2018-web-dlrip-720p-lostfilm">Древние / The Originals [05х01-03 из 13] (2018) WEB-DLRip 720p | LostFilm </a></td> 
+<td align="right">3.73&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;33</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;70</span></td></tr><tr class="gai"><td>04&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/629765"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:a99f3fe4d40d034f1cc2d36a34d7971235f7ca00&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/629765/drevnie_the-originals-05x01-03-iz-13-2018-webrip-720p-gostfilm">Древние / The Originals [05x01-03 из 13] (2018) WEBRip 720p | GostFilm </a></td> 
+<td align="right">3.09&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;6</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;7</span></td></tr><tr class="tum"><td>04&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/629764"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:77e68ef6802660a1e66a8e360ba3fab2e0c75516&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/629764/drevnie_the-originals-05x01-03-iz-13-2018-webrip-gostfilm">Древние / The Originals [05x01-03 из 13] (2018) WEBRip | GostFilm </a></td> 
+<td align="right">1.24&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;11</span></td></tr><tr class="gai"><td>03&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/629704"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:8934f30011daed1504af1e3aa77d8f37881210dd&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/629704/drevnie_the-originals-05x01-iz-13-2018-web-dlrip-ideafilm">Древние / The Originals [05x01 из 13] (2018) WEB-DLRip | IdeaFilm </a></td> 
+<td align="right">667.09&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;4</span></td></tr><tr class="tum"><td>03&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/629702"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:afc685c2e1e70715ea9f76e892d1d60709a212bd&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/629702/drevnie_the-originals-05x01-iz-13-2018-web-dlrip-720p-ideafilm">Древние / The Originals [05x01 из 13] (2018) WEB-DLRip 720p | IdeaFilm </a></td> 
+<td align="right">1.48&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;3</span></td></tr><tr class="gai"><td>03&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/629701"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:de3ef4ef659ffe9a34afbddf866c74859de6f5b3&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/629701/drevnie_the-originals-05x01-iz-13-2018-web-dlrip-1080p-ideafilm">Древние / The Originals [05x01 из 13] (2018) WEB-DLRip 1080p | IdeaFilm </a></td> 
+<td align="right">2.37&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;5</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/4/0/0/Древние" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630487.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (3)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630487">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630487);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630487);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630487">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

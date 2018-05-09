@@ -134,4 +134,11 @@ class DetailPageConverter(
 
     }
 
+    override fun support(element: Element): Boolean {
+        val text = !(element.select("#all > h1")?.text()?.isNullOrEmpty() ?: true)
+        val link = !(element.select("#download > a:nth-child(2)")?.attr("href")?.isNullOrEmpty() ?: true)
+
+        return text && link
+    }
+
 }

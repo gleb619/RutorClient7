@@ -31,7 +31,7 @@ class MainPagePlainConverter(logger: Logger) : RowConverter(logger), Converter<M
 
     //274289764 = Plain page text
     override fun support(element: Element): Boolean {
-        val text = element.select("#index > h2").last().text().hashCode()
+        val text = element.select("#index > h2").lastOrNull()?.text()?.hashCode() ?: -1
         val size = element.select("#index > table > tbody > tr").size
 
         return 274289764 == text && size >= 10

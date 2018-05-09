@@ -12,21 +12,29 @@ import static spark.Spark.*
 class Server {
 
     static void main(String[] args) {
-        staticFileLocation("/public")
-
         def converter
         initExceptionHandler({
             e -> System.out.println("Uh-oh")
-        })
-        get("/hello", { request, response ->
-            return "blah blah blah"
         })
         get("/torrent/:id/*", { request, response ->
             response.type("text/html; charset=UTF-8")
             return loadStatic(request.params(":id"), request.splat()[0])
         })
-        get("/data", { request, response ->
+        get("/", { request, response ->
+            return loadStatic("0", "plain")
+        })
+        get("/new", { request, response ->
+            response.type("text/html; charset=UTF-8")
+            return loadStatic("1", "grouped")
+        })
+        get("/plain", { request, response ->
             return converter.convert(loadStatic("0", "plain"))
+        })
+        get("/grouped", { request, response ->
+            return converter.convert(loadStatic("1", "grouped"))
+        })
+        get("/detail", { request, response ->
+            return converter.convert(loadStatic("271849", "mozilla-firefox-quantum-60.0-final-2018-rs"))
         })
         get("/generate", { request, response ->
             try {
@@ -46,58 +54,76 @@ class Server {
 
     private static void onGenerate() {
         println("Load plain and group")
+        def (folder, plain) = downloadMainPages()
+        println("Downloaded main page")
+
+        Jsoup.parse(plain).select("#index > table > tbody > tr")
+                .drop(1)
+                .collectParallel({ element ->
+            element.select("a[href*='/torrent/']").attr("href").split(/\//).drop(1)
+        })
+                .collectParallel({ link ->
+            def localFolder = new File("${folder.getAbsolutePath()}/${link[0]}/${link[1]}")
+            println("Create folder for file: ${localFolder.absolutePath}")
+            localFolder.mkdirs()
+            if (localFolder.exists()) {
+                def file = new File("${folder.getAbsolutePath()}/${link[0]}/${link[1]}/${link[2]}")
+                file.createNewFile()
+                println("\tCreated file: ${file.absolutePath}")
+            }
+            link
+        })
+                .withIndex()
+                .collectParallel({ link, index ->
+            println("Download page($index): ${link[2]}")
+            def body
+            try {
+                body = loadExternal("${link[0]}/${link[1]}/${link[2]}")
+            } catch (Exception e) {
+                System.err.println("\tError ${link[2]} => ${e.getMessage()}")
+                body = ""
+            }
+
+            def output = [
+                    value: link,
+                    body : body
+            ]
+        })
+                .findAll({
+            it.body?.trim()
+        })
+                .collectParallel({ torrent ->
+            try {
+                def file = new File("${folder.getAbsolutePath()}/${torrent.value[0]}/${torrent.value[1]}/${torrent.value[2]}")
+                file.text = torrent.body
+            } catch (Exception e) {
+                e.printStackTrace()
+            }
+        })
+    }
+
+    private static def downloadMainPages() {
         def folder = new File("temp")
         def folderGrouped = new File("temp/new")
-        folder.delete()
+        folder.deleteDir()
         folder.mkdir()
-        folderGrouped.delete()
         folderGrouped.mkdir()
         println("Generated folders in: $folder.absolutePath")
         def plain = loadExternal("")
         def grouped = loadExternal("new")
         new File("temp/index.html").text = plain
         new File("temp/new/index.html").text = grouped
-        println("Downloaded main page")
+        [folder, plain]
+    }
 
-        Jsoup.parse(plain).select("#index > table > tbody > tr")
-                .drop(1)
-                .collectParallel({ element ->
-                    def link = element.select("a[href*='/torrent/']").attr("href").split(/\//).drop(1)
-                    println("Download page: ${link[2]}")
-                    def body
-                    try {
-                        body = loadExternal("${link[0]}/${link[1]}/${link[2]}")
-                    } catch (Exception e) {
-                        System.err.println("Error ${link[2]} => ${e.getMessage()}")
-                        body = ""
-                    }
-                    def output = [
-                            value: link,
-                            body: body
-                    ]
-                })
-                .findAll({
-                    it.body?.trim()
-                })
-                .collectParallel({ torrent ->
-                    try {
-                        println("Persist to file system: ${torrent.value[1]}/${torrent.value[2]}")
-                        def localFolder = new File("${folder.getName()}/${torrent.value[0]}/${torrent.value[1]}")
-                        def folderExist = localFolder.mkdirs()
-                        if(folderExist) {
-                            def file = new File("${folder.getName()}/${localFolder.getName()}/${torrent.value[2]}")
-                            file.text = torrent.body
-                        } else {
-                            System.err.println("Error $localFolder doesn't exist")
-                        }
-                    } catch (Exception e) {
-                        e.printStackTrace()
-                    }
-                })
+    private static def downloadMainPages2() {
+        def plain = new File("temp/index.html").text
+        def folder = new File("temp")
+        [folder, plain]
     }
 
     private static String loadStatic(String id, String name) {
-        def url = "torrent/${id}/${name}.html"
+        def url = "${id}/${name}"
         def resource = ClassLoader.getSystemResource("public/$url")
         if (Objects.nonNull(resource)) {
             println("Found cached instance in classpath: $url")
@@ -106,16 +132,16 @@ class Server {
             return new String(fileBytes)
         } else {
             println("Prepare to download page: $url")
-            return loadExternal(url)
+            return loadExternal("torrent/$url")
         }
     }
 
     private static String loadExternal(def url) {
         def sites = [
-                "http://new-rutor.org/",
+                "http://new-rutor.org",
                 "http://rutor.info",
         ]
-        def path = sites[0] + "/$url"
+        def path = sites[1] + "/$url"
         println("\tGo to $path")
         new URL(path).getText(
                 connectTimeout: 5000,
@@ -127,21 +153,23 @@ class Server {
     }
 
     private static RutorConverter createConverter() {
-        ApiBuilder.from("http://localhost:${port()}")
+        new ApiBuilder.Companion().from("http://localhost:${port()}")
                 .withLogger(new Logger() {
             @Override
             void error(String message) {
-                println("11111")
+                println("message; $message")
             }
 
             @Override
             void error(Exception e, String message) {
-                println("2222")
+                println("message; $message")
+                e.printStackTrace()
             }
 
             @Override
             void error(Exception e, String message, String... args) {
-                println("3333")
+                println("message; ${String.format(message, args)}")
+                e.printStackTrace()
             }
         })
                 .build()

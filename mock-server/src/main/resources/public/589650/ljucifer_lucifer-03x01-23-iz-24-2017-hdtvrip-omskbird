@@ -1,0 +1,432 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Люцифер / Lucifer [03x01-23 из 24] (2017) HDTVRip | OMSKBIRD</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Люцифер / Lucifer [03x01-23 из 24] (2017) HDTVRip | OMSKBIRD</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:27b39041c20fef3885be5c4486a1533df566fb2c&amp;dn=rutor.info_%D0%9B%D1%8E%D1%86%D0%B8%D1%84%D0%B5%D1%80+%2F+Lucifer+%5B03x01-23+%D0%B8%D0%B7+24%5D+%282017%29+HDTVRip+%7C+OMSKBIRD&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=589650"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/589650"><img src="http://s.rutor.info/t/down.png"> Скачать Lucifer_S03_HDTVrip_OMSKBIRD.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i89.fastpic.ru/big/2017/1002/3a/ac9ab6eda372faf282db671c162f4d3a.jpg" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Люцифер<br />
+<b>Оригинальное название: </b>Lucifer<br />
+<b>Год выхода: </b>2017<br />
+<b>Жанр: </b> <a href="/tag/4/фэнтези" target="_blank">фэнтези</a>, <a href="/tag/4/драма" target="_blank">драма</a><br />
+<b>Режиссер: </b>Нэйтан Хоуп, Майрзи Алмас, Эгил Эгилссон<br />
+<b>В ролях: </b>Том Эллис, Лорен Джерман, Рэйчел Харрис, Лесли-Энн Брандт, Мэтт Корбой, Скарлет Эстевез, Джонатан Салисбери и др.<br />
+<br />
+<b>О фильме:</b><br />
+Заскучавший и несчастный повелитель преисподней, Люцифер Морнингстар оставил свой престол и отправился в современный Лос-Анджелес, где основал ночной клуб «Lux». Очаровательный, харизматичный и дьявольски привлекательный Люцифер наслаждается своим отдыхом — вином, женщинами и музыкой — пока красивая поп-звезда не оказывается убитой на пороге его клуба…<br />
+<br />
+ <a href="http://www.imdb.com/title/tt4052886/" target="_blank"><img src="http://s.rutor.info/imdb/pic/4052886.gif" /></a><a href="https://myshows.me/view/43786/" target="_blank"><img src="http://u.myshows.me/r/43786.png" /></a> <a href="http://www.kinopoisk.ru/film/893621/" target="_blank"><img src="http://www.kinopoisk.ru/rating/893621.gif" /></a><br />
+<b>Страна: </b>США<br />
+<b>Продолжительность: </b> ~ 44 мин. серия<br />
+<b>Перевод: </b>Любительский (многоголосый закадровый) | <span style="color:blue;"><b>OMSKBIRD</b></span> <br />
+<br />
+<u>Файл</u><br />
+<b>Кодек: </b> Xvid<br />
+<b>Качество: </b>HDTVRip <br />
+<b>Видео: </b>AVI, 720x400 (16:9), 23.976 fps, ~ 1800 kbps<br />
+<b>Звук: </b><b>Аудио rus:</b> AC-3, 48 KHz, 2 ch, 192 kbps | OMSKBIRD records<br />
+<br />
+<b><a href="http://sendfile.su/1366605" target="_blank">Семпл</a></b><br />
+<br />
+<span style="color:#008000;"><b>Присутствует реклама!</b></span><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><br />
+<a href="http://i1.imageban.ru/out/2017/10/03/8ddbe133469e5502e2f0d95dceafc806.png" target="_blank"><img src="http://i5.imageban.ru/out/2017/10/03/e84509bc09f46c316325f9663e355309.jpg" /></a>  <a href="http://i1.imageban.ru/out/2017/10/03/91818269f638bd6c8878458d1c9a2db6.png" target="_blank"><img src="http://i2.imageban.ru/out/2017/10/03/7de52df33979de559026a3f25feb21a0.jpg" /></a>  <a href="http://i6.imageban.ru/out/2017/10/03/f067f5d6aac8bbe9505451dd09e2ebc0.png" target="_blank"><img src="http://i6.imageban.ru/out/2017/10/03/9e4377c931b8dce83820240e2eff6c11.jpg" /></a>  <a href="http://i6.imageban.ru/out/2017/10/03/1bfa611c2e776ebad7f92cb0358b6735.png" target="_blank"><img src="http://i1.imageban.ru/out/2017/10/03/fb69c3d2641624bfd479894f074e720a.jpg" /></a><br />
+<br />
+</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Mediainfo:</div><div class="hidebody"></div><textarea class="hidearea">General<br />
+Complete name               : H:Мои ДокументыВидеоРАЗДАЧИЛюцикLucifer S03 HDTVrip (OMSKBIRD)Lucifer S03E01 HDTVrip (OMSKBIRD).avi<br />
+Format                      : AVI<br />
+Format/Info                 : Audio Video Interleave<br />
+File size                   : 631 MiB<br />
+Duration                    : 44 min 36 s<br />
+Overall bit rate            : 1 979 kb/s<br />
+Writing application         : VirtualDubMod 1.5.10.3 | www.virtualdub-fr.org || (build 2550/release)<br />
+Writing library             : VirtualDubMod build 2550/release<br />
+<br />
+Video<br />
+ID                          : 0<br />
+Format                      : MPEG-4 Visual<br />
+Format profile              : Advanced Simple@L5<br />
+Format settings, BVOP       : 1<br />
+Format settings, QPel       : No<br />
+Format settings, GMC        : No warppoints<br />
+Format settings, Matrix     : Default (H.263)<br />
+Codec ID                    : XVID<br />
+Codec ID/Hint               : XviD<br />
+Duration                    : 44 min 36 s<br />
+Bit rate                    : 1 778 kb/s<br />
+Width                       : 720 pixels<br />
+Height                      : 400 pixels<br />
+Display aspect ratio        : 16:9<br />
+Frame rate                  : 23.976 (24000/1001) FPS<br />
+Color space                 : YUV<br />
+Chroma subsampling          : 4:2:0<br />
+Bit depth                   : 8 bits<br />
+Scan type                   : Progressive<br />
+Compression mode            : Lossy<br />
+Bits/(Pixel*Frame)          : 0.257<br />
+Stream size                 : 567 MiB (90%)<br />
+Writing library             : XviD 67<br />
+<br />
+Audio<br />
+ID                          : 1<br />
+Format                      : AC-3<br />
+Format/Info                 : Audio Coding 3<br />
+Format settings, Endianness : Big<br />
+Codec ID                    : 2000<br />
+Duration                    : 44 min 36 s<br />
+Bit rate mode               : Constant<br />
+Bit rate                    : 192 kb/s<br />
+Channel(s)                  : 2 channels<br />
+Channel positions           : Front: L R<br />
+Sampling rate               : 48.0 kHz<br />
+Frame rate                  : 31.250 FPS (1536 SPF)<br />
+Bit depth                   : 16 bits<br />
+Compression mode            : Lossy<br />
+Stream size                 : 61.3 MiB (10%)<br />
+Alignment                   : Split accross interleaves<br />
+Interleave, duration        : 42  ms (1.00 video frame)<br />
+Interleave, preload duratio : 500  ms<br />
+Service kind                : Complete Main<br />
+<br />
+<br />
+<br />
+</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Релиз:</div><div class="hidebody"></div><textarea class="hidearea">Перевод • Татьяна Масаковская<br />
+Роли озвучивали • Ленар Гиматдинов, Семен Ващенко, Павел Ярощик, Наталья Ланц, Снежанна Строева, Эльвира Адамова<br />
+Звукорежиссер • Павел Квентов<br />
+Постер • Ксения Просветова<br />
+Релиз подготовил • Gater<br />
+</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Внимание! Раздача ведётся путём добавления новых серий</div><div class="hidebody"></div><textarea class="hidearea">Внимание! Раздача ведётся путём добавления новых серий; при каждом добавлении создаётся новый торрент. Чтобы начать докачку новой серии, пользователям необходимо сделать следующее:<br />
+Остановить скачивание.<br />
+Удалить старый торрент у себя из клиента (старые серии удалять не надо).<br />
+Скачать новый торрент и запустить его у себя в клиенте вместо старого, при этом указать клиенту путь в старую папку куда и должно происходить скачивание новых серий.<br />
+Ваш клиент при этом должен произвести хеширование (проверку) старой папки (если не производит сам - помогите ему сделать это), и будет докачивать только те серии которых у вас ещё нет. Старые серии при этом не удаляются, а продолжают раздаваться!<br />
+Eсли вы уже удалили старые серии, то предотвратить повторную закачку старых серий можно, отжав галочку в соответсвующих местах при запуске нового торрента. По возможности, желательно не удалять старые серии как можно дольше чтобы релизёр не столько продолжал раздавать старые серии, а смог сконцентрироваться на новых.</textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1439892/0" target="_blank">Gater_media</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>10 из 10 (1 голосов, самая низкая оценка - 10, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/seriali" target="_blank">Сериалы </a></td></tr>
+<tr><td class="header">Раздают</td><td>3</td></tr>
+<tr><td class="header">Качают</td><td>11</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 6:19:05 (45 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 23:01:07  (8 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>14.17&nbsp;GB  (15216668338 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 589650);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/589649"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:e99136e1fb6491708127a9a47bb92495a82085d0&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/589649/ljucifer_lucifer-03x01-23-iz-24-2017-hdtvrip-720p-omskbird">Люцифер / Lucifer [03x01-23 из 24] (2017) HDTVRip 720p | OMSKBIRD </a></td> <td align="right">5<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">22.52&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;9</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630453"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:081cd6b6d5ba37c3f3a2eb440a06c526407decbb&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630453/ljucifer_lucifer-03x01-23-iz-24-2017-web-dlrip-coldfilm">Люцифер / Lucifer [03x01-23 из 24] (2017) WEB-DLRip | ColdFilm </a></td> 
+<td align="right">11.47&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;9</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;56</span></td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630454"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:86783e8711aa0cfbe98952bb5776e4d346f1fd89&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630454/ljucifer_lucifer-03x01-23-iz-24-2017-web-dlrip-720p-coldfilm">Люцифер / Lucifer [03x01-23  из 24] (2017) WEB-DLRip 720p | ColdFilm </a></td> 
+<td align="right">28.72&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;28</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/620610"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:0c19426dbe04ec44c92f8726c6bb6db91f7eef5a&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/620610/ljucifer_lucifer-03h01-23-iz-24-2017-hdtvrip-720p-sunshinestudio">Люцифер / Lucifer [03х01-23 из 24] (2017) HDTVRip 720p | SunshineStudio </a></td> 
+<td align="right">19.73&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;20</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;95</span></td></tr><tr class="gai"><td>06&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/592239"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:2796a5333e59bcc242cb4edc25aebcdf422df9ec&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/592239/ljucifer_lucifer-03x01-22-iz-24-2017-hdtvrip-1080p-viruseproject">Люцифер / Lucifer [03x01-22 из 24] (2017) HDTVRip 1080p | ViruseProject </a></td> 
+<td align="right">77.04&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;9</span></td></tr><tr class="tum"><td>06&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/589881"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:bfbabc15a2d3c7b872be54b45649ef13bd161cc3&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/589881/ljucifer_lucifer-03x01-22-iz-24-2017-hdtvrip-viruseproject">Люцифер / Lucifer [03x01-22 из 24] (2017) HDTVRip | ViruseProject </a></td> 
+<td align="right">15.94&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;7</span></td></tr><tr class="gai"><td>05&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/589679"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:3c54726bc6b4ebb27cfad5652d82d5b8d3165c1b&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/589679/ljucifer_lucifer-03x01-22-iz-24-2017-webrip-ot-qqss44-newstudio">Люцифер / Lucifer [03x01-22 из 24] (2017) WEBRip от qqss44 | NewStudio </a></td> <td align="right">28<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">11.25&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;16</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;35</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/4/0/0/Lucifer" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/589650.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (23)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=589650">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(589650);">Промодерировать раздачу</span> | <span onclick="confirm_delete(589650);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/589650">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>Gater_media</b></td> <td>08-05-2018 22:53:57 (8 часов назад)</td> <td></td> <td align="right"><span id="c_3199600"></span><script type="text/javascript">cOptions(1439892,3199600);</script></td></tr><tr><td class="c_t" colspan=4>Добавлена 23 серия.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>zordokforyou</b></td> <td>03-10-2017 22:48:09 (7 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3069482"></span><script type="text/javascript">cOptions(1297749,3069482);</script></td></tr><tr><td class="c_t" colspan=4>omg. дождался</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

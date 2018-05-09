@@ -1,0 +1,368 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Анон / Anon (2018) WEB-DLRip от Dalemake | L</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Анон / Anon (2018) WEB-DLRip от Dalemake | L</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:9ae572d3b7c4139ac3a898908205b3623cfbe3d8&amp;dn=rutor.info_%D0%90%D0%BD%D0%BE%D0%BD+%2F+Anon+%282018%29+WEB-DLRip+%D0%BE%D1%82+Dalemake+%7C+L&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630542"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630542"><img src="http://s.rutor.info/t/down.png"> Скачать Anon_2018_WEB-DLRip_MVO_by_Dalemake.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i5.imageban.ru/out/2018/05/08/c7b092a2bc82f5ea108abeed50e771e4.jpg" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Анон<br />
+<b>Оригинальное название: </b>Anon<br />
+<b>Выпущено:</b> Германия, США /  K5 Media Group<br />
+<b>Жанр: </b> <a href="/tag/1/фантастика" target="_blank">фантастика</a>, <a href="/tag/1/триллер" target="_blank">триллер</a><br />
+<b>Продолжительность:</b> 01:40:10<br />
+<b>Перевод</b>: <span style="color:brown;">Любительский (многоголосый закадровый)</span> AlphaProject<br />
+<b>Субтитры</b>: <span style="color:darkgreen;">Русские (форсированные)  (внешние .srt*)</span><br />
+<br />
+<b>Режиссер:</b><br />
+Эндрю Никкол / Andrew Niccol<br />
+<br />
+<b>В ролях</b>:<br />
+Клайв Оуэн <span style="color:brown;">(Sal Frieland)</span>, Аманда Сайфред <span style="color:brown;">(Anon)</span>, Колм Фиор <span style="color:brown;">(Charles Gattis)</span>, Джо Пинг <span style="color:brown;">(Lester Hagen)</span>, Марк О’Брайэн <span style="color:brown;">(Cyrus Frear)</span>, Иддо Голдберг <span style="color:brown;">(Josef Kenik)</span>, Конрад Коутс <span style="color:brown;">(Detective Fuchs)</span>, Мэйко Нгуйен <span style="color:brown;">(Detective Dyer)</span>, Соня Уолгер <span style="color:brown;">(Kristen)</span>, Элисон Бэт <span style="color:brown;">(Krystal)</span>, Сара Митич <span style="color:brown;">(Shirley)</span><br />
+<br />
+<b>О фильме:</b><br />
+Идеальное общество будущего: режим тотального надзора, отсутствие личной жизни, приватных территорий и гражданских прав. Казалось бы, в полностью контролируемом государстве нет места ошибкам и правонарушениям. Но однажды детектив Сол Фриленд знакомится с девушкой, которая не числится в базах данных. Перед копом приоткрывается дверь преступного мира новой эры…<br />
+<br />
+ <a href="http://www.imdb.com/title/tt5397194/" target="_blank"><img src="http://s.rutor.info/imdb/pic/5397194.gif" /></a><br />
+<br />
+| <a href="http://multi-up.com/1197617" target="_blank"><img src="http://s020.radikal.ru/i719/1605/c0/9635a166fcf5.png" /></a> | <img src="http://s020.radikal.ru/i700/1606/72/f8ec42f2c581.gif" /> | <b>РЕКЛАМЫ НЕТ!</b><br />
+<br />
+<u>Файл</u><br />
+<b>Качество</b>: <span style="color:darkblue;"><b>WEB-DLRip</b></span> [<b><span style="color:gray;">Anon 2018 1080p NF WEB-DL DD5.1 x264-STRiFE</span></b>]<br />
+<b>Формат</b>: AVI<br />
+<b>Видео кодек</b>: XviD<br />
+<b>Аудио кодек</b>: AC3<br />
+<b>Видео</b>: 704x400 (1.76:1), 24.000 fps, XviD build 67 ~1697 kbps avg, 0.25 bit/pixel<br />
+<b>Аудио:</b> 48 kHz, AC3 Dolby Digital, 3/2 (L,C,R,l,r) + LFE ch, ~384.00 kbps avg<br />
+<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><br />
+<a href="https://imageban.ru/show/2018/05/08/b1a527273c5a10c36afb983292e2c381/jpg" target="_blank"><img src="http://i5.imageban.ru/thumbs/2018.05.08/b1a527273c5a10c36afb983292e2c381.jpg" /></a> <a href="https://imageban.ru/show/2018/05/08/4aae33e4fc753902575782deeca6f96a/jpg" target="_blank"><img src="http://i3.imageban.ru/thumbs/2018.05.08/4aae33e4fc753902575782deeca6f96a.jpg" /></a> <a href="https://imageban.ru/show/2018/05/08/a5e0149a7548efa8309392583ac3c529/jpg" target="_blank"><img src="http://i6.imageban.ru/thumbs/2018.05.08/a5e0149a7548efa8309392583ac3c529.jpg" /></a> <a href="https://imageban.ru/show/2018/05/08/ad0650967529f16cdd427492a0ba2f4b/jpg" target="_blank"><img src="http://i6.imageban.ru/thumbs/2018.05.08/ad0650967529f16cdd427492a0ba2f4b.jpg" /></a></textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/179191/0" target="_blank">PALADIN87</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>10 из 10 (3 голосов, самая низкая оценка - 10, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/kino" target="_blank">Зарубежные фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>605</td></tr>
+<tr><td class="header">Качают</td><td>206</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (18 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 20:38:12  (12 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>1.46&nbsp;GB  (1571064372 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630542);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>09&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630610"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:c868c8961d4c1550adda679d711402f38720de64&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630610/anon_anon-2018-web-dlrip-avc-ot-exkinoray-l">Анон / Anon (2018) WEB-DLRip-AVC от ExKinoRay | L </a></td> 
+<td align="right">1.59&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;20</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/630531"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:b6cbd882fe284f768176e5a3a9dad994fc802237&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630531/anon_anon-2018-web-dl-1080p-ot-ash61-l">Анон / Anon (2018) WEB-DL 1080p от Ash61 | L </a></td> <td align="right">15<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">3.77&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1041</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;305</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/1/0/0/Anon 2018" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630542.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (2)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630542">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630542);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630542);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630542">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>WR1971</b></td> <td>09-05-2018 8:37:02 (12 секунды назад)</td> <td></td> <td align="right"><span id="c_3199709"></span><script type="text/javascript">cOptions(890243,3199709);</script></td></tr><tr><td class="c_t" colspan=4><b>Комментарий проверяется! Он будет виден как только кто-то из персонала его утвердит!</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Remmer</b></td> <td>09-05-2018 1:51:14 (7 часов назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199648"></span><script type="text/javascript">cOptions(1440413,3199648);</script></td></tr><tr><td class="c_t" colspan=4>Несете всякую хрень. Хороший фильм, рекомендую</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>AR-81</b></td> <td>09-05-2018 1:37:13 (7 часов назад)</td> <td></td> <td align="right"><span id="c_3199644"></span><script type="text/javascript">cOptions(1286505,3199644);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>33pirates</b> писал:<br />а где вопрос-как фильм?</fieldset><br />
+Кого это нынче интересует? Зайдешь почитать отзывы, а там:<br />
+1. Есть ли реклама<br />
+2. Есть ли ахтунги<br />
+3. Кто-то увидел сиськи в скринах<br />
+4. Озвучка от зелёного чая<br />
+5. Не так OpenMatte обрезали<br />
+6. Не так дорожки разложили<br />
+7. Прочие технические интересности.<br />
+Про подачу сюжета и игру актёров никто и не говорит давно.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>33pirates</b></td> <td>08-05-2018 22:40:39 (10 часов назад)</td> <td></td> <td align="right"><span id="c_3199591"></span><script type="text/javascript">cOptions(1505307,3199591);</script></td></tr><tr><td class="c_t" colspan=4>а где вопрос-как фильм?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>jpastor</b></td> <td>08-05-2018 22:27:42 (10 часов назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199585"></span><script type="text/javascript">cOptions(7217,3199585);</script></td></tr><tr><td class="c_t" colspan=4>спасибо.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>gurkin4</b></td> <td>08-05-2018 22:06:28 (11 час назад)</td> <td></td> <td align="right"><span id="c_3199579"></span><script type="text/javascript">cOptions(109116,3199579);</script></td></tr><tr><td class="c_t" colspan=4>Наверное офигительно хреново жить с чит модами. Ники над танками, 3D шкурки, лазерные указки, оповещение о засвете.<br />
+Одним словом лузеры! <img src="http://s.rutor.info/t/smilies/smile1.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>pattern</b></td> <td>08-05-2018 21:21:03 (11 час назад)</td> <td></td> <td align="right"><span id="c_3199566"></span><script type="text/javascript">cOptions(1362129,3199566);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />IMAX что-ли?</fieldset><br />
+Нет)))</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ApolloOne</b></td> <td>08-05-2018 21:06:55 (12 часа назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199558"></span><script type="text/javascript">cOptions(544857,3199558);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо за быстрый релиз и т.б. без рекламы.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Woodworker</b></td> <td>08-05-2018 21:01:10 (12 часа назад)</td> <td></td> <td align="right"><span id="c_3199555"></span><script type="text/javascript">cOptions(956708,3199555);</script></td></tr><tr><td class="c_t" colspan=4>IMAX что-ли? </td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

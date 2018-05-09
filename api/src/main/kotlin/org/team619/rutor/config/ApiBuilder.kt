@@ -17,12 +17,15 @@ class ApiBuilder private constructor(private val baseUri: String) {
 
     fun build(): RutorConverter {
         Objects.requireNonNull<Logger>(logger, "Logger can't be null")
+        val localLogger = logger!!
+        val cardConverter = CardConverter(localLogger)
+        val commentConverter = CommentConverter(localLogger)
         val converters = ArrayList<Converter<out Page, Document>>()
-        converters.add(MainPagePlainConverter(logger!!))
-        converters.add(MainPageGroupedConverter(logger!!))
-        converters.add(DetailPageConverter(logger!!, CardConverter(logger!!), CommentConverter(logger!!)))
+        converters.add(MainPagePlainConverter(localLogger))
+        converters.add(MainPageGroupedConverter(localLogger))
+        converters.add(DetailPageConverter(localLogger, cardConverter, commentConverter))
 
-        return RutorConverter(logger!!, baseUri, converters)
+        return RutorConverter(localLogger, baseUri, converters)
     }
 
     companion object {
@@ -30,6 +33,7 @@ class ApiBuilder private constructor(private val baseUri: String) {
         fun from(uri: String): ApiBuilder {
             return ApiBuilder(uri)
         }
+
     }
 
 }

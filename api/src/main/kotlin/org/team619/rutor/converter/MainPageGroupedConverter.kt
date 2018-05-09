@@ -44,4 +44,12 @@ class MainPageGroupedConverter(logger: Logger) : RowConverter(logger), Converter
         return Group(header.text(), rows)
     }
 
+    //-1304986067 = first text in h2 header
+    override fun support(element: Element): Boolean {
+        val elements = element.select("#index > h2")
+        val text = elements.firstOrNull()?.text()?.hashCode() ?: -1
+
+        return -1304986067 == text && elements.size > 5
+    }
+
 }

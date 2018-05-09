@@ -1,0 +1,399 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: C.C. Catch - Video Collection (2018) DVDRip</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>C.C. Catch - Video Collection (2018) DVDRip</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:b45bce036cdce51f4261a0fa481a9c3ecb78efdd&amp;dn=rutor.info_C.C.+Catch+-+Video+Collection+%282018%29+DVDRip&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630481"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630481"><img src="http://s.rutor.info/t/down.png"> Скачать C.C._Catch_-_Video_Collection_from_ALEXnROCK_av.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://picplus.ru/img/1805/04/51afa8c8.jpg" /><br />
+<br />
+<b>Название:</b> C.C. Catch - Video Collection от ALEXnROCK<br />
+<b>Жанр:</b>  <a href="/tag/2/Pop" target="_blank">Pop</a><br />
+<b>Год выпуска:</b> 2018<br />
+<b>Продолжительность:</b> 02:51:48<br />
+<br />
+<b>Доп. информация</b><br />
+Это полное собрание клипов певицы. В сборник вошли так же выступления на различных поп шоу и концертные версии песен. Весь материал прошел многочасовую реставрационную обработку, звук заменен на CD. Сделал новое интро. Да пребудет с нами качественная музыка! Все лучшее для вас. ALEXnROCK<br />
+Обложка и блин для диска в раздаче.<br />
+<br />
+<b>Формат:</b> AVI<br />
+<b>Качество:</b> DVDRip<br />
+<b>Видео кодек</b>: XviD<br />
+<b>Видео</b>: 720x408 (16:9) 720x528 (4:3) 3500Kbps 25-29fps<br />
+<b>Аудио</b>: Mp3 48000KHz, 2 ch, 320 Kbps<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Треклист</div><div class="hidebody"></div><textarea class="hidearea"><br />
+00 C.C. Catch - Intro                                      <br />
+01 C.C. Catch - Strangers By Night                         <br />
+02 C.C. Catch - Cause You Are Young                        <br />
+03 C.C. Catch - Heartbreak Hotel                           <br />
+04 C.C. Catch - Soul Survivor                              <br />
+05 C.C. Catch - Are You Man Enough                         <br />
+06 C.C. Catch - Heaven And Hell                            <br />
+07 C.C. Catch - House Of Mystic Lights                     <br />
+08 C.C. Catch - Baby I Need Your Love                      <br />
+09 C.C. Catch - Big Time                                   <br />
+10 C.C. Catch - Backseat Of Your Cadillac                  <br />
+11 C.C. Catch - Midnight Hour                              <br />
+12 C.C. Catch - Summer Kisses                              <br />
+13 C.C. Catch - Nothing But A Heartache                    <br />
+14 C.C. Catch - Megamix 98                                 <br />
+15 C.C. Catch - Shake Your Head                            <br />
+16 C.C. Catch - I Can Lose My Heart Tonight 98             <br />
+17 C.C. Catch - Silence                                    <br />
+18 C.C. Catch &amp; Chris Norman - Another Night in Nashville  <br />
+19 C.C. Catch - Heartbreak Hotel (From Peter&#039;s Pop Show)   <br />
+20 C.C. Catch - Soul Survivor (Pop Show 87)                <br />
+21 C.C. Catch - Heaven And Hell (From Peter&#039;s Pop Show)    <br />
+22 C.C. Catch - Nothing But A Heartache (Pop Show 88)      <br />
+23 C.C. Catch - Are You Man Enough (Pop Show 87)           <br />
+24 C.C. Catch - Backseat Of Your Cadillac (Pop Show 88)    <br />
+25 C.C. Catch - I Can Lose My Heart Tonight (Pop Show 86)  <br />
+26 C.C. Catch - Heaven And Hell (Pop Show 88)              <br />
+27 C.C. Catch - Heartbreak Hotel (Pop Show 2003)           <br />
+28 C.C. Catch - Good Guys Only Win In Movies (Live 89)     <br />
+29 C.C. Catch - Like A Hurricane (Live 89)                 <br />
+30 C.C. Catch - Soul Survivor (Live 89)                    <br />
+31 C.C. Catch - House Of Mystic Lights (Live 89)           <br />
+32 C.C. Catch - Nothing But A Heartache (Live 89)          <br />
+33 C.C. Catch - Megamix ft. Krazy (Live in Kahovka 2005)   <br />
+34 C.C. Catch - I Can Lose My Heart (Live in Kahovka 2005) <br />
+35 C.C. Catch - Good Guys (Live in Kahovka 2005)           <br />
+36 C.C. Catch - Silence (Live in Kahovka 2005)             <br />
+37 C.C. Catch - Strangers By Night (Live 2005)             <br />
+38 C.C. Catch - Soul Survivor (Live 2005)                  <br />
+39 C.C. Catch - Jump In My Car (Live 2005)                 <br />
+40 C.C. Catch - Heaven And Hell (Live 2005)                <br />
+41 C.C. Catch - Because You Are Young (Live 2005)          <br />
+42 C.C. Catch - Megamix (Live in Kahovka 2005)             <br />
+Bonus C.C. Catch - Good Guys Only Win In Movies (Live 2005)<br />
+Bonus C.C. Catch - Megamix (Live 2005)                   </textarea></div><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><br />
+<a href="https://d.radikal.ru/d39/1805/ae/30a47f5e5979.jpg" target="_blank"><img src="https://d.radikal.ru/d39/1805/ae/30a47f5e5979t.jpg" /></a> <a href="https://b.radikal.ru/b22/1805/27/ab998d572d93.jpg" target="_blank"><img src="https://b.radikal.ru/b22/1805/27/ab998d572d93t.jpg" /></a> <a href="https://d.radikal.ru/d16/1805/dc/119d0646b3a9.jpg" target="_blank"><img src="https://d.radikal.ru/d16/1805/dc/119d0646b3a9t.jpg" /></a> <a href="https://c.radikal.ru/c25/1805/e0/7c34c6645b88.jpg" target="_blank"><img src="https://c.radikal.ru/c25/1805/e0/7c34c6645b88t.jpg" /></a><br />
+<br />
+</textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1524358/0" target="_blank">olgabot72</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>10 из 10 (1 голосов, самая низкая оценка - 10, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/audio" target="_blank">Музыка</a></td></tr>
+<tr><td class="header">Раздают</td><td>61</td></tr>
+<tr><td class="header">Качают</td><td>29</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (18 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 13:40:08  (19 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>4.69&nbsp;GB  (5033963523 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630481);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>12&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/625752"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:e92cf00efecaabbce5abbed3ac7ecb9560719aee&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/625752/c.c-catch-the-best-of-2018-mp3">C.C. Catch - The Best of (2018) MP3 </a></td> <td align="right">7<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">174.83&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;47</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="tum"><td>23&nbsp;Фев&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/615168"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:98756f70f93e20494bea0a68659ee718cb9f2ecd&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/615168/c.c-catch-classics-2015-mp3">C.C. Catch - Classics (2015) MP3 </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">137.79&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;24</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>23&nbsp;Фев&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/615069"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:6307ab38da631a0446db5c676e2df4302f58b265&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/615069/c.c-catch-classics-2015-flac">C.C. Catch - Classics (2015) FLAC </a></td> <td align="right">6<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">436.81&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;11</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="tum"><td>30&nbsp;Окт&nbsp;17</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/594152"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:2fa5dd9bd7e381e419c2b24a300db4becb0a217f&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/594152/c.c-catch-all-very-best-2012-mp3">C.C. Catch - All Very Best (2012) MP3 </a></td> 
+<td align="right">294.47&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;9</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>31&nbsp;Мар&nbsp;17</td><td ><a class="downgif" href="http://d.rutor.info/download/559011"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:a828ce1a5a26195ec833381615c1f036cda486cb&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/559011/c-c-catch-live-at-copernicus-center-2015-web-dlrip-avc-ot-lumina">C. C. Catch - Live at Copernicus Center (2015) WEB-DLRip-AVC от Лумина </a></td> <td align="right">3<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">843.74&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="tum"><td>21&nbsp;Мар&nbsp;17</td><td ><a class="downgif" href="http://d.rutor.info/download/557226"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:5f624b7160727337bdd32d7be53a347903a19c56&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/557226/c-c-catch-the-video-hits-collection-2015-webrip-ot-lumina">C. C. Catch - The Video Hits Collection (2015) WEBRip от Лумина </a></td> <td align="right">4<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">827.91&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>18&nbsp;Ноя&nbsp;16</td><td ><a class="downgif" href="http://d.rutor.info/download/534774"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:388c34b191b419a038543dc8b91534dc5e865b77&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/534774/c.c.catch-sbornik-pesen-2015-mp3">C.C.Catch - Сборник песен (2015) MP3 </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">551.75&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/2/0/0/C.C. Catch" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630481.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (47)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630481">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630481);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630481);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630481">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>k.d.r. 69</b></td> <td>09-05-2018 5:50:35 (3 часа назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199676"></span><script type="text/javascript">cOptions(817041,3199676);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо Вам Большое !!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>olgabot72</b></td> <td>08-05-2018 13:46:46 (19 часов назад)</td> <td></td> <td align="right"><span id="c_3199384"></span><script type="text/javascript">cOptions(1524358,3199384);</script></td></tr><tr><td class="c_t" colspan=4>Более качественная версия в формате MKV 720p со звуком PCM доступна на сайте автора. Всем приятного просмотра.<img src="http://s.rutor.info/t/smilies/spasibo.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

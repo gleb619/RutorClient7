@@ -1,0 +1,522 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Хостел: Дилогия / Hostel: Dilogy (2005-2007) BDRemux 1080p | D</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Хостел: Дилогия / Hostel: Dilogy (2005-2007) BDRemux 1080p | D</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:87dbe49610402fb6917fec6d4d8517566feedf99&amp;dn=rutor.info_%D0%A5%D0%BE%D1%81%D1%82%D0%B5%D0%BB%3A+%D0%94%D0%B8%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F+%2F+Hostel%3A+Dilogy+%282005-2007%29+BDRemux+1080p+%7C+D&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=393479"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/393479"><img src="http://s.rutor.info/t/down.png"> Скачать Hostel_Dilogy_Remux.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://img.lostpic.net/orig_images/2/9/7/2976cacfa2f77a9208d3f34ed5b0b3cd.png" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Хостел<br />
+<b>Оригинальное название: </b>Hostel<br />
+<b>Год выхода: </b>2005<br />
+<b>Жанр: </b> <a href="/tag/1/ужасы" target="_blank">ужасы</a><br />
+<b>Режиссер: </b>Элай Рот<br />
+<b>В ролях: </b>Джей Эрнандез, Дерек Ричардсон, Эйтор Гудйонссон, Барбара Неделякова, Ян Власак, Яна Кадержабкова, Дженнифер Лим, Сеико Йошида, Любомир Буковы, Яна Гавличкова<br />
+<br />
+<b>Описание:</b> Отправившись в секс-тур по Европе, два американских студента и их отмороженный исландский попутчик узнают, что самая сладкая клубничка и самый безбашенный экстрим поджидают их в старушке Братиславе, где восточноевропейские красотки готовы чуть ли ни даром исполнить все желания горячих янки! Вскоре перед туристами гостеприимно распахивает двери отель их грез. Но у любых развлечений есть своя цена, и в этом заведении прайс-лист написан кровью! Сюда часто наведываются любители совсем других забав, и когда они достают свои инструменты, самые больные фантазии меркнут перед их хирургическим мастерством…<br />
+<br />
+ <a href="http://www.imdb.com/title/tt0450278/" target="_blank"><img src="http://s.rutor.info/imdb/pic/0450278.gif" /></a> <a href="http://www.kinopoisk.ru/level/1/film/102343/" target="_blank"><img src="http://www.kinopoisk.ru/rating/102343.gif" /></a><br />
+<br />
+<b>Страна: </b>США <br />
+<b>Продолжительность: </b>01:33:36<br />
+<b>Перевод: </b>Профессиональный (полное дублирование)<br />
++ оригинал<br />
+<br />
+<u>Файл</u><br />
+<b>Кодек: </b>MPEG-2<br />
+<b>Качество: </b>BDRemux 1080p<br />
+<b>Видео: </b>MPEG2, 1920x1080, 23,976fps, 18,3 Мбит/сек<br />
+<b>Аудио 1:</b> Русский DTS, 768 kb/s, 48 kHz (Профессиональный (полное дублирование)<br />
+<b>Аудио 2:</b> Английский DTS, 1536 kHz (Оригинал)<br />
+<b>Субтитры: </b> русские, английские<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://lostpic.net/?photo=1830293" target="_blank"><img src="http://lostpic.net/thumbs_images/8/a/1/8a1f91f26bcc9d0a187944c2e0cc313c.png" /></a> <a href="http://lostpic.net/?photo=1830295" target="_blank"><img src="http://lostpic.net/thumbs_images/d/7/7/d77bb7400d8de56423312be2eacaa768.png" /></a> <a href="http://lostpic.net/?photo=1830296" target="_blank"><img src="http://lostpic.net/thumbs_images/5/d/9/5d9f30cfcc9b9a7e474b5cfc36778a7d.png" /></a></textarea></div><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">MediaInfo</div><div class="hidebody"></div><textarea class="hidearea">Общее<br />
+Полное имя : Hostel Dilogy RemuxHostel.2005.BluRay.Remux.1080p.MPEG2.DTS.mkv<br />
+Формат : Matroska<br />
+Размер файла : 14,0 Гигабайт<br />
+Продолжительность : 1ч 33мин<br />
+Общий поток : 21,5 Мбит/сек<br />
+Дата кодирования : UTC 2010-01-12 14:46:05<br />
+Программа-кодировщик : mkvmerge v2.9.7 (&#039;Tenderness&#039;) built on Jul 1 2009 18:43:35<br />
+Библиотека кодирования : libebml v0.7.7 + libmatroska v0.8.1<br />
+<br />
+Видео<br />
+Формат : MPEG Video<br />
+Идентификатор кодека : V_MPEG2<br />
+Идентификатор кодека/Информация : MPEG 1 or 2 Video<br />
+Продолжительность : 1ч 33мин<br />
+Битрейт : 18,3 Мбит/сек<br />
+Ширина : 1 920 пикс.<br />
+Высота : 1 080 пикс.<br />
+Соотношение кадра : 16/9<br />
+Частота кадров : 23,976 кадр/сек<br />
+Язык : English<br />
+<br />
+Аудио #1<br />
+Формат : DTS<br />
+Формат/Информация : Digital Theater Systems<br />
+Идентификатор кодека : A_DTS<br />
+Продолжительность : 1ч 33мин<br />
+Режим расчёта битрейта : Постоянный<br />
+Битрейт : 768 Кбит/сек<br />
+Канал(ы) : 6 канала(ов)<br />
+Расположение каналов : Front: L C R, Surround: L R, LFE<br />
+Частота : 48,0 КГц<br />
+Разрешение : 24 бит<br />
+Заголовок : DTS 5.1 @ 768 kbit/s<br />
+Язык : Russian<br />
+<br />
+Аудио #2<br />
+Формат : DTS<br />
+Формат/Информация : Digital Theater Systems<br />
+Идентификатор кодека : A_DTS<br />
+Продолжительность : 1ч 33мин<br />
+Режим расчёта битрейта : Постоянный<br />
+Битрейт : 1 536 Кбит/сек<br />
+Канал(ы) : 6 канала(ов)<br />
+Расположение каналов : Front: L C R, Surround: L R, LFE<br />
+Частота : 48,0 КГц<br />
+Разрешение : 24 бит<br />
+Заголовок : DTS 5.1 @ 1536 kbit/s<br />
+Язык : English<br />
+<br />
+Текст #1<br />
+Формат : UTF-8<br />
+Идентификатор кодека : S_TEXT/UTF8<br />
+Идентификатор кодека/Информация : UTF-8 Plain Text<br />
+Язык : Russian<br />
+<br />
+Текст #2<br />
+Формат : UTF-8<br />
+Идентификатор кодека : S_TEXT/UTF8<br />
+Идентификатор кодека/Информация : UTF-8 Plain Text<br />
+Язык : English</textarea></div><br />
+<br />
+<img src="http://img.lostpic.net/orig_images/5/6/0/560344c92ac909d6e3ee92612ba8fa75.png" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Хостел 2<br />
+<b>Оригинальное название: </b>Hostel: Part II<br />
+<b>Год выхода: </b>2007<br />
+<b>Жанр: </b> <a href="/tag/1/ужасы" target="_blank">ужасы</a><br />
+<b>Режиссер: </b>Элай Рот<br />
+<b>В ролях: </b>Лорен Джерман, Роджер Барт, Хизер Матараццо, Бижу Филлипс, Ричард Берджи, Вера Йорданова, Джей Эрнандез, Джордан Лэдд, Милан Князко, Эдвидж Фенек<br />
+<br />
+<b>Описание:</b> Три девушки-студентки, путешествуя по Европе, решили подольше задержаться в Братиславе (Словакия). Сами того не ведая, они попадают в царство мяса и крови. Ведь одна из здешних гостиниц, в которую приезжают наши героини, таит мрачный секрет — таинственную организацию, которая занимается пытками и убийствами. Сумеют ли девушки выбраться из этого кровавого ада живыми?<br />
+<br />
+ <a href="http://www.imdb.com/title/tt0498353/" target="_blank"><img src="http://s.rutor.info/imdb/pic/0498353.gif" /></a> <a href="http://www.kinopoisk.ru/level/1/film/232011/" target="_blank"><img src="http://www.kinopoisk.ru/rating/232011.gif" /></a><br />
+<br />
+<b>Страна: </b>США<br />
+<b>Продолжительность: </b>01:34:58<br />
+<b>Перевод: </b>Профессиональный (полное дублирование)<br />
++ оригинал<br />
+<br />
+<u>Файл</u><br />
+<b>Кодек: </b>MPEG-4<br />
+<b>Качество: </b>BDRemux 1080p<br />
+<b>Видео: </b>MPEG-4, 1920x1080, 23,976fps, 22,9 Мбит/сек<br />
+<b>Аудио 1:</b> Русский AC3, 448 kb/s, 48 kHz (Профессиональный (полное дублирование)<br />
+<b>Аудио 2:</b> Английский DTS, 1536 kHz (Оригинал)<br />
+<b>Субтитры: </b> русские, английские<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://lostpic.net/?photo=1830303" target="_blank"><img src="http://lostpic.net/thumbs_images/d/b/8/db815d29643feae868a0d42a62293960.png" /></a> <a href="http://lostpic.net/?photo=1830304" target="_blank"><img src="http://lostpic.net/thumbs_images/e/6/e/e6ec6ad11439f6b68fc0e94f15368db7.png" /></a> <a href="http://lostpic.net/?photo=1830305" target="_blank"><img src="http://lostpic.net/thumbs_images/4/2/d/42d985505aaa7f07f6e2db42dfbbcc61.png" /></a></textarea></div><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">MediaInfo</div><div class="hidebody"></div><textarea class="hidearea">Общее<br />
+Полное имя : Hostel Dilogy RemuxHostel.Part.II.BluRay.Remux.1080p.x264.DTS.mkv<br />
+Формат : Matroska<br />
+Размер файла : 17,2 Гигабайт<br />
+Продолжительность : 1ч 34мин<br />
+Общий поток : 25,9 Мбит/сек<br />
+Дата кодирования : UTC 2010-01-16 16:20:42<br />
+Программа-кодировщик : mkvmerge v2.9.7 (&#039;Tenderness&#039;) built on Jul 1 2009 18:43:35<br />
+Библиотека кодирования : libebml v0.7.7 + libmatroska v0.8.1<br />
+Видео<br />
+<br />
+Формат : AVC<br />
+Формат/Информация : Advanced Video Codec<br />
+Профайл формата : High@L4.1<br />
+Настройка CABAC формата : Да<br />
+Настройка ReFrames формата : 2 кадры<br />
+Режим смешивания : Container profile=Unknown@0.0<br />
+Идентификатор кодека : V_MPEG4/ISO/AVC<br />
+Продолжительность : 1ч 34мин<br />
+Битрейт : 22,9 Мбит/сек<br />
+Ширина : 1 920 пикс.<br />
+Высота : 1 080 пикс.<br />
+Соотношение кадра : 16/9<br />
+Частота кадров : 23,976 кадр/сек<br />
+Разрешение : 24 бит<br />
+Колориметрия : 4:2:0<br />
+Тип развёртки : Прогрессивная<br />
+Язык : English<br />
+<br />
+Аудио #1<br />
+Формат : AC-3<br />
+Формат/Информация : Audio Coding 3<br />
+Идентификатор кодека : A_AC3<br />
+Продолжительность : 1ч 34мин<br />
+Режим расчёта битрейта : Постоянный<br />
+Битрейт : 448 Кбит/сек<br />
+Канал(ы) : 6 канала(ов)<br />
+Расположение каналов : Front: L C R, Surround: L R, LFE<br />
+Частота : 48,0 КГц<br />
+Заголовок : AC3 5.1 @ 448 kbit/s<br />
+Язык : Russian<br />
+<br />
+Аудио #2<br />
+Формат : DTS<br />
+Формат/Информация : Digital Theater Systems<br />
+Идентификатор кодека : A_DTS<br />
+Продолжительность : 1ч 34мин<br />
+Режим расчёта битрейта : Постоянный<br />
+Битрейт : 1 536 Кбит/сек<br />
+Канал(ы) : 6 канала(ов)<br />
+Расположение каналов : Front: L C R, Surround: L R, LFE<br />
+Частота : 48,0 КГц<br />
+Разрешение : 24 бит<br />
+Заголовок : DTS 5.1 @ 1536 kbit/s<br />
+Язык : English<br />
+<br />
+Текст #1<br />
+Формат : UTF-8<br />
+Идентификатор кодека : S_TEXT/UTF8<br />
+Идентификатор кодека/Информация : UTF-8 Plain Text<br />
+Язык : Russian<br />
+<br />
+Текст #2<br />
+Формат : UTF-8<br />
+Идентификатор кодека : S_TEXT/UTF8<br />
+Идентификатор кодека/Информация : UTF-8 Plain Text<br />
+Язык : English</textarea></div></td></tr>
+
+<tr><td class="header">Оценка</td><td>1 из 10 (2 голосов, самая низкая оценка - 1, самая высокая - 1)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/kino" target="_blank">Зарубежные фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>7</td></tr>
+<tr><td class="header">Качают</td><td>7</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 6:19:05 (24 минуты назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 15:07:32  (16 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>31.19&nbsp;GB  (33494476309 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 393479);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>13&nbsp;Апр&nbsp;17</td><td ><a class="downgif" href="http://d.rutor.info/download/561051"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:c24dbc5e2b33ecf9603a50968520dd1f3b4769c3&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/561051/hostel_hostel-2005-bdrip-avc-d">Хостел / Hostel (2005) BDRip-AVC | D </a></td> <td align="right">5<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">744.11&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="tum"><td>12&nbsp;Апр&nbsp;17</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/561224"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:49b0cff712b86ac7764aab37aa0d329c1521e26c&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/561224/hostel-3_hostel-part-iii-2011-bdrip-avc-p">Хостел 3 / Hostel: Part III (2011) BDRip-AVC | P </a></td> 
+<td align="right">743.55&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>11&nbsp;Апр&nbsp;17</td><td ><a class="downgif" href="http://d.rutor.info/download/561057"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:384e8c28ae6d729e550bafcf06bba7a26e3f2769&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/561057/hostel-2_hostel-part-ii-2007-bdrip-avc-d">Хостел 2 / Hostel: Part II (2007) BDRip-AVC | D </a></td> <td align="right">3<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">744.00&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;7</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="tum"><td>14&nbsp;Май&nbsp;15</td><td ><a class="downgif" href="http://d.rutor.info/download/431810"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:358865101ffa131b2685d8da1033f6c8416d1bd1&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/431810/hostel-2_hostel-part-ii-2007-bdrip-avc-d">Хостел 2 / Hostel: Part II (2007) BDRip-AVC | D </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.46&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>27&nbsp;Янв&nbsp;15</td><td ><a class="downgif" href="http://d.rutor.info/download/223557"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:c0f339037d8a5a3b888e3e8f06738bbb26c24417&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/223557/hostel-3_hostel-part-iii-2011-dvd5-ot-new-team-szhatyj-p">Хостел 3 / Hostel: Part III (2011) DVD5 от New-Team | сжатый | P </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">4.24&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="tum"><td>04&nbsp;Сен&nbsp;13</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/302864"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:143ecb14b200c96fce4a6c5b44b4c0fe90ef100b&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/302864/hostel-3_hostel-part-iii-2011-bdrip-720p-ot-leonardo-and-scarabey">Хостел 3 / Hostel: Part III (2011) BDRip 720p от Leonardo and Scarabey </a></td> 
+<td align="right">3.43&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>16&nbsp;Июл&nbsp;13</td><td ><a class="downgif" href="http://d.rutor.info/download/293788"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:be4263b95df93a34fda2431d78da173fd040f72b&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/293788/hostel-2_hostel-part-ii-2007-bdrip-720p-ot-leonardo-d">Хостел 2 / Hostel: Part II (2007) BDRip 720p от Leonardo | D </a></td> <td align="right">3<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">4.36&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/1/0/0/Hostel" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/393479.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (2)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=393479">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(393479);">Промодерировать раздачу</span> | <span onclick="confirm_delete(393479);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/393479">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>ZwerGl</b></td> <td>09-05-2018 5:02:40 (2 часа назад)</td> <td>Оценил на: <b>1</b></td> <td align="right"><span id="c_3199672"></span><script type="text/javascript">cOptions(1506508,3199672);</script></td></tr><tr><td class="c_t" colspan=4><b>qpavel</b> - так спецом растят поколения олигофренов же.. ))<br />
+<br />
+П.С.<br />
+ Мне вот тоже нравится но я считаю что зря они такое снимают..</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>r3n3gad3</b></td> <td>08-05-2018 15:38:27 (15 часов назад)</td> <td></td> <td align="right"><span id="c_3199419"></span><script type="text/javascript">cOptions(1466073,3199419);</script></td></tr><tr><td class="c_t" colspan=4>А 3 часть чего забыл ?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>qpavel</b></td> <td>26-11-2014 13:36:21 (42 месяца назад)</td> <td>Оценил на: <b>1</b></td> <td align="right"><span id="c_2294242"></span><script type="text/javascript">cOptions(262673,2294242);</script></td></tr><tr><td class="c_t" colspan=4>Фильм от больного для больных. Я просто недоумеваю откуда у этой картины такие оценки, неужели столько много &quot;людей&quot;, которым нравиться как истязают и зверски мучают до смерти ради забавы. И в этой картине акцент идет именно на издевательство, снято дотошно чё да как делать - прям пособие, кто не знал как надо, теперь будет в курсе)<br />
+режиссер Элай Рот - 3 буя ему в рот).<br />
+1 за фильм, даже -1.</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

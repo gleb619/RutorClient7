@@ -1,0 +1,497 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Два дня в долине / 2 Days in the Valley (1996) WEB-DLRip 720p от KORSAR</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Два дня в долине / 2 Days in the Valley (1996) WEB-DLRip 720p от KORSAR</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:ae277978b507c78679edbd90a18205f24542e190&amp;dn=rutor.info_%D0%94%D0%B2%D0%B0+%D0%B4%D0%BD%D1%8F+%D0%B2+%D0%B4%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5+%2F+2+Days+in+the+Valley+%281996%29+WEB-DLRip+720p+%D0%BE%D1%82+KORSAR&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630499"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630499"><img src="http://s.rutor.info/t/down.png"> Скачать 2.Days.in.the.Valley.1996.WEBRip.720p.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i105.fastpic.ru/big/2018/0508/56/ac1d0ed5b462b5eb562fcfc0f616b556.png" style="float:right;" /><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Два дня в долине<br />
+<b>Оригинальное название: </b>2 Days in the Valley<br />
+<b>Год выхода: </b>1996<br />
+<b>Жанр: </b> <a href="/tag/1/Триллер" target="_blank">Триллер</a>, <a href="/tag/1/комедия" target="_blank">комедия</a>, <a href="/tag/1/криминал" target="_blank">криминал</a><br />
+<b>Режиссер: </b>Джон Херцфелд<br />
+<b>В ролях: </b>Дэнни Айелло, Джеймс Спэйдер, Шарлиз Терон, Тери Хэтчер, Эрик Столц, Джефф Дэниелс, Гленн Хедли, Питер Хортон, Марша Мейсон, Грегг Краттуэлл<br />
+<br />
+<b>О фильме:</b> Известная спортсменка Бекки Фокс нанимает двух киллеров: Ли и Дозмо, чтобы убить своего бывшего мужа и получить страховку. Эта часть плана проходит успешно, а вот дальше все идет кувырком. <br />
+ <br />
+Убитый остается в живых, сообщница становится жертвой, самоубийца — убийцей, а два детектива Элвин и Уэс, работающие по тривиальному делу с массажным салоном, оказываются чересчур близко от летящих пуль.  <br />
+<br />
+ <a href="http://www.imdb.com/title/tt0115438/" target="_blank"><img src="http://s.rutor.info/imdb/pic/0115438.gif" /></a><a href="https://www.kinopoisk.ru/film/dva-dnya-v-doline-1996-6183/" target="_blank"><img src="https://rating.kinopoisk.ru/6183.gif" /></a><br />
+<br />
+<b>Страна: </b>США<br />
+<b>Студия: </b>Redemption Productions, Rysher Entertainment<br />
+<b>Продолжительность: </b>01:44:44<br />
+<b>Перевод: </b>Профессиональный (многоголосый, закадровый) + Авторский (одноголосый, закадровый) [А. Гаврилов] + Украинский + Оригинал [английский]<br />
+<br />
+<u>Файл</u><br />
+<b>Кодек: </b>х264<br />
+<b>Качество: </b>WEB-DLRip 720p<br />
+<b>Видео: </b>MPEG-4 AVC, 1280x544, 23.976 fps, 4386 Кбит/с<br />
+<b>Аудио:</b> AC3 Dolby Digital, 48 kHz, 2 ch, ~192 kbps avg <span style="color:green;">| Профессиональный (многоголосый, закадровый) со вставками Гаврилова</span><br />
+<b>Аудио:</b> AC3 Dolby Digital, 48 kHz, 2 ch, ~192 kbps avg <span style="color:green;">| [А. Гаврилов]</span><br />
+<b>Аудио:</b> AC3 Dolby Digital, 48 kHz, 2 ch, ~192 kbps avg <span style="color:green;">| Ukrainian</span> | Многоголосый закадровый, ТакТребаПродакшн|<br />
+<b>Аудио:</b> AC3 Dolby Digital, 48 kHz, 6 ch, ~ 640 kbps avg <span style="color:green;">| ENG</span> <br />
+<b>Субтитры: </b>Английские<br />
+<b>Навигация по главам: </b>Есть<br />
+<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://lostpic.net/image/Qtb3" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/c89b980ba1dedc9d8d25075d9aa38227.th.png" /></a> <a href="http://lostpic.net/image/Qtbf" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/f17badb93ea268643b88e82880851ee0.th.png" /></a> <a href="http://lostpic.net/image/Qtbo" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/58b29461d3e3fc4b76b7640fb0f2f2f1.th.png" /></a> <a href="http://lostpic.net/image/Qtby" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/078c71ee390b0487682ba24cd46a085c.th.png" /></a> <a href="http://lostpic.net/image/Qtb9" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/277af15e6b4526bf1162e8bd886f3435.th.png" /></a> <a href="http://lostpic.net/image/QtbN" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/7098380b975408fe5370cc668fb45335.th.png" /></a> <a href="http://lostpic.net/image/QtbT" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/bf4069fcfec7f0fe59868b705ed2aa13.th.png" /></a> <a href="http://lostpic.net/image/QtbX" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/699ab23da691f54d0c754a8e31f52d79.th.png" /></a> <a href="http://lostpic.net/image/Qtbj" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/36d057054547bfb8888692c3b70fe49b.th.png" /></a> <a href="http://lostpic.net/image/Qtbd" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/68ae011454d91fb8fde31e0634c958eb.th.png" /></a> <a href="http://lostpic.net/image/QtbG" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/968ba629ad8189e5fb74f9f7309df63e.th.png" /></a> <a href="http://lostpic.net/image/QtbJ" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/13ed985c11da26b435d34801f9988e52.th.png" /></a> <a href="http://lostpic.net/image/QtbO" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/1281ceb40a90e070dd8a446807922234.th.png" /></a> <a href="http://lostpic.net/image/Qtb2" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/4ac2eceaf628578eaa514b55b758ee18.th.png" /></a> <a href="http://lostpic.net/image/Qtb4" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/b7f4559ec43c356f942274406d68cb7b.th.png" /></a> <a href="http://lostpic.net/image/QtbL" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/51bd17ac3851d6ff4e0a417ce5ada177.th.png" /></a> <a href="http://lostpic.net/image/Qtbs" target="_blank"><img src="http://img11.lostpic.net/2017/06/14/370a94d1b8df36ebc05a435d4b6d0d99.th.png" /></a> </textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Инфо файл</div><div class="hidebody"></div><textarea class="hidearea"><br />
+Общее<br />
+Уникальный идентификатор         : 238698276669871461723321262511943704060 (0xB3939DA9BC6059C1B8523B9B2499DDFC)<br />
+Полное имя                       : 2.Days.in.the.Valley.1996.WEBRip.720p.mkv<br />
+Формат                           : Matroska<br />
+Размер файла                     : 4,10 Гбайт<br />
+Продолжительность                : 1 ч. 44 м.<br />
+Общий поток                      : 5599 Кбит/сек<br />
+Дата кодирования                 : UTC 2017-06-14 05:49:32<br />
+Программа кодирования            : mkvmerge v5.8.0 (&#039;No Sleep / Pillow&#039;) built on Sep  2 2012 15:37:04<br />
+Библиотека кодирования           : libebml v1.2.3 + libmatroska v1.3.0 <br />
+ <br />
+Видео<br />
+Идентификатор                    : 1<br />
+Формат                           : AVC<br />
+Формат/Информация                : Advanced Video Codec<br />
+Профиль формата                  : High@L4.1<br />
+Параметр CABAC формата           : Да<br />
+Параметр ReFrames формата        : 12 кадры<br />
+Идентификатор кодека             : V_MPEG4/ISO/AVC<br />
+Продолжительность                : 1 ч. 44 м.<br />
+Битрейт                          : 4386 Кбит/сек<br />
+Ширина                           : 1280 пикс.<br />
+Высота                           : 544 пикс.<br />
+Соотношение сторон               : 2,35:1<br />
+Частота кадров                   : 23,976 кадр/сек<br />
+Цветовое пространство            : YUV<br />
+Подвыборка цветности             : 4:2:0<br />
+Битовая глубина                  : 8 бит<br />
+Тип развёртки                    : Прогрессивная<br />
+Бит/(Пиксели*Кадры)              : 0.263<br />
+Размер потока                    : 3,13 Гбайт (76%)<br />
+Заголовок                        : RIP | MZMA<br />
+Библиотека кодирования           : x264 core 150 r2833kMod df79067<br />
+Настройки программы              : cabac=1 / ref=12 / deblock=1:-3:-3 / analyse=0x3:0x113 / me=umh / subme=11 / psy=1 / fade_compensate=0.00 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=48 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=16 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=2pass / mbtree=1 / bitrate=4386 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / vbv_maxrate=50000 / vbv_bufsize=62500 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=3:1.00<br />
+Язык                             : English<br />
+Основные цвета                   : BT.709-5, BT.1361, IEC 61966-2-4, SMPTE RP177<br />
+Характеристики трансфера         : BT.709-5, BT.1361<br />
+Коэффициенты матрицы             : BT.709-5, BT.1361, IEC 61966-2-4 709, SMPTE RP177 <br />
+ <br />
+Аудио #1<br />
+Идентификатор                    : 2<br />
+Формат                           : AC-3<br />
+Формат/Информация                : Audio Coding 3<br />
+Расширение режима                : CM (complete main)<br />
+Идентификатор кодека             : A_AC3<br />
+Продолжительность                : 1 ч. 44 м.<br />
+Вид битрейта                     : Постоянный<br />
+Битрейт                          : 192 Кбит/сек<br />
+Канал(ы)                         : 2 канала(ов)<br />
+Расположение каналов             : Front: L R<br />
+Частота                          : 48,0 КГц<br />
+Битовая глубина                  : 16 бит<br />
+Метод сжатия                     : С потерями<br />
+Размер потока                    : 144 Мбайт (3%)<br />
+Заголовок                        : MVO<br />
+Язык                             : Russian <br />
+ <br />
+Аудио #2<br />
+Идентификатор                    : 3<br />
+Формат                           : AC-3<br />
+Формат/Информация                : Audio Coding 3<br />
+Расширение режима                : CM (complete main)<br />
+Идентификатор кодека             : A_AC3<br />
+Продолжительность                : 1 ч. 44 м.<br />
+Вид битрейта                     : Постоянный<br />
+Битрейт                          : 192 Кбит/сек<br />
+Канал(ы)                         : 2 канала(ов)<br />
+Расположение каналов             : Front: L R<br />
+Частота                          : 48,0 КГц<br />
+Битовая глубина                  : 16 бит<br />
+Метод сжатия                     : С потерями<br />
+Размер потока                    : 144 Мбайт (3%)<br />
+Заголовок                        : AVO | А. Гаврилов<br />
+Язык                             : Russian <br />
+ <br />
+Аудио #3<br />
+Идентификатор                    : 4<br />
+Формат                           : AC-3<br />
+Формат/Информация                : Audio Coding 3<br />
+Расширение режима                : CM (complete main)<br />
+Идентификатор кодека             : A_AC3<br />
+Продолжительность                : 1 ч. 44 м.<br />
+Вид битрейта                     : Постоянный<br />
+Битрейт                          : 192 Кбит/сек<br />
+Канал(ы)                         : 2 канала(ов)<br />
+Расположение каналов             : Front: L R<br />
+Частота                          : 48,0 КГц<br />
+Битовая глубина                  : 16 бит<br />
+Метод сжатия                     : С потерями<br />
+Размер потока                    : 144 Мбайт (3%)<br />
+Заголовок                        : MVO | ТакТребаПродакшн<br />
+Язык                             : Ukrainian <br />
+ <br />
+Аудио #4<br />
+Идентификатор                    : 5<br />
+Формат                           : E-AC-3<br />
+Формат/Информация                : Audio Coding 3<br />
+Идентификатор кодека             : A_EAC3<br />
+Продолжительность                : 1 ч. 44 м.<br />
+Вид битрейта                     : Постоянный<br />
+Битрейт                          : 640 Кбит/сек<br />
+Канал(ы)                         : 6 канала(ов)<br />
+Расположение каналов             : Front: L C R, Side: L R, LFE<br />
+Частота                          : 48,0 КГц<br />
+Метод сжатия                     : С потерями<br />
+Размер потока                    : 480 Мбайт (11%)<br />
+Заголовок                        : Original<br />
+Язык                             : English <br />
+ <br />
+Текст<br />
+Идентификатор                    : 6<br />
+Формат                           : UTF-8<br />
+Идентификатор кодека             : S_TEXT/UTF8<br />
+Идентификатор кодека/Информация  : UTF-8 Plain Text<br />
+Язык                             : English <br />
+ <br />
+Меню<br />
+00:00:00.000                     : :Title Credits<br />
+00:09:32.554                     : :Sixty Seconds to Live<br />
+00:17:41.554                     : :Valley Vice<br />
+00:23:57.554                     : :The Uninvited Guest<br />
+00:35:04.554                     : :Getting Involved<br />
+00:44:50.554                     : :Home for Bogey<br />
+00:52:00.554                     : :Duress and Necessity<br />
+00:56:35.554                     : :Killing Time<br />
+01:12:43.554                     : :The Spandex Catfight<br />
+01:23:59.554                     : :Definitely Dying<br />
+01:29:14.554                     : :Almost, But Not Quite<br />
+01:37:29.554                     : :End Credits</textarea></div><br />
+<br />
+<b>Релиз от: </b><img src="https://a.radikal.ru/a20/1803/8d/0323a36ccadd.gif" /></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/884570/0" target="_blank">Parallelo</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/kino" target="_blank">Зарубежные фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>7</td></tr>
+<tr><td class="header">Качают</td><td>10</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (17 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>09-05-2018 6:36:36  (2 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>4.10&nbsp;GB  (4401240412 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630499);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>20&nbsp;Фев&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/571847"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:7452abb8a9ada0bdc10c8b9c36959b7f2c8fb9b4&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/571847/dva-dnja-v-doline_2-days-in-the-valley-1996-webrip-avc-p-a">Два дня в долине / 2 Days in the Valley (1996) WEBRip-AVC | P, A </a></td> <td align="right">3<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">2.19&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;3</span></td></tr><tr class="tum"><td>12&nbsp;Июн&nbsp;17</td><td ><a class="downgif" href="http://d.rutor.info/download/571862"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:6f15be65d9bb9a3b74a12133c7643db3af0660a6&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/571862/dva-dnja-v-doline_2-days-in-the-valley-1996-webrip-p">Два дня в долине / 2 Days in the Valley (1996) WEBRip | P </a></td> <td align="right">5<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.45&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;7</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;12</span></td></tr><tr class="gai"><td>12&nbsp;Июн&nbsp;17</td><td ><a class="downgif" href="http://d.rutor.info/download/571849"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:1c14eb92af2656ef2cef699e37d74c8ca10c95e4&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/571849/dva-dnja-v-doline_2-days-in-the-valley-1996-webrip-1080p-p-a">Два дня в долине / 2 Days in the Valley (1996) WEBRip 1080p | P, A </a></td> <td align="right">5<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">8.64&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;7</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;3</span></td></tr><tr class="tum"><td>18&nbsp;Авг&nbsp;15</td><td ><a class="downgif" href="http://d.rutor.info/download/451519"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:81fa01189b98e3e7f33e9a50c93cf66b6178042f&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/451519/dva-dnja-v-doline_2-days-in-the-valley-1996-hdtvrip-ot-leon-masl-p-a">Два дня в долине / 2 Days in the Valley (1996) HDTVRip от Leon-masl | P, A </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.46&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>23&nbsp;Май&nbsp;13</td><td ><a class="downgif" href="http://d.rutor.info/download/282339"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:bc85cb0c2c1341c9b2211b52efd5033aa8856bc0&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/282339/dva-dnja-v-doline_2-days-in-the-valley-1996-hdtvrip-720p-p-a">Два дня в долине / 2 Days in the Valley (1996) HDTVRip 720p | P, A </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">6.15&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="tum"><td>07&nbsp;Июл&nbsp;12</td><td ><a class="downgif" href="http://d.rutor.info/download/207055"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:9c85ee8aa16817ad8ae6ede856b969483b41ce7f&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/207055/dva-dnja-v-doline_2-days-in-the-valley-1996-hdtvrip-avc-p-a">Два дня в долине / 2 Days in the Valley (1996) HDTVRip-AVC | P, A </a></td> <td align="right">4<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">2.18&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>01&nbsp;Дек&nbsp;11</td><td ><a class="downgif" href="http://d.rutor.info/download/156144"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:06fe8c837a087cbfc0ca35c75f357e52be24d68a&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/156144/dva-dnja-v-doline_2-days-in-the-valley-1996-dvdrip-p-a">Два дня в долине / 2 Days in the Valley (1996) DVDRip | P, A </a></td> <td align="right">3<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.46&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/1/0/0/Два дня в долине" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630499.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (1)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630499">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630499);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630499);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630499">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

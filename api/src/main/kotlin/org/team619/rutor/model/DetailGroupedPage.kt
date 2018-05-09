@@ -5,4 +5,4 @@ import org.team619.rutor.core.Page
 /**
  * Created by BORIS on 07.08.2016.
  */
-class DetailGroupedPage(val groups: List<Group>) : Page
+data class DetailGroupedPage(val groups: List<Group>) : Page

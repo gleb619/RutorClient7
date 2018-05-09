@@ -1,0 +1,361 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Бруклин 9-9 / Brooklyn Nine-Nine [05х01-20 из 22] (2017) HDTVRip 720p | Sunshine Studio</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Бруклин 9-9 / Brooklyn Nine-Nine [05х01-20 из 22] (2017) HDTVRip 720p | Sunshine Studio</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:d1bbd892f9802e35b2c6861024f24669a65f7151&amp;dn=rutor.info_%D0%91%D1%80%D1%83%D0%BA%D0%BB%D0%B8%D0%BD+9-9+%2F+Brooklyn+Nine-Nine+%5B05%D1%8501-20+%D0%B8%D0%B7+22%5D+%282017%29+HDTVRip+720p+%7C+Sunshine+Studio&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=620414"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/620414"><img src="http://s.rutor.info/t/down.png"> Скачать Brooklyn.Nine-Nine.S05.720p.SunshineStuido.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i89.fastpic.ru/big/2017/0927/c4/3f4b134ee32be80ac230de30090259c4.jpg" /><br />
+<br />
+<u>Информация о сериале</u><br />
+<b>Название:</b> Бруклин 9-9<br />
+<b>Оригинальное название:</b> Brooklyn Nine-Nine<br />
+<b>Год выпуска:</b> 2017<br />
+<b>Жанр:</b>  <a href="/tag/4/Комедия" target="_blank">Комедия</a>, <a href="/tag/4/ситком" target="_blank">ситком</a>, <a href="/tag/4/детектив" target="_blank">детектив</a><br />
+<b>Режиссер:</b> Фил Лорд, Крис Миллер, Джейсон Энслер<br />
+<b>В ролях:</b> Энди Сэмберг, Андре Брогер, Терри Крюс, Мелисса Фумеро, Джо Ло Труглио, Стефани Беатриз, Джейд Или, Фред Армизен, Дирк Блокер, Ричард Финкельштейн<br />
+<br />
+<b>О сериале:</b><br />
+История о том, что происходит, когда у детектива, не воспринимающего ничего серьезно, появляется новый руководитель, который хочет, чтобы он рос и с уважением относился к своей должности.<br />
+<br />
+ <a href="http://www.imdb.com/title/tt2467372/" target="_blank"><img src="http://s.rutor.info/imdb/pic/2467372.gif" /></a> <a href="http://www.kinopoisk.ru/film/714102/" target="_blank"><img src="http://www.kinopoisk.ru/rating/714102.gif" /></a><br />
+<br />
+<b>Выпущено:</b> США, FOX, 20th Century Fox Television<br />
+<b>Продолжительность:</b> 20 x ~ 00:23:00<br />
+<b>Перевод:</b> Любительский (многоголосый) SunshineStudio<br />
+<br />
+<u>Файл</u><br />
+<b>Качество:</b> HDTVRip (720p)<br />
+<b>Видео:</b> MPEG-4 AVC, ~ 3000 Кбит/с, 1280x720<br />
+<b>Аудио:</b> Русский (AC3, 2 ch, 192 Кбит/с)<br />
+<b>Субтитры: </b>Отсутствуют<br />
+<span style="color:#008000;"><u><b>Присутствует реклама!</b></u></span><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://fastpic.ru/view/91/2017/0927/b9511ba5ddd2b60d0f7acaa5a32c1dbe.png.html" target="_blank"><img src="http://i91.fastpic.ru/thumb/2017/0927/be/b9511ba5ddd2b60d0f7acaa5a32c1dbe.jpeg" /></a> <a href="http://fastpic.ru/view/91/2017/0927/5055b7dc745259505f403a973dd45ed6.png.html" target="_blank"><img src="http://i91.fastpic.ru/thumb/2017/0927/d6/5055b7dc745259505f403a973dd45ed6.jpeg" /></a> <a href="http://fastpic.ru/view/91/2017/0927/0e18e38cbe04c2fec9854d16be5eb958.png.html" target="_blank"><img src="http://i91.fastpic.ru/thumb/2017/0927/58/0e18e38cbe04c2fec9854d16be5eb958.jpeg" /></a> <a href="http://fastpic.ru/view/91/2017/0927/7d66b2faccd76738b596f2752a9002de.png.html" target="_blank"><img src="http://i91.fastpic.ru/thumb/2017/0927/de/7d66b2faccd76738b596f2752a9002de.jpeg" /></a></textarea></div><br />
+<br />
+<b>Релиз от: </b><img src="http://i86.fastpic.ru/big/2017/0103/5f/7cdcdeb7056509693775e91daa25b95f.png" /></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1475863/0" target="_blank">Sunnyboy</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/seriali" target="_blank">Сериалы </a></td></tr>
+<tr><td class="header">Раздают</td><td>2</td></tr>
+<tr><td class="header">Качают</td><td>29</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (10 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 12:18:18  (20 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>9.78&nbsp;GB  (10500322477 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 620414);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>07&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/589352"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:03d99243314001c4affbfa8ef18c6f474a92fbed&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/589352/bruklin-9-9_brooklyn-nine-nine-05x01-19-iz-22-2017-web-dlrip-jaskier">Бруклин 9-9 / Brooklyn Nine-Nine [05x01-19 из 22] (2017) WEB-DLRip | Jaskier </a></td> 
+<td align="right">4.78&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;15</span></td></tr><tr class="tum"><td>07&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/589350"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:1253650e039d34498028afa7a3afc5cfc4a1afaa&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/589350/bruklin-9-9_brooklyn-nine-nine-05x01-19-iz-22-2017-web-dl-720p-jaskier">Бруклин 9-9 / Brooklyn Nine-Nine [05x01-19 из 22] (2017) WEB-DL 720p | Jaskier </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">10.14&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;9</span></td></tr><tr class="gai"><td>29&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/629008"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:fcdb51a5821774349eb2acededd4b888b76eb7fc&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/629008/bruklin-9-9_brooklyn-nine-nine-05x01-17-iz-22-2017-web-dlrip-newstudio">Бруклин 9-9 / Brooklyn Nine-Nine [05x01-17 из 22] (2017) WEB-DLRip | NewStudio </a></td> 
+<td align="right">4.98&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;13</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;19</span></td></tr><tr class="tum"><td>24&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/588500"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:412ecf49d065276b3c617ee4a400a1f970e59bff&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/588500/bruklin-9-9_brooklyn-nine-nine-05x01-17-iz-22-2017-webrip-720p-ideafilm">Бруклин 9-9 / Brooklyn Nine-Nine [05x01-17 из 22] (2017) WEBRip 720p | IdeaFilm </a></td> 
+<td align="right">13.05&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;5</span></td></tr><tr class="gai"><td>24&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/588502"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:b446c20abccd14f083505d0a198daf71844dd011&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/588502/bruklin-9-9_brooklyn-nine-nine-05x01-17-iz-22-2017-webrip-1080p-ideafilm">Бруклин 9-9 / Brooklyn Nine-Nine [05x01-17 из 22] (2017) WEBRip 1080p | IdeaFilm </a></td> 
+<td align="right">20.25&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;0</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;7</span></td></tr><tr class="tum"><td>24&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/588499"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:cda95970455048b45f809f076da3e02ca86f6a06&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/588499/bruklin-9-9_brooklyn-nine-nine-05x01-17-iz-22-2017-webrip-ideafilm">Бруклин 9-9 / Brooklyn Nine-Nine [05x01-17 из 22] (2017) WEBRip | IdeaFilm </a></td> 
+<td align="right">4.91&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;6</span></td></tr><tr class="gai"><td>10&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/588771"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:59651589eb1823643ad1617e93d9c2c189f8d595&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/588771/bruklin-9-9_brooklyn-nine-nine-05x01-14-iz-22-2017-web-dl-1080p-newstudio">Бруклин 9-9 / Brooklyn Nine-Nine [05x01-14 из 22] (2017) WEB-DL 1080p | NewStudio </a></td> 
+<td align="right">14.06&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;11</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/4/0/0/Brooklyn Nine-Nine" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/620414.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (20)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=620414">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(620414);">Промодерировать раздачу</span> | <span onclick="confirm_delete(620414);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/620414">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>Int3R</b></td> <td>17-04-2018 2:48:43 (22 дня назад)</td> <td></td> <td align="right"><span id="c_3189744"></span><script type="text/javascript">cOptions(1011422,3189744);</script></td></tr><tr><td class="c_t" colspan=4>11 серий до перерыва было.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Bendergod</b></td> <td>16-04-2018 19:03:31 (23 дня назад)</td> <td></td> <td align="right"><span id="c_3189520"></span><script type="text/javascript">cOptions(1518431,3189520);</script></td></tr><tr><td class="c_t" colspan=4>А напомните, там был перерыв в съемках или что? где-то 14 серий, где-то 15 в раздачах, что смотреть то в итоге?)</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

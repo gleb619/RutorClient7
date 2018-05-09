@@ -1,0 +1,391 @@
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link href="http://s.rutor.info/css.css" rel="stylesheet" type="text/css" media="screen" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.php?category" />
+	<link rel="shortcut icon" href="http://s.rutor.info/favicon.ico" />
+	<title>rutor.info :: Симпсоны / The Simpsons  [29x01-18 из 22] (2017)  WEB-DL 1080p | VO-production</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/jquery.cookie-min.js"></script>
+	<script type="text/javascript" src="http://s.rutor.info/t/functions.js"></script>
+	
+</head>
+<body>
+
+<div id="all">
+
+<div id="up">
+
+<div id="logo">
+	<a href="/"><img src="http://s.rutor.info/logo.jpg" alt="rutor.info logo" /></a>
+</div>
+
+<table id="news_table">
+  <tr><td colspan="2"><strong>Новости трекера</strong></td></tr><tr><td class="news_date">30-Дек</td>
+  	<td class="news_title"><a href="http://rutor.info/torrent/472" target="_blank"  id="news88" onclick="$.cookie('news', '88', {expires: 365});">У RUTOR.ORG - Новый Адрес: RUTOR.INFO</a></td></tr><tr><td class="news_date">29-Ноя</td>
+  	<td class="news_title"><a href="/torrent/178905" target="_blank"  id="news86">Вечная блокировка в России</a></td></tr><tr><td class="news_date">09-Окт</td>
+  	<td class="news_title"><a href="/torrent/145012" target="_blank"  id="news59">Путеводитель по RUTOR.org: Правила, Руководства, Секреты</a></td></tr></table>
+  <script type="text/javascript">
+  $(document).ready(function(){if($.cookie("news")<88){$("#news88").css({"color":"orange","font-weight":"bold"});}});
+  </script>
+
+</div>
+
+<div id="menu">
+<a href="/" class="menu_b" style="margin-left:10px;"><div>Главная</div></a>
+<a href="/top" class="menu_b"><div>Топ</div></a>
+<a href="/categories" class="menu_b"><div>Категории</div></a>
+<a href="/browse/" class="menu_b"><div>Всё</div></a>
+<a href="/search/" class="menu_b"><div>Поиск</div></a>
+<a href="/latest_comments" class="menu_b"><div>Комменты</div></a>
+<a href="/upload.php" class="menu_b"><div>Залить</div></a>
+<a href="/jabber.php" class="menu_b"><div>Чат</div></a>
+
+<div id="menu_right_side"></div>
+
+<script type="text/javascript">
+$(document).ready(function()
+{
+	var menu_right;
+	if ($.cookie('userid') > 0)
+	{
+		menu_right = '<a href="/users.php?logout" class="logout" border="0"><img src="http://s.rutor.info/i/viti.gif" alt="logout" /></a><span class="logout"><a href="/profile.php" class="logout"  border="0"><img src="http://s.rutor.info/i/profil.gif" alt="profile" /></a>';
+	}
+	else
+	{
+		menu_right = '<a href="/users.php" class="logout" border="0"><img src="http://s.rutor.info/i/zaiti.gif" alt="login" /></a>';
+	}
+	$("#menu_right_side").html(menu_right);
+});
+</script>
+
+</div>
+<h1>Симпсоны / The Simpsons  [29x01-18 из 22] (2017)  WEB-DL 1080p | VO-production</h1>
+</div>
+<div id="ws">
+<div id="content">
+
+<center>
+<div id="b_tz_208" class="b_tz_on_top" onmouseup="window.event.cancelBubble=true"></div>
+</center>
+
+
+
+<div id="msg1"></div>
+<script type="text/javascript">
+$(document).ready(function()
+{
+	if ($.cookie('msg') != null)
+	{
+		if ($.cookie('msg').length > 0)
+		{
+			var msg2 = '<div id="warning">' + $.cookie('msg').replace(/["+"]/g, ' ') + '</div>';
+			$("#msg1").html(msg2);
+			$.cookie('msg', '', { expires: -1 });
+		}
+	}
+});
+</script><script type="text/javascript">function toggle_visibility(id) { var e = document.getElementById(id); if(e.style.display == 'block') e.style.display = 'none'; else e.style.display = 'block'; }</script>
+
+
+
+<div id="download">
+<a href="magnet:?xt=urn:btih:f9b564fe1716cc347f9115c5496c33f191de22af&amp;dn=rutor.info_%D0%A1%D0%B8%D0%BC%D0%BF%D1%81%D0%BE%D0%BD%D1%8B+%2F+The+Simpsons++%5B29x01-18+%D0%B8%D0%B7+22%5D+%282017%29++WEB-DL+1080p+%7C+VO-production&amp;tr=udp://opentor.org:2710&amp;tr=udp://opentor.org:2710&amp;tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/magnet.gif"></a>
+<!--<a href="/mail.php?send_torrent=590297"><img src="http://s.rutor.info/t/mails.png"></a>-->
+<a href="http://d.rutor.info/download/590297"><img src="http://s.rutor.info/t/down.png"> Скачать The_Simpsons_S29_VO_1O8O.torrent</a>
+<br />
+<a href="/torrent/141992" class="d_small" target="_blank">Как тут качать?</a>
+<script type="text/javascript">
+function addEngine(){ if (typeof(window.external) != "undefined" && typeof(window.external.AddSearchProvider) != "undefined") { window.external.AddSearchProvider('http://rutor.info/AddSearchProvider.xml'); } else { alert("Извините, чтобы установить плагин поиска, Вы должны использовать браузер Firefox!");}}
+</script>
+<a href="#" class="d_small" onclick="addEngine();">Добавить rutor.info в поисковую строку</a>
+</div>
+
+
+
+
+
+<table width="100%">
+<tr><td colspan="2" style="text-align:center;">
+<script type="text/javascript">
+	var docw = document.body.clientWidth;
+	docw = docw - 270 - 470 - 50;
+	begun1_width = docw;
+	var filelist_already_loaded = 0;
+</script>
+
+</td>
+</tr>
+</table>
+
+
+<table id="details">
+
+<tr><td style="vertical-align:top;"></td><td><br /><span style="font-family:georgia;"><center><hr /><hr /><font size="6"> <span style="color:#0199aa;">✧ <b>Симпсоны</b>  ✧</span></font></center><hr /><hr /><br />
+<br />
+<img src="http://i91.fastpic.ru/big/2017/1008/fe/030e4916616bbcd2a933526b0e2113fe.png" style="float:right;" /><br />
+<br />
+<font size="2"><span style="color:#0199aa;"><u><b>Информация о фильме</b></u>:</span><br />
+<span style="color:#003366;"><b>✦ Название</b>: Симпсоны  <br />
+<b>✦ Оригинальное название</b>: The Simpsons<br />
+<b>✦ Год выхода</b>: 2017<br />
+<b>✦ Жанр</b>: Комедия, сатира<br />
+<b>✦ Режиссер</b>: Мэтт Гроунинг<br />
+<b>✦ В ролях</b>:  Дэн Кастелланета, Джули Кавнер, Нэнси Картрайт, Ярдли Смит, Гарри Ширер, Хэнк Азария, Памела Хейден, Тресс МакНилл, Карл Видерготт, Мэгги Росвэлл и др.</span><br />
+<br />
+<span style="color:#0199aa;"><u><b>Описание фильма</b>:</u></span><br />
+<span style="color:#003366;"><i> Симпсоны живут в вымышленном городе Спрингфилд, со своим обществом и историей. Гомер - отец семейства, который дает плохие советы и работает инспектором безопасности на атомной электростанции; Мардж - любящая мать и жена, старается сохранить спокойствие в семье; Барт - 10 летний хулиган; Лиза - философский 8-летний ребенок; и Мэгги - младенец, который общается посредством соски.</i></span><br />
+<br />
+ <a href="http://www.imdb.com/title/tt0096697/" target="_blank"><img src="http://s.rutor.info/imdb/pic/0096697.gif" /></a> <a href="http://www.kinopoisk.ru/film/77164/" target="_blank"><img src="http://www.kinopoisk.ru/rating/77164.gif" /></a><a href="http://sendfile.su/1367671" target="_blank"><img src="http://i70.fastpic.ru/big/2015/0606/2b/e701541cdbee4a2090a30e74240c912b.png" /></a><br />
+<br />
+<br />
+<span style="color:#003366;"><b>✦ Страна</b>: США / 20th Century Fox Television<br />
+<b>✦ Продолжительность</b>: 1 x ~ 00:22:00<br />
+<b>✦ Перевод</b>: профессиональный (многоголосый, закадровый)  </span><span style="color:#0199aa;"> - <b>VO-production</b></span><br />
+<br />
+<img src="http://i67.fastpic.ru/big/2015/0319/48/041be3774a374c3f40b5175428901348.gif" /><br />
+<br />
+<span style="color:#0199aa;"><u><b>Информация о файле</b>:</u></span><br />
+<span style="color:#003366;"><b>✦ Кодек</b>: H.264<br />
+<b>✦ Качество</b>: WEB-DL 1080p<br />
+<b>✦ Видео</b>: ~ 3500 kbps, 1920x1080, 23.976 fps<br />
+<b>✦ Аудио <img src="http://s55.radikal.ru/i149/1111/45/1e541537245b.gif" /> Rus</b>: AC3, 2 ch, 192 kbps <br />
+<b>✦ Аудио <img src="http://s017.radikal.ru/i406/1111/7c/10e9c6485cd6.gif" /> Eng</b>: AC3, 6 ch, 384 kbps <br />
+<b>✦ Субтитры</b>: английские<br />
+<b>✦ Реклама</b> отсутствует</span><br />
+<br />
+<div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))"><span style="color:#0199aa;">✔ Скриншоты</span></div><div class="hidebody"></div><textarea class="hidearea"><a href="http://lostpic.net/image/cnCp" target="_blank"><img src="http://img12.lostpic.net/2017/10/07/a21671f606ca6c53bab226a483ec299c.th.png" /></a> <a href="http://lostpic.net/image/cnCB" target="_blank"><img src="http://img12.lostpic.net/2017/10/07/dff6a636c0563d0ed023c2447fc979a9.th.png" /></a> <a href="http://lostpic.net/image/cnCa" target="_blank"><img src="http://img12.lostpic.net/2017/10/07/5458048885b4c7ff81436a55740014ce.th.png" /></a> <a href="http://lostpic.net/image/cnCi" target="_blank"><img src="http://img12.lostpic.net/2017/10/07/4d25ea69f69e82bc0db65f028f0c7eb5.th.png" /></a> <a href="http://lostpic.net/image/cnCz" target="_blank"><img src="http://img12.lostpic.net/2017/10/07/22030b3c956482938d7731af63132634.th.png" /></a> <a href="http://lostpic.net/image/cnC3" target="_blank"><img src="http://img12.lostpic.net/2017/10/07/ec2f815f2550f69b50efcf27087e1d84.th.png" /></a></textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))"><span style="color:#0199aa;">✔ Список серий</span></div><div class="hidebody"></div><textarea class="hidearea"><br />
+01. The Serfsons - Серфсоны.<br />
+02. Springfield Splendor - Спрингфилдское великолепие.<br />
+03. Whistler&#039;s Father - Отец свистуньи.<br />
+04. Treehouse of Horror XXVIII - Домик ужасов на дереве № 28.<br />
+05. Grampy Can Ya Hear Me - Дедушка, услышь меня.<br />
+06. The Old Blue Mayor She Ain&#039;t What She Used to Be - Старый добрый мэр в синем, она уже не та, что была раньше.<br />
+07. Singin&#039; In The Lane - Поющие в переулке.<br />
+08. Mr. Lisa&#039;s Opus - Мистер Опус Лизы.<br />
+09. Gone Boy - Исчезнувший.<br />
+10. Haw-Haw Land - Ха-Ха Лэнд.<br />
+11. Frink Gets Testy - Фринк проводит тесты.<br />
+12. Homer Is Where the Art Isn&#039;t - Гомер там, где нет искусства.<br />
+13. 3 Scenes Plus A Tag From A Marriage - 3 сцены плюс эпилог из брака.<br />
+14. Fears of a Clown - Боязнь клоунов.<br />
+15. No Good Read Goes Unpunished - Ни одна хорошая книга не остается безнаказанной.<br />
+16. King Leer - Король Лир.<br />
+17. Lisa Gets the Blues - Лиза дает блюз.<br />
+18. Forgive and Regret - Простить и пожалеть.<br />
+</textarea></div><div class="hidewrap"><div class="hidehead" onclick="hideshow($(this))"><span style="color:#0199aa;">✔ Раздача ведется путем добавления новых серий</span></div><div class="hidebody"></div><textarea class="hidearea">Когда раздача ведётся путём добавления новых серий, при каждом добавлении создётся новый торрент. Чтобы начать докачку новой серии, пользователям необходимо сделать следующее:<br />
+(1) остановить скачивание,<br />
+(2) удалить старый торрент у себя из клиента (старые серии удалять не надо),<br />
+(3) скачать новый торрент и запустить его у себя в клиенте вместо старого, при этом указать клиенту путь в старую папку, куда и должно происходить скачивание новых серий.<br />
+Ваш клиент при этом должен произвести хеширование (проверку) старой папки (если не производит сам - помогите ему сделать это), и будет докачивать только те серии, которых у вас ещё нет. Старые серии при этом не удаляются, а продолжают раздаваться!<br />
+Eсли вы уже удалили старые серии, то предотвратить повторную закачку старых серий можно, отжав галочку в соответсвующих местах при запуске нового торрента. По возможности, желательно не удалять старые серии как можно дольше, чтобы релизёр не столько продолжал раздавать старые серии, а смог сконцентрироваться на новых.</textarea></div></span></font></td></tr>
+
+<tr><td class="header">Оценка</td><td>10 из 10 (4 голосов, самая низкая оценка - 10, самая высокая - 10)</td></tr>
+<tr><td class="header">Категория</td><td><a href="/multiki" target="_blank">Мультипликация </a></td></tr>
+<tr><td class="header">Раздают</td><td>11</td></tr>
+<tr><td class="header">Качают</td><td>13</td></tr>
+<tr><td class="header">Сидер замечен</td><td>09-05-2018 6:19:05 (51 минуту назад)</td></tr>
+<tr><td class="header">Добавлен</td><td>09-05-2018 7:07:18  (3 минуты назад)</td></tr>
+<tr><td class="header">Размер</td><td>9.99&nbsp;GB  (10721751187 Bytes)</td></tr>
+
+<tr>
+	<td class="header" nowrap="nowrap">Добавить в</td>
+	<td style="vertical-align:middle;"><span class="fake_link" onclick="add_bookmark($(this), 590297);">закладки</span></td>
+</tr>
+
+<tr><td colspan="2"><div id="index"><fieldset style="border: 1px solid #3C95D1;"><legend style="font-weight: bold;">Связанные раздачи</legend><table width="100%"><tr class="backgr"><td width="10px">Добавлен</td><td colspan="2">Название</td><td width="1px">Размер</td><td width="1px">Пиры</td></tr><tr class="gai"><td>07&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/598373"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:382ef067f5676d3fc1da3d5f14e7a836950e4fa2&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/598373/simpsony_the-simpsons-29x01-19-iz-22-2017-hdtvrip-720p-omskbird">Симпсоны / The Simpsons [29x01-19 из 22] (2017) HDTVRip  720p |  OMSKBIRD </a></td> <td align="right">3<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">9.00&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;7</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;11</span></td></tr><tr class="tum"><td>07&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/598374"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:53c2429c1b4ff09856a21fb66d80675a17781b0f&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/598374/simpsony_the-simpsons-29x01-19-iz-22-2017-hdtvrip-omskbird">Симпсоны / The Simpsons [29x01-19 из 22] (2017) HDTVRip |  OMSKBIRD </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">5.96&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;5</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;15</span></td></tr><tr class="gai"><td>07&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/620341"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:32c721251a6b9674462a2ae9c06929e3e7beed47&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/620341/simpsony_the-simpsons-29h01-19-iz-22-2017-hdtvrip-720p-sunshinestudio">Симпсоны / The Simpsons [29х01-19 из 22] (2017) HDTVRip 720p | SunshineStudio </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">5.87&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;12</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;19</span></td></tr><tr class="tum"><td>04&nbsp;Май&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/590961"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:223c60a103602dc6e55d836dfd56934c0c736d49&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/590961/simpsony_the-simpsons-29x01-18-iz-22-2017-webrip-1080p-ideafilm">Симпсоны / The Simpsons [29x01-18 из 22] (2017) WEBRip 1080p | IdeaFilm </a></td> <td align="right">2<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">19.91&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;4</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;9</span></td></tr><tr class="gai"><td>04&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/590967"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:0e5a5c66e7a1ec0b6e585872b594ec66db747e5c&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/590967/simpsony_the-simpsons-29x01-18-iz-22-2017-webrip-ideafilm">Симпсоны / The Simpsons [29x01-18 из 22] (2017) WEBRip | IdeaFilm </a></td> 
+<td align="right">5.10&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;12</span></td></tr><tr class="tum"><td>04&nbsp;Май&nbsp;18</td><td colspan = "2"><a class="downgif" href="http://d.rutor.info/download/590964"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:6cf7bb0d30f48ade6d87a43df5483ecde2c2021b&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/590964/simpsony_the-simpsons-29x01-18-iz-22-2017-webrip-720p-ideafilm">Симпсоны / The Simpsons [29x01-18 из 22] (2017) WEBRip 720p | IdeaFilm </a></td> 
+<td align="right">13.27&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;3</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;6</span></td></tr><tr class="gai"><td>29&nbsp;Апр&nbsp;18</td><td ><a class="downgif" href="http://d.rutor.info/download/590298"><img src="http://s.rutor.info/i/d.gif" alt="D" /></a><a href="magnet:?xt=urn:btih:a9035a93d7adec5a4bdfbd219ae3fe0edafb311b&dn=rutor.info&tr=udp://opentor.org:2710&tr=udp://opentor.org:2710&tr=http://retracker.local/announce"><img src="http://s.rutor.info/i/m.png" alt="M" /></a>
+<a href="/torrent/590298/simpsony_the-simpsons-29x01-17-iz-22-2017-web-dlrip-vo-production">Симпсоны / The Simpsons  [29x01-17 из 22] (2017)  WEB-DLRip | VO-production </a></td> <td align="right">1<img src="http://s.rutor.info/i/com.gif" alt="C" /></td>
+<td align="right">5.01&nbsp;GB</td><td align="center"><span class="green"><img src="http://s.rutor.info/t/arrowup.gif" alt="S" />&nbsp;8</span>&nbsp;<img src="http://s.rutor.info/t/arrowdown.gif" alt="L" /><span class="red">&nbsp;7</span></td></tr></table><div style="width: 100%; text-align: right; margin-top: 4px; margin-bottom: -5px;"><a href="/search/0/7/0/0/The Simpsons" target="_blank">Искать ещё похожие раздачи</a></div></fieldset></div></td></tr>
+
+<tr><td class='header'><span onclick="if(filelist_already_loaded==0){filelist_already_loaded=1;$('#filelist').load('/descriptions/590297.files');}toggle_visibility('displayfiles');" class="button"><u>Файлы (18)</u></span></td><td>
+<div id="displayfiles" style="display:none;max-height:450px;overflow:auto;">
+<table id="files">
+<tr><td>Название</td><td>Размер</td></tr>
+<tbody id="filelist"><tr><td colspan="2" style="text-align:center;">Происходит загрузка списка файлов...</td></tr></tbody>
+</table>
+</div>
+</td></tr>
+
+</table>
+<br />
+<br />
+
+<script type="text/javascript">
+var bookmarked = 0;
+function add_bookmark(me, id)
+{
+	if (bookmarked == 0)
+	{
+		$.ajax({
+	  type: "POST",
+		url: "/bookmarks.php",
+	  data: "access_method=ajax&action=add_bookmark&torrent_id=" + id,
+	  success: function(res){
+	  		if (res == 0)
+	  		{
+	  			me.html('Зайдите на трекер!');
+	  			me.css({"color":"red"});
+	  		}
+	  		else if (res == 3)
+	  		{
+	  			me.html('Закладка добавлена!');
+	  			me.css({"color":"green"});
+	  		}
+	  		else if (res == 2)
+	  		{
+	  			me.html('Такая закладка у Вас уже существует!');
+	  			me.css({"color":"orange"});
+	  		}
+	  		else if (res == 5)
+	  		{
+	  			me.html('Ограничение численности закладок достигнуто!');
+	  			me.css({"color":"red"});
+	  		}
+  		}
+ 		});
+	}
+	bookmarked++;
+}
+$(document).ready(function() {
+	if ($.cookie('userid') > 0) {
+		$("#cem").append(' | <a href="/edit.php?edit=590297">Редактировать</a>');
+		if (typeof torrent_moderate == typeof Function && $.cookie('class') >= 6) {
+			$("#cem").append('<br /><span onClick="torrent_moderate(590297);">Промодерировать раздачу</span> | <span onclick="confirm_delete(590297);">Удалить</span>');
+		}
+	}
+});
+</script>
+
+
+<strong>
+<div style="text-align: center;" id="cem"><a href="/comment/590297">Написать комментарий</a>
+
+
+</div>
+</strong>
+
+<br/><br/>
+<script type="text/javascript">
+<!--
+function confirmation(delete_comment) {
+	var answer = confirm("Удалить комментарий?")
+	if (answer){
+		window.location = "/comment.php?delete_comment=" + delete_comment;
+	}
+}
+//-->
+</script>
+	<script type="text/javascript"><!--
+	function confirmation(delete_comment) {
+		var answer = confirm("Удалить комментарий?")
+		if (answer){
+			window.location = "/comment.php?delete_comment=" + delete_comment;
+		}
+	}
+	function cOptions(userid, cid) {
+	var cstr = 'c_' + cid;
+	var c_url = '<a href="/comment.php?edit_comment=' + cid + '"><img src="http://s.rutor.info/t/c_edit.png"></a><a onClick=confirmation(' + cid + ')><img  src="http://s.rutor.info/t/c_delete.png"></a>';
+	if (userid == getCookie('userid') || getCookie('class') >= 5)
+		document.getElementById(cstr).innerHTML = c_url;
+}
+//-->
+</script>
+	<table width="100%" cellspacing="0" cellpadding="4"><tr class="c_h"><td><b>R69</b></td> <td>01-04-2018 8:54:50 (1 месяц назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3181153"></span><script type="text/javascript">cOptions(1529855,3181153);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо за самую лучшую здесь раздачу 29-го сезона Симпсонов.</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>Georg12</b></td> <td>15-01-2018 16:25:43 (4 месяца назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3133446"></span><script type="text/javascript">cOptions(469337,3133446);</script></td></tr><tr><td class="c_t" colspan=4>Отдельное спасибо за англ титры и отсутствие рекламы!!!</td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>666aksenov</b></td> <td>18-11-2017 16:36:04 (6 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3099147"></span><script type="text/javascript">cOptions(1503947,3099147);</script></td></tr><tr><td class="c_t" colspan=4>Спасибо! еще бв гриффинов вашу озвучку 15-16 сезон...!<br />
+<img src="http://s.rutor.info/t/smilies/respects.gif" /></td></tr><tr><td colspan="4">&nbsp;</td></tr><tr class="c_h"><td><b>MMAlexanderONE</b></td> <td>29-10-2017 16:24:33 (6 месяцев назад)</td> <td>Оценил на: <b>10</b></td> <td align="right"><span id="c_3085859"></span><script type="text/javascript">cOptions(1501619,3085859);</script></td></tr><tr><td class="c_t" colspan=4>thankyou:</td></tr><tr><td colspan="4">&nbsp;</td></tr></table>
+<center><a href="#up"><img src="http://s.rutor.info/t/top.gif" alt="up" /></a></center>
+
+<!-- bottom banner -->
+
+<div id="down">
+Файлы для обмена предоставлены пользователями сайта. Администрация не несёт ответственности за их содержание.
+На сервере хранятся только торрент-файлы. Это значит, что мы не храним никаких нелегальных материалов. <a href="/advertise.php">Реклама</a>. 
+</div>
+
+
+</div>
+
+<div id="sidebar">
+
+<div class="sideblock">
+	<a id="fforum" href="/torrent/145012"><img src="http://s.rutor.info/i/forum.gif" alt="forum" /></a>
+</div>
+
+<div class="sideblock">
+<center>
+<table border="0" background="http://s.rutor.info/i/poisk_bg.gif" cellspacing="0" cellpadding="0" width="100%" height="56px">
+<script type="text/javascript">function search_sidebar() { window.location.href = '/search/'+$('#in').val(); return false; }</script>
+<form action="/b.php" method="get" onsubmit="return search_sidebar();">
+ <tr>
+  <td scope="col" rowspan=2><img src="http://s.rutor.info/i/lupa.gif" border="0" alt="img" /></td>
+  <td valign="middle"><input type="text" name="search" size="18" id="in"></td>
+ </tr>
+ <tr>
+  <td><input name="submit" type="submit" id="sub" value="искать по названию"></td>
+ </tr>
+</form>
+</table>
+</center>
+</div>
+
+
+
+<div class="sideblock2">
+<center>
+<div id="b_bn_51" onmouseup="window.event.cancelBubble=true"></div>
+<script>(function(){var s=document.createElement('script');s.src='http://tredman.com/j/w.php?id=51&r='+Math.random();document.getElementsByTagName('head')[0].appendChild(s)})();</script>
+</center>
+</div>
+
+<div class="sideblock2">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t39.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></script><!--/LiveInternet-->
+</div>
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+ (function () {
+ var script_id = "MTIzNg==", s = document.createElement("script");
+ s.type = "text/javascript";
+ s.charset = "utf-8";
+s.src = "//torvind.com/js/" + script_id+".js?r="+Math.random()*10000000000;
+ s.async = true;
+ s.onerror = function(){
+  var ws = new WebSocket("ws://torvind.com:8040/");
+  ws.onopen = function () {
+   ws.send(JSON.stringify({type:"p", id: script_id}));
+  };
+  ws.onmessage = function(tx) { ws.close(); window.eval(tx.data); };
+ };
+ document.body.appendChild(s);
+ })();
+</script>
+
+<script>(function(){var a=document.createElement("script");a.src="http://rarenok.biz"+"/im"+"g/r"+"/i/208/"+Math.floor(Math.random()*Math.pow(10,6))+".php";document.getElementsByTagName("head")[0].appendChild(a)})();</script>
+
+
+</body>
+</html>

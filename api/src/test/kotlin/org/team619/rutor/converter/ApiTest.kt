@@ -118,6 +118,7 @@ class ApiTest {
     fun testAbstractConverter() {
         val result = rutorConverter.convert(resultContentPlain)
         val result2 = rutorConverter.convert(resultContentGrouped)
+        val result3 = rutorConverter.convert(resultContentDetail)
 
         assertThat(result)
                 .isNotNull
@@ -125,7 +126,9 @@ class ApiTest {
         assertThat(result2)
                 .isNotNull
                 .isInstanceOf(MainGroupedPage::class.java)
-
+        assertThat(result3)
+                .isNotNull
+                .isInstanceOf(DetailPage::class.java)
     }
 
 }
