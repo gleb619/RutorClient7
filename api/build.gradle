@@ -5,6 +5,9 @@ buildscript {
         spekVersion = "1.1.5"
         assertjVersion = "3.9.1"
         mockitoVersion = "1.5.0"
+        gsonVersion = '2.8.4'
+        commonsLangVersion = "3.7"
+        commonsIo = "2.6"
     }
 
     repositories {
@@ -45,6 +48,7 @@ task wrapper(type: Wrapper) {
 dependencies {
     compile 'org.jsoup:jsoup:1.11.3'
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlinVersion"
+    compile "com.google.code.gson:gson:$gsonVersion"
 
     testCompile "org.jetbrains.spek:spek-api:$spekVersion"
     testRuntime "org.jetbrains.spek:spek-junit-platform-engine:$spekVersion"
@@ -52,6 +56,8 @@ dependencies {
     testCompile "org.amshove.kluent:kluent:1.35"
     testCompile "org.assertj:assertj-core:$assertjVersion"
     testCompile "com.nhaarman:mockito-kotlin:$mockitoVersion"
+    testCompile "org.apache.commons:commons-lang3:$commonsLangVersion"
+    testCompile "commons-io:commons-io:$commonsIo"
 }
 
 task sourceJar(type: Jar) {

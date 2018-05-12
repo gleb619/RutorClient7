@@ -1,18 +1,24 @@
 package org.team619.rutor.converter
 
+import com.google.gson.GsonBuilder
+import org.apache.commons.io.IOUtils
 import org.assertj.core.api.Assertions.assertThat
 import org.assertj.core.api.Assertions.fail
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.junit.Before
 import org.junit.Test
+import org.team619.rutor.converter.gson.RuntimeTypeAdapterFactory
 import org.team619.rutor.core.Logger
+import org.team619.rutor.core.Page
+import org.team619.rutor.core.Serializer
 import org.team619.rutor.model.DetailPage
 import org.team619.rutor.model.MainGroupedPage
 import org.team619.rutor.model.MainPlainPage
 import org.team619.rutor.model.Row
 import java.nio.file.Files
 import java.nio.file.Paths
+
 
 class ApiTest {
 
@@ -23,6 +29,7 @@ class ApiTest {
     lateinit var cardConverter: CardConverter
     lateinit var commentConverter: CommentConverter
     lateinit var rutorConverter: RutorConverter
+    lateinit var gsonSerializer: Serializer
 
     lateinit var docPlain: Document
     lateinit var docGrouped: Document
@@ -65,12 +72,20 @@ class ApiTest {
             }
         }
 
+        gsonSerializer = GsonSerializer(GsonBuilder()
+                .registerTypeAdapterFactory(
+                        RuntimeTypeAdapterFactory.of(Page::class.java)
+                                .registerSubtype(MainPlainPage::class.java)
+                                .registerSubtype(MainGroupedPage::class.java)
+                                .registerSubtype(DetailPage::class.java))
+                .create())
+
         cardConverter = CardConverter(logger)
         commentConverter = CommentConverter(logger)
         mainPagePlainConverter = MainPagePlainConverter(logger)
         mainPageGroupedConverter = MainPageGroupedConverter(logger)
         detailPageConverter = DetailPageConverter(logger, cardConverter, commentConverter)
-        rutorConverter = RutorConverter(logger, "http://localhost",
+        rutorConverter = RutorConverter(logger, gsonSerializer, "http://localhost",
                 listOf(mainPagePlainConverter, mainPageGroupedConverter, detailPageConverter))
 
         awaitedRow1 = DataSupplier.awaitedRow1
@@ -111,7 +126,6 @@ class ApiTest {
         assertThat(result.body.substring(0..2550))
                 .isNotBlank()
                 .isEqualTo(awaitedDetailPage.body.substring(0..2550))
-
     }
 
     @Test
@@ -129,6 +143,21 @@ class ApiTest {
         assertThat(result3)
                 .isNotNull
                 .isInstanceOf(DetailPage::class.java)
+    }
+
+    @Test
+    fun testJson() {
+        val resultPlainPage = mainPagePlainConverter.convert(docPlain)
+        val result = gsonSerializer.to(resultPlainPage)
+//        val result2 = gsonSerializer.from(result)
+
+        val text = IOUtils.toString(result, "UTF-8")
+
+        assertThat(text.hashCode())
+                .isEqualTo(-2121454710)
+//        assertThat(result2)
+//                .isNotNull
+//                .isEqualTo(resultPlainPage)
     }
 
 }

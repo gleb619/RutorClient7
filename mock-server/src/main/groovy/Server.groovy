@@ -1,8 +1,15 @@
+import com.google.gson.GsonBuilder
 import groovyx.gpars.GParsPool
 import org.jsoup.Jsoup
 import org.team619.rutor.config.ApiBuilder
+import org.team619.rutor.converter.GsonSerializer
 import org.team619.rutor.converter.RutorConverter
+import org.team619.rutor.converter.gson.RuntimeTypeAdapterFactory
 import org.team619.rutor.core.Logger
+import org.team619.rutor.core.Page
+import org.team619.rutor.model.DetailPage
+import org.team619.rutor.model.MainGroupedPage
+import org.team619.rutor.model.MainPlainPage
 
 import java.nio.file.Files
 import java.nio.file.Paths
@@ -12,7 +19,7 @@ import static spark.Spark.*
 class Server {
 
     static void main(String[] args) {
-        def converter
+        RutorConverter converter
         initExceptionHandler({
             e -> System.out.println("Uh-oh")
         })
@@ -28,13 +35,13 @@ class Server {
             return loadStatic("1", "grouped")
         })
         get("/plain", { request, response ->
-            return converter.convert(loadStatic("0", "plain"))
+            return converter.to(converter.convert(loadStatic("0", "plain")))
         })
         get("/grouped", { request, response ->
-            return converter.convert(loadStatic("1", "grouped"))
+            return converter.to(converter.convert(loadStatic("1", "grouped")))
         })
         get("/detail", { request, response ->
-            return converter.convert(loadStatic("271849", "mozilla-firefox-quantum-60.0-final-2018-rs"))
+            return converter.to(converter.convert(loadStatic("271849", "mozilla-firefox-quantum-60.0-final-2018-rs")))
         })
         get("/generate", { request, response ->
             try {
@@ -172,6 +179,13 @@ class Server {
                 e.printStackTrace()
             }
         })
+                .withSerializer(new GsonSerializer(new GsonBuilder()
+                .registerTypeAdapterFactory(
+                RuntimeTypeAdapterFactory.of(Page.class)
+                        .registerSubtype(MainPlainPage.class)
+                        .registerSubtype(MainGroupedPage.class)
+                        .registerSubtype(DetailPage.class))
+                .create()))
                 .build()
     }
 

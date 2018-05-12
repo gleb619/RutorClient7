@@ -5,6 +5,7 @@ import org.jsoup.nodes.Document
 import org.team619.rutor.core.Converter
 import org.team619.rutor.core.Logger
 import org.team619.rutor.core.Page
+import org.team619.rutor.core.Serializer
 import java.io.ByteArrayInputStream
 import java.io.IOException
 import java.io.InputStream
@@ -12,8 +13,13 @@ import java.nio.charset.StandardCharsets
 
 class RutorConverter(
         private val logger: Logger,
+        private val serializer: Serializer,
         private val baseUri: String,
-        private val converters: List<Converter<out Page, Document>>) : Converter<Page?, InputStream> {
+        private val converters: List<Converter<out Page, Document>>) : Converter<Page?, InputStream>, Serializer {
+
+    override fun to(input: Page): InputStream {
+        return serializer.to(input)
+    }
 
     override fun convert(inputStream: InputStream): Page? {
         var output: Page? = null

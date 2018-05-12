@@ -8,6 +8,8 @@ class Constants {
         const val TD = "td"
         const val GROUP = "#index"
         const val GROUP_ROWS = "tbody > tr"
+        const val SPACE = "  "
+        const val CHARSET = "UTF-8"
 
     }
 
